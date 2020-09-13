@@ -1,0 +1,2615 @@
+BREATH OF FIRE - COMPLETE STRATEGY GUIDE
+
+DATE STARTED: 09/11/98
+
+DATE FINISHED: 01/29/99
+
+AUTHOR: Gyarad3687@aol.com
+
+------------------------------------------------------------------------
+CONTENTS
+------------------------------------------------------------------------
+- Chatacters
+- Part 1: The Beginning
+- Part 2: The Search for Remedy
+- Part 3: The Search for the Ring
+- Part 4: The Girl in the Safe
+- Part 5: Stop the Torpedo!!!
+- Part 6: The Bridge in Gust Valley
+- Part 7: Mogu's Dream
+- Part 8: Mote's Dream
+- Part 9: Restoring Time to Normal
+- Part 10: The Final Battles
+- Treasure Chest Traps
+- Conditions
+- Shopping
+- Gobi's Flea Market
+- Weapon List
+- Armor List
+- Shield List
+- Helmet List
+- Etc. Items List
+- Item List
+- Special Items List
+- Bosses
+- Enemies
+- White Magic
+- Black Magic
+- Underwater Magic
+- Dragon Attacks
+- Transformation Magic
+- Copyright
+------------------------------------------------------------------------
+CHARACTERS
+------------------------------------------------------------------------
+Ryu - Warrior of the Light Dragon. He has the ability to morph into
+Dragons during battles. He can also fish at places on the map.
+        FOUND IN - Drogen        WEAPONS - Sword, Boomerang
+                   CLAN - Dragpn
+Nina - The princess of Winlan. She knows many healing spells. Near the
+end of the game, she can fly.
+        FOUND IN - Winlan        WEAPON - Rapier
+                   CLAN - Wing
+Soldiers - Soldiers in the Winlan army. They will fight to help Nina
+find the Remedy. They can't use Magic.
+        FOUND IN - Aura Cave     WEAPON - Pole
+                   CLAN - Wing
+Bo - Member of the Forest Clan. Fled to the town of Tantar. Can use some
+weak attack magic. On the field, he can hunt animals.
+          FOUND IN - Forest of Despair WEAPON - Bow
+                    CLAN - Forest
+Karn - Master thief. He can unite with Bo, Gobi, and Ox to create new
+forms. Karn can open locked doors and disarm booby-trapped
+chests.
+          FOUND IN - Krypt             WEAPON - Dagger
+                    CLAN - Thief
+Gobi - Fish who has lost his license. He works for money. While
+underwater, he can summon fish to attack enemies.
+          FOUND IN - Deserted Island   WEAPON - Spear
+                    CLAN - Fish
+Ox - A Metal Smith of Gant. During the capture, he escaped to Prima.
+He has immense strength.
+          FOUND IN - Prima             WEAPON - Hammer
+                    CLAN - Metal Smiths
+Bleu - She is a legendary sorceress with many spells. She sleeps in
+Wisdon. If woken, and deems you worthy, she will help you out
+with powerful magic.
+          FOUND IN - Wisdon            WEAPONS - Staff, Cane
+                     CLAN - None
+Mogu - A mole without courage. He has the ability to defeat Zog, but
+is missing his courage. You must find it. He has the ability to
+dig in places, and uncover treasure. In certain locations, he
+can "Dig" during battle, so everybody can escape.
+          FOUND IN - South Cave, Gramor WEAPON - Claw
+                     CLAN - Mole People
+------------------------------------------------------------------------
+		WALKTHROUGH: PART 1-THE BEGINNING
+------------------------------------------------------------------------
+*DROGEN
+ITEMS: V-Ptn, 300 GP
+Wake up, collect "Vigor Potion" from chest. Walk downstairs. Talk to
+left woman blocking doorway. Talk to middle woman. Watch rest of intro.
+Collect 300 GP. Go to Item Shop, and buy lots of Herb and Antidote. Walk
+NE to Camlon.
+
+*Camlon
+Nothing much to do. Just enter Camlon Castle.
+
+*Camlon Castle
+ITEMS: BronzSD, Gauntlet, SuedeCP, Visor, Herb (x5), 150 GP
+PARTY: Ryu
+LEVEL: Build up to Level 5 while here.
+BOSS: Frog
+This area is straight-forward. Use the Health Springs to recover HP and
+cure Poison. On the last part before Frog, the right chest has an Antdt
+with a Sproing trap. The left chest has an Antdt with a DarkMist trap.
+Battle Frog and all the enemies die. Return to Camlon.
+Walk west to a beach, then up a little to a bridge. Walk east, then
+south to Nanai. You can only enter at night.
+
+*Nanai
+ITEMS: S-Ptn, 150 GP (x2), Herb (x2)
+Stay at least 3 steps away from all guards. You can't enter the Item
+Shop or Cafe. Enter the Inn, and search the dresser for a "Strength
+Potion". Walk up and then into the third house in top row. You'll find
+300 GP split between two chests. If you want the "Iron Rapier" for Nina,
+buy it at the Weapon Shop. The upper right house has 2 Herbs in it.
+Enter the castle.
+
+*Nanai Dungeon
+ITEMS: Antdt, 650 GP, B-Stn, ArmPad, 70 GP, F-Stn, Cure, E-Key
+PARTY: Ryu
+LEVEL: 8
+BOSS: Knight
+B1 - Enter, and go down to the first basement. Go right, then down to
+find an Antdt, then go back to the left. Cross the bridge, then go left,
+and cross another bridge to find 650 GP. Go back to the original bridge.
+Go right all the way from here to find a "Bolt Stone". Go back a little
+to left until you can go up. Do so, then cross the bridge. Cross another
+one and go down the stairs.
+B2 - Go east all the way to find an "ArmPad" armor. Go back, then down.
+You should find a chest with 70 GP inside. From this chest, go all the
+way to the left, then cross 2 bridges. Go left to find a "Fire Stone".
+Go right again. Stop by a platform to collect the "Cure Potion" from the
+chest. Go right again, and cross a bridge. Go down the stairs to the
+hidden palace.
+Hidden Palace - Fight the Knight, then collect the "Earth Key". Step on
+the teleporter. You'll automatically return to Camlon, and Nanai will
+self-destruct. Return to where Nanai was, then head east, and then north
+to find Winlan.
+(A couple notes of interest: If you save the game in Nanai, then leave
+town, and die during the day, you'll get kicked out of town the minute
+you leave the Dragon Shrine. Also, if you wait long enough after beating
+Knight ang go to the gate, he'll say "Run while you can...for I am
+returning." Get that message three times, and you automatically die.
+Just thought you'd like to know all of this.)
+
+*Winlan
+ITEM: V-Ptn
+Go to the hut by the broken bridge. Inside is a dresser with a V-Ptn
+inside. Get it, then go to the castle.
+
+*Winlan Castle
+ITEMS: SuedeSH, SuedeHT, Herb (x4), Antdt (x2)
+Talk to the Queen. Ryu will sleep, and you'll transfer control to Nina.
+Walk around the castle, opening treasure chests. Then leave town and
+head west to Aura Cave.
+
+------------------------------------------------------------------------
+		PART 2: THE SEARCH FOR REMEDY
+------------------------------------------------------------------------
+*Camlon
+ITEMS: ProtnA, Mrbl1, A-Ptn, DkKiss, W-Ptn
+If you return to Camlon, it will be repaired, and you can get some
+stuff. The dresser in the house above the Item Shop has a "Protein A".
+The house next to the Item Shop has a "Marble 1". The Inn has an
+"Agility Potion". The house above the Inn has a "Dark Kiss". The house
+next to that one has a "Wisdom Potion" inside.
+
+*Aura Cave
+ITEMS: Cure, I-Ore, 70 GP, SuedeGN, 150 GP, Herb (x2), B-Stn, C-Stn
+PARTY: Nina, Soldier 1, Soldier 2
+1F - The soldiers join the party. Go to the back of the room and down
+the stairs.
+B1 - Go down, the right. Collect the Cure, then go east until you have
+a choice. Go up, then left to find the "Iron Ore". You'll need this
+later. Go right, then up to find a chest with 70 GP inside. Go back down
+all the way, then east all the way to find a "Suede Gown", then go up on
+the platform to find 150 GP. Go back to the stairway, and go up across
+the bridge. You'll find a Herb. Go east across another bridge, then
+north across one more. Go west and find another Herb. Go all the way
+west, past the tan platform, and then up to find a F-Stn. Go back to tan
+platfrom I mentioned before and go up the stairs. In the next room, go
+to the left to find a "Cold Stone". Now go up the next stairway. Now
+exit, and walk left to Romero.
+
+*Romero
+ITEMS: L-Ptn, Map, ProtnB
+Inside the Inn is a "Luck Potion". On the top floor of the Chief's Hut
+is a "Protein B". Go to the house below the Chief's Hut, and drop in the
+hole. This is the order of pots:
+4 3
+2
+1
+Push #1 left, #3 up, and #4 left, then push the barrel to find the Map.
+Use the west exit out of town. Go west to Karma Forest.
+
+*Karma Forest
+ITEMS: Herb (x2), 150 GP, Bandage
+Go west, take the first path up to find a Herb. Go back down, the west
+to the next path up, the take the east fork and follow it to find 150
+GP. Go back to the split in paths, then take the west fork all the way
+to find another Herb. Go back east to the two paths, then go south all
+the way, then west all the way to find a "Bandage" (shield). Go back to
+where you originally where, and go west all the way to find the exit.
+Now you'll be able to enter Karma Tower.
+
+*Karma Tower
+ITEMS: Herb (x3), M.Drop (x2), Cure (x2), Charm (x2), Life2
+PARTY: Nina, Sr-1, Sr-2
+BOSSES: Morte, Mortea, Wizard
+LEVEL: 6 (Nina)
+1F - Drink from Health Spring. Go down the stairway.
+B1 - Take 2 Herbs. Go back up.
+1F - Drink from Health Spring, go left, up, right around the wall,
+down, right, up, up the stairs.
+2F - Collect "Moon Drop". Go back down stairs.
+1F - Get back on main path. Go right all the way. Go down along the
+outer wall. Collect another M. Drop. Go back up, then left, down, left,
+and over to Health Spring, and take a drink. Go fight Morte. Go
+upstairs.
+2F - Go right, then down all the way, go left, take the lower stairway. 
+1F - Get "Charm". Go back upstairs.
+2F - Go back and take the stairway above the one you just used.
+3F - Collect Cure. Go back downstairs.
+2F - Go along the outer wall to the left side of the room. Take the
+stairway that you'll run into. Go up them.
+3F - Go up, then left, then down all the way to find another Charm. Go
+back up to the top of the room, then right all the way. Go back down,
+and then left to the stairway. Go down the stairs.
+2F - Go all the way up, past the holes, to the stairway. Go up.
+3F - Collect a third Herb. Fall in the lower-right hole to return to
+floor 1F.
+1F - Go up the stairway.
+2F - Go down, then left to the stairway. Go upstairs.
+3F - Go down to the next stairway. Head down there.
+2F - Take the left stairway down.
+1F - Collect the "Life 2 Potion". Go back up.
+2F - Take the right stairway.
+3F - Go right, then up. Fight Mortea. Go up the stairs.
+Roof of Right Tower - Step on the switch to make a bridge to 4F of the 
+Left Tower. Open the door and step on the switch to make the bridge
+return. The girls will move. Use the upper stairway to go to 5F.
+5F - Use the Health Spring, and then Save the game. Go back downstairs.
+4F - Take the stairway by the girls.
+3F - Collect the Cure. Go down the right stairway.
+2F - Go down the stairway by the lamp.
+1F - Walk down, then fight Wizard twice. In both cases, you must try to
+fight, but you won't win. Nina gets captured, Soldier 1 dies, and
+Soldier 2 goes back to Winlan to inform the people, then he also dies.
+
+*Winlan
+Replenish Herb supply,then leave town. Talk to the soldier to have him
+fly you to Karma Tower.
+
+*Left Karma Tower
+ITEMS: Rang, Remedy
+PARTY: Ryu, Soldier 3
+BOSS: Wizard
+LEVEL: 9
+Roof - Sr-3 joins you. Go down the stairs.
+5F - Drink from Health Spring, if needed. Save the game. Go down the
+down stairway.
+4F - Go down the left stairway.
+3F - Go down the right stairway.
+2F - Sr-3 leaves you when you go to the stairway by the lamp.
+1F - Go down all the way, then left all the way, and up all the way.
+Open the chest. The "Rang" weapon is inside. This chest has a Sproing
+trap with it. Go back down all the way. The go up, and fight Wizard.
+Recieve the "Remedy". You'll return to Winlan Castle.
+
+*Winlan Castle
+Go up to the second floor, and go to the King's bedroom. Talk to Nina.
+The King will recover, and Nina will join your party. Now go down to the
+basement. The guards will now let you go through the tunnel to the east
+land. Once you've crossed the bridge, follow the road southeast then,
+head southeast from there to Tantar.
+
+------------------------------------------------------------------------
+		PART 3: THE SEARCH FOR THE RING
+------------------------------------------------------------------------
+*Tantar
+ITEMS: Charm, Saw, W-Ptn
+Search the dresser in the Inn for a Charm. Give the I-Ore (from Aura
+Cave) to the Blacksmith for the Saw. Go east to Tuntar.
+
+*Tuntar
+ITEMS: Cure, Herb
+Search the dresser in the Inn for a Cure. Search the second floor of
+the Chief's Hut for a Herb. Buy some "Tear Drop" items at the Item Shop.
+You'll need them in the Forest of Despair to cure Zombie condition,
+which lowers Attack Power to 5, and Defence Power to 1. Well, anyways,
+walk northwest to the forest of Despair.
+
+*Forest of Despair
+ITEMS: Herb, T-Drop (x2), Life, Wrist
+PARTY: Ryu, Nina
+LEVEL: 10
+Use the Saw to enter the forest. Once inside, go up, then left, down,
+left, up a little, then right to find a Herb. Go back to the left, then
+up all the way to find a T-Drop. Go back down and take the third fork
+that you pass by. Take it, and go right all the way, then down, and
+left. Acquire a "Life Potion" and T-Drop. Go right, up, a few steps
+left, up, right, then up all the way to find a "Wrist" (shield). Go down
+a little, then up, left, down, and take the first fork left. Go up all
+the way, left, up, and all the way right to reach the Forest Fortress.
+
+*Forest Fortress
+ITEMS: T-Drop (x3), Life (x2), LongSD, WolfHT, Life2, Acorn, Herb (x5)
+PARTY: Ryu, Nina
+BOSSES: Pog, General
+LEVEL: 11
+NOTE: This is the path you MUST take to get through this dungeon.
+Otherwise, you'll fall into hidden holes.
+Go up. Fight Lancer and Bowman. Go right, and down the stairs. Find a
+"Long Sword", 2 Life Potions, and a T-Drop. Go back upstairs. Go up all
+the way, left, down, left, down, left. Take the first path up. Go left.
+Battle another set of Lancer and Bowman. Go up, then down to the chests.
+Collect a Herb, T-Drop, Life2, and Acorn. Go back up to the stairway. Go
+down it. Go down the next stairway to find 2 Herbs, a T-Drop, and "Wolf
+Helmet". Go back up the stairs. Go right all the way. Go up, then left,
+down, left, up, left, down. Collect the Herb from the chest. Go left all
+the way. Collect another Herb. Go up all the way, then right. Fight 2
+Lancers and a Bowman. Talk to the Chief. He'll offer to take you to the
+Weapon Room, where you'll fight Pog. (You can skip fighting Pog if you
+say "No" to the chief several times.) After you fight Pog, Bo will join
+your party, and you'll fight General. Walk back to Tuntar.
+
+*Tuntar
+Talk to the Chief, and then go to back to Romero.
+
+*Romero
+ITEMS: Herb, WtrJr
+Enter at night, then go talk to the old woman by the tombstones. The
+zombie man will move the tombstone so you can collect the "Water Jar"
+and a Herb. Put Bo at the front of your party with the "Change" command
+on the Menu Screen (the third icon from the right on the Menu Screen).
+You can now walk through forests and reach the Cleansing Water Cave.
+
+*Cleansing Water Cave
+ITEMS: Herb (x3), NiceHT, F-Stn, T-Drop, BronzHT, Apple, WtrJr'
+PARTY: Ryu, Nina, Bo
+LEVEL: 12
+1F - Go up a little, then east to find a Herb. Go back west all the
+way, then up a little, then right to find another Herb. Go left, then up
+to find a "Nice Helmet". Go right, then down a little, then right, then
+up all the way, then left all the way. When you reach the stairs, don't
+go down yet, but walk south, then right, then down to find a F-Stn. Now,
+go back to the stairs, and go down them.
+B1 - Go down and right all the way, then up to find another Herb. Go
+down, then left, and up to the right path. Take it to the end and take a
+T-Drop. Go left all the way, then up, then right, and down. Take the
+stairs downstairs.
+B2 - Go left, then up, and go left to the stairs. Use them.
+B1 - Take the "Bronze Helmet", and the Apple. Take the stairs again.
+B2 - Go back to the right, then down, then left to the other stairway.
+Go downstairs.
+B3 - Fill the Cleansing Water. If you've been here before, the Water
+Jar is filled, and becomes WtrJr' and can be used once to revive the
+dead, heal condition, and recover HP & AP for all characters. If this is
+your first time, you'll use the Cleansing Water to purify Romero.
+
+*Romero
+ITEMS: Antdt, 900 GP, Herb, Cure, Tablet
+Talk to the Romero Chief, and collect the Tablet. Go north to Agua.
+
+*Agua
+ITEMS: Herb (x2), Apple, Acorn (x2), Life2, SunHT, IronSH, ThiefCL,
+HairBand, Bracelet, KngKey
+PARTY: Ryu, Nina, Bo
+BOSS: Wisp
+LEVEL: 12
+Outside - Read the Tablet to make the tower come down. Enter it.
+1F - Climb the stairs.
+2F - Ride the platform down, go left, take the path up to find a Life2,
+then go back down, left more, then up to an Acorn and an Apple. Go left,
+up, then right to the stairs. Go upstairs.
+3F - Take the platform down to the middle of the room. Take the
+upper-left platform to collect a Sun Helmet. Take the moving platform
+over to the right side of the room. Start over. This time, take the
+lower-right platform to collect an Iron Shield. Start over one more
+time. This time, take the lower-left platform to get the Thief Clothes.
+Take this platform up to the stairs. Go upstairs.
+4F - First, go left and down to get an Acorn. Take the platform right
+to get a Herb. Go right on another platform to the middle of the room.
+Take the left platform, then go left, down, and right to get a HairBand.
+Now go take the platform back to start. Repeat your last steps, and this
+time, take the right platform to get the Bracelet. From the Bracelet's
+chest, take the platform up. Then go up a little more and left to the
+stairway. Go upstairs.
+5F - Go right all the way, and down all the way. Go left and take the
+platform over to the center area. Fight Wisp, then search the pillar for
+the "King Key".
+Walk back down, and exit the tower. If Nina has it, cast Warp to return
+to Tantar. Then go to Tuntar, and from there, go north to the Stone
+Cemetary, and the Stone Robot.
+
+*Stone Robot
+ITEMS: Herb, BronzHT, Life2, Mrbl1, Acorn
+PARTY: Ryu, Nina, Bo
+BOSS: Captain
+LEVEL: 13
+The first part is pretty straight-forward. Just go until you reach
+Captain, and defeat him. Then, put the KngKey in the keyhole to start
+the teleporters. Go back to the one by the stairs, and use it. Now go
+right, up, left, up, left, down, up, and teleport. Go up, and take the
+teleporter on the left to collect an Acorn. When you use the teleporter
+in the Acorn's room, you'll start over. Repeat your steps up until the
+last teleport. But, go up, and right from this last teleporter. Teleport
+again. Go up, left, up, and right to a teleporter, and use it. You'll
+recieve a "Marble 1", and Life2. Teleport here to go back to the start
+of the room you were just in. Again, go up, left, up all the way, right,
+down, and right all the way, and teleport. Go up and teleport again to
+enter the Control Room. Put the KngKey in the Machine to start the Stone
+Robot, and destroy the rock to return water to the people. Go back
+outside, then return to Tantar.
+
+*Tantar
+ITEMS: Herb, Key
+Go talk to the leader of Tantar, and collect the Key and a Herb from
+under the throne. Now go to the cave by where Stone Robot is now.
+
+The Cave
+ITEM: W-Ptn
+Walk through this cave to reach Lake Cave. You'll find a W-Ptn on the
+way.
+
+*Lake Cave
+ITEMS: Life, Life2, 2000 GP, Herb, Acorn, SkySH, Ring
+PARTY: Ryu, Nina, Bo
+LEVEL: 13
+From the start, go up all the way. Go down the stairs, then go left,
+down, left, and use the stairs. Go down over to the waterfall, and walk
+down it. Go down/right to a platform with a Life on it. Go down, then
+right onto the next platform. Go down, left, up, left, and back down
+into the water. Go left, up, and onto the last platform. Go down, past
+the stairs, to find a Life2. Go back up to the stairs, and use them. Go
+right, up, right, and over to the stairs. Use `em. Now go up to find
+2000 GP. Go back down to the middle ledge, and right, into the water. Go
+up, then right, and up onto the platform. Collect the Herb from the
+chest. Go right, down into the water. Go right, then down all the way,
+and left to a Acorn. Go right, up a little, then left. Go down into the
+water. Go down the waterfall. Then go down and right a little. Climb the
+platforms to find a SkySH. Go back down, and right. Go onto the ledge,
+and open the blue chest to get the Ring. Take the teleporter to return
+to the entrance of the cave. (Also, the Ring can be equipped by Ryu to
+increase his Attack Power by 10 points.)
+
+*Tantar
+Talk to the people at the entrance. Then go to the Chief's Hut, and
+talk to the chief. You'll start the wedding. Exit the town. The Captain
+will take control of the Stone Robot.
+
+*Stone Robot
+PARTY: Ryu, Nina, Bo
+BOSS: Gremlin
+LEVEL: 15
+Return to the Control Room and fight the Captain, who will turn into
+Gremlin. Stone Robot will take you to the volcano south of Tuntar, and
+walk in. The path will be cleared for you, though.
+
+------------------------------------------------------------------------
+                     PART 4: THE GIRL IN THE SAFE
+------------------------------------------------------------------------
+*Dragon Training
+ITEM: Melon
+PARTY: Ryu
+BOSS: Talon
+LEVEL: 15
+ Have Ryu fight Talon. You'll get the "Snow Dragon", "Flame Dragon", and
+"Thunder Dragon" Dragon Attacks. Leave and walk south to the North Cave.
+
+*North Cave
+PARTY: Ryu, Nina, Bo
+LEVEL: 15
+Walk down, left, down, and left. Take the first path down. Walk down to
+the exit. Walk south to Auria.
+
+*Auria
+ITEMS: Life2, Life (x3), S-Ptn, W-Ant, Cure (x3), V-Ptn, Mrbl1, 2000 GP,
+L-Ptn, Mrbl3, Acorn, SmartRG, Antdt, G-Tiara, 2000 GP
+PARTY: Ryu, Nina, Bo
+Enter the town. You'll get arrested. To get out of jail, talk to Karn
+(the guy in the bed). Walk as far away from the soldier as possible to
+get to the northern houses. 
+- In the lower-left house search the chest and dressers for a Life,
+S-Ptn, White Antler, and Cure. 
+- In the lower-right house is a Life, V-Ptn, Mrbl1, and 2000 GP. 
+- In the upper-left house is a L-Ptn, Cure, and Mrbl3. 
+- In the upper-right house, do NOT open the chest, but do open the
+other dressers to find an Acorn, Smart Ring, Antdt, and Life. 
+- In Ross' house is a Cure, Gold Tiara, and 2000 GP.
+	MINI-QUEST: Make lots of money.
+You need 65,000 GP to buy the NEEDED item of Gold Bar. This gives you 5
+steps that result in lots of money.
+#1) In the Item Shop, buy a Vitamin, and give it to a guy on the second
+floor to recieve 5000 GP, which is a 4350 GP gain. Also, push the
+dresser on the second floor to the left, and enter the hidden room.
+Then, push the pot in this room, and search the floor in the pot's old
+location, to recieve a Life2.
+#2) Get the G-Tiara in Ross' house, and sell it at the Item Shop to get
+13000 GP.
+#3) Go to the second floor of the upper-right house. Place Nina in the
+lead position, and talk to the old guy. You'll recieve 20000 GP.
+#4) Buy a Pouch at the Item Shop. Rest at the Inn in Bleak. You'll
+recieve 5000 GP. You can then sell the Pouch for 650 GP. End result:
+You're 4350 GP ahead.
+#5) Talk to the lady in the upper-left house in Auria. Return to the
+forest by Dragon Training. Search the flower bed to enter a hidden area
+with the woman's son. Talk to him. Walk to the clearing in the forest to
+the left (with Bo leading). Talk to the fairies, then return to the
+woman in Auria, and talk to her. Talk to her son again, then talk to the
+fairies. Agree to tell the guy to stop chopping wood. Talk to the guy
+again, then both fairies. Talk to the guy one more time. Then talk to
+the woman to recieve 20000 GP.
+- If you have the money now, buy a G-Bar at the Item Shop.
+- Go the dock and talk to the captain. Talk to to Ross, the richest man
+in town. Now go to the Cave to Bleak.
+
+*Cave to Bleak
+ITEMS: ShellHT, Cure
+PARTY: Ryu, Nina, Bo
+LEVEL: 15
+If you have talked to both the Captain and Ross in Auria, the people at
+the entrance will move. Go down the stairs. Go left, up all the way,
+right, down, right, down, go left, collect the Shell Helmet and Cure. Go
+right all the way, down, left, and take the stairs up. Go right, and
+down to exit. Now walk east, then north, east, south, and west to Bleak.
+
+*Bleak
+ITEMS: Life2, Herb (x4), Life, W-Ant, Icicle
+Go to the house above the Weapon and Item shops. Open the chests on the
+second floor to get two Herbs. Do the same in the house next to it to
+get 2 more Herbs. Check the Fortune Tellers house, and push a barrel to
+the left, and check the ground where it was to get a Life2. Check the
+chests on the second floor of the topmost house to get a Life and W-Ant.
+Also in this house, trade the G-Bar for the Icicle. You MUST have the
+Icicle to get through the Southwest Cave. If you don't have a G-Bar, go
+back to Auria and get one. Well, if you do have one, trade for the
+Icicle and head over to the Southwest Cave.
+
+*Southwest Cave
+Just go down the stairs, go left, go down, go left, go down, go left,
+climb the stairs, go down. If you have the Icicle, you can go through
+the other exit. Now walk far to the south to Arad.
+
+*Arad
+ITEM: Fife
+PARTY: Ryu, Nina, Bo
+BOSS: SandWorm
+LEVEL: 16
+Go to the red tent. Talk to the Mayor. Go to the northeast corner of
+town, and fight the SandWorm. Go talk to the Mayor again, and search the
+Treasure Chest for the Fife. Go southeast to Krypt and stand on the gray
+tile, and press A to use the Fife, and enter.
+
+*Krypt
+ITEMS: DreamRG, Herb (x3), IronSH, Life (x2), Dagger, HeadGear, 
+SkullHT (x2), Cure, IcyHT, Antdt, HuntCL, Book
+PARTY: Ryu, Nina, Bo
+BOSS: EyeSpy
+LEVEL: 17
+1F - Go around the side of the room to get to the stairs. Go down.
+B1 - Don't open any of the chests in Krypt, they are all booby-trapped. 
+The chest in the upper left corner of the room has a DreamRG with a 
+Fire trap. Two platforms down is a Life with a Toxin trap. Two chests 
+over is a Herb with a Fire trap. On the platform next to the stairway 
+from 1F is a Herb, protected by a Toxin trap. Two platfroms over is an
+IronSH, guarded with a Curse trap. Two platforms down is a Dagger, but
+you'll have to spring a DarkMist trap on yourself. Here are the trap
+floors, at least that I know of:
+1. Northeast of the platform with Life.
+2. Sotheast of a platform in the lower part of a room, that has a
+Herb.
+3. Sotheast of a platform in the northern part of the room, which
+which also has a Herb.
+4. Northeast of the platform with the Dagger.
+They all take you down to B2, which is one huge empty room. To exit,
+use the stairs in the northern part of the room, near the center.
+The exit from B1 to B3 is south from the stairway (from 1F), and a
+little east.
+B3 - Go north all the way. The chest contains a HeadGear, but has a
+Boom trap. By the stairway, you'll fight EyeSpy. Go down the stairs.
+B4 - Open the red chests to get 2 SkullHTs, Cure, IcyHT, and an Antdt.
+Open the blue chest, and the room will flood. NOTE: The chests in this
+room are the only ones in the Krypt that are safe to open without 
+having Karn in your party. At any rate, Karn shows up, and offers to
+help. He leaves. Follow him down the stairs.
+B5 - Karn joins you. Immediately place Karn at the front of your party.
+because he can open chests with springing traps, and can open locked
+doors. Go right, up through 2 locked doors. left, down, left, up. Now
+go left to get a Life (with a Boom trap), and a Herb (with a Sproing
+trap.) Go back to the right, and through a locked door. Go down the
+stairs to B6.
+B6 - Go left and down to the stairway, then up the stairs.
+B5 - Go down, right, up, right, and down to get a HuntCL. Go up, left,
+down, left, up, to the stairway. Go down the stairs to B7.
+B7 - Walk around the outer walls of the room to find all 8 caskets.
+Open them all. The last one you open will be the Book. To open them,
+Karn must lead the party. With Karn leading, you can also safely open
+any chests you've left closed in the Krypt. After exiting, go back to
+Winlan Castle, and go to the basement.
+
+*Winlan Castle
+ITEMS: Cure, Life2, Life, FlameRP, Turban, BrokenSD
+PARTY: Ryu, Nina, Bo, Karn
+Go to the Basement of the castle, and you can now open the locked gate
+to recieve a Cure, Life2, Life, Flame Rapier, and Broken Sword, and
+Turban. Now that you have these goodies, go the Light Keep, to the north
+of Bleak.
+
+*Light Keep
+ITEMS: 2000 GP, B-Stn, Life (x2), Cure, HornHT, Herb, Turban, 2000 GP,
+DkKey, Mirror
+1F - Have Karn open the locked door. Get 2000 GP, climb the stairs.
+2F - Go down, and right. Talk to the old man and agree to battle the
+ghosts. Climb the stairs.
+3F - Take the left stairway to floor 4F.
+4F - Get the B-Stn to the right, and the Herb south of the stairs, then
+go back downstairs.
+3F - Take the far right stairway.
+4F - Go down, left, down, right, and up the stairs.
+5F - Go straight up to the stairway.
+6F - Get the Life, and go to the left and down the stairs. 
+5F - Get the Cure, Horn Helmet, and the Herb. Go back up stairs.
+6F - Go down the right stairway.
+5F - Go down, left, down, right, up, and up the stairs.
+6F - Go down, and take the right stairway.
+7F - Take the upper-left stairway.
+8F - Go down, get the Turban, go right, up, get 2000 GP. Go back down
+to 6F.
+6F - Take the stairway to your left.
+7F - Take the center stairway.
+8F - Fight Cloud. Get the Dark Key. Go back to 2F and get the Mirror.
+Return to Bleak, then go back to the Cave to Bleak.
+
+*Cave to Bleak
+ITEM: G-Bar
+PARTY: Ryu, Nina, Bo, Karn
+LEVEL: 19
+Walk up all the way, go left. Open the locked door. Get a Gold Bar.
+Walk left the down to exit, and return to Auria.
+
+*Auria
+ITEMS: Herb (x5), B-Stn, Dart, MetalSH, F-Stn, LtKey, GnPwder
+PARTY: Ryu, Nina, Bo, Karn
+BOSS: Knight
+LEVEL: 19
+Talk to Ross with the Mirror in your possesion. Alena will appear and
+convince him to give you the Light Key. Now, go to the safe. Open the
+doors with Karn leading the party. Talk to Ross' daughter. Collect 5
+Herbs, a Dart, B-Stn, and MetalSH, then climb the tower. Collect a F-Stn
+on your way, and get the Light Key. Return to the dock. Fight Knight.
+Then they will destroy the ship. Trade the G-Bar to Gobi to recieve the
+Gunpowder. Now go to the North Cave.
+
+*North Peninsula/The Ship
+ITEMS: V-Ptn, Herb (x2), Acorn (x2)
+Take the GnPwder into the North Cave. Go up, then left, down. Place the
+GnPwder, and then blow up the rocks. Go down, and left to enter the
+North Peninsula. Go southwest, then fight 2 SpearMen. Go left, up, and
+onto the ship. On the ship, fight an Archer. Go downstairs, and fight 2
+more Archers. Go right, up. Go down the stairs. Fight Squid. Go right,
+and collect the V-Ptn from the dresser. Go down the stairs. Open the
+chests for 2 Herbs and 2 Acorns. Now return to Auria, and talk to the
+Captain. You'll set sail to Scande, but the Dark Dragons will attack.
+Fight a set of 2 Archers and a SpearMan. You head down to B1 of the
+ship, then fight another set of 2 Archer and 1 SpearMan. Now you'll go
+to B3. Fight another 2 Archers. Go to B4, and fight 2 Archer, and then
+Octo. You'll dtonate the ship, and black out. You'll awaken on a
+deserted island.
+
+------------------------------------------------------------------------
+		PART 5: STOP THE TORPEDO!!!
+------------------------------------------------------------------------
+*Deserted Island
+You wake up here, and control only Gobi. Agree to take the Gills for
+1000000 GP. You won't have enough (You CAN'T have that much, by the way.
+The game won't let you.) Go into the water, and west to Prima.
+
+*Prima
+ITEM: TideHT
+Go to the second floor of the Inn and check the dresser to find a
+TideHT. At the Naming Hut, you can rename your characters. But right
+now, go to the Guild and talk to the owner. Then go south from Prima,
+and onto the beach. Then go south, west, south, west, and north to Gant.
+This is a diagram of Prima. Use it for the "Shopping" part of the guide.
+ ------  ------   ------
+|      ||      | |      |
+| Item || Item | | Guild|
+|   4  ||  5   | |      |
+ ------  ------   ------
+ ------  ------   ------  ------
+|      ||      | |      ||      |
+|Weapon|| Cafe | |Weapon|| Item |
+|   5  ||      | |   6  ||   3  |
+ ------  ------   ------  ------
+ ------  --------------   ------  ------
+|      ||Weapon 2,3    | |      ||      |
+|Naming||Item Shop 2   | | Inn  ||Weapon|
+| Hut  ||Gobi's Market | | 2    || 4    |
+ ------  --------------   ------  ------
+ ------  ------  ------   ------  -------
+|      ||      ||      | |      ||       |
+|Weapon|| Item ||  Inn | | Save ||Storage|
+|   1  || 1    || 1    | |      ||       |
+ ------  ------  ------   ------  -------
+
+*Gant
+ITEMS: HrGlas, L-Ptn, A-Ptn, Goods
+You can't enter if you haven't talked to the Guild owner of Prima yet,
+but you will get to see a bonus scene of some soldiers dragging out one
+of the men of Gant. Well, in the house in the lower-left corner of Gant
+is a HrGlas. In the house above the Weapon Shop is a L-Ptn. Go to the
+top house and talk to the man there and he'll move so you can get the
+Goods. Now go go up to the second floor, and search the dresser for an
+A-Ptn. Now return to Prima.
+
+*Prima
+ITEM: Gills
+PARTY: Gobi, Ryu, Nina, Bo
+BOSS: Morteo
+LEVEL: 21
+Talk to the Guild owner, and get the Gills. You'll go to Inn 1. You'll
+find a ghost with Ox. The owner will offer you 5000 GP. Refuse that and
+his 5500 GP offer, to get 6000 GP, his best offer. Now go to the
+Deserted Island, and talk to Ryu to rejoin your party. Now go back to
+Prima. Return to the ghost, and fight him. Now Ox will join your party.
+I think the game also lengthens your Item List at this point, so you can
+carry 63 items instead of 48. Now go back to Gant.
+
+*Gant
+PARTY: Karn, Ox, and any other 2
+Go to the top house with Karn and Ox. Push the dresser on the first
+floor over, then enter the hidden room. Have Ox smash the rocks, then
+place Karn in the lead, so he can learn his "Shin" transformation. Now
+go back to Prima, and from there, go northwest to the beach. Then go
+south, then west to the West Fortress.
+
+*West Fortress
+ITEMS: GiantHR, EchoHT, Herb (x2), MetalSH
+PARTY: Ryu, Nina, Bo, Ox
+BOSS: Toad
+LEVEL: 22
+Use the stairway to enter the fortress. Then have Ox break the rocks,
+and puch the wall to the left. Get the GiantHR, and the EchoHT. Now go
+up the stairs. You can break walls to take shortcuts, but here is the
+path without breaking walls. Go left. Get Herb. Fight LancerX. Go up,
+right, up, left. Fight another LancerX and get another Herb. Go up,
+right. Break a first weak wall. Go up, left, up to get a Life. Go down,
+and right. Then go go down, right, get MetalSH, go up, go left. Fight
+last LancerX. Go up all the way, break wall. Go right, down, right, up,
+left, up. Before going down the stairs, prepare for Toad, as you'll
+fight him immediately after going down the stairs. Save Ox's friends,
+and break through the right wall. Go up the stairs, and out. Go north to
+Nabal Forest.
+
+*Nabal Forest
+Talk to the wiseman, then return to Gant.
+
+*Gant
+Talk to the guy in the northern house, then go to the beach to the
+east. Then go right, up, and right to the Weapon Collecters Tent. Talk
+to him. Then return to Krypt.
+
+*Krypt
+ITEM: B-Rang
+PARTY: Ryu, Nina, Bo, Ox
+LEVEL: 23
+Go down to floor B3 (the room where you originally fought EyeSpy). Now
+have Ox punch the yellow rock, and get the B-Rang. Now, go to the Cave
+to Bleak one more time.
+
+*Cave to Bleak
+ITEMS: A-Ptn, L-Ptn
+From the entrance on Bleak's side go up all the way, left, past where
+the locked door was, to find a weak wall. Break it, and take the A-Ptn
+and L-Ptn. Now return to the Weapon Collecter's Tent. Talk to him, then
+go to Nabal Forest.
+
+*Nabal Forest
+ITEM: Egg
+PARTY: Ryu, Nina, Bo, Ox
+BOSS: GrimFowl
+LEVEL: 23
+Beat the GrimFowl, and take its Egg. Now, wait at the exit for the
+GrimFowls to line up behind you, then slowly walk to Nabal Castle, one
+step at a time. You'll throw the Egg inside, making the GrimFowl pretty
+dang mad. Now you may enter.
+
+*Nabal Castle
+ITEMS: Life2, SkullRG
+PARTY: Ryu, Nina, Bo, Ox
+BOSS: SlimeX
+LEVEL: 24
+Go over to the stairway to the right, after entering the castle, and
+push the pots down. Search under the left pot for a Life2, and under the
+right pot for a SkullRG. Now go down the stairs, and go down, then left,
+and up. Have Ox break the wall. Fight SlimeX. The General will escape to
+Prima to attack Prima with a Torpedo. You'll return to Prima.
+Later, return to the room that originally had the women in it, and
+you'll find a path containing MagicRG and Cure.
+
+*Prima
+ITEM: Statue
+Go talk to the man in bed on the second floor of the Guild. Now stand
+in his bed, face down, and press A to get the Statue. You can now enter
+Wisdon, which is the floating town near Arad.
+
+*Wisdon
+ITEMS: Herb (x2), ProSH (x2), Life (x2), Life2, OldSP, SilverBR, RageHR,
+ChainML, OldEgg
+PARTY: Ryu, Nina, Bo, Ox
+BOSSES: Wisp, Cloud, Myst
+LEVEL: 24
+Enter the town, and go down the stairs. Go up, left, and up. Break the
+walls, then collect the Herb and ProSH. Go back down, then right all the
+way, then up and break more walls to find a Life and Life2. Now go back
+down, then left, and up. Go down the stairs. Go up all the way. Now go
+around the platform and break the rocks to find an OldSP. In the next
+room, go left, and break some walls to find a Life and SilverBR. Go back
+to the right, and up, then right and break a wall to find a Herb and
+RageHR. Go down and break the wall. Take the secret passage left, up,
+left to get back upstairs, and find a ChainML and another ProSH. Go back
+the way you came, then go up, and left to a stairway. Take it to get
+back to the main part of the town. Go into the palace. Drink the Health
+Spring, and then go upstairs and fight Wisp, Cloud, and Myst. They wake
+up Bleu, and then she gives you the OldEgg. Take it to the Ocean
+Volcano, in the ocean north of Prima.
+
+*Ocean Volcano
+ITEMS: SharpBW, 3000 GP, PowerDR, 2000 GP, Herb, M.Drop
+PARTY: Ryu, Nina, Ox, Gobi
+LEVEL: 24
+From the start, go up, then east all the way. You'll find a SharpBW.
+This is probably the only weapon Bo can equip a shield with, so get
+it!!! Go back to the left, then up. Go left, up, left all the way.
+Collect 3000 GP. Go back to the right. Go down and use the stairs.
+Immediately the next stairs to find a M.Drop. Go back down one floor.
+Then walk south, then right to find 2000 GP. Walk back to the left, and
+down to find a PowerDR. Go back to the right and up, then go left to
+find a staircase. Use it. Now grab the Herb from the chest, and go left,
+and down to find the lava. Drop the OldEgg in the lava. You'll return to
+Wisdon automatically, where Bleu will join you. Then you'll immediately
+go back to Prima. 
+
+*Prima
+ITEMS: Sphere, MystSF
+PARTY: Ryu, Nina, Bleu, Ox
+BOSS: Pincher
+LEVEL: 25
+Leave the Inn, and a fish will appear and automatically take you to
+Pincher. Fight him, then go speak to the owner of Guild. You'll get the
+Sphere and MystSF. With the Sphere, place Gobi at the head of your
+party, and go to the northwest. You'll witness a scene involving Jade.
+Zog tells him to stop the Light Dragins. This will be the first
+appearance of Cort, Cerl, Mote, and Goda, Zog's henchmen. You can now
+cross the pit to the western part of the ocean. Head towards the
+southwest, where you'll find a big island with the town of Tunlan on it.
+
+------------------------------------------------------------------------
+		PART 6: THE BRIDGE IN GUST VALLEY
+------------------------------------------------------------------------ 
+*Tunlan
+ITEMS: Rod5, Melon, Herb
+Enter the castle. Go up, then right, and down. Go left, and go up the
+stairs. Go left, and down the next stairs. Go left to the wall, and up
+to the chest. You'll fall in a hole, into a hidden room. Push the box
+below the bed, then search the space where it was, to get Rod5. Now push
+the lower-left box to fall into a fall. You'll fall into a room with a
+Melon and a Herb. Go down to exit the room. 
+Now go to Auria and buy a Worm. Equip the Rod5 and a Worm. Then go to
+the well northwest of Romero and fish in there for a DragonSD. Now go to
+Arad, and walk directly west, and down to find a well with the DragonHT
+inside. You can also get the Slab from a well northwest of Tantar, but
+it's not necessary. All it says is "Search the Mystic Water for the
+ultimate Dragon Power", which means go to the Cleansing Water Spring,
+and go down the stairway to learn Agni. Now that you read that, you
+don't need the Slab.
+Now go to Nabal Forest, and from there, go south, west, south between
+the mountains, east, north, and east to the Dragon Training.
+
+*Dragon Training, Part 2
+ITEM: Mrbl2
+You must have completed step 1 of Dragon Training, and have the
+DragonSD to enter. Go straight up and fight Bain. You'll learn "Ice
+Dragon", "Fire Dragon", and "Bolt Dragon", and "Gold Dragon" attacks.
+Now go back to Tunlan. From Tunlan, go back in the ocean, then north to
+a beach. After getting up on the beach, go east, then north, to Gust.
+
+*Gust
+ITEM: Sash
+Check the dresser in the Inn to find a Sash. Go to the house below the
+Inn, and push the box below the bed, and fall into a hole. Push the
+barrels:
+	456
+	2 3
+	 1
+Push barrel 1 right, 2 left, 3 right, 4 and 6 up, and 5 right. Now go
+up and place Karn in the lead. Talk to the man there to learn the Debo
+spell. Reenter the town, and go straight out the back entrance, and into
+the Fortress in the back.
+
+*Gust Valley Fortress
+ITEMS: Herb (x2), Cure2, L-Ptn, A-Ptn, M-Cura
+PARTY: Ryu, Nina, Bo, Bleu
+BOSSES: K-Roach (x3), RugaX
+You have to fight a Ruga to get each of the first two chests (Herb and
+Cure2). Each of the first three dead-ends has a Rogue. Fight the last
+two to get a L-Ptn and A-Ptn. Walk right, down, and right. If you take
+the middle path, you can smash a wall (with Ox) and take a shortcut. If
+you go through the left or right path, you'll have to fight a Rogue. Go
+up to the stairway, and go up. Cort will appear and shrink you.
+Now go to the upper-right corner and enter the mouse hole. Go to the
+right. You can rest at the Mouse Inn, if you need your HP and AP
+recovered. Talk to all the mice, and the one in the upper left will
+move. Now go up, right, and up to fight the 3 King Roaches. Go back to
+the mice, and talk to the one blocking the treasure chests to get a Herb
+from the right chest, and the Mouse Cura from the left chest. You'll use
+the Mouse Cura to return to normal. Now talk the stairs. Ride the
+platform up. Now go right, down, and left. Take the platform over, and
+go left, and down, then the platform right. Again, go right, down, then
+left, and take the platform up. Take the next platform up too. Fight
+RugaX. You'll meet Nicholie, and have to cure him. Bleu will leave you
+at this point. Have Nina Warp the party back to Tunlan. Now go south,
+into the ocean. Go south and follow the wall to the east, to a small
+area enclosed by rocks. Place Gobi in the lead, and turn him into the
+Big Fish. He'll be able to cross the rocks. Then turn him back to
+normal. Leave the ocean, from the beach. Go east to the Frog Cave. Talk
+to all the frogs, then return to Gust.
+
+*Gust
+ITEM: G. Fly
+PARTY: Ryu, Nina, Bo, Ox
+BOSS: G. Fly
+LEVEL: 27
+You can enter the cave on the west side of town. Beat the G. Fly and
+you collect him as an item. Take the G. Fly back to the Frog Cave.
+
+*Frog Cave
+ITEM: Oil
+Trade the Gold Fly for the Oil. Return to Gust.
+
+*Gust Valley
+PARTY: Ryu, Nina, Bo, Ox (Swap Ox for Bleu against HornToad)
+BOSSES: FlowerX, RugaX, HornToad
+LEVEL: 27
+Go to Nicholie's house, and talk to him. Now, go to the valley and beat
+FlowerX. The people of Gust will return to normal. Talk to Nicholie
+again. He will become RugaX again. You must defeat him one more time.
+Nicholie will fix the bridge. Now try to cross it, and Cort will turn
+into HornToad. You must kill him too. Now cross the bridge and go west
+to Gramor, which is the hole with a mole in the dry field.
+
+------------------------------------------------------------------------
+                         PART 7: MOGU'S DREAM
+------------------------------------------------------------------------
+*Gramor
+ITEM: Cowl
+ Enter the town, and go straight up, and into that room. Talk to the
+mole by the bed to recieve the Cowl. Now return to Gust.
+
+*Gust
+ITEM: Maestro
+Go to the Flute Maker's house (the house below the Inn). Talk to the
+Flute Maker. Then go into his bed, face south, and press A to get the
+Maestro. At this point, you must return to Tunlan.
+
+*Tunlan
+ITEMS: M.Drop, Melon (x2), Bolster
+Enter the castle, and talk to the woman in the green robe. Then go
+upstairs and talk to the Princess. Now go back downstairs and talk to
+the old woman again. Go to the right, then down, left, and up the
+stairs. Now go down the next stairs, and talk to the old woman, now by
+the safe. Now leave town, and use the DkKey to make night come. Enter at
+night, and go to the hallway in the Princess' room. Stand behind the
+middle palm tree, and press A to see the Princess' markings on her back.
+Now return to the safe, and talk to the old woman. Try opening the left
+door. Now try opening the right door. You'll set off an alarm, calling
+the Princess and the soldiers. Your party will fight the soldiers (you
+won't enter a real battle, though) and Cerl will appear and take the
+TmKey. After the Princess is injured, and you can move again. You can
+come back to the safe and get 2 Melons, a M.Drop, and the Bolster. Now
+that you have the Bolster, return to Gramor.
+
+*Gramor
+Talk to the woman by the bed again. NOTE: Once inside Mogu's Dream, you
+can't exit until you beat Mothro, so think carefully before entering.
+
+*Mogu's Village
+I would recommend buying lots of Cure Potions. You can buy them cheaply
+here, and will probably need them, especially in the Poison Field. Exit
+town, and head east, then north, then west to the North Tower.
+
+*North Tower
+NOTE: The white tiles make the walls invisible, and the red tils make
+them reappear. While the walls are invisible, they are still there, but
+you just can't see them.
+Go up, go right all the way. Go up and right. Now go up, but search the
+left wall for a hidden path left, down and left. Now go down all the
+way, then go left, and search the north wall for a place where you can
+walk up. When you find that spot, go up about 4 steps, and search the
+right wall for a hidden passage. Go right all the way, then up to find
+Mothro. 
+Now exit, and return to Mogu's Village. Talk to Anne (Mogu's sister)
+and then walk west, south across the new bridge, and north to the Poison
+Field.
+
+*Poison Field
+ITEM: LightSH, HeadGear, Life
+This is probably criptic-sounding, and hard to explain, but this may be
+the best way to explain how to get through here. Follow the number of
+steps in the indicated directions, and you should get through.
+Ux - Take "x" steps upwards. Lx - Take "x" steps to your left.
+Dx - Take "x" steps downstairs. Rx - Take "x" steps to your right.
+From the start: U6, L6, U5, R3, D3, R6, U1, R1, U3, L5, U2, L5, U3, R9,
+D2, R9, U2, R8, U2, R1, U4, L3, U4. Get LightSH. R2, U7, L3, D3, L3, D7,
+L5, U9, R3, U3, R3, U1, R3, U1. Get HeadGear. R1, U3, R2, U5, L3, U3,
+D3, L6, D1. Get Life. L6, U2, L4, D2, L3, U8, R12, D2, R4, U2, R2, U3,
+R3, U1, R1, U2, L8, U4, L11, D1, L7, U4, R9, U3, R2, U4, L2, U4, L3, U2. 
+This SHOULD get you through this maze. Now go up to the South Cave.
+
+*South Cave
+Talk to Courage. The other parts (Anger, Sorrow, Fear, Humor, Reason)
+will join with Courage, and Mogu will be formed. He will now join you.
+But now you have to go back through the Poison Field. But, you can take
+the shortcut. Die, and you'll be returned to Mogu's Village. You'll lose
+a part of your GP, but it's faster and easier. Now return to the North
+Tower.
+
+*North Tower
+PARTY: Ryu, Nina, Ox, Bleu
+BOSS: Mothro
+LEVEL: 29
+Go back to where you fought Mothro before, and go up the stairs.
+2F - Go down all the way, then left, and up. Go right as much as
+possible. Go down all the way. Go left all the way. Go down, and go left
+at the first oppertunity. Go left all the way, up, left, up, right, up,
+right, and down at the first oppertunity. Go left, down, left, down, and
+right when you can. Go rightm then up, right a couple steps. Go down,
+then left, and up to the stairs. Go upstairs.
+3F - Go down, right, up, and left. Go down, left, down, right, down,
+and make a right turn about 2 steps before the white floor plate. Go
+right, up, right as much as you can, then up a couple steps, and right,
+then up to the stairs. Go upstairs.
+4F - Go down, left, down, left, up, left, up, left, and over to fight
+Mothro. When you defeat Mothro, you'll return to the main world.
+Mogu will join your party. Go back to Camlon.
+
+------------------------------------------------------------------------
+		PART 8: MOTE'S DREAM
+------------------------------------------------------------------------
+*Digging Spot - Camlon/Nanai
+PARTY: Mogu, Karn, and 2 others
+Go from Camlon, to where Nanai used to be, and walk north to a Dragon
+Emblem. Press A with Mogu leading to enter a secret cave. Hake Karn lead
+the party now, and he can learn the Doof spell.
+
+*Digging Spot - Tantar
+ITEMS: Clog, L-Ptn, A-Ptn, V-Ptn
+This is far to the northeast of Tantar. Once again, Mogu must dig.
+Search the upper-left chest for a Clog (w/ Boom trap), the lower-left
+for a L-Ptn, the lower-right chest for an A-Ptn, and the upper-right one
+for a V-Ptn (w/ Sproing).
+
+*Bleak
+ITEM: ClearCL
+Go to the Fortune Teller's house with Karn in his Doof transformation.
+Push the lower pot (blocking the stairs) to the left. Now go down the
+stairs. Push left barral up, and the right barrel to the right. Go up,
+and push the chest up, and search the ground for ClearCL. Go back up to
+the main floor. Push the chest in the upper left corner to the left.
+Fall in, and get the Puka spell for Karn. Go try it out on the Dragon
+Seal north of Auria.
+
+*Auria
+ITEM: DarkBR
+With Karn in his Puka form, face the seal, and press A to open it, and
+enter to find the DarkBR. Also, southwest of Gust is another seal that
+hides a LoveBR. Return to the cave south of Gramor.
+
+*Cave to Spring
+Enter the cave. Go down the stairs. Walk down, right, down, right, and
+down all the way to the exit.
+
+*Spring
+ITEMS: Clog, Herb
+Check the dresser at the Inn for a Clog, and search the house below the
+Item Shop for a Herb. Now go out onto the ice, and walk out the south
+exit of the town (this is a secret exit from Spring that leaves you
+closer to Spyre Tower than the main entrance).
+
+*Spyre Tower
+ITEMS: Cure2, A-Ptn, Shell, FlameAR, WorldAR
+PARTY: Mogu, Ryu, Nina, Bleu
+LEVEL: 30
+NOTE: At the top of this tower, you will enter Mote's Dream, so be
+prepared first.
+You need Mogu to dig a tunnel to enter the Spyre Tower (on B1).
+B1 - Just walk up all the way, and go down the stairs.
+B2 - Go down, left, up, and then go right and get Cure2. Now go back to
+the left, and down. Then go right, up, right, and over to the right all
+the way. Go down, and left, then down. Collect the Shell and A-Ptn from
+the chests. Go left all the way to get a FlameAR and WorldAR. Go back to
+the right, and up the stairs to 1F.
+1F (Grass) - You start in the lower-left corner of the room. Walk
+right all the way, and up to find the stairs.
+2F (Rain) - In the upper-right and upper-left are exits from the tower,
+if you need them. You start in the upper-right corner. The exit to 3F is
+in the center of the lower part of the room.
+3F (Desert) - Go straight to the right to find the stairs.
+4F (Snow) - In the lower-left and lower-right corners are more exits
+from this tower. You start in the lower-right corner. Go up to the upper
+right corner to find the stairs.
+5F (Sky) - Go from the upper right to the lower-left to find the
+stairs.
+6F (Stars) - Start in the lower-left. Go to the upper-right to find the
+Machine and the SkyKey, but also a surprise. Mote will appear, and send
+you into his dream.
+
+*Mote's Village
+Nothing special. Just exit the town, and walk south, onto the ledges,
+and walk northeast. Then walk north, then west, and south to the cave.
+Go through here to find the entrance to Mote's Tower.
+
+*Mote's Tower
+ITEMS: Cure, L-Ptn, JadeBW, Trident, Smoke, CursedHT, FaceMask
+PARTY: Mogu, Ryu, Nina, Bleu
+BOSS: Mote
+LEVEL: 30
+B1 - Go up all the way, then right to the stairs. Go down them.
+B2 - Go left, then up, and right. Take the first path down, and find a
+Cure, L-Ptn, JadeBW, and Trident. Collect these. When you open the
+chests, a gat closes behind you, so search the room for a gate. In the
+next room, go up the stairs along the right wall. Now go right, down,
+and left to another stairway. Climb it to return to B1. Go left, up, and
+right. Go down the stairs again. Now go back up and go all the way right
+this time. You'll find another stairway.
+B1 - Collect the CursedHT, FaceMask, and Smoke. Now go left, and up all
+the way to find Mote's Conscionce. Now go up and climb the stairs.
+1F - Drink the Health Spring to recover HP & AP. Check the pot to find
+a Save Point. Be prepared! The next room can be just as awful as the
+Poison Field, so be prepared. Well, this is what you do, I hope!
+Go up. Hit the Rotator Tile. Walk left. Hit the Rotator Tile. Walk
+down, left, and up. Hit the Rotator Tile. Walk up. Hit the Rotator Tile.
+Walk right, down, right, down. Hit Rotator Tile. Walk right, down,
+right, down. Hit the Rotator Tile. Walk left. Hit the Rotator Tile. Walk
+left, and take the second path up. Go left, then down. Hit Rotator Tile,
+and go left, then up.
+In the next room, take the middle stairway, and then search one space
+away from the bottom wall, and one space away from the right wall, to
+find the hole needed to continue. Go straight up, and in the next room,
+walk down 4 steps, left 6, down 1, left 1, down 2, and up the stairs.
+Take the lower-right stairway in the next room. Now fight Mote. You'll
+return to Spyre Tower.
+
+*Spyre Tower
+ITEM: SkyKey
+Collect the Sky Key, and then cast Exit to quickly leave the tower. If
+you don't have enough AP to cast the spell, and don't have any
+AP-recovery items, there are places (on Snow and Rain floors) where you
+can walk out of the tower to leave.
+
+------------------------------------------------------------------------
+		PART 9: RESTORING TIME TO NORMAL
+------------------------------------------------------------------------
+*Spring
+ITEM: DragonAR
+With Rod5 and a fishing bait, fish off the dock in the northwest corner
+of town to find the DragonAR. Now go through the waterfall to find a
+secret cave. Go through the cave to find a passage to a new area. Then
+walk south to find the town of Carmen.
+
+*Carmen
+ITEMS: RubyBR, W-Ant
+In the dresser at the Inn is a RubyBR. Go to the second floor of the
+house above the Weapon Shop, then push a barrel left and check the
+ground to find a W-Ant. You can't use the Inn or Weapon Shop until
+you've got the Time Key. Time is stopped in this town, so you can't talk
+to anybody in town, except Alan (the one person who does move). 
+Well, go south, then east, then north, then west to a tower surrounded
+by forests. Have Bo lead the party, and you can enter. But, there is
+also some stuff to do first. Walk to the dry field farther east. You'll
+find a Dragon Emblem on the ground. Have Mogu dig in this spot to find
+the HeroBW for Bo. This is a VERY powerful weapon. Also, with Karn's
+Puka spell, you can stand next to the Dragon Seal on the cliff, and
+press A to open it. Inside is a WindBR. Now return to the previously
+mentioned tower, and enter.
+
+*Tock
+ITEMS: Life, EvilCN, Cure, G-Tiara, GuardSH, Life2, WolfSkin, AgileHT
+PARTY: Bo, Ryu, Nina, Bleu
+LEVEL: 31
+Go up, and drink from the Health Spring. Go left, and down to a Left
+Arrow Tile. Step on it to go through the left wall. Now go up and follow
+the path. You'll find a Life, and an EvilCN. Find another Left Arrow
+Tile. Go through the left wall again. Now go up, left, dwon, and step on
+another tile. Go up the stairs.
+2F - Go up/left to find a Cure. Go to the right to a Right Arrow. Step
+on it. Walk down to the Right Arrow. Step on it. Now go to the upper
+right to find a Right Arrow. Go Up Arrow. Follow the outer wall, until
+you reach a Left Arrow in the lower-right corner of the room. In the
+lower-right area of this floor, you'll find a stairway up. Go up it.
+3F - Collect the G-Tiara. Take the Down Arrow. Go left and up and step
+on the Left Arrow. Get the GuardSH. Step on Right Arrow. Go along the
+left edge of the platform to find a Life2. Go on top of the platform to
+find a stairway up, and find the Arrow Maze.
+4F - Go up all the way. Go right all the way, and step on the last
+tile. Step down to a Down Arrow. Walk down to a Left Arrow. Step on it.
+Step down to a Left Arrow. Walk a step left, then two steps dwon to a
+Right Arrow. Step down to a Right Arrow. Walk right to a Down Arrow.
+Step right to a Left Arrow. Walk up to a Left Arrow. Get the WolfSkin.
+Take the Left Arrow (one step right and up step up from the chest), then
+turn around and use the Right Arrow. Walk up to the Up Arrow. Take the
+stairs up. Also, the first chest in this room has an AgileHT.
+5F - Go up, and talk to Cerl. Ryu will be sepperated from the party.
+Equip him with a DreamRG to block sleep (Paralyze) condition. Use Cure
+to recover HP when needed. If you have many to waste, you can build up
+Ryu's Level quickly. Well, go east along the path, then up, and take the
+west turn all the way, then up to Carmen.
+
+*Carmen
+Your party rejoins you, and Alan tells you Cerl isn't really bad, just
+under control of the Dark Dragons. He goes to stop her.
+
+*Tock
+PARTY: Ryu, Nina, Bo, Bleu
+BOSS: Cerl
+LEVEL: 32
+Go back to the top of the tower. This time, Alan will talk to Cerl
+about her childhood, then Cerl will attack. Fight her, and then she'll
+use the TmKey to send Ryu and Nina to her castle. As she "closes" her
+mind, the doors close. You need something to remind her of Alan. Better
+return to him in Carmen.
+
+*Carmen
+Talk to Alan in the house next to the upper windmill-house. He'll tell
+you that Cerl is acting this way because he abandoned her when she was
+kicked out of town. He'll tell you to get the Fruit of the Holiday Tree.
+
+*The World
+ITEM: Fruit
+PARTY: Ryu, Nina, Ox, Bleu
+Go from Carmen to the southern coast. You'll find a ruined town, and a
+big tree. This is the Holiday Tree. Have Ox punch it to get the Fruit.
+Take it to Cerl's castle.
+
+*Cerl's Castle
+ITEM: TmKey
+With the Fruit, Cerl will let you in. Enter and walk up to the second
+floor. Cerl will let you take the TmKey from the chest. Do so. Then Goda
+will appear and you will quickly flee. Alan will enter and Goda kills
+Cerl. Then because the castle is controlled by her mind, and she no
+longer exists, the castle no longer exists.
+You will take the TmKey back to Tock. Then Nina shifts into a black
+hole, and you follow. You'll end up back in Tunlan.
+
+*Tunlan
+Do you remember the person who looked like Nina, but had a blue dress
+instead of a pink one? Well, go talk to her, in the middle-right room on
+the level of the town below the castle. Now talk to the other two people
+in her room. Now talk to the wise man by the Dragon Shrine. He'll tell
+you that there is a famous doctor in Carmen. Go visit him.
+
+*Carmen
+Go to the windmill-house above the Weapon Shop. Talk to the man in the
+straw hat. He is the doctor. He'll tell you he needs a C-Nut, W-Ant,
+P-Fish, and Root, to make the Tonic. Exit the town.
+
+*The World
+ITEMS: P-Fish, Root, C-Nut, W-Ant
+Go back to where Cerl's castle was. You can now go out a back entrance.
+Now go up, then right, down, left, and follow the path to a broken
+bridge. Now go fishing. You'll catch the P-Fish.
+Now go to Gramor. Have Mogu dig in the dirt by the only plant
+south-WEST of Gramor. You'll find the Root.
+Have Bleu warp the party to Tunlan. Exit the town and have Ox punch the
+palm trees until you get the C-Nut.
+You can get a W-Ant by having Bo hunt a white-deer that randomly
+appears after a battle. Use some Marble3 if you have to, so enemies
+don't attack, because if an enemy attacks, the animals dissappear, with
+any unclaimed items.
+Take all four items back to Carmen.
+
+*Carmen
+ITEM: Tonic
+Take all four of the items to the Doctor to get the Tonic. Take it to
+Nina in Tunlan.
+
+*Tunlan
+Take the Tonic to Nina. She will rejoin you. Also, stop by the Flea
+Market with Gobi, and you may be able to get the PowerRP, Mallet,
+DwarfBW, and MaskSH. Return to Carmen.
+
+*Carmen
+ITEM: Pass
+Go to the water-tub in the northeast corner of twon, and talk to the
+wise man. Search the ground where he was standing for the Pass. Go to
+Dragon Training northwest of Gust.
+
+*Dragon Training
+ITEM: Melon
+PARTY: Ryu and 3 others
+BOSS: Avion
+LEVEL: 33
+You must have the DragonAR (from Spring, unthawed) and have finished
+step 2 to be able to enter.
+Enter, and walk up to fight Avion. You will gain the Rudra Dragon's
+power.
+
+*The World
+ITEM: DragonSH
+Now go to the mountains east of Gramor, by flying, and you will find a
+well with a DragonSH. Now go to an island northeast of Romero. You'll
+find a Dragon Emblem.
+
+*Dragon Emblem - Romero
+ITEMS: S-Ptn, V-Ptn, Sash
+Have Ox punch both weak walls. The upper-left one has a S-Ptn (with
+Fire trap) and the upper-right chest has a Sash, with a Boom trap. The
+center one has a V-Ptn. There is also a Health Spring here. But first,
+go to the island with Pagoda on it, and search behind the towers for a
+Tri-Rang. Fly southeast from Scande to another Dragon Emblem.
+
+*Dragon Emblem - Scande
+ITEMS: S-Ptn, A-Ptn, L-Ptn, Life2, AgileHT, LoveHT, StarSH, MystCW
+Starting with the upper-left chest, the contents are listed above,
+going in a clockwise direction. Now, you can FINALLY go to Scande.
+
+------------------------------------------------------------------------
+                     PART 10: THE FINAL BATTLES
+------------------------------------------------------------------------
+
+*Scande
+ITEM: Herb
+You must have the Pass to be able to enter.
+Go to the Inn. Check the dresser for a Herb. Talk to the wise man. Now
+go and inspect the elevator. Talk to the person by the tower, who will
+tell you a man from Spring was here.
+
+*Spring
+ITEM: B-Part
+Talk to the man in bed in the house below the Inn to get the B-Part. Go
+to Gant.
+
+*Gant
+ITEM: Part
+Go to the second floor of the top house. Talk to the man's wife. She'll
+wake him. Talk to the man there, and get the Part. Now go back to
+Scande.
+Climb the tower, and the wise man will tell you to get the D-Hrt from
+Tunlan.
+
+*Tunlan
+ITEM: D-Hrt
+Go straight up to find the house with a person who will bottle the
+D-Hrt tune for later use. Now return to Scande, and Zog's Palace.
+
+*Zog's Palace
+ITEMS: Glove, PowerHT, IcyCN, Mrbl1, Cure
+PARTY: Ryu, Nina, Ox, Bleu
+BOSS: Zog
+LEVEL: 35
+1F - Go left from the start, and up the hallway. Go along the left wall
+to a stairway. Go upstairs.
+2F - Press the left switch to lower the gate. Go right, then up, and
+right, and up to get a Glove and PowerHT. Go back left, and press the
+right switch. Go down the stairs.
+1F - Go back down all the way, and right all the way. Go up to a Health
+Spring. Take a nearby stairway, being sure NOT to hit the left switch in
+the pair.
+2F - Go left, and up to get an IcyCN and Mrbl1. Go back to the right,
+and down the stairs.
+1F - Go back to the left, and up. Go to the upper-right corner of this
+room, and take a stairway.
+2F - Press the right switch. Go left to the wall, then go to the
+lower-left corner of the next room. You'll find a stairway. Go upstairs.
+3F - Go straight up and take a stairway.
+4F - Go down/right all the way. Go left, then up, and take some more
+stairs down.
+3F - Collect the Cure, and take the next stairs.
+4F - Go down/right, to the middle of the room, and up the stairs.
+5F - Drink the Health Spring, then go directly up to Zog's room. Fight
+him. You'll return to 1F, and find Sara. She WASN'T killed in Drogen,
+but captured. Ryu gives her the 6 keys, figured she's not going to do
+much, being his sister and all. Well, she does take them, anyway, and
+leaves. The Mole People appear. Fall in the hole.
+Mole Hole - Talk to all the moles, and you will find a hole back to the
+bottom level of Scande. You can find your way out from here. Return to
+Agua.
+
+*Agua
+ITEM: FlameSH
+PARTY: Karn and 3 others
+LEVEL: 36
+Go back up to the fifth floor, having Karn open the locked doors.
+You'll find a FlameSH up on floor 5F, and a stairway to the top of the
+tower. Go inside the palace on the roof to find Jade. He'll activate the
+teleporter, which takes you to 1F of Pagoda.
+
+*Pagoda
+ITEMS: Domino, PowerAR, TrapGrd, AgileAR, StoneHT
+PARTY: Nina, Ryu, Bleu, Ox
+BOSS: Sara
+LEVEL: 36
+1F - Go right, then up to an orange switch. Press it to make a stairway
+appear. Use it to get on the platform. Go right, then down to the
+stairway. Go up to 2F.
+2F - Go right all the way, and into the East Tower. Go up when you can,
+and left to the stairway. Go downstairs.
+1F - Find your way around this room. I lost my map I drew of this room,
+so I can't help much.
+3F - Go up to fight Sara. Now go down the stairs to 2F. 
+2F - Go west to the West Tower. Drink from the Health Spring. Go down
+the stairs. Go along the outer perimeter of the wall to find the hidden
+path around to the east side of the room. You'll find your way,
+eventually, to Jade. Sorry, for much of this I don't know. I REALLY
+can't help without my map I made.
+Well, when you do find Jade, he blows up the tower, and activates
+Obelisk. You return to Drogen. But first, you need the I-Claw. Go to the
+weapon collector east of Gant.
+
+*The World
+ITEMS: List, Wtzit, Note1, Note2, I-Claw
+PARTY: Nina and 3 others.
+Talk to the Weapon Collector. He'll ask for a friend. Go to the island
+NW of Auria. Talk to the female weapon collector. Return to the male
+weapon collector. Get the List from a chest in his hut. Go back to the
+woman and give her thr List. She'll give you the Wtzit. Take it to the
+guy. He'll give you Note1 ("This is a tool of the Mole People"). Take it
+to the woman, and get the Note2 ("Be my friend"). Take the note to the
+guy, and get the I-Claw as your reward. 
+You can enter Obelisk now, but first return to where the Cleansing
+Water Spring is, and go down the stairs to find the Agni Dragon Attack.
+You must have the Rudra Dragon Attack first, though.
+Now return to where Scande was to find Obelisk. With the I-Claw, Mogu
+is able to dig an entrance into here.
+
+*Obelisk
+ITEMS: FlameHR, StarHR, EmporSD
+BOSSES: Goda, Jade, Goddess
+PARTY: Ryu, Nina, Ox, Bleu
+LEVEL: 37
+This is it. You're almost done with it. The Obelisk is all that remains
+between you and world peace.
+B1 - Go right, then down, right, and up all the way to the platform.
+Take it across the gap. Go up, then left. Take either path, then left
+across the gap to the stairway.
+B2 - Go up, and take the platfrom up. Go right, then up, right, up. Now
+go right, and take the platform over to the right. Use either path and
+go down, across another platform. Go down, and left. Get the FlameHR. Go
+left again, across a platform. Return to the stairs, but don't use them.
+Walk north again. Go across the platform. This time. Go right, up,
+right, but go down, and use the lower platform. Go down across the
+platform. Go left, down, right. Ride another platform. Go right, then up
+to Goda. Talk to him, then follow him to the left. Go across the
+platform and down the stairs.
+B3 - Go up across the platform, and up to fight Goda. Go through the
+hole he made, and down the stairs.
+B4 - It doesn't matter which direction you pick. They all lead to
+stairs with the same destination.
+B5 - Go right, across platform. Take the next stairs down to the lower
+level. Go right, and up to the upper part of the room. Go up, then left,
+across the platform. Go left, then down to the lower floor. Go down,
+then right, and back up to the upper area. Ride the platform down. Then
+go down, left, and up, back to the upper level. Go down, and right. Use
+the platform. Go right. Then go up, and back to the lower ledge. Go
+left, and back up to the upper ledge. Go left, and up to the stairway.
+Go downstairs.
+B6 - Go the opposite direction you went on B4. Go downstairs.
+B7 - Walk up to fight Jade. After fighting him, check beside his throne
+for the EmporSD. Check behind the right pillar for the StarHR. Step on
+the tiles in the middle of the room to find the entrance to B8, the
+final room in the game.
+B8 - GO FOR IT!! First, tell Goddess you want a wish, and she'll
+recover your HP, AP, and condition. Then, beat Goddess and you've beaten
+the game!
+
+------------------------------------------------------------------------
+TREASURE CHEST TRAPS
+------------------------------------------------------------------------
+These are the effects of the booby traps of some chests. In all cases,
+only the lead character is affected.
+
+Sproing  - Recover full HP and AP.
+DarkMist - Lose 50 AP.
+Fire     - Lose 50 HP (or dropped down to 1 HP, if you have less than 50
+HP left.)
+Toxin    - Poison lead character.
+Curse    - Curses lead character.
+Boom     - Lead character dies immediately.
+
+------------------------------------------------------------------------
+CONDITIONS
+------------------------------------------------------------------------
+Poison - Lose HP gradually during fights, and take 1 HP damage per
+step on main screen.
+Curse  - FATE rating down to 1. (What FATE does, I don't know.)
+         If Ryu is affected, Dragon Attacks are blocked.
+Zombie - Lowers ATK to 5 points, and DEF to 1 point.
+Stun   - Dead. You've lost all your HP.
+Fused    - Karn's Transformation Magic is affecting this character.
+Silence  - Can't use Magic.
+Paralyze - Fall asleep. Wears off eventually.
+
+------------------------------------------------------------------------
+SHOPPING
+------------------------------------------------------------------------
+Drogen - Item Shop          Drogen - Weapon Shop Inn - 0 GP
+Mrbl3        9              Dirk        50
+Herb         9              Sabre      400
+Herb x9     81              Cloth       10
+Antdt       13              SuedeCP    240
+T-Drop      18              ArmPad     300
+Apple       90              WoodSH     300
+Life       450              SilkGN    2800
+Cure      1800              HairBand  1000
+
+Camlon - Item Shop (Can shop after Nina joins you.) Inn - 1 GP
+Herb         8
+Herb x9     72
+Antdt       12
+T-Drop      16
+Acorn       24
+Apple       80
+Life       400
+Cure      1600
+
+Nanai - Item Shop           Nanai - Weapon Shop Inn - Can't stay
+You can't enter.            IronRP    1800
+                            LongSD    2250
+                            Cloth        9
+                            SuedeSH    135
+                            SuedeCP    216
+                            WoodSH     270
+                            HairBand   900
+                            SilkGN    2520
+
+Winlan - Item Shop          Winlan - Weapon Shop Inn - 80 GP
+Mrbl3       10              Sabre      400
+Herb        10              BronzSD    700 
+Antdt       15              BronzRP    800
+T-Drop      20              SuedeHT    200
+Acorn       30              WoodSH     300
+Charm      150              SuedeGN    500
+Life       500              Visor      800
+Cure      2000              ChainML   2000
+
+Romero - Item Shop          Romero - Weapon Shop Inn - 60 GP
+Herb        10              Sabre      400
+Herb x9     90              ShortRP    400
+Antdt       15              BronzRP    800
+Antd x9    135              BronzSH    500
+Acorn       30              BronzHT   1200
+Acrn x9    270              Gown      2000
+Life       500              ChainML   2000
+Cure      2000              SilkGN    2800
+
+                            Tantar - Weapon Shop Inn - 60 GP
+                            Sabre      400
+                            BronzRP    800
+                            ShortBW   1000
+                            Scythe    1200
+                            Bandana    400
+                            BronzSH    500
+                            SuedeAR    750
+                            Visor      800
+
+Tuntar - Item Shop                               Inn - 59 GP
+Herb        10
+Herb x9     90
+Antdt       15
+Acorn       30
+Cure      2000
+Life       500
+Drop x9    180
+T-Drop      20
+
+Auria - Item Shop           Auria - Weapon Shop Inn - 200 GP
+Herb        13              Rapier    1650
+Worm        65              Dagger    2250
+Life       650              LongSD    2750
+Vitamn     650              LongBW    2860
+Pouch     1300              BroadSD   5500
+Mrbl1     1300              Tiara     1650
+Rod1      1300              SunHT     2750
+G-Bar    65000              SageML    3300
+
+Bleak - Item Shop           Bleak - Weapon Shop Inn - 0 GP
+Herb        12              Dagger    2000
+Herb x9    108              LongBW    2600
+Antdt       18              BroadSD   5000
+T-Drop      24              MetalSH   1400
+Acorn       36              HuntCL    1500
+Charm      180              IronSL    2000
+Life       600              BronzAR   3600
+Cure      2400              WoolRB    5000
+
+Arad Inn - 0 GP
+
+Prima - Item Shop 1         Prima - Weapon Shop 1 Inn 1 - 300 GP
+Herb         9              Club      3250
+Herb x9     81              IronHR    4550
+Antdt       13              PowerSD  10400
+Antd x9    121              Glove     3900
+Charm      135              IcySH     5200
+Chrm x9   1215              HornHT    6500
+Life       450              FaceMask  7800
+Cure      1800              GoldHT   26000
+
+Prima - Item Shop 2         Prima - Weapon Shop 2/3 Inn 2 - 200 GP
+Mrbl3       10              Dart      3000
+Herb        10              SteelBW   4000
+Antdt       15              BroadSD   5000
+T-Drop      20              Sickle    6500
+Acorn       30              EvilRP   20000
+Charm      150              Bandana    400
+Mrbl1     1000              NiceHT     600
+Cure      2000              WoolRB    5000
+
+Prima - Item Shop 3         Prima - Weapon Shop 4
+Worm        50              LongBW    2860
+Srdine      50              SteelBW   4400
+Worm2      100              PoisonBW  5500
+Mackrl     100              ChainHT   2750
+Sole       250              PlateAR   3740
+Trout      500              IronMask  4400
+Rod1      1000              RangerVT  5500
+Rod2      2000              G-Tiara  22000
+
+Prima - Item Shop 4         Prima - Weapon Shop 5
+Herb x9    112              Pike      2750
+Antd x9    175              Javelin   4400
+Life       650              RustCW    7700
+Vitamn     650              IronCW   11000
+Mrbl1     1300              DivingHT  4400
+Pouch     1300              LightSH   4400
+Chrm x9   1755              SuedeRB   6600
+G-Bar    65000              SpineCL   8800
+
+Prima - Item Shop 5         Prima - Weapon Shop 6
+B-Stn       22              Dart      3300
+F-Stn       22              PoisonRP  3300
+Acorn       33              Tri-DR    4400
+Acrn x9    297              Cane      6600
+C-Stn       44              Visor      880
+Drop x9    198              MetalSL   3300
+Life       550              BronzAR   3960
+Chrm x9   1485              IronML    5500
+
+Gant - Item Shop            Gant - Weapon Shop
+Herb         8              IronHR    3150
+Herb x9     72              GiantHR   4050
+Antdt       12              HeroSP    6750
+F-Stn       16              SpineHR  27000
+B-Stn       16              IronSL    1800
+C-Stn       32              MetalSL   2700
+Charm      120              IronHT    6300
+Cure      1600              MetalAR   8100
+
+Wisdon - Item Shop          Wisdon - Weapon Shop Inn - Can't stay
+There are Item and Weapon Shops and an Inn, but they aren't in business
+
+Tunlan - Item Shop          Tunlan - Weapon Shop Inn - 300 GP
+Herb        13              BoneCN    2412
+Antdt       19              PoisonRP  2700
+T-Drop      26              Cane      5400
+Acorn       39              EvilRP   18000
+Acrn x9    351              Dress      900
+Charm      195              Gown      1800
+Mrbl1     1300              MystRB    5400
+Cure      2600              CuruCT   18000
+
+Tunlan - Flea Market Items  Tunlan - Flea Market Weapon
+Herb        10              Dagger    2200
+Antdt       15              LongBW    2860
+T-Drop      20              PoisonRP  3300
+Acorn       30              Tri-DR    4400
+Charm      150              Gauntlet   880
+Acrn x9    270              HuntCL    1650
+Mrbl1     1000              ThiefCL   2750
+Cure      2000              RangerVT  5500
+
+Gust - Item Shop            Gust - Weapon Shop Inn - 80 GP
+Herb        10              Tri-DR    4000
+Antdt       15              OldSP     6000
+T-Drop      20              WingRP    7000
+Acorn       30              MoonBW    8000
+Acrn x9    270              WingSD   10000
+Charm      150              GaiaMask  8000
+Mrbl1     1000              FlameSH  12000
+Cure      2000              WorldML  22000
+
+Gramor - No Item or Weapon Shops, and no Inn.
+
+Mogu's Village - Item Shop                     Inn - 10 GP
+Herb        10
+Herb x9     90
+Antdt       15
+Antd x9    135
+Acorn       30
+Acrn x9    270
+Life       500
+Cure x9   4500
+
+Spring - Item Shop          Spring - Weapon Shop Inn - 100 GP
+Herb        10              PowerDR   5500
+Antdt       15              RustCW    7000
+T-Drop      20              IronCW   10000
+Drop x9    180              WingSD   10000
+Acorn       30              IronML    5000
+Acrn x9    270              SpineCL   8000
+Charm      150              GaiaMask  8000
+Cure      2000              QuartzAR 10000
+
+Mote's Village - Item Shop Inn - 10 GP
+Herb        10
+Herb x9     90
+Antdt       15
+Antd x9    135
+Acorn       30
+Acrn x9    270
+Life       500
+Cure x9    4500
+
+                           Carmen - Weapon Shop Inn - 80 GP
+                           Tri-BW   12000
+                           IcyCW    15000
+                           FlameSD  20000
+                           LoyalRP  25000
+                           WorldAR  12000
+                           PowerHT  20000
+                           HystSH   20000
+                           LightCL  30000
+
+------------------------------------------------------------------------
+                          GOBI'S FLEA MARKET
+------------------------------------------------------------------------
+NOTE: "BUY" means you are recieving the item, and "SELL" means you are
+ giving up the item.
+
+ ITEM     WORST OFFER  MIDDLE OFFER  BEST OFFER
+ -------- -----------  ------------  ----------
+BUY / PRIMA - WHEN GOBI JOINS YOU
+ Antd x9        80          60           46
+ Rod2         1200        1000          800
+ Smoke          60          55           50
+ F-Stn          12          11            7
+ LightRP        48          44           36
+ ProtnB        180         165          150
+ MetalAR      5400        4950         3600
+ HuntGL       2700        2475         2025
+ ThundrRP     5400
+ Cure2        1950        1787
+ SteelBW      2400        2200
+ SilverDR     6000
+
+SELL
+ HuntGL       1125        1575         2025
+ F-Stn           5           8
+ B-Stn           5           7            8
+ Acorn           7          13
+ ThundrRP     2250        3600
+ Antler         25          45           55
+ Life2         250
+ ChainML       500         900
+ TideHT        277         444          610
+ FlameRP      1250        1500
+ IronSH        250         300
+ LightRP        20          32           44
+ ProtnA         75         105          135
+ SilverDR     2500        4500
+ SuedeSH        37          52           67
+ Pole           20          36
+ Sleeper      1000        1600
+ Apple          25          40           55 
+
+BUY / TUNLAN - AFTER BLEU JOINS YOU
+ Mackrl         60          55           50
+ Sleeper      2400
+ Antd x9        80          60           46
+ ProtnB        180         165
+ G-Tiara     12000       11000
+ EvilRP      12000       11000
+ B-Stn          12          11            8
+ F-Stn          12          11            8
+ Smoke          60          45           35
+ Cure x9      2700        2495         2025
+ Tuna         1200        1100
+ PowerRP     18000
+ Mallet      18000       16500
+ DwarfBW     12000        9000         7000
+ MaskSH      12000
+
+------------------------------------------------------------------------
+		WEAPON LIST
+------------------------------------------------------------------------
+KEY TO LIST
+Item = What the item is listed as.
+Name = The full name of the item.
+Atk/Def = The Attack/Defence power of the Item.
+Wt. = The Weight of the Item. Heavy items lower Agility a lot.
+2-Hand = Can't equip shield with weapon.
+= Can use as an Item to cast unlimited times in battle.
+CHARACTER ABBREVIATIONS:
+R = Ryu (the Hero) B = Bo G = Gobi L = Bleu
+N = Nina K = Karn O = Ox M = Mogu
+WEAPON   NAME             ATK WT. WHO CAN USE IT 2-HAND/SPELL
+-------- ---------------- --- --- -------------- ------------
+B-Rang   Boomerang         60   2 R              Attacks all enemies
+BoneCN   Bone Cane         14   4       L
+BroadSD  Broad Sword       34   5 R
+BrokenSD Broken Sword      42  15 R
+BronzRP  Bronze Rapier      7   2  N
+BronzSD  Bronze Sword      12   3 R
+Cane                        8   2       L        Zom1
+Club                       30   6      O
+Dagger                     32   2    K
+DigCW    Dig Claw          42   2        M       2-Hand
+Dirk                        5   1 R
+DragonSD Dragon Sword     110  20 R
+DwarfBW  Dwarf Bow        150   1   B
+EmporSD  Emporer Sword    255   1 R              Char
+EvilCN   Evil Cane         20   6       L        Each swing heals 3 AP
+EvilRP   Evil Rapier       55   7  N
+FlameDR  Flame Dagger      74   7    K
+FlameHR  Flame Hammer     120   8      O         2-Hand, Flame
+FlameSD  Flame Sword      122  10 R
+GiantHR  Giant Hammer      60  12      O         2-Hand
+HeroBW   Hero Bow         220   8   B            2-Hand
+HeroSP   Hero Spear        56   4    G
+IcyCN    Icy Cane          30  10       L        Chill
+IcyCW    Icy Claw          88   3        M       2-Hand, Frost
+IronCW   Iron Claw         74   3        M       2-Hand
+IronHR   Iron Hammer       45   8      O
+IronRP   Iron Rapier       14   5  N
+JadeBW   Jade Bow          80   8   B            2-Hand
+Javelin                    34   3     G
+LightRP  Light Rapier      10   2  N
+LongBW   Long Bow          28   5   B            2-Hand
+LongSD   Long Sword        26   4 R
+LoyalRP  Loyal Rapier      64   6  N             Each swing heals 3 AP
+Mallet                    255   1      O
+MoonBW   Moon Bow          66   1   B            2-Hand
+MystCW   Myst Claw        120   1        M
+MystSD   Myst Sword       100   3 R
+OldSP    Old Spear         42   5     G
+Pike                       24   4     G
+PoisonBW Poison Bow        42   6   B            2-Hand
+PoisonRP Poison Rapier     20   5 RN
+Pole                       12   2     G
+PowerDR  Power Dagger      66   7    K
+PowerRP  Power Rapier      82   0 RN             Ag-Up
+PowerSD  Power Sword       62   8 R
+RageHR   Rage Hammer       75   8      O         Frost
+Rang                       18   2 R              Hit all enemies.
+Rapier                     10   4  N
+RustCW   Rust Claw         60   4        M       2-Hand
+Sabre                       8   2 R
+Scythe                     20   3 R
+SharpBW  Sharp Bow         54   7   B
+ShortBW  Short Bow         20   4   B            2-Hand
+ShortRP  Short Rapier       5   1  N
+Sickle                     50   6 R
+SilverDR Silver Dagger     10   6    K
+Sleeper                   100   8     G
+SpineHR  Spine Hammer     120  15      O
+StarHR   Star Hammer      210   8      O         Comet
+SteelBW  Steel Bow         35   5   B            2-Hand
+Stick                       5   1       L
+ThrowDR  Throw Dagger      20   1    K
+ThundrRP Thunder Rapier    46   6  N             Fry
+Tri-BW   Tri-Bow           96  12   B            2-Hand
+Tri-DR   Triple Dagger     54   6    K
+Tri-Rang Triple Boomerang 150   2 R
+Trident                    74   6     G          LStorm
+WingRP   Wing Rapier       34   2  N
+WingSD   Wing Sword        96   8 R
+------------------------------------------------------------------------
+		ARMOR LIST
+------------------------------------------------------------------------
+ARMOR    NAME             DEF WT. WHO CAN USE IT SPELL
+-------- ---------------- --- --- -------------- --------
+AgileAR  Agile Armor       92   0  N    L
+ArmPad                      8   2 R B G
+BronzAR  Bronze Armor      25   9 R BKGOLM
+ChainML  Chain Mail        20   2 R B  O
+ClearCL  Clear Clothes    100   0  N    L
+Cloth                       1   1 RNBKGOLM
+Dress                       8  25  N    L
+FlameAR  Flame Armor       82  10 R      M       Fire-damage down 25%
+Gown                       18   1  N    L
+GuruCT   ???               70   0       L
+HuntCL   Hunt Clothes      16   4 R BK
+IcyAR    Icy Armor         80  10 R B  O         Ice-damage down 25%
+IronMask                   30   7      O
+IronML   Iron Mail         27   9 R B  O
+LightCL  Light Clothes     68   1       L
+MetalAR  Metal Armor       39  10 R B  O
+MystRB   Myst Robe         60   8 RN    L
+PlateAR  Plate Armor       24   4 R BKGO M
+PowerAR  Power Armor       84   8  N    L
+QuartzAR Quartz Armor      50   9 RNBKGOLM
+RangerVT Ranger Vest (?)   40   8 R B G
+Robe                        2   1 R     L
+SageML   Sage Mail         25  14 R BKGO M
+SuedeAR  Suede Armor       14   7 R BKGO M
+SuedeCP  Suede Cape         5   4 R     L
+SuedeGN  Suede Gown        10   6 RNBKGOLM
+SuedeRB  Suede Robe        35   2  N    L
+SilkGN   Silk Gown         15   4  N    L
+SpineCL  Spine Clothes     60  10     G
+ThiefCL  Thief Clothes     30   4 R  K
+WolfSkin                   80  11   B
+WoolRB   Wool Robe         25   2  N    L
+WorldAR  World Armor       80   9      O M       Bomb-damage down 25%(?)
+WorldML  World Mail        75  11 R B O  M
+------------------------------------------------------------------------
+		SHIELD LIST
+------------------------------------------------------------------------
+SHIELD   NAME             DEF WT. WHO CAN USE IT SPELL
+-------- ---------------- --- --- -------------- --------
+Bandage                     5   1 RNBKGOLM
+Bracelet                   12   3  N    L
+BronzSH  Bronze Shield      8   3 RNBKGO M
+Domino                     42   7  N    L
+FlameSH  Flame Shield      38   8 R BKGO M
+Gauntlet                    8   1 RNBKGOLM
+GuardSH  Guard Shield      32  10 RNBKGO M
+Glove                      20   6   B
+HuntGL   Hunt Glove        30   8   B
+IcySH    Icy Shield        30   5 RNBKGOLM
+IronSH   Iron Shield       12   4 R BKGO M
+IronSL   Iron Scale (?)    22   5     G
+LightSH  Light Shield      36  10  N    L
+MaskSH   Mask Shield       65   8 RNBKGOLM
+MetalSH  Metal Shield      16   5 R BKGO M
+MetalSL  Metal Scale       25   5     G
+MystSH   Myst Shield       48   5 R B  O M
+ProSH    Pro Shield        32   5 R BKGO M
+SkySH    Sky Shield        15   1  N
+StarSH   Star Shield       70   2 R BKGO M
+SuedeSH  Suede Shield       2   1 RNBKGOL
+TrapGrd  Trap Guard        40   4    K
+WoodSH   Wood Shield        5   2 R BK
+Wrist                      10   2 RNBKGOLM
+------------------------------------------------------------------------
+HELMET LIST
+------------------------------------------------------------------------
+HELMET   NAME             DEF WT. WHO CAN USE IT SPELL
+-------- ---------------- --- --- -------------- --------
+AgileHT  Agile Helmet      42   1 RNBKGOLM
+Bandana                     5   1 RNBKGOLM
+BronzHT  Bronze Helmet     10   4 R BKGO M
+ChainHT  Chain Helmet      25   8 RNBKGOLM
+CursedHT Cursed Helmet     62  20 RNBKGOLM
+DivingHT Diving Helmet     32   6     G
+DragonHT Dragon Helmet     80   1 R
+EchoHT   Echo Helmet       28   3 RNBKGO
+FaceMask                   35   5 R  K   M
+G-Tiara  Golden Tiara       2   5  N    L
+GaiaMask                   36   4 R B O  M
+GoldHT   Gold Helmet       14   6 RNBKGOLM
+HairBand                    8   2  N    L
+HeadGear                   16   5 RNBKGOLM
+HornHT   Horn Helmet       37   6 R BKGO M
+IcyHT    Icy Helmet        16   6 R B
+IronHT   Iron Helmet       32   6 R BKGO
+LoveHT   Love Helmet       64  10 N
+NiceHT   Nice Helmet        6   3 RNBKGOLM
+PowerHT  Power Helemt      44   3 KG
+ShellHT  Shell Helmet      25   1     G
+SkullHT  Skull Helmet      25  10 RNBKGOLM
+StoneHT  Stone Helmet      48  16        M
+StrawHT  Straw Helmet       2   1 RNBKGOLM
+SuedeHT  Suede Helmet       3   6 RNBKGOLM
+SunHT    Sun Helmet        12   8 R BKGO M
+Tiara                      10   2  N    L
+TideHT   Tide Helmet        0   0 RNBKGOLM
+Turban                     11   1 RNBKGOLM
+Visor                       6   2 R BKGO M
+WolfHT   Wolf Helmet       12   4  B
+------------------------------------------------------------------------
+ETC. ITEMS LIST
+------------------------------------------------------------------------
+Ring     Attack Power + 10. Found in Lake Cave. Weight: 0.
+	Can be used by: Ryu.
+SmartRG  Smart Ring. MAG + 6, INT + 8. Found in Auria. Weight: 0.
+	Can be used by: Ryu, Nina, Bo, Karn, Gobi, Ox
+Rod1     Fishing rod. Can go fishing at certain places on field map.
+	Can be used by: Ryu
+Rod2     Fishing rod. Can go fishing at certain places on field map.
+	Can be used by: Ryu
+Rod4     Fishing rod. Can go fishing at certain places on field map.
+	Can be used by: Ryu
+Rod5     Fishing rod. Can catch heavy items, like Dragon Equipment.
+	Can be used by: Ryu
+Worm     Fishing Bait. Needed in order to catch fish.
+	Can be used by: Ryu
+Worm2    Fishing Bait. Needed in order to catch fish.
+	Can be used by: Ryu
+Urchin   Fishing Bait. Needed in order to catch fich.
+	Can be used by: Ryu
+DreamRG  Dream Ring. Blocks Sleep attacks. Found in Krypt.
+	Can be used by: Ryu, Nina, Bo, Karn, Gobi, Ox
+SilverBR Silver Barrier. Effect: ??? Weight: 0.
+	Can be used by: Ryu, Nina, Bo, Karn, Gobi, Ox
+SkullRG  Skull Ring. Defence up 10. Weight: 0.
+	Can be used by: Ryu, Nina, Bo, Karn, Gobi, Ox
+MystSF   Don't know what it stands for or does. Weight: 0.
+	Can be used by: Nina, Bleu
+Sash     Attack up 10.
+	Can be used by: Ryu, Nina, Bo, Karn, Gobi, Ox, Bleu, Mogu
+Clog     ACT increase by 10.
+	Can be used by: Ryu, Nina, Bo, Karn, Gobi, Ox, Bleu, Mogu
+Shell    Fishing Bait.
+	Can be used by: Ryu
+RubyBR   Ruby Barrier. Unknown effect.
+	Can be used by: Nina, Bleu, Mogu
+DarkBR   Dark Barrier. Unknown effect.
+	Can be used by: Karn
+LoveBR   Love Barrier. Recover 1 HP for every step taken.
+	Can be used by: Nina, Bleu
+WindBR   Wind Barrier. Unknown effect.
+	Can be used by: Nina, Bleu
+MagicRG  Magic Ring. Magic and Intelligence up.
+	Can be used by: Nina, Bleu
+
+------------------------------------------------------------------------
+                            ITEMS LIST
+------------------------------------------------------------------------
+ITEM     NAME             EFFECT
+-------- ---------------- ------
+C-Nut    Coconut          Recover 20 HP. A Tonic ingredient.
+Herb                      Recover 50 HP.
+Srdine   Sardine          Recover 50 HP.
+Apple                     Recover 60 HP.
+Meat                      Recover 70 HP for all party members.
+Sole                      Recover 100 HP.
+Trout                     Recover 150 HP and remove poison status.
+WMeat    Wild Meat        Recover full HP for all party members.
+Antdt    Antidote         Remove Poison condition.
+Antler                    Remove Poison condition.
+Mackrl   Mackeral         Remove Poison condition.
+T-Drop   Tear Drop        Remove Zombie condition.
+Vitamn   Vitamin          Cures hiccups of man on 2nd floor of Auria
+                           Shop, but any other use is unknown.
+Charm                     Return condition to normal.
+M.Drop   Moon Drop        Return condition to normal and recover all HP.
+Life     Life Potion      Bring member back to life with 1 HP.
+Life2    Life Potion 2    Bring member back to life with full HP/AP.
+Melon                     Recover full HP.
+Cure     Cure Potion      Recover full HP for one character.
+Cure2    Cure Potion 2    Revover full HP for the entire party.
+Acorn                     Recover 20 AP.
+W-Ant    White Antler     Recover 100 AP. A Tonic ingredient.
+Mrbl1    Marble 1         Creates one "Slam" hit.
+Mrbl2    Marble 2         Creates one "Slam" hit.
+Mrbl3    Marble 3         Can walk around without fighting enemies.
+P-Fish   Poison Fish      Poisons a party member. A Tonic ingredient.
+Smoke                     100% chance of escaping a battle, except boss.
+F-Stn    Fire Stone       Pillar of flame attacks enemy. (Flame magic)
+B-Stn    Bolt Stone       Lightning bolt attacks enemy. (Fry magic)
+C-Stn    Cold Stone       Ice ball attacks enemy. (Frost magic)
+DkKiss   Dark Kiss        Kills enemy, if it works. (Rub magic)
+S-Ptn    Strength Potion  Increase Strength by 1 point.
+V-Ptn    Vigor Potion     Increase Vigor by 1 point.
+W-Ptn    Wisdom Potion    Increase Wisdom by 1 point.
+A-Ptn    Agility Potion   Increase Agility by 1 point.
+L-Ptn    Luck Potion      Increase Luck by 1 point.
+ProtnA   Protein A        Increase Attack power during battle (ATK-Up)
+ProtnB   Protein B        Increase Attack power by larger amount.
+HrGlas   Hourglass        Move time forward 12 hours.
+D-Hrt    Dragon Heart     Does lots of damage to any Dragons.
+                           Unfortunately, this also affects Ryu. Go to
+                           Tunlan if you use it, and need a new one.
+------------------------------------------------------------------------
+		SPECIAL ITEMS LIST
+------------------------------------------------------------------------
+E-Key    Earth Key        First Goddess Key. Use in battle to create an
+                           earthquake-attack (3.5 magic)
+I-Ore    Iron Ore         Give to Blacksmith in Tantar.
+Map                       While on field, press START to see the map.
+Remedy                    Heals the King of Winlan.
+Saw                       Cuts down tree so you can enter Forest of
+                           Despair.
+WtrJr    Water Jar        Fill with water to save Romero's soil. Also,
+                           refill it, and you can revive all dead
+                           members, and heal all characters HP, AP, and
+                           condition.
+Tablet                    Can enter Agua.
+KngKey   King Key         Second Goddess Key. Can operate Stone Robot.
+Key                       Opens door in Lake Cave.
+Pouch                     Can take to Bleak Inn, and get 5000 GP one
+                           time.
+G-Bar    Gold Bar         Get in Auria. Trade for Icicle and GnPwder.
+Icicle                    Can enter the desert.
+Fife                      Use to create bridge into Krypt.
+Book                      It's about the secrets of thieves.
+DkKey    Dark Key         Third Goddess Key. Make it nighttime anytime.
+Mirror                    Summon ghost of Alena from the Nether World.
+LtKey    Light Key        Fourth Goddess Key. Make it daytime anytime.
+GnPwder  Gunpowder        Blow up rocks blocking exit of North Cave.
+Goods                     Recieve in Gant. Bring it to Prima. Contains
+                           the Gills.
+Gills                     The entire party can travel underwater.
+Egg                       GrimFowl's Egg. Needed to enter Nabal Castle.
+Statue                    Can enter town of Wisdon.
+OldEgg                    Drop it in the Ocean Volcano.
+Sphere                    Gobi can turn into the Big Fish underwater.
+                           Press A to do it. You aren't attacked while
+                           in Big Fish form.
+Slab                      Tells you to search the Cleansing Water Spring
+                           for the Agni spell.
+M-Cura   Mouse Cura       Return to normal from Mouse condition.
+G. Fly   Gold Fly         Food for frogs.
+Oil                       Healing tonic for Nicholie in Gust.
+Cowl                      You can talk to the people of Tunlan.
+Maestro                   You can talk to the people of Tunlan, and they
+                           will understand.
+Bolster                   You can enter a dream.
+SkyKey                    Fifth Goddess Key. Unfreezes the town of
+                           Spring.
+Fruit                     Fruit of the Holiday Tree. Reminds Cerl about
+                           Alan's love for her.
+TmKey    Time Key         Sixth Goddess Key. Returns time to normal in
+                           Carmen.
+Root                      An ingredient for the Tonic.
+Tonic                     A cure for amnesia.
+Pass                      You can enter the town of Scande.
+B-Part   Broken Part      It is broken. Fix it in Gant.
+Parts                     You can fix the elevator in Scande.
+List                      A list of weapons.
+Wtzit    What's It?       A strange item, female collector doesn't know
+                           what it is.
+Note1                     "This is a tool, not a weapon." (from man)
+Note2                     "Be my friend." (from woman)
+I-Claw   Iron Claw        Mogu can dig your way into Obelisk.
+
+------------------------------------------------------------------------
+		BOSSES
+------------------------------------------------------------------------
+RECOMMENDED LEVEL is what Experience Level you should be at in order to
+defeat the boss.
+HP is a rough guess of how many Hit Points the boss has.
+SPELLS is which spells the boss casts.
+Frog - RECOMENDED LEVEL: 5
+  Just fight him with your weapon, and use Herbs to keep your HP
+  above 15 points.
+	HP - about 200   SPELLS: None.
+
+Knight (Nanai) - RECOMMENDED LEVEL: 8.
+  First, use the B-Stn and F-Stn to do 120 points of damage. Then
+  fight him with weapons. You get the first move in each round, so
+  use your Herbs the moment your HP drops below 20.
+	HP - about 360   SPELLS: Spark, Cura
+
+(Auria) - Not much challenge here. You can probably just lash out
+  with your weapons.
+	HP - 450         SPELLS: Spark
+
+Morte - RECOMMENDED LEVEL: 6 (Nina)
+  Just fight him, while keeping your HP up.
+	HP - 120         SPELLS: None
+
+Mortea - RECOMMENDED LEVEL: 7
+  First, have Nina cast "ATK-Up" on both Soldiers. Then fight him,
+  and have Nina use the E-Key.
+	HP - 240         SPELLS: None
+
+Wizard (Nina)
+  You can't beat him with Nina and the Soldiers.
+
+Wizard (Ryu) - RECOMMENDED LEVEL: 9
+  Equip the Rang first. If Wizard casts Fort on himself twice,
+  he'll be able to dodge your next attack.
+	HP - 185         SPELLS: Fort, Cold, Spark
+
+Pog - RECOMMENDED LEVEL: 11
+  Have Nina cast Fort on both herself and Ryu. Then have Ryu fight
+  with the LongSD. Nina should use the E-Key.
+	HP - 275         SPELLS: None.
+
+General - RECOMMENDED LEVEL: 11
+  First, have Nina cast Fort on all three party members. Then cast
+  ATK-Up on Ryu, while Ryu fights. Have Nina use the E-Key, and Bo
+  should cast Fry.
+	HP - 280         SPELLS: None.
+
+Wisp - RECOMMENDED LEVEL: 12
+  Have Nina cast Fort on all 3 party members, and ATK-Up on Ryu.
+  Once again, Bo should cast Fry and Nina should use the E-Key.
+	HP - 700         SPELLS: None.
+
+Captain - RECOMMENDED LEVEL: 13
+  Use the same strategy as the last two bosses.
+	HP - 230         SPELLS: None.
+
+Gremlin - RECOMMENDED LEVEL: 15
+  First, have Nina cast Fort on everybody, and ATK-Up on Ryu and
+  Bo. Now, have Bo cast Fry until his AP runs out, then use any
+  Stones you've got. You'll probably need to use your Life2 items
+  during this battle. This is a tough fight.
+	HP - 1200        SPELLS: None.
+
+Talon - RECOMMENDED LEVEL: 15
+  Just use the E-Key repeatedly until he dies. Keep your HP above
+  20 and you'll do fine.
+	HP - 700         SPELLS: None.
+
+SandWorm - RECOMMENDED LEVEL: 17
+  Have Ryu test out his SnoDr powers on this boss. As always, Nina
+  should use Fort quickly. Bo should cast Frost, and use Acorns if
+  his AP runs low.
+	HP - 1800        SPELLS: None.
+
+EyeSpy - RECOMMENDED LEVEL: 18
+  Have Ryu turn into the ThnDr. Have Nina use Fort. Bo should cast
+  Fry. Nina should cast ATK-Up on Bo, for when his AP runs out.
+  Nina should use the E-Key to attack.
+	HP - 1650        SPELLS: LStorm
+
+Cloud - RECOMMENDED LEVEL: 19
+  Nina should cast Fort on all except Ryu, then cast ATK-Up on
+  Karn and Bo. Bo should cast Frost. Nina should use the FlameRP,
+  as an Item, to cast F.Ball. Have Ryu morph into the SnoDr. The
+  only thing Karn can do is fight.
+	HP - 1500        SPELLS: 5.5, Fry, Flame
+
+Octo - RECOMMENDED LEVEL: 20
+  Nina should cast Fort on everybody, and cast ATK-Up on everybody
+  except Ryu. Ryu should use ThnDr form. Nina should use any B-Stn
+  Items. Bo should cast Fry, and Karn should fight.
+	HP - 1600        SPELLS: None
+
+Squid - RECOMMENDED LEVEL: 21
+  Fight Squid much like his brother, Octo.
+	HP - 1225        SPELLS: None
+
+Morteo - RECOMMENDED LEVEL: 21
+  Have Ryu morph into FlmDr. Bo should cast Flame. Nina is best
+  using the Zom1 spell. Have Gobi cast EbbX.
+	HP - 1450        SPELLS: I don't think he has any.
+
+Toad - RECOMMENDED LEVEL: 22
+  Have Ryu attack with his ThnDr form. Have Nina cast ATK-Up on Ox,
+  then use the FlameRP as an item to cast F.Ball. Bo should cast
+  Fry.
+	HP - 2425        SPELLS: None.
+
+GrimFowl - RECOMMENDED LEVEL: 23
+  Have Ryu attack as FlmDr. Have Nina cast Shield and Fort on the
+  party, then use FlameRP as an item. Bo should cast Flame, and
+  have Ox fight.
+	HP - 2000        SPELLS: Flame
+
+SlimeX - RECOMMENDED LEVEL: 24
+  These aren't much of a threat. Just fight them with your best
+  stuff.
+	HP - 650 each    SPELLS: None
+
+SlimeX (fused) - RECOMMENDED LEVEL: 24
+  Have Ryu use the FlmDr. Have Nina use FlameRP as an item, and
+  make Bo use Flame. Ox must fight.
+	HP - 1200        SPELLS: None
+
+Myst - RECOMMENDED LEVEL: 24
+  Have Nina cast the FortX spell, if she has it. But for sure, cast
+  Shield on everybody, because Myst uses lots of spells. Ryu should
+  use FlmDr, and Bo should cast Flame. Ox must, of course, fight.
+	HP - 1100        SPELLS: F.Ball, LStorm, Chill, Cura2
+
+Pincher - RECOMMENDED LEVEL: 25
+  Have Nina cast the FortX spell on the party. Then have Ryu use
+  ThnDr, Bleu should cast Fry, and Ox should fight.
+	HP - 1200        SPELLS: None
+
+Bain - RECOMMENDED LEVEL: 25
+  Have Ryu use ThnDr form, and attack Bain with it. When your HP
+  reaches about 30, start using Herbs to recover HP.
+	HP - 1800        SPELLS: None
+
+K-Roach - RECOMMENDED LEVEL: 25
+  Have Nina cast FortX on the party. Then just attack with weapons
+  only.
+	HP - 3000 (each) SPELLS: None
+
+RugaX - RECOMMENDED LEVEL: 26
+  Have Nina cast FortX on the party, then use the RageHR as an
+  item. Have Ryu use the IceDgn attack. Bo should cast Frost on
+  RugaX. Bleu should use the Ice spell.
+	HP - 1350        SPELLS: None
+
+G. Fly - RECOMMENDED LEVEL: 27
+  Have Ryu cast BltDgn. Nina should use the RageHR as an item.
+  Bo should cast Fry, and Ox should fight. It would help to use
+  FortX after starting the fight.
+	HP - 1200        SPELLS: None
+
+FlowerX - RECOMMENDED LEVEL: 27
+  Have Ryu activate FirDgn power. Nina should cast FortX, and then
+  use the FlameRP as an item. Bo should cast Flame, and Ox should
+  fight with his weapon.
+	HP - 2800        SPELLS: Poison
+
+HornToad - RECOMMENDED LEVEL: 27
+  Have Ryu cast the BltDgn. Nina is best casting FortX, then use
+  the FlameRP as an item. Bo should cast Fry, and order Bleu to
+  summon the Gale spell.
+	HP - 3600        SPELLS: 3.5
+
+Mothro (without Mogu's Courage) -
+  You can't beat him now. Just challenge him, but immediately run
+  away.
+	HP - 0           SPELLS: Rub, Para
+
+Mothro (with Mogu's Courage)- RECOMMENDED LEVEL: 29
+  Have Nina cast FortX and Shield on all party members. Ryu should
+  use FirDgn. Ox should fight. Blue should use Char or FireX. Nina
+  should use the FlameRP as an item to cast F.Ball.
+	HP - 3400        SPELLS: Poison, Rub, Para
+
+Mote (before Conscionce appears) - RECOMMENDED LEVEL: 31
+  Only attack with weapons. Mote regains his HP in the second part,
+  so don't waste your stuff on him now.
+	HP - 1500        SPELLS: None
+
+Mote (after Conscionce appears) - RECOMMENDED LEVEL: 31
+  Have Nina cast FortX and Shield on the party. When Mote is in his
+  "scrambled" form, use weapons. Bleu should use IceX, but ONLY
+  when Mote is fully formed, into a floating-mushroom type thingy.
+	HP - 8700 (I think) SPELLS: Char, FireX
+
+Cerl - RECOMMENDED LEVEL: 32
+  Have Nina cast FortX on the party. Then use any strong spells
+  you have. Cerl gives up when she loses about 75% of her HP.
+	HP - 2600 (to win) SPELLS: None
+
+Avian - RECOMMENDED LEVEL: 33
+  Have Ryu use the FirDgn power. This should be a rather easy
+  fight.
+	HP - 3000          SPELLS: None
+
+Zog - RECOMMENDED LEVEL: 36
+  Have Nina cast FortX on the party, and Wall on all party members.
+  Bleu should use Comet, and a WtrJr' if needed to recover all AP.
+  Have Ox and Ryu fight. DO NOT use the D-Hrt in this fight. It is
+  best saved for later.
+	HP - 14700         SPELLS: Char, FireX
+
+Sara - RECOMMENDED LEVEL: 37
+  It was naughty of Sara to knock off all your HP before the fight
+  started. Better use CuraX to remedy that problem. Now to
+  reprimand her for her deed. The D-Hrt, if you saved it from
+  before fighting Zog, plus one weapon attack, ought to be an
+  appropiate punishment.
+	HP - 16000         SPELLS: Gale
+
+Goda - RECOMMENDED LEVEL: 39
+  Have Nina cast FortX on the party to increase Defence. He doesn't
+  have any spells, so you don't need to worry about any Magic. But,
+  Bleu should use BoltX on him. Comet may also work, but you'll
+  need a WtrJr' to heal her AP. Ryu should use Rudra power, and
+  Ox should fight. Nina should just do her healing jobs.
+	HP - 10700         SPELLS: None
+
+Jade - RECOMMENDED LEVEL: 39
+  This is a toughie. Ryu should use Rudra. Nina should cast FortX
+  and Wall on the party. Bleu should use BoltX. It is as effective
+  as Comet, but uses less AP. You may still need a WtrJr' to heal
+  AP. If you've equipped Bleu with the EvilCN before the fight, she
+  can gradually recover AP as she swings her weapon. As for Ox, use
+  ATK-Up on him, and just have him fight.
+	HP - 22800         SPELLS: Chill, Rub
+
+Goddess (Crying girl / easy) - RECOMMENDED LEVEL: 40
+  Just hit her with your best weapons. She wont try very hard.
+	HP - 7200          SPELLS: None
+
+Goddess (Crying girl / hard) - RECOMMENDED LEVEL: 40
+  If you want the real ending, use Agni immediately after starting
+  the fight. But, if you don't have it, or you WANT the fake
+  ending, have Ryu use the Rudra attack. Nina should cast FortX and
+  Wall on the party, then use her mainly to heal. She should also
+  cast ATK-Up on Ox. Ox should fight. Bleu should use BoltX or
+  Comet, then use the StarHR as an item, when her AP runs out.
+	HP - 25000         SPELLS: Chill
+
+Goddess (Real form) - RECOMMENDED LEVEL: 40
+  One way to do this is to load up on Cure, then have Ryu use Agni
+  power, and use Cure when his HP runs low. Or else, this is a
+  harder but effective route. Have Nina use FortX and Wall on the
+  party, and ATK-Up on Ox, then heal as needed. Ryu should use the
+  Rudra attack. Bleu should cast BoltX and Comet to attack, then
+  use the StarHR as an item, to cast Comet.
+	HP - 26000         SPELLS: BigCrash
+------------------------------------------------------------------------
+                              ENEMIES
+------------------------------------------------------------------------
+    ENEMY    HP  SPELLS
+    -------- --- ------
+ 1. Slime     12
+ 2. Bulla     20 
+ 3. Flea      15 
+ 4. Creep     25 
+ 5. Beak      14
+ 6. P-Bug      8 Poison (get poisoned)
+ 7. Gloom     12 Spark
+ 8. Spider    40 Poison
+ 9. Zard      35
+10. Zombie    25 RotAway (causes Zombie condition)
+11. Stool     25
+12. S-Rider   25
+13. G-Knight  50
+14. Lancer   ???
+15. Bowman   112
+16. Midget    55
+17. WarHog    50
+18. Mage      85 Bomb, Flare
+19. Ameblob   75 Flare, Cura
+20. Blurb     50
+21. Tronk     40 Hush, Hold
+22. Shadow   100 Curse, Rub
+23. Fly       45
+24. Bully     45 Fry, LStorm
+25. G-Slime  120 Frost
+26. SandClod 100
+27. Cactus    54 Fort
+28. Prickler  90
+29. Scorp     70
+30. Creon    100
+31. E-Chest   45
+32. Fungus    80 3.5
+33. Archer   180
+34. SpearMan 150
+35. CreonX   120
+36. CrawlerX  80
+37. Fishy     65
+38. DogFish  140
+39. R-Slime   66 Hold
+40. M-Scorp   65
+41. Sorcerer 200 Blast, Flame
+42. LancerX  300
+43. Chopper  100
+44. Buzzer   100 Shield, CuraX, Fort
+45. Roach    180
+46. Peril    250 F.Ball (all)
+47. D-Knight 180 Shield
+48. Rogue   2000
+49. Tentacle  60
+50. AmeblobX 400 LStorm
+51. Warlock  250 LStorm
+52. D-Rider   44 Dispel, Cura
+54. Mimic    300 Curse, Hold
+55. Blaze    400 Curse, F.Ball, F.Ball (all)
+56. Zoom     300 Boom, Rub, Chill
+57. Chimera  180
+58. Wraith   220
+59. WraithX  362 Idle, Ag-Up, RotAway
+60. WarHogX  280 F.Ball (all)
+61. M-Flea   100
+62. D-Flea   200 Rub, Hush
+63. Golem   3000
+64. BlazeX  2500 Chill, 9.5, BoltX
+65. Flower   700 Hush, Hold, Cura
+66. Phoenix  240
+67. Natlius  200
+68. FireHead 240 FortX, FireX
+69. Widow    300
+70. DogFishX 300
+71. BowManX  110
+72. Soldier  600
+73. Entity   700 Shield, Chill (looks like "Frost" Spell), Ag-Up
+74. Claw    2500 Fort, ATK-Up
+75. Ghoul    280 RotAway
+76. ICU     2500 Blast, Hold, Chill
+77. PincherX2500 Dispel, Hold, RotAway
+78. Gargoyle2200
+79. Ruga    3500
+
+------------------------------------------------------------------------
+                            WHITE SPELLS
+------------------------------------------------------------------------
+These are which spells Nina can use, and what Experience Levels she
+learns them at.
+
+NOTE: Bo is also able to cast "Cura"
+NOTE: Ox is also able to cast "Cura3" and "Heal"
+
+LEVEL SPELL  AP EFFECT
+----- ------ -- ------
+LV. 5 Cura    3 Recover 50 HP.
+LV. 5 Fort    6 Increase Defence for one character.
+LV. 5 Heal    5 Recover abnormal conditions (except death)
+LV. 6 Lk-Up   6 Luck Up. Increase Fate rating.
+LV. 7 ATK-Up 15 Attack Up. Increase Attack power
+LV. 9 Cura2   6 Recover 100 HP.
+LV.11 Hold    8 Puts one enemy to sleep.
+LV.12 Ag-Up   8 Increase ACT (speed).
+LV.13 Warp    2 Return to a town you've been to.
+LV.14 Zom1    5 Does 120 HP damage to undead enemies.
+LV.15 Cura3  15 Recover 250 HP.
+LV.17 Renew  10 Bring party member back to life.
+LV.19 Idle    5 Lowers enemy's ACT rating.
+LV.21 Shield  8 Huge defence against magic.
+LV.23 Cura4  20 Recover HP completely.
+LV.24 Zom2   15 Does 180 HP damage to undead enemies.
+LV.26 FortX  14 Increase the Defence of all party members.
+LV.28 Hush    8 Block an enemy's spells.
+LV.30 Dispel 14 Protect a party member from magic.
+LV.34 RenewX 30 Bring party member back to life with full HP.
+LV.37 CuraX  20 Recover 250 for all party members.
+LV.41 Wall   15 If affected party member is hit by spell, no damage, and
+                 spell is reflected back to caster.
+LV.46 ZomX   35 Does 300 HP damage to all undead enemies.
+
+------------------------------------------------------------------------
+BLACK SPELLS
+------------------------------------------------------------------------
+These Experience Levels apply to Bleu.
+
+NOTE: Bo can also use Flare, Spark, Cold, Fry, Flame, Frost
+
+LEVEL SPELL  AP EFFECT
+----- ------ -- ------
+LV.19 Exit   20 Escape from a dungeon.
+LV.19 Flare   3 Small flame attack to one enemy.
+LV.19 Spark   4 Weak lightning bolt attack to one enemy.
+LV.19 Cold    5 Ice stone to one enemy.
+LV.19 3.5     3 Mild earthquake that damages all enemies.
+LV.19 Para   10 ???
+LV.19 Bomb    5 Small explosion to one enemy.
+LV.19 Sap     1 Steal HP from one enemy.
+LV.19 Warp    2 Return to a town you've already been to.
+LV.19 Rub    20 Possible to destroy an enemy in one hit.
+LV.19 Flame   6 Column of flame damages one enemy.
+LV.19 Fry    10 Big lightning bolt attack to one enemy.
+LV.19 Frost   9 Ice ball attack to one enemy.
+LV.19 5.5     8 Strong earthquake that damages all enemies.
+LV.19 Boom   11 Big explosion to one enemy.
+LV.20 F.Ball  9 FireBall. Big fireball attacks one enemy.
+LV.21 LStorm 11 Lightning Storm. Lightning bolts attack all enemies.
+LV.22 Chill  12 Snowstorm damages all enemies.
+LV.23 Flee   20 Except bosses, you are guaranteed escape from battle.
+LV.24 9.5    15 Severe earthquake that damages all enemies.
+LV.25 Blast  20 Huge explosion to one enemy.
+LV.26 Gale   24 Many lightning bolts damage all enemies.
+LV.28 Ice    30 Iceballs attack all enemies.
+LV.29 Char   36 Fire dragon strikes all enemies.
+LV.30 Nova   40 Small supernova attacks all enemies.
+LV.31 IceX   48 Gigantic ice ball to one enemy.
+LV.32 FireX  30 Pillar of flame burns one enemy.
+LV.33 Drain   2 Steal AP from one enemy.
+LV.35 BoltX  30 Giant lightning bolt attacks all enemies.
+LV.37 NovaX  54 Largest explosion that attacks one enemy.
+LV.40 Comet  75 Asteroid storms all enemies.
+
+------------------------------------------------------------------------
+UNDERWATER MAGIC
+------------------------------------------------------------------------
+These spells can be used by Gobi. They can only be used when underwater.
+
+LV    SPELL  AP EFFECT
+----- ------ -- ------
+LV.15 Ebb     3 Small pack of small green fish attacks all enemies.
+LV.15 EbbX    5 Large pack of small green fish attacks all enemies.
+LV.16 Eco     8 Small pack of large blue fish attacks all enemies.
+LV.17 EcoX   10 Large pack of large blue fish attacks all enemies.
+
+------------------------------------------------------------------------
+DRAGON ATTACKS
+------------------------------------------------------------------------
+The Dragon Attacks can by used by Ryu. He cast Spells as his regular
+attack while in Dragon form, and the change lasts until the end of the
+battle, or he uses "Revert" (from spell list).
+
+SPELL  NAME OF DRAGON AP EFFECT
+------ -------------- -- ------
+SnoDr  Snow Dragon     7 Attack using "Frost" spell.
+FlmDr  Flame Dragon   10 Attack using "Flame" spell.
+ThnDr  Thunder Dragon 12 Attack using "Fry" spell.
+IceDgn Ice Dragon     20 Attack using "IceX" spell.
+FirDgn Fire Dragon    27 Attack using "Char" spell.
+BltDgn Bolt Dragon    30 Attack using "Gale" spell.
+GldDgn Gold Dragon    40 Attack using "ZomX" spell. (750 damage)
+Rudra                 50 Squadron of mini-dragons to all enemies.
+Agni                  60 Earthquake & lightning do 999 damade to all
+                          enemies.
+
+------------------------------------------------------------------------
+TRANSFORMATION MAGIC
+------------------------------------------------------------------------
+These are Katn's Transformation Spells. Cancel effects with the "Revert"
+command. You can't use the "Fused" characters.
+
+SPELL LOCATION    AP EFFECT
+----- ----------- -- ------
+Shin  Gant        10 Merge Bo & Gobi into an archer that shoots arrows
+                      faster than Bo, so you have better success at
+                      hunting.
+Debo  Gust        15 Merge Ox & Gobi into a mermaid warrior of the seas.
+                      Strong fighter, but only works underwater and must
+                      use "Revert" command to exit ocean.
+Doof  N of Camlon 25 Merge Bo & Ox into a giant with immense strength.
+                     You can push heavy objects.
+Puka  Bleak       40 Merge Bo, Ox & Gobi into a flying goblin that is
+                      very strong. You can break the Dragon Seals on the
+                      sides of cliffs.
+
+------------------------------------------------------------------------
+COPYRIGHT
+------------------------------------------------------------------------
+I wrote this guide all by myself. Breath of Fire is a trademark of
+Capcom. The English version was released by SquareSoft. Copyright 1993,
+1994 Capcom Co., Ltd.
+

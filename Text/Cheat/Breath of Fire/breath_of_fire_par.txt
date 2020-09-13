@@ -1,0 +1,517 @@
+                    -------------------------------
+                              PAR CODE GUIDE
+                            BREATH OF FIRE SNES
+                    -------------------------------
+
+
+VERSION 2 BY IVAN FERREL
+03/12/2002
+IvanFerrel@hotmail.com
+
+--------
+Contents
+--------
+1 Disclaimer
+2 PAR Codes
+3 Legal stuff
+4 Thanks
+
+------------
+1 Disclaimer
+------------
+I'm not responsible for what happens if any use the codes
+and cause damage to your game of course if used the way discribe
+here nothing bad happens
+
+-----------
+2 PAR Codes
+-----------
+Note:
+*Move the character you want to levelup to position 1,2 or 3
+
+7e1090 00  =No random battles
+7e0fb1 ff  =65535 exp gain in battle.
+7e5021 ff  =Max Money
+7e1056 ff  =Character position 1 level 99 1 battle
+7e10f6 ff  =Character position 2 level 99 1 battle
+7e1196 ff  -Character position 3 level 99 1 battle
+
+Note:
+*Item                             Type is 01
+*Wepons                           Type is 11
+*Armor,Shields,Helmets,Rings,etc  type is 21
+
+*The number 1 in the end of the type code is the quantity of the items.
+*In Weapons,Armors,Shields,Helmets,Rings,etc leave the number 1.
+*You can change the quantity of the items from 1 to 9
+
+----------------------------------
+Item Codes
+7e5140 XX =Item Digit
+7e5141 XX =Item type,Item Quantity
+----------------------------------
+
+Example:
+For the DragonHt put the code:
+
+        7e5140 8a=DragonHT
+
+Now put the code for the Item Type in this case a Helmet 21
+
+        7e5141 21=Armor,Shields,Helmets,Rings,etc
+
+-Digits for Items:
+
+                  Description
+08 Herb           This item recovers some HP.
+09 Cure           This item recovers some HP.
+0a Antdt          This works as an Antidote for poison.
+0b Acorn          This item will recover AP.
+0c M.Drop         The party will return to normal and the members will                         recover all HP.
+0d T.Drop         This items changes zombies back to normal.
+0e Charm          You'll return to normal.
+0f Life2          Everything will return to normal.
+10 Mrbl1          This will produce one perfect hit.
+11 Mrbl2          This will produce one perfect hit.
+12 Mrbl3          You can travel while avoiding enemies whit this item.
+13 Whskrs         The use of this item is pretty obvious, it's just what the                   name suggests.
+14 Worm           This is fishing bait.
+15 Worm2          This is fishing bait.
+16 Shrimp         This is fishing bait.
+17 Urchin         This is fishing bait.
+18 Shell          This is fishing bait.
+19 Apple          This item will recover some HP.
+1a ProtnA         Your attack power will increase temporarily when you use                     this item.
+1b Antler         This works as an antidote for poison.
+1c W.Meat         This item will recover the HP for all party members.
+1d Life           This will put you back in to fighting shape.
+1e Nails          The use of this item is pretty obvious, it's just what the                   name suggests.
+1f Meat           This item will recover the HP for all party members.
+20 B.stn          You can use this item during battle.
+21 F.stn          You can use this item during battle.
+22 C.stn          You can use this item during battle.
+23 Smoke          You can use this item during battle.
+24 DKkiss         You can use this item during battle.
+25 Cure2          This item recovers some HP.
+26 ProtnB         You can use this item during battle.
+27 Sash           This is a mysterious item.
+28 W.ptn          Your wisdom will increase.
+29 S.ptn          Your strength will increase.
+2a HrGlass        This item switch night and day.
+2b ExpBug         The use of this item is pretty obvious, it's just what the                   name suggests.
+2c Slab           It's written in an ancient language "Where the mystic water
+                  lies, the ultimate power sleeps".
+2d Lifter         This is a mysterious item.
+2e E.key          This has a connection to the goddess Tyr.
+2f ClnWtr         The use of this item is pretty obvious, it's just what the                   name suggests.
+30 Coach          Only a very strong person can pull the coach
+31 Clog           The agility for the character wearing this item will                         increase.
+32 A.ptn          Your agility will increase.
+33 L.ptn          Your luck will increase.
+34 V.ptn          Your vigor will increase.
+35 Dr.Soul        The use of this item is pretty obvious, it's just what the                   name suggests.
+36 DrWarp         The use of this item is pretty obvious, it's just what the                   name suggests.
+37 PlceBo         The use of this item is pretty obvious, it's just what the                   name suggests.
+38 Remedy         The use of this item is pretty obvious, it's just what the                   name suggests.
+39 WtrJr          The mysterious power of this jar absorbs a great amount of                   water.
+3a Saw            The use of this item is pretty obvious, it's just what the                   name suggests.
+3b Tablet         The secret password to enter Agua is written here.
+3c Ring           This is a symbol of strength and courage.
+3d WtrJr'         The jar contains the cleansing water.
+3e KngKey         Whit this key,you can operate the stone robot.
+3f Paper          The use of this item is pretty obvious, it's just what the                   name suggests.
+40 Oath           The use of this item is pretty obvious, it's just what the                   name suggests.
+41 Pouch          The pouch is secured by a string
+42 GnPwdr         You can use the GnPwdr to blast the blocking boulder.
+43 LtKey          This has a connection to the goddess Tyr.
+44 Dkkey          This has a connection to the goddess Tyr.
+45 Mirror         This mirror allows you to see the world of spirits.
+46 Book           The secret techniques of the great thief are recorded in                     this book.
+47 Srdine         This item recovers some HP.
+48 Mackrl         This works as an antidote for poison.
+49 Sole           This item recovers some HP.
+4a Trout          This fish cures poison an increases HP.
+4b C.fsh          With this you,will return to normal and recover your HP.
+4c Snapr          With this you,will return to normal and recover your HP.
+4d Tuna           With this you,will return to normal and recover your HP.
+4e Puffer         This is a delicious fish.
+4f Rod1           Ryu can equip this item.
+50 Rod2           Ryu can equip this item.
+51 Rod3           Ryu can equip this item.
+52 Rod4           Ryu can equip this item.
+53 Rod5           This rod will improve your fishing luck.
+54 I.Ore          A blacksmith would appreciate this ore.
+55 Key            This key will open the cave.
+56 Vitamn         The use of this item is pretty obvious, it's just what the                   name suggests.
+57 Statue         Whit this statue you can enter wisdon.
+58 OldEgg         This is an ancient egg.
+59 Goods          The goods from Gant are in crates
+5a Egg            This is the egg of a GrimFowl.
+5b Sphere         You've got to become a big fish.
+5c Gills          This will allow you to breath in water.
+5d G.Bar          This is pure gold.
+5e Icicle         This item cool the surrounding area.
+5f Fife           This item reveals hidden bridges.
+60 Pass           You can enter Scande.
+61 B.Part         It is broken.
+62 Parts          This is to be used in Scande Tower.
+63 D.Hrt          This is a legendary weapon.
+64 Map            Push the start button to see the world.
+65 List           There are many weapons listed.
+66 Wtzit          This is a mysterious item.
+67 Note1          It says "It's a digging tool".
+68 Note2          It says "Please be my friend?".
+69 I.Claw         The Iron Claw allows you to dig into hard surfaces.
+6a TmKey          This has a connection to the goddess Tyr.
+6b B.Rang         This item is quite rare,but it is broken.
+6c SkyKey         This has a connection to the goddess Tyr.
+6d Cowl           This item will help you understand any language.
+6e Bolster        This will allow you you to creep into people's dreams.
+6f Maestro        This melody communicates whit your heart.
+70 G.Fly          The use of this item is pretty obvious, it's just what the                   name suggests.
+71 Oil            This is an ingredient for a tonic.
+72 M.cura         This is medicine.
+73 Melon          This item will recover some HP.
+74 Fruit          This is a strange fruit.
+75 P.Fish         This is an ingredient for a tonic.
+76 Root           This is an ingredient for a tonic.
+77 C.Nut          This is an ingredient for a tonic.
+78 W.Ant          This is an ingredient for a tonic.
+79 Tonic          This is medicine.
+7a Herbx9         This item recovers some HP.
+7b Antdx9         This works as an Antidote for poison.
+7c Dropx9         This items changes zombies back to normal
+7d Chrm           You'll return to normal.
+7e Curex9         This item recovers some HP.
+7f Acrnx9         This item will recover AP.
+
+
+-Digits for Weapons:
+
+    Weapons        Defense Power    Weight     Who can equip/use it
+00 Dirk                 5             1        Ryu (One Handed)
+01 BronzSD             12             3        Ryu (One Handed)
+02 Sabre                8             2        Ryu (One Handed)
+03 Scythe              20             3        Ryu (One Handed)
+04 LongSD              26             4        Ryu (One Handed)
+05 DragonSD           110            20        Ryu (One Handed)
+06 PowerSD             62             8        Ryu (One Handed)
+07 WingSD              96             8        Ryu (One Handed)
+08 EmporSD            255             1        Ryu (One Handed)
+09 BrokenSd            42            15        Ryu (One Handed)
+0a Attack Power       110             8        Ryu (One Handed)
+0b FlameSD            122            10        Ryu (One Handed)
+0c Sicle               50             6        Ryu (One Handed)
+0d BroadSD             34             5        Ryu (One Handed)
+0e MystSD             100             3        Ryu (One Handed)
+0f Dummy               70             3        Ryu (One Handed)
+
+10 ShortRP              5             1        Nina (One Handed)
+11 Rapier              10             4        Nina (One Handed)
+12 IronRP              14             5        Nina (One Handed)
+13 PoisonRP            20             5        Nina (One Handed)
+14 LightRP             10             2        Nina (One Handed)
+15 AttackPower        255             0        Nina (One Handed)
+16 FlameRP             28             5        Nina (One Handed)
+17 WingRP              34             2        Nina (One Handed)
+18 BronzRP              7             2        Nina (One Handed)
+19 EvilRP              55             7        Nina (One Handed)
+1a ThundrRP            46             6        Nina (One Handed)
+1b AttackPower        255             0        Nina (One Handed)
+1c LoyalRP             64             6        Nina (One Handed)
+1d PowerRP             82             0        Nina,Ryu (One Handed)
+
+1e IronHR              45             8        OX (One Handed)
+1f SpineHR            120            15        Ox (One Handed)
+20 Club                30             6        Ox (One Handed)
+21 GiantHR             60            12        Ox (Two Handed)
+22 FlameHR            120             8        Ox (Two Handed)
+23 AttackPower        100            13        Ox (Two Handed)
+24 RageHR              75             8        Ox (One Handed)
+25 Attack Power       160             2        Ox (One Handed)
+26 Mallet             255             1        Ox (One Handed)
+27 StarHR             210             8        Ox (one Handed)
+
+28 Stick                5             1        Bleu (One Handed)
+29 Cane                 8             2        Bleu (One Handed)
+2a BoneCN              14             4        Bleu (One Handed)
+2b EvilCN              20             6        Bleu (One Handed)
+2c AttackPower         48             6        Bleu (One Handed)
+2d IcyCN               30            10        Bleu (One Handed)
+2e AttackPower         50             0        Bleu (One Handed)
+2f GlownCN            100             8        Bleu (One Handed)
+
+
+31 Pole                12             2        Gobi (One Handed)
+32 Pike                24             4        Gobi (One Handed)
+33 Javelin             34             3        Gobi (One Handed)
+34 OldSP               42             5        Gobi (One Handed)
+35 HeroSP              56             4        Gobi (One Handed)
+36 Trident             74             6        Gobi (One Handed)
+37 Attack Power        82             5        Gobi (One Handed)
+38 Sleeper            100             8        Gobi (One HAnded)
+
+
+3a DigCW               42             2        Mogu (Two Handed)
+3b RustCW              60             4        Mogu (Two Handed)
+3c IronCW              74             3        Mogu (Two Handed)
+3d IcyCW               88             3        Mogu (Two Handed)
+3e Attack Power       100             3        Mogu (Two Handed)
+3f MystCW             120             1        Mogu (One Handed)
+
+
+41 ThrowDR             20             1        Karn (One Handed)
+42 Dagger              32             2        Karn (One Handed)
+43 Dart                46             2        Karn (One Handed)
+44 Tri-DR              54             6        Karn (One Handed)
+45 PowerDR             66             7        Karn (One Handed)
+46 FlameDR             74             7        Karn (One Handed)
+47 SilverDR            10             6        Karn (One Handed)
+48 Attack Power        86             8        Ryu,Karn (One Handed)
+49 Attack Power       100             8        Karn (One Handed)
+4a IcyDR               75             9        Karn (One Handed)
+4b Attack Power       126            14        Karn (One Handed)
+4c DarkDR             140             1        Ryu,Karn (One Handed)
+4d Attack Power       255             6        Ryu,Karn (One Handed)
+
+
+4e BronzBW             14             2        Bo (Two Handed)
+4f ShortBW             20             4        Bo (Two Handed)
+50 Long BW             28             5        Bo (Two Handed)
+51 SteelBW             35             5        Bo (Two Handed)
+52 PoisonBW            42             6        Bo (Two Handed)
+53 SharpBW             54             7        Bo (Two Handed)
+54 MoonBW              66             1        Bo (Two Handed)
+55 JadeBW              80             8        Bo (Two Handed)
+56 Tri-BW              96            12        Bo (Two Handed)
+57 Attack Power       110             8        Bo (Two Handed)
+58 Attack Power       124             8        Bo (Two Handed)
+59 Attack Power       138            14        Bo (One Handed)
+5a DwarfBW            150             1        Bo (One Handed)
+5b HeroBW             220             8        Bo (Two Handed)
+
+
+5d B.Rang              60             2        Ryu (One Handed)
+5e Rang                18             2        Ryu (One Handed)
+5f Tri-Rang           150             2        Ryu (One Handed)
+
+
+
+-Digits for Armor,Shield,Helmet,Ring,etc:
+
+   Armor          Defense Power    Weight      Who can equip/use it
+00 Robe                 2             1        Ryu,Bleu
+01 SuedeCP              5            14        Ryu,Bleu
+02 Dress                8            25        Nina,Bleu
+03 MetalAR             39            10        Ryu,Bo,Ox,Mogu
+04 SilkGN              15             4        Nina,Bleu
+05 Cloth                1             1        All
+06 LightCloth          68             1        Nina,Bleu
+07 Gown                18             1        Nina,Bleu
+08 ArmPad               8            12        Ryu,Bo,Gobi
+09 WolfSkin            80            11        Bo
+0a RangerVT            40             4        Ryu,Bo,Gobi
+0b BronzAR             25             9        Ryu,Bo,Ox,Gobi,Karn,Mogu,Bleu
+0c PlateAR             24             4        Ryu,Bo,Ox,Gobi,Karn,Mogu
+0d DefensePower       104             4        Ryu,Bo,Ox
+0e FlameAR             82            10        Ryu,Mogu
+0f PrisnCL             10             2        All
+11 IcyAR               80            10        Ryu,Bo,Ox
+12 worldML             75            11        Ryu,Bo,Ox,Mogu
+13 DefensePower        70            10        Ox
+14 SpineCL             60            10        Gobi
+15 ThiefCL             30             4        Ryu,Karn
+16 EvilRB              90             1        Nina,Bleu
+17 SuedeGN             10             6        All
+18 SuedeAR             14             7        Ryu,Bo,Ox,Gobi,Karn,Mogu
+19 ChainML             20             2        Ryu,Bo,Ox
+1a IronML              27             9        Ryu,Bo,Ox
+1b WoolRB              25             2        Nina,Bleu
+1c SuedeRB             35             2        Nina,Bleu
+1d LifeAR             115             8        Nina,Bleu
+1e PowerAR             84             8        Nina,Bleu
+1f QuartzAR            50             9        All
+20 AngleAR             76             3        Nina,Bleu
+22 GuruCT              70             0        Bleu
+25 WorldAR             80             9        Ox,Mogu
+26 SageML              25            14        Ryu,Bo,Ox,Gobi,Karn,Mogu
+27 DefensePower        65            16        Ryu,Bo,Ox,Gobi,Karn,Mogu
+28 MystRB              60             8        Ryu,Nina,Bleu
+29 EarthRB             88            18        Ryu,Bo,Ox,Gobi,Karn,Mogu
+2a DefensePower       128            10        Bo,Ox,Gobi,Karn,Mogu,Nina,Bleu
+2b AgileAR             92            10        Nina,Bleu
+2c DefensePower        94            18        Ox
+2d HuntCL              16             4        Ryu,Bo,Karn
+2e ClearCL            100             0        Nina,Bleu
+2f DefensePower       105            18        Gobi
+
+
+
+   Shields        Defense Power    Weight      Who can equip/use it
+30 WoodSH               5             2        Ryu,Bo,Karn
+31 Gauntlet             8             1        All
+32 SuedeSH              2             1        All
+33 GuardSH             32            10        Ryu,Bo,Ox,Gobi,Karn,Mogu,Nina
+34 Bracelet            12             3        Nina,Bleu
+35 IronSH              12             4        Ryu,Bo,Ox,Gobi,Karn,Mogu
+36 BronzSH              8             3        Ryu,Bo,Ox,Gobi,Karn,Mogu
+37 MetalSH             16             5        Ryu,Bo,Ox,Gobi,Karn,Mogu
+38 FlameSH             38             8        Ryu,Ox,Mogu
+3b IronSH              22            15        Gobi
+3c MetalSH             25             5        Gobi
+3e Wrist               10            12        All
+3f IcySH               30             5        All
+40 ProSH               32             5        Ryu,Bo,Ox,Gobi,Karn,Mogu
+41 LoveBR   Etc         0             0        Nina,Bleu
+42 WindBR   Etc         0             0        Nina,Bleu
+43 RubyBR   Etc         0             0        Nina,Bleu,Mogu
+44 DefensePower       110             0        Karn
+45 DarkBR   Etc         0             0        Karn
+46 DefensePower        42             9        Nina
+47 MystSH              48             5        Ryu,Bo,Ox,Mogu
+48 Glove               20             6        Bo
+4a TrapGrd             40            14        Karn
+4b LightSH             36            10        Nina,Bleu
+4c MagicRG  Etc Ring    0             0        Nina,Bleu
+4d Bandage              5             1        All
+4e DefensePower        43             6        Gobi
+4f SilverBR etc         0             0        All
+51 ColdSH              50            15        Ryu,Bo,Ox
+52 HuntGL              30             8        Bo
+53 MaskSH              65             8        All
+54 DragonSH           128             5        Ryu
+55 DefensePower        60           110        Ox
+56 FlameSH             52             5        Ryu,Bo,Ox,Gobi,Karn,Mogu
+
+
+
+   Helmets        Defense power    Weight      Who can equip/use it
+58 SuedeHT              3             6        All
+59 Visor                6             2        Ryu,Bo,Ox,Gobi,Karn,Mogu
+5a HairBand             8             2        Nina,Bleu
+5b Tiara               10             2        Nina,Bleu
+5c ChainHT             25             8        All
+5d G.tiara              2             5        Nina,Bleu
+5e EchoHT              28             3        All
+5f IronMask            30             7        Ox
+62 StoneHT             48            16        Mogu
+63 GoldHT              14             6        All
+64 FaceMAsk            35             5        Ryu,Karn,Mogu
+65 AgileHT             42             1        All
+66 NiceHT               6             3        All
+67 MystSF etc           0             0        Nina,Bleu
+68 DivingHT            32             6        Gobi
+69 GaiaMask            36             4        Ryu,Ox,Mogu
+6a Headgear            16             5        All
+6b CursedHT            62            20        All
+6c ShellHT             25             1        Gobi
+6d StrawHT              2             1        All
+6e IronHT              32             6        Ryu,Bo,Ox,Gpbi,Karn,Mogu
+70 TideHT               0             0        All
+71 SkullHT             25            10        All
+72 PowerHT             44             3        Gobi,Karn
+73 Domino              42             7        Nina,Bleu
+74 HornHT              37             6        Ryu,Bo,Ox,Gobi,Karn,Mogu
+75 Bandana              5             1        All
+76 Turban              11             1        All
+78 LoveHT              64            10        Nina
+7a DefensePower       110             0        All
+7c BronzHT             10             4        Ryu,Bo,Ox,Gobi,Karn,Mogu
+7e SunHT               12             8        Ryu,Bo,Ox,Gobi,Karn,Mogu
+7f WolfHT              12             4        Bo
+80 IcyHT               16             6        Ryu,Bo,Ox
+84 StarSH     Shield   70             2        Ryu,Bo,Ox,Gobi,Karn,Mogu
+85 HeroRG   Etc Ring    0             0        Ryu
+86 SkullRG  Etc Ring   10             0        All
+87 SkySH      Shield   15             1        Nina
+8a DragonHT            80             1        Ryu
+8b DragonAR   Armor   110             0        Ryu
+8c SmartRG  Etc Ring    0             0        All
+8d DreamRG  Etc Ring    0             0        All
+
+
+
+Character Position Chart (courtesy of Belgarion)
+
+1-----5
+2-----6
+3-----7
+4-----8
+
+
+           Char 1       Char 2       Char 3       Char 4       Char 5       Char 6
+Max HP     7E104CE7     7E10ECE7     7E118CE7     7E122CE7     7E12CCE7     7E136CE7
+           7E104D03     7E10ED03     7E118D03     7E122D03     7E12CD03     7E136D03
+
+HP         7E104EE7     7E10EEE7     7E118EE7     7E122EE7     7E12CEE7     7E136EE7
+           7E104F03     7E10EF03     7E118F03     7E122F03     7E12CF03     7E136F03
+
+Max AP     7E1050E7     7E10F0E7     7E1190E7     7E1230E7     7E12D0E7     7E1370E7
+           7E105103     7E10F103     7E119103     7E123103     7E12D103     7E137103
+
+Ap         7E1052E7     7E10F2E7     7E1192E7     7E1232E7     7E12D2E7     7E1372E7
+           7E105303     7E10F303     7E119303     7E123303     7E12D303     7E137303
+
+Exp        7E10547F     7E10F47F     7E11947F     7E12347F     7E12D47F     7E13747F
+           7E105596     7E10F596     7E119596     7E123596     7E12D596     7E137596
+           7E105698     7E10F698     7E119698     7E123698     7E12D698     7E137698
+
+Str        7E1057FF     7E10F7FF     7E1197FF     7E1237FF     7E12D7FF     7E1377FF
+
+Vigor      7E1058FF     7E10F8FF     7E1198FF     7E1238FF     7E12D8FF     7E1378FF
+
+Wisdom     7E1059FF     7E10F9FF     7E1199FF     7E1239FF     7E12D9FF     7E1379FF
+
+Agility    7E105AFF     7E10FAFF     7E119AFF     7E123AFF     7E12DAFF     7E137AFF
+
+Mag        7E105BFF     7E10FBFF     7E119BFF     7E123BFF     7E12DBFF     7E137BFF
+
+Luck       7E105CFF     7E10FCFF     7E119CFF     7E123CFF     7E12DCFF     7E137CFF
+
+Attack     7E105DE7     7E10FDE7     7E119DE7     7E123DE7     7E12DDE7     7E137DE7
+           7E105E03     7E10FE03     7E119E03     7E123E03     7E12DE03     7E137E03
+
+Defense    7E105FE7     7E10FFE7     7E119FE7     7E123FE7     7E12DFE7     7E137FE7
+           7E106003     7E110003     7E11A003     7E124003     7E12E003     7E138003
+
+Int        7E1061FF     7E1101FF     7E11A1FF     7E1241FF     7E12E1FF     7E1381FF
+
+Fate       7E1062FF     7E1102FF     7E11A2FF     7E1242FF     7E12E2FF     7E1382FF
+
+Act        7E1063FF     7E1103FF     7E11A3FF     7E1243FF     7E12E3FF     7E1383FF
+
+Weapon     7E1068XX     7E1108XX     7E11A8XX     7E1248XX     7E12E8XX     7E1388XX
+           7E106911     7E110911     7E11A911     7E124911     7E12E911     7E138911
+
+Shield     7E106AXX     7E110AXX     7E11AAXX     7E124AXX     7E12EAXX     7E138AXX
+           7E106B11     7E110B11     7E11AB11     7E124B11     7E12EB11     7E138B11
+
+Armor      7E106CXX     7E110CXX     7E11ACXX     7E124CXX     7E12ECXX     7E138CXX
+           7E106D11     7E110D11     7E11AD11     7E124D11     7E12ED11     7E138D11
+
+Helmet/Hat 7E106EXX     7E110EXX     7E11AEXX     7E124EXX     7E12EEXX     7E138EXX
+           7E106F11     7E110F11     7E11AF11     7E124F11     7E12EF11     7E138F11
+
+Etc 1      7E1044XX     7E10E4XX     7E1184XX     7E1224XX     7E12C4XX     7E1364XX
+           7E104511     7E10E511     7E118511     7E122511     7E12C511     7E136511
+
+Etc 2      7E1046XX     7E10E6XX     7E1186XX     7E1226XX     7E12C6XX     7E1366XX
+           7E104711     7E10E711     7E118711     7E122711     7E12C711     7E136711
+
+XX in the Equipment codes gets replaced by the item number you wish equipped in that position
+
+
+-------------
+3 LEGAL STUFF
+-------------
+Breath of Fire is property of Capcom
+This PAR Code guide is (c) IVAN FERREL
+
+--------
+4 Thanks
+--------
+Gamefaqs the best site for game information
+Capcom for making the game
+BelGarion for the character codes and the correction in 1 code
+(AKA Lee Lloyd)
+Myself for making the PAR codes IVAN FERREL

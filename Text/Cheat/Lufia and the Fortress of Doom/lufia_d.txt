@@ -1,0 +1,3095 @@
+WELCOME TO LORD LEANDREUS
+100% COMPLETE GUIDE TO:
+
+              /\/\         /\/\  /\/\   /\/\/\/\/\   /\/\   /\/\/\/\/\
+              /\/\         /\/\  /\/\   /\/\/\/\/\   /\/\   /\/\  /\/\
+              /\/\         /\/\  /\/\   /\/\         /\/\   /\/\  /\/\
+              /\/\         /\/\  /\/\   /\/\/\/\     /\/\   /\/\/\/\/\
+              /\/\         /\/\  /\/\   /\/\/\/\     /\/\   /\/\/\/\/\ 
+              /\/\/\/\/\   /\/\/\/\/\   /\/\         /\/\   /\/\  /\/\
+              /\/\/\/\/\   /\/\/\/\/\   /\/\         /\/\   /\/\  /\/\
+                                      and
+
+                              THE FORTRESS OF DOOM
+
+                                  Version 1.2
+
+What's this:
+This is a Faq/walkthrough for the game Lufia and the Fortress of Doom. Here 
+I will put a list of everything in the game. Also, I will write every secret 
+of the game. I like to do "perfect saves" on the games I like, such as this 
+one, so I will put tips for perfection, this inclues all chests of the game, 
+all Dragon Eggs, a complete mosters list, etc, etc...
+
+Who I am:
+My name is Leandro Gueths Dupke, nickname "Lord Leandreus". I live in Brazil, 
+my most frustrating thing was in the times of old and good Snes, I used to 
+read about games in magazines every month, and the games were avaliable here 
+only years later. To have an idea, I began playing Final Fantasy II US, in 
+1993(it was made in 1991). Today things are not this way, at least. The 
+problem now(years ago too) is the money, original stuff is too expensive. As 
+you could guess, I'm a Rpg maniac. I simply love rpgs, I think they are better 
+than any book, movie, or anything. I like too, to take stress away, to punch 
+someone's face at fighting games. Other thing I should tell you is that I like 
+more 2d rpgs than3d. I don't hate the games of today, of course, but I believe 
+the games years ago were made with passion, the people didn't had resouses, so 
+they wanted to make the game best possible and focus more on gameplay than 
+graphics. Today it seems that great companies such as Square only mind about 
+money and make games with awesome graphics and a bad gameplay. Of course, 
+there is some exceptions. I hope poeple notice this in the future.
+
+My e-mail is leandreu@terra.com.br, if you think there's something that might 
+improve this faq, or if you want to speak about rpgs, feel free to e-mail me, 
+and I will answer gladly.
+
+My work:
+This is Copyright® by Leandreus, I made all this by my own. If you use it for 
+any purpose, please give me, Leandro, or Lord Leandreus, the proper credit.
+
+Version:
+- Version 1.0, I made it in October 2000. The furture possible updates 
+are items that monsters carry, and some hidden items, since I missed 7 
+items(last screen of the game tells you this), but I got all the chests.
+
+- Version 1.1, in November 2000 , I fixed some problems with the
+format that had messed up all my lists. Now you can see it clear.
+The tittle was added too.
+I also revised it all, but I'm human you see, if you see any errors, please
+let me know.
+
+- Version 1.2 now, at July 2001. Thanks to some e-mails I received
+I was able to put some info that was missing.
+Thanks to:
+
+Don Petus: This guy has a great sharp eye and sense of exploration, he
+found all the 7 hidden items(got item on last screen)that I didn't
+found. Thanks to him now you all can see the last screen of the game
+with everything perfect, thanks a lot, I really apreciate this.
+------dpettus@i1.net
+
+Celes Destiny: I missed zircon rod on weapon list. Thanks for noticing
+this and warning me. As a perfectionist, the lists here can't be
+uncomplete.
+Another thing, the Sand rose enemy gives hi potion, that was missing
+too.
+------CelesDestiny@compuserve.de
+
+
+-----------------------------******************---------------------------
+
+
+Well, enough of this, let's go to the game:
+
+Lufia & the Fortress of Doom, and Lufia2, Rise of the Sinistrals are, in my 
+opinion, the best games ever created. The story, the features, the gameplay, 
+the graphics, and the MUSIC, are awesome in this game. I will not write about 
+the story here, I think it's far more fun if you see it in the game itself.
+
+Index:
+
+1 - Characters section
+1.1 - Hero
+1.2 - Lufia
+1.3 - Aguro
+1.4 - Jerin
+2 - Hints and tips section
+2.1 - For begginers
+2.2 - For advanced players
+3 - Walkthrough section
+4 - Old cave section
+5 - Dragon Eggs section
+6 - Items section
+7 - Equipment section
+7.1 - Weapon list
+7.2 - Armor list
+7.3 - Shield list
+7.4 - Helmet list
+7.5 - Shoes list
+7.6 - Ring list
+8 - Monsters list
+9 - Boss list
+10 - Game Genie codes
+
+
+1 - Characters section:
+
+The characters you play are equivalent to Maxim's party in the Intro, they are 
+exactly the same except for the spells. The four are all strong, each have 
+their strong and weak points.
+
+1.1 - Hero(equivalent to Maxim):
+
+You choose his name as you start the game. He has good attack power, good 
+defence, average  intelligence and magic resistance. He have some usefull 
+spells, such Valor, Courage, Trick, Fake, etc.
+
+Hero's spells:
+
+Spell name Mp  Level learned  Description
+Strong     3        4         Recover little hp(single)
+Float      2        7         Levitates party to avoid poison marsh
+Drain      3        10        Lowers def. power(single)
+Poison     2        13        Recover from poison(single)
+Statue     3        16        Turns member into stone(single)
+Stronger   5        19        Recover more hp(single)
+Stone      5        22        Recover from statue(single)
+Courage    5        25        Increase def. power(all)
+Champion   8        28        Recover all hp(single)
+Fright     4        31        Puts monters to sleep(all)
+Dread      5        34        Lowers def. power(group)
+Fake       4        37        Increase agility(all)
+Trick      5        39        Increase attack power(all)
+Rally      30       41        Revives with full hp(single)
+Succumb    8        44        Instant death(group)
+Valor      35       47        Recover all hp(all)
+
+
+1.2 - Lufia(equivalent to Selan):
+
+She comes with you after you return from Sheran first time. Lufia has the best 
+attack magic, they do MUCH damage, expecialy if you equip some good rings on 
+her, she have some recover and aid spells too, she also has great magic 
+resistance, but her attack power and defence are low.
+
+Lufia's spells:
+
+Spell name Mp  Level learned  Description
+Flash      2        1         Weak lightning attack(single)
+Awaken     4        1         Recovers from sleep(all)
+Shield     2        3         Increase mag. resistance(single)
+Dew        5        5         Weak water attack(group)
+Strong     3        7         Recover little hp(single)
+Drain      3        9         Lowers def. power(single)
+Deflect    3        11        Silences monsters(group)
+Bang       10       13        Weak explosion attack(all)
+Stronger   5        15        Recover more hp(single)
+Absorb     1        17        Steals mp from monsters(single)
+Fright     4        19        Puts monsters to sleep(all)
+Bolt       7        21        Medium lightning attack(single)
+Water      10       23        Medium water attack(group)
+Courage    5        25        Increases def. power(all)
+Boost      15       27        Recover some hp(all)
+Protect    5        29        Increases mag. resistance(all)
+Blast      15       31        Medium explosion attack(all)
+Perish     4        33        Instant death(single)
+Bounce     5        35        Silences monsters(all)
+Flood      15       37        Strong water attack(group)
+Sunder     20       39        Strong explosion attack(all)
+Thunder    12       41        Strong lightning attack(single)
+Succumb    8        43        Instant death(group)
+
+1.3 - Aguro(equivalent to Guy)
+
+He joins you at Treck, after you visit Guy. Aguro is the best fighter of the 
+party, his attack and defence are better than the hero, but his agility, 
+intelligence and magic resistance are low. But that's the price for having an 
+awesome attack and defence isn't it? Also, later in the game if you equip some 
+stuff on him, it gets better, like Black ring and Might shield.
+He has no spells.
+
+1.4 - Jerin(equivalent to Artea)
+
+She's a half elf and joins you at the Guide station to the Lost Forest. Jerin 
+is awesome, because her bow attacks one group of enemies, and she has lots of 
+usefull spells, like warp and escape, healing spells, and aid spells. Her 
+attack spells are not that good and she already hits one group just by 
+attacking, her attack spells are only usefull when she is at higher levels. 
+She has attack power a little more than Lufia, a defence low, high agility and 
+high intelligence and magic resistance(not as high as Lufia). Might bow, 
+shield and helmet, and white ring are the best things for her.
+   
+Jerin's spells:
+
+Spell name Mp  Level learned  Description
+Spark      6        14        Weak fire attack(group)
+Strong     3        14        Recover little hp(single)
+Warp       8        14        Travel to any visited town instantly
+Escape     8        14        Escape dungeons(useless on towers)
+Poison     2        14        Recover from poison(single)
+Stun       2        14        Recover from paralyse(single)
+Frost      9        14        Weak ice attack(all)
+Absorb     1        16        Steals mp from monsters(single)
+Confuse    3        18        Confuses monsters(group)
+Stronger   5        20        Recover more hp(single)
+Eff        1        *         Travel to Elfrea
+Flame      10       22        Medium fire attack(group)
+Stone      5        24        Recover from statue(single)
+Dead       10       26        Revives with little hp(single)
+Boost      15       28        Recover some hp(all)
+Blizzard   13       30        Medium ice attack(all)
+Mirror     3        32        Reflect spells(single)
+Vulcan     15       34        Strong fire attack(group)
+Champion   8        36        Recover all hp(single)
+Glacier    18       38        Strong ice attack(all)
+Trick      5        40        Increase attack power(single)
+Rally      30       42        Revives with full hp(single)
+Valor      35       46        Recover all hp(all)
+
+* when you finish the blue, green and red towers quest.
+
+Obs: The spells I wrote she learns at level 14 already comes with her when she 
+joins you(she joins you at level 14)
+
+
+2 - Hints and tips section:
+
+2.1 - For beginers:
+
+- Always try to heal yourself more with spells than with items, because you 
+don't spend the items this way, try always to carry the more recovery mp items 
+possible.
+
+- Always check the shops at towns for better equipment, use look option to see 
+which equipment is better to buy.    
+
+- Carry lots of sweet water, some escapes and swing wings(these two are 
+useless after you get Jerin)
+
+- If you know the boss is near, recover yourself
+
+- Explore every single poison marsh of the game(with float spell), because 
+there are lots of items hidden there.
+
+- Beware the cursed equipment, never equip it. Check the equipment section to 
+see which stuff are cursed.
+
+- Jerin always attack the group more numerous, except if they are strong vs. 
+physical attacks
+
+- If you want to run away, make it with smoke ball. Trying without it can be 
+painfull sometimes.
+
+- Explore the towns and castles, there are lots of good stuff hidden in 
+dresses, flowers, etc.
+
+- Save often
+
+
+2.2 For advanced players:
+
+- As soon as you get the ship, you can make a trick to get a Might helmet. Go 
+to the tower of light and explore it to the top. In the chest where was 
+supposed to be the Light key, there's a might helmet. Check the walkthrough 
+section for more details.
+
+- The might equipment is :
+Might sword - Hydra carries
+Might armor - Fire plate carries
+Might helmet - Barient carries(can get on that chest too)
+Might shield - Get at the Dragon shrine, with 8 Dragon Eggs
+Might Bow - Same as the shield
+Try to kill lots of these monsters. Do it as you are leveling up.
+
+- The best thing to get at the Dragon shrine is one Might bow and two Might 
+shields. The level up is completely useless since you can do it yourself, and 
+the potions could be a good choice, but the equipment is too good to lose. The 
+bow is the best for Jerin, and the shield gives you lots of defence and magic 
+resistance, I equip it in Aguro and Jerin.
+
+- The best equipment set for the characters are:
+Hero: Might sword, Might armor, Might helmet, Might shield, Sword shoes, Wave 
+ring.
+Aguro: Might sword, Might armor, Might helmet, Might shield, Sword shoes, 
+Black ring
+Lufia: Cat whip, Clear silk, Silver wrist, Carbo cap, Cat heels, and for 
+normal battles blast ring, for bosses, flash ring.
+Jerin: Might bow, Zircon robe, Might shield, Might helmet, Cat heels, White 
+ring.
+Note: If you get two Might shields and one Might bow at the Dragon shrine, one 
+person can't stay with Might shield. I put the Zircon plate on Hero, because 
+Aguro needs MGR and Jerin needs DEF.
+
+- Another thing you can do when you get the ship is go to Epro and level up 
+around the town. You can stick to get the might equipment from this point 
+already, with Hydras around Epro and Fire plates in the Pirates tower, but, if 
+you like the game chalenging, don't do it.
+
+- When you're at the begginig of the game, the best thing to do with miracles 
+is sell it if you need money. You won't lose it since you can buy it later in 
+Frederia, they are worth 2500 gp.
+
+- Save all power, spell potions etc, to use at the end of the game, this way 
+you can see better who needs what.
+
+- You can do something to get stronger, but it requires lots of patience. Save 
+right before you gain a level, gain it, and write the status you gained. 
+Reset, level up again and the raising stats will be different. Keep doing this 
+until coming the thing you want. However, even I haven't done this too much, 
+it takes too long. You can also do this when using potions that raise status. 
+The save state helps a lot doing this.
+
+- Check the monsters list to see the items monters carry, and kill lots of 
+monsters that have the item you want.
+
+- Notice that the miracle item also revives characters with full hp/mp. Use if 
+you need.
+
+- If you're bored with so many random encounters, there's something you can do 
+to avoid all battles if you're using an emulator. Use a sweet water, save 
+state, walk a little and save again, keep doing this until a battle comes, 
+then load state. If in one square, a battle keeps coming, use sweet water 
+again, or any heal item and continue. You can explore an entire dungeon 
+without any battle this way.
+
+
+
+ 3 - Walktrough section:
+
+Well, here we go. As I said before, I will write this in the simpliest way. I 
+won't write about the history of the game because there's no point doing it. 
+Just in case if someone is lost, or don't know what to do, here is everything. 
+
+Intro:
+
+You start the game as Maxim, the hero's ancestror. Just walk and beat enemies, 
+if you wish. You can take the chests too. It's not necessary, unless you're a 
+perfeccionist like me. All here is a piece o cake, you are at high level, with 
+lots of items and spells.
+
+Bosses: Gades, Amon, Erim, and Daos.
+That's very easy, just attack with Maxim and Guy, While Selan uses 
+thunder(except in Erim), and Artea could attack or use trick spell, and heal 
+with valor spell when needed.
+
+Items:
+Miracle x5
+Power potion x2
+Spell potion x2
+Mind potion
+Speed potion
+Great potion
+
+Alekia:
+
+Let's begin. Here you can speak with the princess Estea at the castle, she 
+gives you 100gp, and buy a dagger, some potions and antidodes at the shop. 
+Don't need to buy cloth helm, you find it in the northwest house, at the 
+dresser.
+
+Items:
+
+City:         Castle:              Weapon Shop:     Armor Shop:
+Dress         Swing wing           Dagger           Dress
+Potion        Escape               Knife            Cloth
+Revive        Revive x2                             Cloth helm  
+Sweet Water   Arrow                                 Sandal
+Cloth Helm    Potion x2
+Power potion  Stuffed Bear                          Item Shop:
+              Bracelet                              Potion 
+              Sweet water                           Antidode
+              Antidode                              Sweet water
+              Dragon Egg (2nd Search)               Arrow    
+
+Just take everything and leave. You can make some level up if you want, and 
+heal at the guy in the temple to the west. Chatam is very near, to north.
+
+Chatam:
+
+Here, talk to the people and rest, if damaged.
+
+Items:                          Item Shop:
+Great potion                    Potion 
+Smoke ball                      Antidode
+Mind potion (thanks D.Petus)    Arrow
+
+Keep north to the caves, there are two entrances:
+
+East entrance:
+200 gp
+Potion
+
+Come here first. Get these items and head for the other entrance:
+
+West entrance:
+Revive
+
+This is the right way, just go trough the cave.
+
+
+Sheran
+
+Once you're out, you can see Sheran. Go there.
+There's nothing to take in the city.
+In the castle take this:
+Potion x4
+Awaken
+Foul Water x2
+Sweet Water x2
+Antidode
+Revive
+Mid arrow
+Arrow x2
+Dragon Egg(3rd Search)
+(there's more later)
+
+Just take everything and leave. Back to Alekia talk to the innkeeper, then 
+with Lufia upstairs. You can speak to the comander and the princess in the 
+castle to see about the history. As you leave the town, Lufia will join you. 
+Buy equipment for her.
+Head for Sheran again. In the cave, get sheran key with the guy.
+
+Sheran - 2nd time
+
+At the throne room, use the key to lower the switch and take the chest(100 
+gp).
+Go to the cellar and save the king. 
+There's also a great potion here.
+As you leave, you will fight Gades, the sinistral of Destruction. Nothing you 
+can do, just die.
+When Lufia saves you, you will be at Alekia. Get Lilah in the castle and 
+leave.
+Go to Chatam again, to take Lilah to her brother.
+Now you need to get trough the cave to Sheran one last time, and head to 
+Treck, to southwest. You can save and rest at Sheran, if you want.
+It should not be hard, make use of Lufia's flash spell and the Hero's strong 
+spell.
+
+Note: If you think you're too weak, if the enemies are bothering you too much, 
+just keep leveling up near any town. This is worth for the entire game, so I
+will say this only once.
+
+
+Treck:
+  
+Items:            Café:           Guy at the Cafe's basement:
+Power Gourd       Pear Cider      Sour Cider            
+Hair Band         Sour Cider      Plum Cider            
+Dress             Plum Cider      Lime Cider            
+Arrows                                               
+Smoke Ball
+Escape (thanks D.Petus)
+Swing wing (thanks D.Petus)
+
+Armor Shop:       Weapon Shop:
+Cloth Armor       Club
+Robe              Long Knife
+Bracelet          Dagger
+Cloth Helm        Knife    
+Hair Band
+Sandal
+
+Here, talk to the old guy at the port south of town.
+I recomend you first buy weapons, then with the rest of the money, buy armors, 
+don't need to buy hair band, find in th town. Don't forget to sell your old 
+items and the ones you consider useless(if you don't know a use of some item, 
+check the item's list).
+
+Now you need to go to the east cave(the directionn is obvious).
+
+East cave:
+
+Cloth Shoes
+Swing Wing
+Dragon Egg(3rd Search)
+
+If you're at low level, take special care with giant bats, always try to kill 
+them first
+The girl will open the door for you, go trough, and just outside the cave is 
+guy's house.
+
+Guy's house:
+
+Short Sword
+Great Potion
+
+Speak with guy. This is one sad moment of the game. If you're like me, who get 
+the "feeling " of games very easy, you will get touched in this part.
+Don't forget the short sword at guy's grave.
+Now head back to Treck.
+Speak with the old guy first, then buy equipment, if you still need, rest and 
+SAVE!
+Now go speak with Aguro south of town and get ready.
+
+Boss:
+Demon Lord x4 
+
+Here is the first chalenge of the game. I like good chalenges, so I face the 
+game at low levels. I beat them at Hero's lv 6 and Lufia at 5.
+Keep your hp always higher than 30. They can cast dew(annoying when all 4 
+cast), and do a lot of damage. Watch when they use mirror, it reflect your 
+spells. If one only is with mirror, you can  take risk and cast flash, pray to 
+not fall on the head of the one with mirror. If more are with it, Lufia should 
+attack. I always use dew on first Lufia's comand, but it's not 100% safe. 
+Another thing to consider is only order Aguro heal if you are in really need. 
+His attack is the best now.
+If you think you can't beat them, go build up some levels.
+
+After it, Aguro joins you. The Capitain at the 2nd floor of the Cafe tells you 
+that his ship is at an island to the west. Go north of Treck and enter the 
+cave there.
+ 
+Cave north of Treck:
+
+Potion x2
+Miracle
+Daze Ring
+Power Potion
+
+Here, the up teleporter takes you to a place where have a mp and hp recover, 
+the down teleporter takes you near the cave's entrance. Trough the first stair 
+up, take items. To the stair down is the right way. Don't forget to explore 
+the poison squares(cast float before entering).
+
+Special note: You get a miracle in this cave. I don't think it's worth using 
+it in this point of the game. I believe the best thing to do with them is sell 
+it everytime you need money. You get 2500gp for it. Don't worry, later you can 
+get all miracles you sold. 
+
+Outside the cave, there is another boss fight.
+
+Boss:
+Goblin x3
+
+These should not be that hard. Since Lufia's spells don't do much damage, use 
+her strong spell to recover. Only cast attack spells when full healed. I faced 
+them with Hero at lv9, Aguro at 8, and Lufia at 7.
+
+After the fight, you will sail back to Track. Speak with the Capitain at the 
+Cafe's 2nd floor, and he will give you permission to sail with it to Lorbenia. 
+Just speak with him at the port.
+
+Lorbenia:
+
+Items:                  Item shop1:          Item shop2:           Item shop3:
+Mind Potion             Sweet water          Magic guard           Stuffed bear
+Mid arrow               Potion               Power gourd           Stuffed dog
+Sweet water             Antidode             Mind gourd            Stuffed pig
+                        Swing wing           Arrow
+                                             Arrows
+                                             Bomb
+
+Weapon Shop:         Armor shop1:         Armor shop2:
+Short sword          Tan armor            Earring
+Staff                Tan robe             Hair band 
+Club                 Tan shield           Brouch
+Long Knife           Tan helm             Necklace 
+                     Glass cap
+                     Cloth shoes
+
+Here you must enter the big shop and go to the third floor. When Lufia keeps 
+looking the dresses, the boy steals her and you catch him outside. After it 
+speak with the innkeeper. When leaving the inn, Aguro returns and join you 
+again.
+
+Note: Surely, here you won't have money to buy every equipment needed, unless 
+you sell the miracle you found at the cave north of Treck(check the special 
+note above).
+Now you must head to Grenoble, go west to find it.
+If you want to make some money, each Roozard gives you around 114gp. Good 
+money!
+
+Grenoble:
+
+Items:                     Weapon shop:         Armor shop: 
+Speed potion               Short sword          Tan armor 
+Spell potion               Staff                Tan robe
+Potion                     Club                 Tan shield 
+                           Long knife           Tan helm
+                                                Glass cap
+                                                Cloth shoes
+Item shop:
+Potion
+Antidode
+Awaken
+Stone cure
+Shriek
+Smoke ball
+Magic guard
+Power gourd
+Mind gourd
+
+Here, enter the old cave's shop, you need to pay 50 gp to enter. Talk to the 
+old man there and he will ask you to go to the old cave get an item in 
+exchange for some info. Go for it.
+
+Special note about the old cave:
+In this cave, you can reach the deeper levels as you gain more levels of 
+experience. If you are below 10, you can get only to 2nd floor. Below 15, to 
+3rd, below 20, to 4th, below 25, to 5th, below 30, to 6th. If you are higher 
+than 30, you can enter the 7th, the last one.
+The enemies in the floors are equivalent to the enemies of your level, and so 
+the items found there. Here is a good place to level up, if you want.
+
+I will put here only the 2nd floor, because you need to go there now. The 
+others are in the Old cave section.
+
+Old cave level 2:
+
+Hi magic
+Potion
+Antidode
+Ex potion
+Potion
+Sleep arrow
+Power ring
+Float
+Cloth shoes
+Dress
+Hair band
+Heeled shoes
+Fairy kiss
+Earring
+Tan shield
+Dragon Egg
+Secret map
+
+This sould be very easy, since there's no new monsters. When Lufia goes alone 
+to get the Fairy kiss, use flash on enemies.
+Back to Grenoble, give the old man the fairy kiss and he will give you a 
+letter in exchange. With this, you can go to the tower to north.
+
+You will also get the secret map on the cave. I like to sell it. I know it's 
+not the right purpose to do with this item and the others, but I like to sell 
+them because after, all will be at the special shop, and you will have all the 
+items. If you don't mind this, go ahead and give it to the woman at the old 
+cave shop. Just check the old cave section to know that there are some of 
+these items  that the reward is less than the price you sell them.
+
+You will probably be at level 10. I think it's good to make the 3rd floor of 
+the cave now. You find good stuff there. If you are going, check the old cave 
+section.
+I will also from here, tell the point of the game I believe it's good to go 
+to the other levels of the cave(you can return here with swing wing any time).
+
+Note: In the 3rd floor, you find the water ring. You will love to equip it on 
+Lufia because it boosts the dew spell, and other water spells, never sell it. 
+Beware with the broad sword, it's cursed. Don't equip it, or you will have to 
+remove the curse at the hut which you save the game. Sell it!
+
+Enough. The old man gave you a letter, and you must go to the Tower north of 
+Grenoble. It's at the edge of the map. Try to save the Hero's mp until you 
+reach the boss of the tower, stock yourself with lots of potions.
+
+Tower north of Grenoble:
+
+Sonic ring                 Smoke ball
+Mid arrow x2               Hi potion x2
+Power potion               Hi magic
+Spell potion               Mind gourd
+Mind potion                Power gourd
+Great potion               Revive
+Dragon Egg(2nd search)
+
+The tower isn't a problem, just a warning about red magi. If you encounter 
+any, priorize to kill them quikly, attack even with Lufia(she kills them with 
+one blow). Their spark hurts.
+
+Boss
+Aprendice
+
+Well, this is a tough battle, you must fight him alone with the hero, and he 
+loves to use jolt, or fake spell and attack on the same round. You must keep 
+your hp at least around 65, he can take you down easly. Heal with spells a 
+lot(that's why save hero's mp). I recomend you be at least on level 11, if 
+not, you will have MUCH trouble on killing him.
+After the fight, he gives you a Speed potion and tells the location of Elfrea, 
+the city of elfs.
+
+Go back to Grenoble, rest, and if you didn't made the 3rd floor of the cave, 
+go for it now.
+
+You must head to Kirof. Go as if you were going to the north tower, when the 
+mountains to west end, turn south , along the coast. Then go a little east and 
+you will see Kirof.
+
+Kirof:
+
+Items:
+Bomb            Hi potion
+Hi arrows       Sweet water
+Mid arrow       Stuffed pig 
+Plum cider      Stuffed dog
+
+Here, go at the item shop house, enter and see the speech of the two children. 
+After, talk with the girl. You can leave and go to the Kingdom of Medan, it's 
+east.
+
+Medan City:
+
+Items:
+Escape
+Swing wing
+Hi potion(can get only later, it's at the house of the old man)
+
+Item shop:              Weapon shop:         Armor shop:
+Sweet water             Spear                Chain mail
+Potion                  Mace                 Chain cloth
+Antidode                Short sword          Wood shield
+Mistery pin             Staff                Wood helm
+Smoke ball              Mid arrow            Glass cap
+Magic guard             Arrows               Cloth shoes
+Mind gourd              Bomb
+Power gourd
+Swing wing
+
+Medan castle:
+Items:
+
+Ex potion
+Ex magic
+
+Here, as you enter the castle, mark will run away, in the castle, go to the 
+basement and watch the scene with the princess, and leave. Mar will run again 
+with the hope ruby. You must go back to Kirof.
+
+You can go to a cave north of Medan before, you find there:
+Foul water
+Sweet water
+Bomb
+
+As you enter Kirof, Mark will come and join you. You must head for the cave 
+north of town.
+
+Cave north of Kirof:
+
+Hi potion x4              Smoke ball              Moster ring
+Revive x3                 Hi magic x2             Spell potion
+Escape                    Dragon Egg
+Ghost ring                Chain Cloth
+Power potion              Miracle
+Great potion              500gp
+Mind potion               Speed potion
+Escape                    Wood shield
+
+
+
+This cave is not as hard as it seems. Most ways are conected and you keep 
+walking in circles. Just use the recover hp/mp and keep exploring. If you're 
+lucky, you will get scimitar from the sword spook and light armor from the 
+ghost mail. Also, use all the magic jars that those crazy pots give you.When 
+you reach the bridge area, go in the middle staircase up, there is an 
+invisible bridge for you. Prepare for the boss.
+
+Boss:
+Phantasm
+
+This can be a little annoying, just a little. Keep hp high. You better heal 
+most with Lufia because her spells don't do that damage on him. If someone is 
+confused, you can use shriek if you have some, if not, hit him with Lufia. If 
+Lufia is confused, leave her, but keep healing her. My levels were: Hero 15, 
+Aguro 13, Lufia 14. It was a fierce battle, to say. Very fun, I love 
+chalenges. However, if you don't, just level up near the hp/mp recover.
+
+After, you will be at Kirof. The woman gives you Power potion.
+Go back to Medan.
+
+Note: Now(in Medan) is the only time you have to get the Hi potion that is at 
+the house of the nasty old man, go there before leaving the town.
+
+Note: Now it's a good time to return to Grenoble and do the 4th floor of the 
+old cave. Just use a swing wing, you can wait until you get to Belgen to get 
+better weapons and armor, or not.
+
+Now go to the cave east of Medan.
+
+Cave east of Medan:
+
+Hi potion
+Revive
+
+The guards will let you pass, go ahead.
+As you out the cave, go south to the city of Belgen
+
+Belgen:
+
+Items:                                        Weapon shop:
+Float                                         Brone sword
+Power gourd                                   Long staff
+Hi magic                                      Spear
+Hi potion                                     Mace
+Mind gourd                                    Mid arrow
+Revive                                        Hi arrows
+Dragon Egg(2nd search)                        Bomb
+
+Item shop:                     Armor shop:
+Sweet water                    Brone armor
+Potion                         Brone robe
+Antidode                       Brone shield
+Mistery pin                    Brone breast
+Shriek                         Brone helm
+Swing wing                     Glass cap
+Smoke ball                     Tan shoes
+Magic guard
+Power gourd
+Mind gourd
+
+Here you just need to talk with the woman at the house with a tunnel entrance. 
+Head for the southwest cave.
+
+Cave southwest of Belgen:
+
+Escape
+Power potion
+Spell Potion
+Miracle
+Smoke ball
+Float
+Hi potion x2
+Scimitar
+Brone helm
+Brone armor
+Brone shield
+Hi magic
+Fly ring
+Dais key
+Dragon Egg(2nd search)
+
+Piece of cake. No complex mazes and enemies not that strong. Speak with the 
+guy and he will let you get the Dais key.
+Return to Belgen to rest and save.
+Now you need to go to the cave that's west of Belgen.
+It's the cave north of the one you entered before.
+
+Cave west of Belgen:
+
+Great potion
+Mind potion
+Speed potion
+Float
+Hi magic
+Power gourd
+Magic gourd
+Spell potion
+Power potion
+Revive
+
+Nothing unusual, just go, explore, and out in the other side.
+Note: Stick to kill mimicks. They give lots of xp and gp, but run away easly.
+
+Enter the temple where Jerin is. Recover hp/mp, and save. As you leave, the 
+demon kidnap her. 
+Head for the north tower to rescue her.
+
+Tower north of Dais temple:
+
+Flash ring
+Revive
+Mistery pin
+Stone cure
+Shriek
+Hi potion
+Antidode
+Awaken
+Miracle x2
+
+The maze is not that hard. The enemies, however, are strong. Watch the 
+Archers, they do A LOT of damage with hi arrows. Kill'em quikly. If you have 
+flash ring equiped in Lufia, a flash kill   with one spell(make sure to never 
+sell this ring). On the last hall(the hall of teleporters), don't step on the 
+one behind the boss, it will teleport you to the entrance of the tower.
+
+Boss
+Follower
+
+For this one, enter the battle with full hp, and he won't give much damage. 
+Equip flash ring and use flash. He won't be a trouble. My levels: Hero 18, 
+Aguro 16, Lufia 17.
+
+You're at Belgen again. Jerin gives you a miracle.
+Head for the desert at east and go to the village of Surinagal, that's up and 
+east in the desert.
+
+Surinagal:
+
+Items:
+Hi magic
+Hi potion
+Miracle
+
+Item shop:                 Armor shop:                 Weapon shop:
+Hi potion                  Brone armor                 Axe
+Hi magic                   Brone robe                  Rapier
+Antidode                   Brone shield                Scimitar
+Awaken                     Brone breast                Big arrow  
+Mistery pin                Brone helm                  Hi arrows
+Stone cure                 Glass cap                   Bomb
+Shriek                     Tan shoes
+swing wing
+Smoke ball
+Magic guard
+Power gourd
+Mind gourd
+
+Here, rest, save, buy equipment you need, and stock hi potions and hi magic.
+
+Head for the guide station to the lost forest, to south.
+
+Guide station to the lost forest:
+Revive
+Swing wing
+Sweet water
+
+Here, talk to the old man and Jerin will join you. Now you don't need swing 
+wings anymore, she has the warp magic.
+
+Go to the lost forest to south and follow Jerin's instruction to get out of 
+the forest.
+You can heal at the house in the map, then cross the temple and head north to 
+get to Jenoba.
+
+Jenoba:
+
+Items:
+Hi potion
+Mind potion
+Hi arrows
+Bomb
+Miracle (thanks D.Petus)
+
+Item shop:                Armor shop:            Weapon shop:
+Sweet water               Light armor            Long sword
+Hi potion                 Light robe             Axe
+Antidode                  Buckler                Rapier
+Awaken                    Brone shiel            Scimitar
+Mistery pin               Brone breas            Big arrow 
+Stone cure                Brone helm             Hi arrows
+Shriek                    Glass beret            Bomb
+Swing wing                Tan shoes
+Smoke ball
+Magic guard
+Power gourd
+Mind gourd
+
+Here, buy good equipment, stock some stone cures, save, and talk with the 
+persons at the basement of the northern house. Buy ciders from the old woman 
+and she will tell you how to get to Elfrea, you need to visit the blue, green 
+and red tower in that order, do here we go. Some people get stuck on this 
+part, it's really simple, just follow the instructions here. The blue tower is 
+just east and a little south of Jenoba, go for it. 
+
+Blue tower.
+
+Magic guard
+Blue ring
+Sweet water
+Hi potion
+Hi magic
+Revive
+Green jade
+
+No complex mazes again, but some monsters can be annoying, like dark elf and 
+horrorquin. Priorize to kill them quikly. No bosses here, the point is get the 
+green jade.
+
+Special Note: From now on, rings begin to get more important. You must choose 
+wisely which person equip which ring. I will put my sugestions from here, but 
+you can do whaterver you want(just make sure you don't do things like equip 
+flash ring on Aguro right?)
+
+I equip blue ring on Hero, power ring on Aguro, flash ring on Lufia, and daze 
+ring on Jerin.
+
+Now you can exit the cave and travel to Jenoba using warp magic from Jerin.
+
+Lets head for Green Tower.
+
+This Tree islands conected by bridges are a bi circle, you just need to walk 
+through it going south, and following the way, simple. The Green tower is 
+south and east.
+
+Green Tower:
+
+Green ring
+Magic guard
+Ex potion x2
+Revive x2
+Hi magic
+Swing wing
+
+It's a piece of cake. This tower has an inn at the right door of the first 
+hall, make sure to go there. After the first hall, go right, there are two 
+stairs, go in the two ways. After, go back and change the swich to down 
+position and return to the other hall and the stairs will have changed. Just 
+get the items, notice that you couldn't get the red sapphire.
+After this, go to the inn again and leave.
+Keep going east to find the city of Ruan.
+
+Ruan
+
+Items:                             Shop:
+Hi potion                          Emerald
+Small knife                        Opal
+Power potion
+Emply bottle
+Emerald
+Revive
+Sweet water
+
+You need to get here just to add this city to Jerin's warp magic.
+
+Now use Jerin's warp to go to Medan
+Go north and enter the cave there.
+
+Cave north of Medan
+
+*Foul water
+*Sweet water
+*Bomb
+500gp
+Diamond ring
+Opal
+Emerald
+
+The items with * means that you could alredy got them if you went here before.
+Talk to the old man amd he will give you the red sapphire.
+
+Note: Now it's time to make the 5th floor of old cave. Go to Grenoble if you 
+want(check old cave section).
+
+Let's head for the Red tower.
+
+Red tower:
+
+Spell potion
+Power potion
+Hi potion x3
+Red ring
+Float
+Hi magic
+Smoke ball
+Magic guard x2
+Power gourd
+*Dragon Egg
+*Blue jade
+*Miracle
+
+One thing important here is to get the items at the basement(an enormous 
+poison marsh) before defeating the boss. If not you lose them.
+I don't like to use the red ring, but, it's your choice.
+The items with * means that you get them after beating the boss at that 
+enormous poison marsh(which will disappear).
+Not hard mazes again.
+
+Boss:
+Dark Ghost
+
+This one is VERY hard and annoying unless you are at a high level, 25 or more.
+He keeps using that powerful water magic and attacking before you could totaly 
+heal yourself.
+Healing here is the thing. Heal, heal, and heal more. If you let your hp low, 
+you are gone for good. A tip: it's good to use that power gourd and 2 magic 
+guards you get at the tower in the Hero and Aguro, it helps a little. Flash 
+with flash ring equiped is good too, but only if your hp is at least 100 for 
+the girls and 130 or the men. And just attack(any form of attack) if your hp 
+is that way. 
+This is the toughest battle until now, expecially if you face him in my 
+levels: Hero 21, Aguro 19, Lufia 20 and Jerin 19, awesome challenge!
+
+After the great battle, the Water Fairy restores the poison and you can get 
+the Blue jade in the basement. Now you have the three gems.
+
+Now go to the Blue, Green, and Red tower in that order and put the gems in the 
+pedestals. When you put the gem in the red tower, Jerin learns Elf spell, and 
+you travel to Elfrea intantly.
+
+Elfrea:
+
+Items:
+Spell potion
+Speed potion
+Mind potion
+
+Item shop:              Weapon and Armor shop:
+Hi potion               Rod
+Hi magic                Trident
+Swing wing              Quilted silk
+Smoke ball              Glass beret
+Magic guard             Heeled shoes
+Power gourd             Big arrow
+Mind gourd              Hi arrows
+
+In Elfrea, finally(took long huh?), talk with Artea, get the Shrine Key and 
+Artea's bow. Don't forget to equip it on Jerin.
+Use the Shrine Key in the basement, use again in the other door, and you're 
+out in the other side  of the Shrine.
+Go south and find the village of Ranqs.
+
+Ranqs:
+Items:
+Power potion
+
+Item shop:                Weapon and Armor shop:
+Sweet water               Morning star
+Hi potion                 Rod
+Antidode                  Trident
+Awaken                    Half mail
+Mistery pin               Quilted silk
+Stone cure                Buckler
+Shriek                    Iron helm
+Smoke ball                Glass beret
+Magic guard               Spike shoes
+MInd gourd
+Power gourd
+
+go to the east, but a old man there tells you the puzzle tip and you get 
+an escape(a perfeccionist can't miss it). Anyway, the old guy just tells
+you the tip if you already went one time to the tunnel(west cave).
+
+In the tunnel, the cave to west of Ranqs, the directions you should follow are 
+these:
+
+Up, right, right, up, right, right, up, up, up, up, left, left, left, down, 
+left, left, down, left, left, up, up, right, up, right, right, up.
+
+You're out in the other side of the cave.
+You must find the Odel city. It's west from the exit of the cave, very near.
+
+Odel:
+
+City: 
+
+Items:
+Ex potion
+Ex magic
+Miracle
+
+Item shop:                  Armor shop :              Weapon shop:
+Sweet water                 Hafl mail                 Battle axe
+Hi potion                   Quilted silk              Glass robe
+Antidode                    Kite shield               Morning star
+Awaken                      Brone breast              Rod
+Mistery pin                 Iron helm                 Mid arrow
+Stone cure                  Glass beret               Hi arrows
+Shriek                      Spike shoes               Hi bomb
+Swing wing                  Wind shoes
+Smoke ball                  Heeled shoes
+Magic guard                 Wind heels
+Mind gourd
+Power gourd
+
+Castle:
+Speed potion
+Mind potion
+Great potion
+Spell potion
+Power potion
+Hi magic x2
+
+In the Castle, talk to the Architet, next to the Princess, and say yes. You 
+must go to Lyden to find his partner to fix the bridge.
+Before going to Lyden, go in the left stairs in the garden of Odel castle. 
+It's Shaia lab 2.
+Here there is:
+Power gourd 
+Mind gourd
+
+There are 4 ways:
+North--Arus cave: Go here and get the Yellow ring and a Stone cure 
+West--Shaia lab1: Go here just to add this city(Platina) to Jerin's warp 
+South--plains: you out southwest of Odel, near the city.
+East--Shaia lab2(where you came from)
+
+I like to equip Yellow ring on Aguro, so it's like this:
+Hero-blue ring, Aguro-Yellow ring, Lufia-flash ring(expecially with bolt 
+spell), and Jerin-Green ring.
+
+If you didn't found Lyden yet, the way is east and south. Cross one of the 
+bridges on the map, keep always south and east and you find Lyden.
+ 
+Lyden:
+
+Items:
+Swing wing
+Grilled newt
+Stone cure
+Fry pan
+Small knife
+Miracle
+Chop block
+Dragon Egg(3rd search)
+
+Item shop:
+Fry pan
+Small knife
+Pot
+Chop block
+Apron
+Goblet
+
+The Architet's partner is at the restaurant, talk with him and he will go to 
+Odel.
+In Odel, talk with Piron(the architet)and he will ask you to check the bridge.
+There are four entrances to this cave, but don't get scared:
+I will write them from south to north:
+
+1st entrance: Where the bridge is, the right way.
+2nd entrance: This leads to Shaia lab2(where you got yellow ring)
+3rd and 4th entrances: Just a maze, go there just to get the items in the 
+chests.
+
+First, go to the 1st entrance and check the bridge. Now go to Odel and tell 
+Piron this.
+Now you are ready to explore the dungeon.
+
+Important note: Now you shall already have water spell(Lufia learns at lv23). 
+You can equip the water ring, to power it up, and do lots of damage to one 
+group of enemies(can kill them  instantly, sometimes), or equip flash ring and 
+use a lot the bolt spell, I believe there's no enemy around here that resists 
+the bolt spell with flash ring equiped(exept mimickers of course). It's up to 
+you(I prefer water ring), just make sure you equip flash ring when facing a 
+boss.
+
+Well, when you realise that the 3rd and 4th entrances are not conected with 
+the 1st, this horrible maze turns very easier. Those mimickers gives you 
+about 3000 xp each so focus your attacks on them when they come. First, go
+to the 3rd and 4th entrances, to get the items and xp.
+
+Arus cave, 2 northern entrances(3rd and 4th):
+
+Glass robe
+Half mail
+Stone cure
+Quilted silk
+Miracle
+Glass cap
+Wind shoes
+Iron helm
+
+Easy huh? As soon as you get these items, you can leave the cave and go to the 
+1st entrance, the southest. Heal and save first, of course.
+
+Note: I believe you made lots of xp now, expecially with mimickers, you must 
+be at level 25, so you can go to Grenoble and go to the 6th floor of the Old 
+cave, if you want(check Old cave section).
+There you find the Blast ring, that power up bang spells, but I think for 
+while, water ring is best. Leave to equip Blast ring at lv31, when you learn 
+Blast.
+
+When you enter the 1st entrance and speal with Piron, he will ask you to watch 
+him from that cliff where there are two treasure boxes. You already got them 
+right? If not, check back the 3rd and 4th entrances and go there.
+Enter in the 3rd entrance, and keep going down and left whenever possible, and 
+you get there.
+Watch they build the bridge and enter the 1st entrance.
+
+Arus cave, 1st entrance (southest):
+
+Dragon Egg
+Ex potion x2
+Escape
+Hi arrows
+Miracle
+Revive x2
+
+In the sealed door, Lufia cast Le fallas La fallas, and the door will open. 
+Arus is just ahead.
+
+Arus:
+
+Items:
+Hi magic
+Mind potion
+
+Shop:
+Battle axe                 Kite shield
+Glass robe                 Red beret
+Morning star               Wind shoes
+Rod                        Heeled shoes
+Half mail                  Hi potion
+Quilted silk               Swing wing
+
+Here there's a scene with Lufia and Priphea flowers. Also, talk with the 
+people.
+You must head for the Tower of Grief. It's beyond a small cave to east.
+
+Tower of Grief:
+
+Revive x2
+Dragon Egg
+Stone cure x2
+Ex potion
+Ex magic
+Miracle
+Purple ring
+
+This tower is a joke. All enemies are not new and the maze you can do watchig 
+a movie at the same time. Talk with the elder and Lufia's mp up 10.
+
+Now if you haven't gone in Shaia lab1 yet, go to Odel, get to Shaia lab2, and 
+take the west path to reach it. You can warp instantly to Platina if you got 
+here before.
+
+Platina(Shaia lab1):
+
+Items:
+Hi magic
+Hi bomb
+Gloom arrow
+Ex arrows
+
+Here, talk with professor Raile Shaia, and he will give you the falcon! Wow, 
+now you can get to many places by sea.
+One of them is Forfeit, teleport to Surinagal and sail to the island north.
+
+Forfeit:
+
+Items:
+Hi magic
+Hi potion
+Mind ring
+Gown
+Ribbon
+
+Item shop:        Weapon shop:    Armor shop:     Assessories shop:
+Hi potion         Morning star    Quilted silk    Goblet
+Hi magic          Gloom pick      Kite shield     Ear tip
+Magic guard       Hammer rod      Hair band       Empty bottle
+Power gourd       Trident         Glass beret     Gown
+Mind gourd        Glass robe      Knife shoes   
+Dragon arrow      Scimitar        Heeled shoes
+Sleep arrow       Gladius
+Puzzle arrow
+Stun arrow
+Gloom arrow
+Float
+Smoke ball
+
+Special shop:
+All items you ever sold!
+
+You don't need to go here, but you can get mind ring, buy a Gladius and Knife 
+shoes. Also, you can buy any item you sold by mistake, or the miracles you 
+sold to make money before.
+I like to equip mind ring on Lufia, but I keep the Flash, Water, and Blast 
+ring.
+Also, if you enter the assessories shop, the women force you to buy something.
+
+
+
+
+Now, the most important tip of the faq, get a MIGHT HELMET NOW!
+
+Haha, so you think the only way to get the Might helmet is battling enemies? 
+you're wrong, I'm sorry, here, follow the intructions and get it NOW!
+
+You need to get to the Tower of light, follows this direction: From Platina, 
+sail west, and some little squares south, and get to Carbis, enter the city to 
+add it to warp magic. Keep west, and find the city of Bakku, enter and add it 
+to the warp too. Now walk north, through some mountains and a lake, and enter 
+the tower. The Might helmet is on the chest where the Light key is supposed to 
+be, the last one, that's the reason another item is on the chest, you can't 
+get that scenario item now, so there is a Might helmet there. Wow, what do you 
+think? I love it!!!
+
+I like to equip it on Jerin, because her defence is low, and also, it boosts 
+your int by 24. Pretty good huh? I won't write the items of the Tower of light 
+now, I will save it for the time you need to go there.
+
+
+Well, after this, I think you should be a little more happy hein? But let's 
+keep going, warp to Carbis, or if you haven't go there yet, from Platina, it's 
+west.
+
+Carbis(Shaia lab3):
+
+Items:
+Mind potion
+
+Here, talk with professor Raile, and he will ask you to go to Bakku and bring 
+his partner, Cooper. Bakku is west from here, but if you got the Might helmet, 
+you had already visited it, just use warp.
+
+Bakku:
+
+Items:
+Ex potion
+Ex magic
+Revive
+
+Item shop:              Armor shop:          Weapon shop:
+Hi potion               Plate mail           Gladius
+Sweet water             Plate cloth          Hammer rod
+Antidode                Round shield         Battle axe
+Awaken                  Round wrist          Glass robe
+Mistery pin             Plate helm           Mid arrow
+Stone cure              Plate cap            Hi arrows
+Shriek                  Wind shoes           Bomb
+Smoke ball              Wind heels
+Magic guard             Spike shoes
+Power gourd             Heeled shoes
+Mind gourd
+
+Go to the cleric's hut and talk with him. He will say that Cooper is at the 
+5th level of the Old cave, piece of cake, you already got there haven't you? I 
+believe it's almost time to get to the 7th and last level. Anyway, head for 
+Grenoble and go to the Old cave, 5th floor(choose "next window" at the 
+elevator if you're beyond level 30).
+Find him and warp to go back to Carbis.
+
+Now, you will start a LONG quest to get 7 pieces of allumina, to make falcon 
+go underwater, go to Bakku first, rest, save, and head for the Tower of light, 
+north of here.
+
+Tower of Light:
+
+Hi bomb                  Sea ring
+Spell potion             Undead ring
+Power potion             Large shield
+Stone cure x2            Great axe 
+Ex potion x4             Silver robe
+Revive x2                Plate cap
+Ex magic                 *Might Helmet
+Power gourd              Light key
+Miracle
+Gloom voice
+
+Here, explore carefully the Tower to get everything. How to get Might helmet 
+is described in the part where you get Falcon, you can't take it now if you 
+didn't get it before.
+Watch for the false squares, you will fall. Sometimes it's needed to get some 
+items.
+
+Boss:
+Guardian
+
+This bothered me a little since my levels were: Hero 30, Aguro 27, Lufia 29, 
+Jerin 26.
+His Flame spell hurts, you can use protect from Lufia, to minimize the damage 
+a little.
+Anyway, keep hp always higher than 100 for girls and 150 for boys. Boost spell 
+from Lufia is extremely usefull, to heal all characters at the same time.
+
+After the battle Amon and Gades appear, just to scare you. Get the Light key 
+in the chest and use in the locked door at the first floor.
+
+Keep going until you get to Linze
+
+Linze:
+
+Items:
+Sweet water
+Swing wing
+Escape
+Dragon Egg
+Ex magic (thanks D.petus)
+ 
+Item shop:               Armor shop:            Weapon shop:
+Hi potion                Plate mail             Great axe
+Sweet water              Plate cloth            Gladius
+Antidode                 Large shield           Hammer rod
+Awaken                   Round shield           Ex arrows
+Mistery pin              Round wrist            Hi bomb
+Stone cure               Plate helm
+Shriek                   Plate cap
+Smoke ball               Knife shoes
+Magic guard              Wind shoes
+Power gourd              Needle heels
+Mind gourd               Wind heels
+
+Now, just do the usual and go to the basement of the house that have a stair 
+and out in the plains:
+
+Note: Now you might be at lv30, so let's make the 7th and last floor of the 
+Old cave, go to Grenoble(check the Old cave section). However, It's very hard, 
+you might want to wait being at a higher level.
+There you find the Wind flute, very useful now.
+
+Back in Linze, out in the plains by the basement of the house and go to the 
+cave.
+
+Gaya cave:
+
+Escape x2
+Stone cure
+Ex bomb x3
+Hi magic x2
+Dragon Egg
+Alumina
+Ex potion x5
+Revive x4
+Magic guard
+Ex magic
+Ex arrows
+Opal
+Silver sword
+Power gourd
+Mind gourd
+*Wave ring
+
+Try to kill Werefrogs quickest possible.
+Here you need to find a guy, he is at the corner east of the maze. Ask him 
+about the 4 things and leave. He will give you the Wave ring(I put * because 
+it's not in a chest). You can leave after that.
+
+Note: The wave ring is the Maxim's ring. It's powerful and my sugestion is 
+equiping on Hero.
+So I'm like this now: Hero-Wave ring, Aguro-Yellow ring, Lufia-Blast ring(she 
+already learned blast), and Jerin-Purple ring.
+
+Now you need to get to Marse, you could simply get your falcon, and sail along 
+the coast to fint it, but it's best to go by land, because there's some stuff 
+to get.
+
+From Linze, go to the Tower of Light, cross it and keep northeast until you
+find a cave.
+
+Cave northeast of Tower of light:
+
+Power potion
+Dragon Egg(2nd search)
+
+See why it was best? If you didn't get that power potion now, when you make 
+the wish in the Dragon shrine later, there will be a Dragon Egg here and you 
+will have lose that power potion.
+
+Out in the other side, head north and reach Marse.
+
+Marse:
+
+Items:
+No items here
+
+Item shop:                    Armor shop:            Weapon shop:
+Hi potion                     Silver armor           Silver sword
+Sweet water                   Silver robe            Silver rod
+Antidode                      Silver plate           Great axe
+Awaken                        Silver wrist           Hammer rod
+Mistery pin                   Silver helm            Big arrow
+Stone cure                    Plate cap              Ex arrows
+Shriek                        Knife shoes            Hi bomb
+Smoke ball                    Wind shoes
+Magic guard                   Wind heels
+Power gourd                   Needle heels
+Mind gourd
+
+You better have enough money to buy all equipment here, you will need.
+It's good to go on the cruise, buy a ticket in the 1st floor and in the 2nd, 
+talk with the capitain "Albatross" and he will take you to the cruise. You can 
+have an idea of the localization of the 4 Fargo islands, (Ullup to southeast, 
+Elba to north, Loire to East, and Aisen, to west), your next target. 
+The girl at the cleric tells that Brant is at Loire.
+
+Let's go to Ullup first, it's southeast of Marse.
+
+Ullup Island:
+
+*Dragon Egg
+*Hi power ring
+*Ex potion
+*Speed potion
+Ex potion
+Silver wrist
+Alumina x2
+Silver plate
+Miracle
+
+Here, you can only get the * items. It's important to open the door(use the 
+switch) here.
+The first teleport you see brings you to Elba, go there only if you got all 
+the * items and have lowered the switch. You can go back to Marse and heal, or 
+you can get the teleport to go to Elba, do what you think it's best. I like to 
+equip Hi power ring on Aguro.
+
+Then, go to Elba. It's north of Marse.
+
+Elba:
+
+Mind potion x2
+Smoke ball
+Hi daze ring
+Ex potion x2
+Spell potion
+Miracle
+Ex magic
+Hi bomb
+Alumina
+Silver rod
+Silver armor
+Spell potion
+Dragon Egg(2nd search)
+
+Explore it by parts and you make it easy. The switch here change the 
+destination of the teleport up there. You go in two places of Ullup with it, 
+that's how you get the missing items I wrote in Ullup section.
+
+In these two islands, you only need to get the Alumina to continue the game, 
+but the stuff you get is usefull.
+
+
+Special note: you can go to the Dragon shrine now an make a wish, but I 
+wouldn't do this now, 
+because the Dragon will place more 8 Dragon Eggs through the world, some in 
+chests you haven't got yet, so you will lose the item that was there. If you 
+don't mind, go for it(check Dragon Eggs section), but a perfeccionist always 
+do things perfect don't he?
+
+Done with this, now head for Loire, to east, where a ship is docked.
+
+Loire:
+
+Foul water
+Miracle x2
+Ex potion x2
+Great potion x2
+Mind potion
+Revive x4
+Power potion x3
+Gloom arrow x3
+Hi magic x2
+Mach ring
+Hi bomb x3
+Alumina
+Escape
+Spell potion
+1000 gp
+Ex magic x2
+Float
+Sweet water
+
+This maze is a litlle big. It helps if you explore all the first floor before 
+getting any of the two stairs down. When you find Brant, say yes to help him. 
+He will give you a piece of Alumina.
+Teleport to Marse and he will be at the cleric's hut(they will marry) and will 
+tell you that Knig Herat has Alumina too.
+
+At this point, you MUST have 6 pieces of Alumina. If don't, look this and go 
+get the misssing:
+
+1st: Gaya cave
+2nd: Elba island
+3rd and 4th: Ullup island(from Elba, take the teleport, the switch change your 
+destination)
+5th: Loire island
+6th: Brant gives you
+
+Now you must go to Herat to get the last piece of Alumina, from Marse, sail 
+west along the coast until you find a river, follow the river south and you 
+get to Herat.
+
+Herat:
+
+City:
+
+Items:
+Rod
+Apron
+Great potion
+Mind potion
+Plum Cider (thanks D.Petus)
+Hi potion (thanks D.Petus)
+
+Armor shop:          Item shop:           Weapon shop:
+Carbo plate          Hi potion            Buster sword
+Clear silk           Sweet water          Silver sword
+Tower shield         Antidode             Silver rod
+Silver armor         Awaken               Big arrow
+Silver plate         Mistery pin          Ex arrows
+Silver wrist         Stone cure           Hi bomb
+Silver helm          Shriek
+Sackret              Smoke ball
+Sonic shoes          Magic guard
+Knife shoes          Power gourd
+Sonic heels          Mind gourd
+Needle heels
+
+Castle:
+
+Items:
+Ex bomb
+Power potion
+
+Note: there's more items at the basement of the castle. I will write them in 
+the time you can get them.
+
+Here, talk with the chief in the Kitchen, and then you can leave.
+
+Now, teleport to Lyden and talk with the Lyden wizard at the basement of the 
+house.
+Go back to Herat(warp is really usefull isn't it?). Now it's time to go to the 
+cave to east.
+
+Sail a little north and out of the ship to the west. Walk south, then east, 
+then north to find the cave of purple newt. You will pass by the Dragon shrine 
+in the way, I already told you that if you go here now you will lose future 
+items, go now only if you don't mind it.
+
+Cave of purple newt:
+
+Revive
+Gloom arrow
+Engage ring
+Stun arrow
+Grilled newt x3
+Stone cure
+Revive
+Purple newt
+Power gourd
+Chain mail
+Swing wing
+Ex potion
+Hi bomb
+Great potion
+Miracle x2
+Dragon Egg(3rd search)
+
+Not too much challenge here. Turn the switch to change the destination of the 
+teleport and get the purple newt.
+Cast escape when you're done and teleport to Lyden and talk with the wizard to 
+get the Magic flavor, then teleport to Herat.
+
+Note: From here, whenever you buy stuff, equip Engage ring first, it lowers 
+the price of things, however, this part of the game, you must have lots of gp, 
+even I forget to equip this thing.
+
+Talk with the cook, then with the King, now go to the basement.
+
+Basement of Herat castle:
+
+Carbo sword
+Silver robe
+Gloom voice
+Ex potion
+Plum cider
+Royal statue
+Fry pan
+Tower shield
+Carbo helm
+Mach heels
+Alumina
+Pot
+Miracle x2
+
+Well, now you have 7 pieces of Alumina, but don't get exited, there's still 
+things to do before Falcon change into a submarine.
+Go to Carbis, and talk with the researcher, then go to Marse, you need to go 
+to the Pirate's tower, Aisen Island. Don't remember? Northwest of Marse, a 
+ship will be docked there.
+
+Aisen Island, Pirate's tower:
+
+Sour Cider
+Hi potion
+750 gp
+Power gourd
+Speed potion
+Hi bomb
+Revive
+Ex potion x2
+Big arrow
+Swing wing
+Smoke ball
+Silver tarot
+Pirate key
+*Heavy ring
+
+Try to kill as many Fire plates as you can from here in the game, they can 
+give you Might armor, the best for the fighters. 
+About heavy ring: I don't like to equip it. You stay too slow, too bad.  
+Go to the cellar before meeting the boss, there's a false ground here, you 
+fall and get stuff.
+Watch with Dark spook, they can kill you instantly.
+Anyway, here's not chalenging too.
+The right order of the switches are:
+                        1        4 
+                        3        2
+If you do wrong, kill some pirates.
+
+Boss:
+Bosun and Pirates:
+
+Haven't seen a boss for a while heh? Well, I faced them at Hero lv37, Aguro 
+34, Lufia 36, Jerin 32, but you can be very lower to beat them. Equip Blast 
+ring, Lufia cast blast every round, Hero and Aguro concentrate on Bosun first, 
+and Jerin heal with boost spell. Just watch out for the storm spell that 
+hurts. That's the only big damage he does. You can use the wind flute you got 
+at 7th floor of Old cave in emergencies(any character can use).
+
+After beating, go to the cellar, and first get the item, heavy ring, then free 
+Raile.
+
+Teleport to Carbis and talk with Raile, he will make Falcon go underwater AT 
+LEAST!
+But you can only go underwater in whirlpools.
+
+Let's go to the ring shaped island, where Doom island fell 100 years ago, go 
+north and a little east from Carbis, first go to the village of Soshete.
+
+Soshete:
+
+Items:
+Miracle
+Straw doll
+Gloom arrow
+Sweet  water
+Revive
+
+Shop:
+Carbo sword
+Carbo plate
+Carbo shield
+Carbo helm
+Carbo cap
+Catwhip
+Sonic shoes
+Sonic heels
+Float
+Hi potion
+Big arrow
+Ex arrows
+
+This is just an ordinary town. no events here.
+There's good equipment to buy, and there's items at the cleric hut.
+
+You need to go to the whirlpools around here, it's a big and annoying maze.
+
+Underwater caves in ring shaped island:
+
+Foul water
+Gloow arrow
+Zircon wrist
+800 gp
+Hi magic
+Hi potion x3
+Miracle x2
+Magic guard
+Opal
+Empty bottle
+Arrows
+Power potion
+Ex potion
+Spell potion
+Potion
+Mistery pin
+Dragon Egg(2nd search)
+
+Well, these caves are the most painfull mazes of the game, what can I say? 
+Good luck!
+I'm sure these are all the items here.
+
+A thing that helps to explore is only enter in the currents if you don't have 
+any other place to go on that floor. Ahh and the southwest entrance is not 
+conected with the others, so explore it first, the go for the other two. If 
+you don't mind leaving some items behind, it's easy, just out in one of the 
+exits and go for Doom island.
+The Hidras give you Might sword, the best sword for both fighters, better even 
+than Dual blade, so kill lots of it from here in the game.
+
+Enter Doom island and go to the floor where the statues are. I wonder if you 
+didn't get the chests at the begginig of the game the items will still be 
+here? I think not, but if you tested it, please let me know.
+
+As you get the Dual blade, the statues rise, and the party notice that Erim's 
+statue is Lufia's statue. Then the Sinistrals appear to scare you again, and 
+you go instantly back to Soshete.
+
+Teleport to Carbis and talk with Raile.
+Then go to Frederia first, get the ship and sail south in the same vertical 
+line of Carbis.
+
+Frederia(Shaia lab4):
+ 
+Items:
+Miracle
+Grilled newt
+Revive
+Stone cure
+
+Armor shop:           Item shop:                 Weapon shop:
+Carbo plate           Hi potion                  Grand blade
+Carbo shield          Hi magic                   Carbo sword
+Carbo helm            Magic guard                Catwiph
+Carbo cap             Power gourd                Ex arrows
+Catwiph???            Mind gourd                 Bomb
+Clear silk            Float
+Sonic shoes           Smoke ball
+Sonic heels           Stone cure 
+Sword shoes
+Cat heels
+Gown
+Ribbon
+
+I wonder why a catwiph is being sold in the armor shop but.....
+The purpose here is add this city to Jerin's warp.
+
+Now head for Epro, teleport to Marse and sail north until you find a 
+continent. The first city you see is Epro.
+
+Epro:
+
+Items:
+Power potion
+Ex magic
+Ex bomb
+
+Armor shop:         Item shop:            Weapon shop:
+Carbo plate         Float                 Grand blade
+Carbo shield        Hi potion             Carbo sword
+Carbo helm          Hi magic              Cat wiph
+Carbo cap           Magic guard           Ex arrows
+Silver robe         Power gourd           Bomb
+Silver wrist        Mind gourd
+Sonic shoes         Float
+Sonic heels         Smoke ball
+Sword shoes         Stone cure
+Cat heels
+
+Speak with the woman in the northeast house.
+Then out of the city, and walk northwest until you find Hedge, he will give 
+you the Oil key.
+Now go back to Epro. 
+You may want to kill some Hidras hoping to get a Might sword.
+
+enter 
+here.
+There's a cave underwater, go there.
+
+Underwater way to Oil cave:
+
+Power potion
+Big arrow
+Mistery pin
+MIracle
+Grand blade
+Power gourd
+Magic guard
+Hi magic
+Ex bomb
+Ex potion
+
+This is easy, if you got all the items in the other submersal cave then, it's 
+a piece of cake.
+Just out in the whirlpool, leave the ship to your left and walk north and east 
+to find the Oil cave.
+
+Oil cave:
+
+850 gp
+Dragon arrow
+Hi bomb
+Dragon tooth x3
+Hi magic x3
+Dragon ring
+Big arrow
+Miracle x2
+Hi potion
+Swing wing
+Ex bomb
+Great potion
+Power oil
+Dragon Egg(2nd search)
+
+It's not a difficult maze. It helps if you explore the entire floor before 
+getting the stairs.
+Find the Dragon and get ready!
+
+Boss:
+Oil Dragon
+
+Before the fight, equip flash ring if you already have Thunder spell, if not, 
+blast ring will do(sunder spell).
+If you're expecting to equip Dragon ring and/or use dragon tooth/arrow, don't 
+waste your time, it's completely useless against Oil Dragon.
+The stronger version of his breath can make you toast. Use Jerin's boost a lot 
+if he uses too much. Lufia always cast thunder(or sunder) EXCEPT, if he cast 
+mirror. Keep always Lufia's hp(and everyone's)very high, just in case he cast 
+mirror after you already selected the attack spell, then use champion on her 
+right after she got hit by her own spell.
+If you think you're dying, use Lufia and Jerin boost. You can even make the 
+fighters use wind flute in emergencies.
+My levels were: Hero 42, Aguro 38, Lufia 41, Jerin 36. But it wasn't THAT 
+tough, you can face him some levels lower I believe, however, I really think 
+it will be very hard.
+
+Get Power oil and leave with escape.
+Teleport to Frederia and talk with Raile, he will make Falcon fly. WOW, that's 
+it, finally, the airship.
+
+Teleport to Epro and explore the continent by air, find the Arubus city, and 
+enter.
+
+Arubus:
+
+Items:
+Spell potion
+Pear cider
+Plum cider
+
+Armor shop:         Item shop:            Weapon shop:
+Zircon armor        Sweet water           Zircon sword
+Zircon robe         Ex potion             Zircon axe
+Zircon plate        Ex magic              Zircon rod
+Zircon wrist        Power gourd           Big arrow
+Zircon helm         Mind gourd            Ex arrows
+Zircon beret        Float                 Ex bomb
+Mach shoes          Smoke ball
+Mach heels 
+
+Old woman in basement:           Old man in basement:
+Pear cider                       Apple cider
+Sour cider
+Lime cider
+Plum cider
+
+Congratulations, you just reach the last city of the game, even some townsfolk 
+salute you, the end is near!
+
+Buy a cider from the old man and give it to the guy for some info.
+
+A thing that always bothered me since I played this game first time is why the 
+hell Lufia can't use Zircon stuff. Why there's Zircon rod? For Jerin? 
+Nonsense!
+I dunno if the programers missed it or what, but it is really annoying.
+
+Equip engage ring before buying stuff, after you're done with the equipment, 
+buy tons of ex potions and magic, until your money lasts, you won't need to 
+buy anything more except these potions.
+
+You have two caves and Glasdar tower, the cave west of Arubus leads to the 
+Tower. You need to go first to the cave north of Glasdar tower, to get the 
+Glasdar key. Go there with the airship.
+
+Cave north of Glasdar tower:
+
+Hi potion
+Gloom arrow
+Hi bomb
+Smoke ball
+Magic guard
+Mistery pin
+Zircon sword
+Great potion
+White ring
+Mind potion
+Miracle x3
+Spell potion
+Glasdar key
+Gloom guard
+Power potion
+Dragon Egg(3rd search)
+
+The switch changes the destination of the teleport again. If it's up, you get 
+a chest. If it's down, the way to get Glasdar key.
+No bosses here.
+
+White ring is awesome for Jerin. It increases her attack power the same hi 
+power ring does, plus gives defence and litlle agility. Great!
+
+I recomend you keep that Zircon sword(unless you have a might sword already), 
+you will see why later.
+
+Get Glasdar key and you're done here.
+
+Teleport back to Arubus and prepare for Glasdar cave and tower.
+Equip engage ring and buy more ex magics. Ex magics are better because you can 
+stay recovering your hp with spells forever. I think ex potions are to be used 
+only in batlles in emergencies.
+
+Glasdar cave is west of Arubus.
+
+Glasdar cave:
+
+Ex bomb x2
+Black ring
+Ex arrows x2
+Power potion
+Antidode
+Smoke ball
+Hi potion
+Sonic heels
+Hi magic
+Stone cure
+Miracle x4
+Gloom arrow
+Great potion
+Mind gourd
+Dragon arrow
+Big arrow
+Ex potion
+Dragon Egg(3rd search)
+
+This is not too dificult. Always walk with hp full(you have lots of Ex magic), 
+and you make it.
+Use Glasdar key on the locked door and you out in fron of Glasdar tower.
+
+Glasdar tower:
+
+Hi potion
+Ex bomb x2
+Big arrow
+Ex arrows
+Revive x3
+Mind gourd
+Power gourd
+Gloom arrow
+Gloom ring
+Miracle x7
+Antidode
+Stun arrow
+Power potion
+Great potion
+Speed potion
+Mind potion
+Spell potion
+Dragon Egg(3rd search)
+
+Since you have lots of Ex magics, use it and recover hp with spells! Explore 
+all floor before getting stairs and the hallways that leads to other floors. 
+Don't forget there's a recovery place in the tower.
+Here's all the switches combinations:
+
+O - pressed
+X - not pressed
+
+OOO - Leads to 2F, get this for a chest.
+OOX - Leads to 2F, get this for a chest.
+OXX - Leads to 5F, get this for 11 chests, also, the Dragon Egg(3rd search) 
+will be here.
+XXX - Leads to 6F, useless.
+XOO - Leads to 4F, useless.
+XXO - Leads to 5F, useless.
+XOX - Leads to 3F, useless.
+OXO - Right way, to the boss.
+
+Important note: After you beat the boss, Lufia will leave the party and only 
+join you again in the final battle(which is very near), so I like to keep this 
+data to gain levels, get might equipment, ect. etc...  Before I meet the boss, 
+after getting all chests here, I leave and save. Do what you want, but 
+battling monsters without Lufia to level up is a pain.
+
+Equip Lufia the flash ring before the fight. It will help a lot in the final
+battle.
+
+Boss:
+Nazeby
+
+My levels: Hero 43, Aguro 40, Lufia 42, Jerin 37, very low I should say, but 
+you can beat him in these levels. The fighers allways attack, unless you're 
+dying, so make them use wind flute.
+Lufia allways cast Thunder,  unless you are dying too, she can cast boost to 
+recover hp, or if he casts MIRROR, watch out. Well Jerin will be the key to 
+win this battle, first thing is use mirror on all characters, when they all 
+have mirror, use power and mind gourd to up your power.
+Don't worry, mirror doesn't reflect cure spells. Cure allways with Lufia if 
+someone is NOT with mirror, to let Jerin cast it. If all are with mirror, then 
+cast thunder.
+There's nothing you can do if he uses mace and kill you, just revive your 
+character with miracle.
+
+After the fight, Lufia will leave the party and you will have lose the Dual 
+blade.
+Equip Zircon sword, or Might sword if you have one.
+ 
+Out of the tower, rest, save in another data, and teleport to Arus, get the 
+airship and head west to the Tower of grief, then go north, to DOOM ISLAND!
+
+Recover your hp with the old man and save on the slot you saved when Lufia 
+leave your party.
+
+Doom Island, Last dungeon:
+
+Power potion x2
+Mind potion
+Great potion
+Speed potion
+Spell potion x2
+Miracle x5
+
+The same as the intro of the game, for one only detail, the monters are 
+stronger, you have 3 characters and very lower level than them. Go for the 
+final battles:
+
+Bosses:
+
+1st:
+Gades:
+
+My levels: Hero 44, Aguro 41 and Jerin 38.
+He is tough, Jerin will only cure with champion spell, sometimes even the Hero 
+needs to cure someone.
+A thing that helps is cast courage from Hero, to raise your defence, 
+expecially when he uses undead.
+
+Heal all hp and mp after the fight.
+
+2nd:
+Amon:
+
+Same levels than Gades, this one is the easiest. Fighters attack and Jerin 
+always cast mirror, even if all characters already have, so you will never 
+lose it. Piece of cake.
+If someone loses mirror and get hit, let the Hero cure him with Champion.
+
+Heal all after the fight.
+
+3rd:
+Daos:
+
+Levels: Hero 45, Aguro42, Jerin 39.
+The same strategy of Amon, exactly. 
+
+Now Lufia joins you for the Last boss:
+
+Last boss, Guard Daos:
+
+Levels: Hero 45, Aguro 43, Lufia 42 and Jerin 40.
+
+Well, Jerin won't do anything except cast mirror, on herself first.
+If you get too much people confused, make Jerin hit them all with her bow.
+Lufia's thunder hurts him a lot.
+Use miracle with any character if needed, don't forget miracle also revives 
+characters.
+Priorize Jerin to be with mirror, so she can cast more.
+Cast mirror even on confused characters.
+The best way to cure confuse is shriek, but Lufia hitting the confused also is 
+good.
+
+Well, good luck and enjoy the final!!!!!!
+
+Now beat Lufia 2!!!!!!!
+
+
+
+
+4 - Old cave section:
+
+The Old cave is a 7 floor dungeon located north of Grenoble. You must have 
+some levels to enter in lower floors of the cave, as follows:
+
+2nd floor:  No requirements.
+3rd floor:  Must be at level 10.
+4th floor:  Must be at level 15.
+5th floor:  Must be at level 20.
+6th floor:  Must be at level 25.
+7th floor:  Must be at level 30.
+
+In the walkthrough section, I wrote the time I believe you're ready to face 
+all the floors, buy I like to play at low levels, so if you reached the level 
+requirement sooner than I, you can go sooner.
+
+In every floor there's a treasure that you can get a reward at Grenoble, 
+however, I like to sell the treasures(because you can buy it again later), I 
+know it's not worth the money, except the Silver wick, but I think it's nice 
+in the end of the game you having all items incluing these. If you think this 
+is nonsense, get the reward, the money helps through the game.
+Let's go:
+
+2nd floor:
+
+Treasure - Secret map
+Reward: 500 gp
+Sold by : 250gp
+
+Items:
+
+Hi magic
+Potion x2
+Antidode
+Ex potion
+Sleep arrow
+Power ring
+Float
+Cloth shoes
+Dress
+Hair band
+Heeled shoes
+Fairy kiss
+Earring
+Tan shield
+Dragon Egg
+Secret map
+
+3rd floor
+
+Treasure - Silver wick
+Reward: 1000gp
+Sold by: 1150gp
+
+Items:
+
+Hi potion x2
+Bomb
+Sour cider
+Magic guard
+Escape
+Revive x2
+Smoke ball
+Miracle
+Sweet water
+Float
+Hi arrows
+Hi magic
+Apron
+Brone breast
+Brone helm
+Broad sword
+Spike shoes
+Water ring
+Silver wick
+
+4th floor:
+
+Treasure - Crown
+Reward: 2000gp
+Sold by: 1000gp
+
+Items:
+
+Smoke ball
+Hi potion
+Magic guard
+Miracle
+Long sword
+Brone helm
+Light robe
+Buckler
+Flame ring
+Wind heels
+Light armor
+520 gp
+Hi magic
+Escape
+Long nail
+Float
+Spell potion
+Broad rod
+Crown
+
+5th floor:
+
+Treasure - Golden pawn
+Reward: 3000gp
+Sold by: 1800gp
+
+Items:
+
+Kite shield
+Ex potion
+Smoke ball
+Opal
+Luck blade
+Ex potion
+Float
+500 gp
+Revive
+Spell potion
+Hi potion
+Hi bomb x2
+Miracle
+Frost ring
+Battle axe
+Power potion
+Revive
+
+6th floor:
+
+Treasure - Miracle gem
+Reward: 5000gp
+Sold by: 700gp
+
+Items:
+
+Hi bomb x3
+Gladius
+Plate cloth
+Plate mail
+Power potion
+Speed potion
+Mind potion
+Escape
+Ex magic x2
+Ex potion x2
+Miracle
+Plate helm
+Revive
+Hammer rod
+Power gourd
+Knife shoes
+Needle heels
+Mind gourd
+Power gourd
+Blast ring
+Miracle
+Miracle gem
+
+7th floor:
+
+Treasure - Crown jewels
+Reward: 10000 gp
+Sold by: 6000 gp
+
+Items:
+
+Gloom pick
+Ex potion x3
+Gloom voice
+Ex magic x2
+Power potion
+Spell potion x2
+Buster sword
+Miracle x4
+Hi magic
+Sweet water
+Float
+Great potion
+Power potion
+Wind flute
+Clear silk
+Mind potion
+Escape
+Dragon Egg(3rd search)
+
+
+5 - Dragon Eggs section
+
+The Dragon at the shrine grants you a wish if you bring him 8 Dragon Eggs. 
+They are located in chests through the world. 
+Here's the location of every Dragon Egg in the game. The 2nd search Eggs you 
+can get only if you already got the wish of the first ones. The 3rd search, 
+only if you got the wish of the 2nd. After the 3rd wish, the Dragon 
+dissapears.
+
+Beware, if you take the 1st ones to the Dragon before getting all chests of 
+the game, you will lose some items, because a Dragon egg will be placed in 
+some chests you haven't got yet.
+
+1st ones:
+
+- 2nd floor of Old cave
+- Ghost cave
+- Red tower(after you beat the boss)
+- Arus cave
+- Tower of Grief
+- Linze
+- Gaya Island(the cave)
+- Ullup Island
+
+2nd Search:
+
+- Alekia castle
+- Belgen
+- Northwest tower(from Grenoble)
+- Cave southwest of Belgen
+- Cave northwest of tower of light(near Linze)
+- Elba island
+- Waterway around soshete
+- Oil cave
+
+3rd Search:
+
+- Sheran castle
+- East cave(from Treck)
+- 7th floor of Old cave
+- Lyden
+- Cave of Purple newt(east of Herat)
+- Cave north of Glasdar tower
+- Glasdar cave(west of Arubus)
+- Glasdar tower, in the secret room where have 11 chests     
+
+
+The wishes you can get are these:
+
+2 level ups for every member of the party
+3 of each potions that raise status
+1 might bow
+1 might shield
+
+Surely, the one most useless is 2 level ups, you can level up by yourself, so 
+never take it. The potions could be a good choice, but the equipment is too 
+good, you can't lose it, check the equipment section to see for yourself.
+I get a might bow first, then 2 shields on 2nd and 3rd wishes.
+
+
+
+6 - Items section:
+
+Here is a list of every item in the game, their description, the price and if 
+they are buyable or not. Note that you can buy the items you sold before, so 
+the most of them are buyable at Forfeit. The ones with * you can only buy at 
+Forfeit.
+
+Item Name       Description                       Price      Buyable?(Y/N)
+
+Grilled Newt    Recover HP(very little)             2             Y*
+Potion          Recover HP(little)                  8             Y
+Hi Potion       Recover HP(more)                    400           Y
+Ex Potion       Recover HP(all)                     3000          Y
+Revive          Revive Character                    500           Y
+Magic Jar       Recover MP(little)                  10            Y*
+Hi Magic        Recover MP(more)                    1000          Y 
+Ex Magic        Recover MP(all)                     6000          Y
+Miracle         Recover all HP and MP(revives also) 5000          Y*
+Antidode        Recover from Poison                 6             Y
+Awaken          Recover from Sleep                  10            Y
+Shriek          Recover from Confuse                5             Y
+Mistery Pin     Recover from Paralyze               30            Y
+Swing Wing      Travel to visited Towns             80            Y
+Smoke Ball      Escape from Battles                 80            Y
+Escape          Escape from Dungeons                200           Y
+Stone Cure      Recover from Statue                 100           Y
+Float           Levitates Party(avoid poison)       50            Y 
+Sweet Water     Less Monsters Come                  10            Y
+Foul Water      More Monsters Come                  10            Y*
+Arrow           Attack one enemy                    2             Y
+Arrows          Attack one group                    10            Y
+Mid Arrow       Attack one enemy                    50            Y
+Hi Arrows       Attack one group                    100           Y
+Big Arrow       Attack one enemy                    100           Y
+Ex Arrows       Attack one group                    200           Y
+Gloom Arrow     Attack one enemy(instant death)     80            Y
+Stun Arrow      Attack one enemy(paralyze)          14            Y
+Sleep Arrow     Attack one group(sleep)             4             Y
+Puzzle Arrow    Attack one group(confuse)           8             Y
+Dragon Arrow    Attack one enemy                    200           Y
+Dragon Tooth    Attack all enemies                  120           Y*
+Gloom Voice     Attack all enemies(instant death)   600           Y*
+Poison Pin      Attack one enemy(instant death)     10            Y*
+Ear Tip         Attack one enemy                    5             Y
+Goblet          Attack one enemy                    10            Y
+Empty Bottle    Attack one enemy                    2             Y 
+Bomb            Attack all enemies                  100           Y
+Hi Bomb         Attack all enemies                  250           Y 
+Ex Bomb         Attack all enemies                  500           Y
+Power Gourd     Increase Attack power in battle     100           Y 
+Mind Gourd      Increase Intelligence in battle     100           Y
+Dragon Egg      Exchange 8 eggs for a wish          Can't be sold N
+Power Potion    Increases Hp permenently            Can't be sold N
+Spell Potion    Increases Mp permanently            Can't be sold N  
+Great Potion    Increases Strenght permanently      Can't be sold N
+Mind Potion     Increases Intelligence permanently  Can't be sold N
+Speed Potion    Increases Agility permanently       Can't be sold N 
+Long Nail       Trade for gloom voice at Forfeit    4             Y*
+Strall Doll     Trade for gloom voice at Forfeit    10            Y*
+Royal Statue    ??????????                          5000          Y*
+Silver Tarot    ??????????                          1800          Y*
+Wind Flute      Recover hp of all party(use at will)4600          Y*
+Magic Guard  Increases magic resistance in battle   50            Y
+Pear Cider   Recover hp(field)/Increases ATP(battle)10            Y
+Sour Cider   Recover hp(field)/Increases ATP(battle)20            Y
+Plum Cider   Recover hp(field)/Increases ATP(battle)30            Y
+Lime Cider   Recover hp(field)/Increases ATP(battle)20            Y
+Apple Cider  Recover hp(field)/Increases ATP(battle)1000          Y
+Stuffed bear    Confuses one enemy                  50            Y
+Stuffed dog     Paralizes one enemy                 10            Y
+Stuffed pig     Puts one enemy to sleep             10            Y
+
+-Thanks Celes destiny for noticing that these 3 last items were missing.
+
+
+
+7 - Equipment section
+
+Here, a list of every equipment of the game. Everything you can buy at towns, 
+except for the might stuff, which you can buy only at Forfeit if you previous 
+sold them. The Dual blade, of course, can't be sold.
+
+ATP - attack power
+WGT - Weight
+DEF - Defence power
+MGR - Magic resistance
+INT - Intelligence
+
+7.1 - Weapon list
+
+Weapon name             ATP      WGT     Price                   
+Knife                   13       10      10
+Dagger                  19       15      50
+Small knife             10       1       70                   
+Club                    28       20      120                           
+Long knife              24       40      180 
+Short sword             39       30      360               
+Staff                   37       30      360
+Broad sword - cursed    81       75      1200
+Spear                   53       45      780
+Mace                    45       20      600
+Brone sword             71       40      1400
+Long staff              56       40      1200 
+Axe                     104      80      3000
+Rapier                  66       30      2400
+Scimitar                90       50      2100
+Elven bow               58       38      2800
+Broad rod - cursed      50       75      1200
+Long sword              115      50      4800
+Luck blade - cursed     400      80      2400
+Artea's bow             100      50      24000
+Rod                     75       28      4800
+Trident                 128      60      7800
+Morning star            142      100     9600
+Battle axe              155      85      12000
+Glass robe              88       25      7200
+Fry pan                 5        3       50
+Gloom pick - cursed     0*       50      4800
+Gladius                 168      80      15300
+Hammer rod              98       55      9600
+Great axe               180      100     18600
+Silver sword            192      90      24000
+Silver rod              112      50      12000
+Buster sword            217      90      28000
+Carbo sword             232      85      33600
+Catwhip                 121      60      15600
+Grand blade             244      85      38000
+Zircon sword            256      75      42000  
+Zircon axe              288      85      48000
+Zircon rod              160      50      19200 - thanks Celes destiny
+Dual blade              300      0       Can't be sold
+Might bow               148      62      30000
+Might sword             380      30      9500    
+
+* instant death
+
+7.2 - Armor list
+
+Armor name              DEF      WGT     Price
+Cloth                   8        15      140
+Dress                   4        10      120
+Cloth armor             12       25      240
+Robe                    11       20      260
+Tan armor               16       30      480
+Tan robe                15       25      540
+Apron                   2        1       60
+Chain mail              20       45      960
+Chain cloth             18       35      1100
+Brone armor             24       60      1400
+Brone robe              21       35      1500
+Light armor             28       29      3000
+Light robe              24       30      3360
+Gown                    2        1       100
+Quilted silk            28       35      4800
+Half mail               32       65      4200
+Plate mail              36       80      5800
+Plate cloth             31       5       5700
+Silver armor            42       70      7200
+Silver robe             34       50      8400
+Clear silk              37       50      10000
+Carbo plate             46       75      10800
+Zircon robe             44       55      12000
+Zircon armor            50       75      12000
+Might armor (+10 MGR)   100      80      60000
+
+
+7.3 - Shield list
+
+Shield name             DEF      WGT     Price
+Bracelet                2        7       90
+Tan shield              5        15      180
+Brone breast            10       20      840
+Wood shield             7        20      360
+Wood wrist              8        21      480
+Brone shield            10       33      720
+Buckler                 13       14      1000
+Kite shield             15       20      1400
+Chop block              2        1       30
+Round shield            18       30      1920
+Round wrist             15       26      2600
+Large shield            20       40      3400
+Silver plate            23       45      3800
+Silver wrist            20       28      2800
+Tower shield            25       60      4600
+Carbo shield            28       55      6000
+Zircon wrist            25       30      8400
+Zircon plate            30       45      8400
+Might shield* (+32 MGR) 65       45      36000                       
+
+*Jerin can use this
+
+7.4 - Helmet list
+
+Helm name               DEF      WGT     Price
+Cloth helm              2        5       120
+Hair band               2        7       210
+Tan helm                5        10      240
+Glass cap               4        10      460
+Earring                 1        1       80
+Broach                  1        1       50
+Necklace                1        1       100
+Hair band               1        1       30
+Ribbon                  1        1       50
+Brone helm              11       21      1200
+Wood helm               8        14      540
+Glass beret             6        15      1000
+Iron helm               14       30      2500
+Pot                     3        1       60
+Red beret               8        14      2200
+Plate helm              16       24      4900
+Plate cap               10       17      3800
+Silver helm             18       27      7400
+Sakret                  12       22      6200
+Carbo helm              20       29      8900
+Carbo cap               14       24      8500
+Zircon helm             25       30      10200
+Zircon beret            16       25      9600
+Might helmet*           35       30      10200
+
+*(+19 MGR, +24 INT)Jerin can use too.
+
+
+7.5 - Shoes list
+
+Shoes name    DEF  ATP  AGL  WGT  Price
+Sandal        2    -    -    2    50
+Cloth shoes   4    -    -    4    300
+Heeled shoes  2    5    -    4    3000
+Spike shoes   4    5    -    8    2000
+Tan shoes     6    -    -    5    840
+Wind heels    1    -    5    5    4900
+Wind shoes    1    -    5    5    3900
+Knife shoes   5    10   -    10   6000
+Needle heels  2    10   -    8    7200
+Sonic shoes   7    -    8    4    8600
+Sonic heels   5    -    8    2    10200
+Sword shoes   8    15   -    15   11000
+Cat heels     3    15   -    12   11400
+Mach shoes    2    -    10   5    11600
+Mach heels    3    -    10   3    12200     
+
+
+7.6 - Ring list
+
+Ring name     Price Description
+Daze ring     2400  +8 DEF, +4 MGR
+Power ring    1200  +10 ATP
+Water ring    6000  Boosts Lufia's water spells(dew, water, flood)
+Sonic ring    4800  +1 DEF, +5 AGL
+Monster ring  1200  More random battles
+Ghost ring    1440  Efective againt some ghost creatures
+Fly ring      1960  Efective agaist some flying creatures
+Flash ring    3000  Boosts Lufia's lightning spells(flash, bolt, thunder)
+Emerald       200   No use
+Flame ring    8000  Boosts Jerin's fire spells(spark, flame, vulcan)
+Opal          100   No use
+Frost ring    7000  Boosts Jerin's ice spells(frost, blizzard, glacier)
+Blue ring     4000  +10 ATP, +8 DEF
+Green ring    4000  +4 ATP, +7 DEF, +4 INT, +10 AGL, +4 MGR
+Red ring      4000  +1 DEF, +10 INT, +5 AGL
+Blast ring    10000 Boosts Lufia's explosion spells(bang, blast, sunder)
+Yellow ring   5000  +20 DEF, +20 MGR
+Purple ring   6000  +10 ATP, +11 DEF, +4 INT, +2 AGL, +5 MGR
+Undead ring   960   Efective agaist some undead creatures
+Sea ring      4400  Efective agaist some sea creatures
+Wave ring     30000 +30 ATP, +22 DEF, +15 INT, +8 AGL, +15 MGR
+Hi power ring 6000  +40 ATP
+Hi daze ring  9600  +40 DEF, +10 MGR
+Mach ring     10800 +4 DEF, +11 AGL
+Engage ring   6000  Buy things at lower price
+Diamond ring  7200  Buy things at higher price
+Heavy ring    4000  +80 ATP, +120 WGT
+Dragon ring   3800  Efective agaist some dragon type creatures(hydra too) 
+Mind ring     6000  +30 INT, +10 MGR
+White ring    10000 +40 ATP, +21 DEF, +4AGL
+Black ring    12000 +10 ATP, +7 DEF, +10 AGL, +40 MGR
+Gloom ring    6900  *
+Gloom guard   3600  Protect agaist instant death spells
+
+
+* It's supposed to increase the sucess probability of instant death spells, 
+but I don't see much difference.
+
+My sugestion:  
+Hero - Wave ring 
+Aguro - Black ring
+Lufia - Blast ring (Flash ring for bosses)
+Jerin - White ring
+
+
+8 - Monsters list 
+
+Note: The gp of the monsters is not fixed. This means you can get different gp 
+from this one, but it is a near valor to this. This increases in stronger 
+monsters.
+
+Another note: The list of items monsters carry is not complete. I'm not sure 
+if every monster has items, but if you know any item that is not here, please 
+e-mail me, even if it's a single one.
+
+
+Monster name   XP     GP       Item
+Big newt       2      1        Grilled newt
+Madshroom      3      2        Potion
+Jellyfish      3      2        ?????
+Spider         4      3        ?????
+Earwig         4      3        ?????
+Anemone        5      3        ?????
+Nettles        7      8        ?????
+Green orb      6      5        Opal
+Baby crab      8      4        Small knife
+Kobolt         8      5        Mid arrow
+Giant bat      9      4        ?????
+Bore worm      7      3        ?????
+Roozard        12     114      Apron
+Mini demon     13     6        Potion
+Rat            10     6        ?????
+Giant newt     11     7        Giant newt
+Mini crab      17     7        ?????
+Goblin         16     67       Awaken
+Dracu rose     22     81       Hi arrows
+Huge bunny     14     84       Ribbon
+Red magi       20     42       Hi magic
+Fight          20     62       ?????
+Zombie         18     30       ?????
+Frog           39     20       ?????
+Spike newt     19     20       Poison pin
+Crazy pot      34     57       Magic jar
+Ghost mail     28     92       Light armor
+Sword spook    30     46       Scimitar
+Wil'o wisp     37     37       ?????
+Flame spook    39     48       ?????
+Poison rat     32     9        Poison pin
+Beetle         38     28       ?????
+Mummy          39     6        Antidode
+Blue wolf      38     51       ?????
+Mud man        45     40       ?????
+Orc            43     50       ?????
+Red orb        45     6        Emerald
+Mimick         633    370      ?????
+Straw man      48     11       Long nail
+Archer         46     70       Foul water
+Sand Man       59     80       Smoke ball
+Sand rose      55     34       Hi potion (thanks Celes destiny)
+Nightmare      52     47       ?????
+Skeleton       53     40       ?????
+Killer bee     41     43       Poison pin
+Chomp weed     60     38       ?????
+Tarantula      68     34       ?????
+Spell nail     64     54       ?????
+Gargoyle       97     58       ?????
+Horrorquin     95     41       Gown
+Dark elf       85     66       Mind gourd
+Jelly bean     70     40       ?????
+Dark demon     100    50       Hi potion
+Flame freak    88     55       Fry pan
+Big meany      90     2        Ear tip
+Mace man       110    105      ?????
+Sting          100    83       Poison pin
+Gold orc       130    104      Small knife
+Rok            128    85       Swing wing
+Pin lizard     160    45       ?????
+Armor lord     180    105      Ex potion
+Mimicker       2999   900      ?????
+Blue meany     140    49       ?????
+Giant oak      135    58       ?????
+Frogula        265    72       Antidode
+Yeoman         200    35       Hi arrows
+Halloween      230    99       Puzzle arrow
+Harpie         250    59       ?????
+Blue wisp      200    90       ?????
+Ice snake      240    83       Sleep arrow
+Ghoul          225    75       Potion
+Crazy jar      225    16       Magic jar
+Red star       240    130      ?????
+Lobsteron      260    95       Goblet
+Killer eel     255    100      ?????
+Axe knight     310    80       Tower shield
+Psycho clam    275    145      ?????
+Jelly bolt     400    127      ?????
+Star fish      450    93       ?????
+Trap harp      290    106      Ex potion
+Terrorquin     360    150      Ex potion
+Mad lily       340    116      ?????
+Zooster        335    73       Stone cure
+Were wolf      410    65       ?????
+Crazy pine     380    84       Power gourd
+Land worm      400    8        ?????
+Were frog      550    435      Great potion
+Sabrespook     550    148      Buster sword
+Zaurus         470    215      ?????
+Cave rok       450    220      ?????
+Evil clam      793    90       Earring
+Sea snake      730    100      Power gourd
+Demon mace     700    360      Morning star
+Green magi     750    322      Hi magic
+Troll          800    323      ?????
+Red wolf       700    180      ?????
+Eye curse      650    300      ?????
+Mud ghoul      495    257      Hi bomb
+Manticore      750    439      Mind potion
+Nail man       600    60       Straw doll
+Blue skull     550    200      ?????
+Red core       13333  4500     ?????
+Vampire        900    410      Hi magic
+Basilisk       850    258      Stone cure
+Lizard man     725    250      ?????
+Salamander     925    280      Grilled newt
+Pirate         732    333      ?????
+Steel lord     975    230      Grand blade
+Fire plate     1100   232      Might armor
+Dark spook     800    232      Gloom guard
+Berzerker      850    250      Gloom arrow
+Magura         1400   110      ?????
+Hydra          1850   315      Might sword
+Megaturtle     1300   280      ?????
+Mad wolf       1250   215      ?????
+Griffon        1500   315      ?????
+Mega frog      1200   537      Miracle
+Rock golem     1550   245      ?????
+Manta ray      1400   100      ?????
+Sea dragon     2000   325      Dragon tooth
+Efreet         1900   310      Hi potion
+Mad knight     1750   300      Ex potion
+Barient        2300   311      Might helmet
+Zaurus rex     2100   301      ?????
+Gorgon         1900   255      Stone cure
+Wing lion      2700   340      Spell potion
+Gloom          1999   202      Miracle
+Red skull      2400   300      ?????
+Mad cleric     3333   290      Ex magic
+Dragon         2800   330      Dragon arrow
+Humungus       2850   317      ?????
+Electromaz     3000   530      ?????
+Fire wave      3000   500      ?????                     
+Waterspout     3000   430      ?????
+Whirlwind      3000   320      ?????
+Green core     65000  8500     ?????
+Act hydra      3456   530      ?????
+Mega atlas     2929   415      Power potion
+Gold golem     3333   1300     ?????
+Act demon      3666   560      Foul water
+Act dragon     4000  1030      ?????
+
+
+9 - Boss list
+
+Here I will put all the bosses of the game, their location, xp, gp, and the 
+level I beat them. You can follow this to see if you're at very low or high 
+level when facing them, but beware, I always try to beat them at low levels 
+because I like chalenges, you can get a little higher if you want.
+
+Demon lord x4       200xp    470gp
+Location:  Treck
+Levels: Hero 6, Lufia 5, Aguro 5
+
+Goblin x3            300xp    551gp
+Location:  Island northwest of Treck
+Levels: Hero 8, Aguro 8, Lufia 7
+
+Aprendice         200xp    201gp
+Location:  Tower northwest of Grenoble
+Levels: Hero 11
+
+Phantasm            800xp  510gp
+Location: Cave north of Medan
+Levels:  Hero 18, Aguro 16, Lufia 17
+
+Follower         1400xp     1018gp
+Location:  Tower north of Dais temple
+Levels:  Hero 18, Aguro 16, Lufia 17
+
+Dark ghost       2300xp    2198gp
+Location:  Red tower
+Levels:  Hero 21, Aguro 19, Lufia 20, Jerin 19
+
+Guardian          5000xp      5073gp
+Location:  Tower of light
+Levels:  Hero 30, Aguro 27, Lufia 29, Jerin 26
+
+Bosun & Pirates         27032xp     4737gp
+Location:  Aisen Island, the Pirate's tower
+Levels:  Hero 37, Aguro 34, Lufia 36, Jerin 32
+
+Oil dragon            31000xp       4031gp
+Location:  Oil cave
+Levels:  Hero 42, Aguro 38, Lufia 41, Jerin 36
+
+Nazeby            50000xp        0gp
+Location:  Glasdar tower
+Levels:  Hero 43, Aguro 40, Lufia 42, Jerin 37
+
+Gades         65000xp     0gp
+Location:  Doom island
+Levels:  Hero 44, Aguro 41, Jerin 38
+
+Amon         65000xp     0gp
+Location:  Doom island
+Levels:  Hero 44, Aguro 41, Jerin 38
+
+Daos         65000xp   0gp
+Location:   Doom island
+Levels:  Hero 45, Aguro 42, Jerin 39
+
+Guard Daos, last boss           0xp     0gp
+Location:  Doom island
+Levels:  Hero 45, Aguro 43, Jerin 40, Lufia 42
+
+
+10 - Game genie codes
+
+Alright, these codes were all got from internet and I tested them all. I will 
+describe them all here.
+
+
+Codes to get more status from potions:
+
+0AED 04FF - Use a spell potion and get 255 MP
+0AED 4AFF - Use a mind potion and get 255 INT
+0AED 6DFF - Use a great potion and get 255 STR
+
+Note: Your status will go very high, note that your mp returns to 0 after you 
+pass 999, but you will have more than 1000 mp, use a lot of spell potions than 
+use a miracle. Now check your spell list to confirm this.
+Same for STR and INT. You will have a 4000+ STR or INT but you will see low 
+damage in battles. In reality, you are giving more than 1000 damage, but the 
+thousand house doesn't appear. I confirmed this when I gave 016 damage on an 
+Efreet and he died.
+
+
+Codes to increase the probability of getting the better numbers using potions
+
+FD34 0448 - Speed potion
+FD30 0438 - Mind potion
+FD31 07C8 - Great potion
+FD3D 0F18 - Spell potion
+FD33 DDC8 - Power potion
+
+Note: With these codes on, your chance of getting 3 of str,agl, and int, and 
+getting 5 of hp and mp when using that potions will increase a little.
+
+
+Code for no random battles
+
+01 B4 5698
+
+Note: With this, you get no random battles, but you can't enter anywhere, and 
+also, your buttons are locked. Use it to explore, then disable it when you 
+must enter a place or a door.
+
+
+Codes to get tons of xp gp, and get different items from enemies
+
+01F5 DA0D
+01F5 DA71
+01F5 DA7B
+01F5 DA7D
+01F5 DA82 - get might sword from gold orcs
+01F5 DA85 - get might bow from efreets
+
+Note: These 6 codes seem to change the xp, gp, and items of monsters. 
+Sometimes you get really big xp and gp, and sometimes 0. Also, you can even 
+get dummy items. For each code the thing is fixed, same monsters always give 
+same things, so, someday I will make a list for each code with xp, gp and 
+items for each monster.
+
+
+Some useless codes
+
+4DB4 D401 - move quicker in the world and dungeons
+8236 0F34 - Infinite HP
+823A 0FC4 - Infinite MP
+
+Note: These codes didn't worked for me. Istead of doing what they are 
+supposed, they locked some buttons and messed up the graphics in battles.
+
+There are more codes on internet, but the only ones I found usefull are these. 
+Enjoy!
+
+
+
+
+Well, that's it. I hope you liked this faq, It gave me a lot of work, but it 
+was a pleasure doing it.
+
+If you think that there is something that might improve this faq, or  if you 
+find something that is not here, like hidden items, or items monsters carry, 
+please e-mail me so I can update it. You will be given the credit of course.
+
+Also, if anyone wants to speak via e-mail about this game or any other rpg, 
+feel free to e-mail me.
+
+
+Copyright® by Leandro Gueths Dupke, the "Lord Leandreus".
+
+Contact: leandreu@terra.com.br
+
+People who helped me, thanks again:
+
+- Don Petus: dpettus@i1.net
+- Celes Destiny: CelesDestiny@compuserve.de
+
+The end.

@@ -1,0 +1,362 @@
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+|/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\|
+||                       Breath of Fire SNES                       ||
+||                          Weapon Guide                           ||
+||                          Version: 1.0                           ||
+||                     Created By: Poopnug148                      ||
+||                     poopnug.poo@verizon.net                     ||
+|\_________________________________________________________________/|
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+
+
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+|/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\|
+||                       0. Version History                        ||
+|\_________________________________________________________________/|
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+
+Version FINAL
+5-21-02
+Five month anniversary of this guide that nobody has probably even
+looked at! Just an update of my email address.
+
+Version 1.0
+12-21-01
+Everything Complete. Will only be updated if some corrections are
+pointed out to me. Be on the look out for my walkthrough for this great
+game.
+
+
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+|/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\|
+||                          1. Contents                            ||
+|\_________________________________________________________________/|
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+
+0.           Version History
+1.           Contents
+2.           Weapons
+3.           Armors
+4.           Shields
+5.           Helmets
+6.           Closing
+
+
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+|/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\|
+||                           2. Weapons                            ||
+|\_________________________________________________________________/|
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+
+Here is as complete of a list I could make for the about 75 weapons in
+this wonderful game. Here is what some of the abbreviations I will be
+using mean.
+
+Characters
+R=Ryu(Hero)
+N=Nina
+B=Bo
+K=Karn
+G=Gobi
+O=Ox
+Bl=Bleu
+M=Mogu
+
+Weapon Type
+SD=Sword
+RP=Rapier
+HR=Hammer
+CN=Cane
+SP=Spear
+CW=Claw
+DR=Dagger
+BW=Bow
+
+Misc
+AP=Attack Power
+X=No
+O=Yes
+
+Name          Weight   AP   Price   Used as Item   Equip with
+B.Rang        2        60   N/A     X              R
+BrokenSD      14       42   100     X              R
+BoneCN        4        14   2680    X                    Bl
+BroadSD       5        34   5000    X              R
+BronzBW       2        14   500     X                B
+BronzRP       2        7    800     X               N
+BronzSD       3        12   700     X              R
+Cane          2        8    6000    O                    Bl
+Club          6        30   2500    X                   O
+Dagger        2        32   2000    X                 K
+DarkDR        1        140  40000   X              R  K
+Dart          2        46   3000    X                 K
+DigCW         2        42   5000    X                      M
+Dirk          1        5    50      X              R
+DragonSD      20       110  N/A     X              R
+DwarfBW       1        150  20000   X                B
+EmporSD       1        255  N/A     O              R
+EvilCN        6        20   4000    X                    Bl
+EvilRP        7        55   20000   X               N
+FlameDR       7        74   7000    O                 K
+FlameHR       8        120  40000   O                   O
+FlameRP       5        28   5000    O               N
+FlameSD       10       122  20000   X              R
+GiantHR       12       60   4500    X                   O
+GlowCN        8        100  60000   O                    Bl
+HeroBW        8        220  30000   X                B
+HeroSP        4        56   7500    X                  G
+IcyCN         10       30   8300    O                    Bl
+IcyCW         3        88   15000   O                      M
+IcyDR         9        75   7000    O                 K
+IronCW        3        74   10000   X                      M
+IronHR        8        45   3500    X                   O
+IronRP        5        14   2000    X               N
+JadeBw        8        80   10000   X                B
+Javelin       3        34   4000    X                  G
+LightRP       2        10   80      X               N
+LongBW        5        28   2600    X                B
+LongSD        4        26   2500    X              R
+LoyalRP       6        64   25000   X               N
+Mallet        1        255  30000   X                   O
+MoonBW        1        66   8000    X                B
+MystCW        1        120  30000   X                      M
+MystSD        3        100  40000   X              R
+OldSP         5        42   6000    X                  G
+Pike          4        24   2500    X                  G
+PoisonBW      6        42   5000    X                B
+PoisonRP      5        20   3000    X              RN
+Pole          2        12   80      X                  G
+PowerDR       7        66   5500    X                 K
+PowerRP       0        82   30000   O              RN
+PowerSD       8        62   8000    X              R
+RageHR        8        75   8000    O                   O
+Rang          2        18   N/A     X              R
+Rapier        4        10   1500    X               N
+RustCW        4        60   7000    X                      M
+Sabre         2        8    400     X              R
+Scythe        3        20   1200    X              R
+SharpBW       7        54   7000    X                B
+ShortBW       4        20   1000    X                B
+ShortRP       1        5    400     X               N
+Sickle        6        50   6500    X              R
+SilverDR      6        10   10000   X                 K
+Sleeper       8        100  4000    X                  G
+SpineHR       15       120  30000   X                   O
+StarHR        8        210  N/A     O                   O
+SteelBW       5        35   4000    X                B
+Stick         1        5    150     X                    Bl
+ThrowDR       1        20   1000    X                 K
+ThundrRP      6        46   9000    O               N
+Trident       6        74   10000   O                  G
+Tri-BW        12       96   12000   X                B
+Tri-DR        6        54   4000    X                 K
+WingRP        2        34   7000    X               N
+WingSD        8        96   10000   X              R
+
+
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+|/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\|
+||                            3. Armors                            ||
+|\_________________________________________________________________/|
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+
+Here is the complete list of the various armors in the game. Here are
+the abbreviations.
+
+Characters
+R=Ryu(Hero)
+N=Nina
+B=Bo
+K=Karn
+G=Gobi
+O=Ox
+Bl=Bleu
+M=Mogu
+
+Armor Type
+AR=Armor
+GN=Gown
+ML=Mail
+RB=Robe
+CL=Clothes
+
+DP=Defense Power
+
+Name     Weight   DP    Price   Equip With
+AgileAR  0        92    10000    N    Bl
+AngleAR  3        76    30000    N    Bl
+BronzAR  9        25    3600    R BKGOBlM
+ChainML  2        20    2000    R B  O
+ClearCL  0        100   10000    N    Bl
+Cloth    1        1     10      RNBKGOBlM
+DragonAR 0        110   N/A     R
+Dress    25       8     1000     N    Bl
+EarthRB  8        88    1000    R B GOBlM
+EvilRB   1        90    9990     N    Bl
+FlameAR  10       82    28000   R       M
+Gown     1        18    2000     N    Bl
+GuruCT   0        70    20000         Bl
+HuntCL   4        16    1500    R BK
+IcyAR    10       80    26000   R B  O
+IronML   9        27    5000    R B  O
+LifeAR   8        115   30000   R
+LightCL  1        68    30000    N    Bl
+MetalAR  10       39    9000    R B  O  M
+MystRB   8        60    6000    RN    Bl
+PlateAR  4        24    3400    R BKGO  M
+PowerAR  8        84    2000     N    Bl
+PrisnCL  2        10    10      RNBKGOBlM
+QuartzAR 9        50    10000   RNBKGOBlM
+RangerVT 8        40    5000    R B G
+Robe     1        2     10      R     Bl
+SageML   14       25    3000    R BKGO  M
+SilkGN   4        15    2800     N    Bl
+SpineCL  10       60    8000        G
+SuedeAR  7        14    750     R BKGO  M
+SuedeGN  6        10    500     RNBKGOBlM
+SuedeRB  2        35    6000     N    Bl
+ThiefCL  4        30    2500    R  K
+WolfSkin 11       80    50000     B
+WoolRB   2        25    5000     B    Bl
+WorldAR  9        80    12000        O  M
+WorldML  11       75    22000   R B  O  M
+
+
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+|/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\|
+||                           4. Shields                            ||
+|\_________________________________________________________________/|
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+
+Time for the shields list. Here are the abbreviations.
+
+Characters
+R=Ryu(Hero)
+N=Nina
+B=Bo
+K=Karn
+G=Gobi
+O=Ox
+Bl=Bleu
+M=Mogu
+
+Shield Type
+GL=Glove
+SH=Shield
+BR=Bracelet
+RG=Ring
+SL-Scale
+
+DP=Defense Power
+
+Name      Weight   DP   Price   Equip With
+ArmPad         2    8     300   R B G
+Bandage        1    5     500   RNBKGOBlM
+Bracelet       3   12    1200    N    Bl
+BronzSH        3    8     500   R BKGO  M
+ColdSH        15   50   10000   R B  O
+DarkBR         0    0     100      K
+DragonSH       5  128     N/A   R
+DreamRG        0    0    1000   RNBKGOBlM
+FlameSH        5   52   50000   R BKGO  M
+Gauntlet       1    8     800   RNBKGOBlM
+Glove          6   20    3000     B
+GuardSH       10   32   10000   RNBKGO  M
+HuntGL         8   30    4500     B
+IcySH          5   30    4000   RNBKGOBlM
+IronSH         4   12    1000   R BKGO  M
+IronSL         5   22    2000       G
+LightSH       10   36    4000    N    Bl
+LoveBR         0    0   12000    N    Bl
+MagicRG        0    0    2500    N    Bl
+MaskSH         8   65   20000   RNBKGOBlM
+MetalSH        5   16    1400   R BKGO  M
+MetalSL        5   25    3000       G
+MystSH         5   48   20000   R B  O  M
+ProSH          5   32    5000   R BKGO  M
+RubyBR         0    0   30000    N    BlM
+SilverBR       0    0   10000   RNBKGOBlM
+SkullRG        0   10     100   RNBKGOBlM
+SkySH          1   15     300    N
+SmartRG        0    0    1111   RNBKGOBlM
+StarSH         2   70   29000   R BKGO  M
+SuedeSH        1    2     150   RNBKGOBlM
+TrapGrd        4   40   10000      K
+WindBR         0    0    4000    N    Bl
+WoodSH         2    5     300   R  K
+Wrist          2   10     700   RNBKGOBlM
+
+
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+|/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\|
+||                           5. Helmets                            ||
+|\_________________________________________________________________/|
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+
+And finally it's time for the helmet list. Once again here are the
+abbreviations.
+
+Characters
+R=Ryu(Hero)
+N=Nina
+B=Bo
+K=Karn
+G=Gobi
+O=Ox
+Bl=Bleu
+M=Mogu
+
+Helmet Type
+HT=Helmet
+SF=Scarf
+
+DP=Defense Power
+
+Name      Weight    DP    Price    Equip With
+AgileHT        1    42     5500    RNBKGOBlM
+Bandana        1     5      400    RNBKGOBlM
+BronzHT        4    10     1200    R BKGO  M
+ChainHT        8    25     2500    RNBKGOBlM
+CursedHT      20    62      100    RNBKGOBlM
+DivingHT       6    32     4000        G
+Domino         7    42    30000     N    Bl
+DragonHT       1    80      N/A    R
+EchoHT         3    28     2000    RNBKGOBlM
+FaceMask       6    35     6000    R  K    M
+G.Tiara        5     2    20000     N    Bl
+GaiaMask       4    36     8000    R    O  M
+GoldHT         6    14    20000    RNBKGOBlM
+HairBand       2     8     1000     N    Bl
+HeadGear       5    16     2800    RNBKGOBlM
+HornHT         6    37     5000    R BKGO  M
+IcyHT          6    16      N/A    R B  O
+IronHT         6    32     7000    R BKGO  M
+IronMask       7    30     4000         O
+LoveHT        10    64      100     N
+MystSF         0     0      100     N    Bl
+NiceHT         3     6      600    RNBKGOBlM
+PowerHT        3    44    20000       KG
+ShellHT        1    25     2000        G
+SkullHT       10    25     1420    RNBKGOBlM
+StoneHT       16    48     6000            M
+StrawHT        1     2      200    RNBKGOBlM
+SuedeHT        3     6      200    RNBKGOBlM
+SunHT          8    12     2500    R BKGO  M
+Tiara          2    10     1500     N    Bl
+TideHT         0     0     1111    RNBKGOBlM
+Turban         1    11     2000    RNBKGOBlM
+Visor          2     6      800    R BKGO  M
+WolfHT         4    12     1332      B
+
+
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+|/¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\|
+||                           5. Closing                            ||
+|\_________________________________________________________________/|
++-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+-=-+
+
+Well that's it. I hope this helped you out in some way. If you have any
+corrections, suggestions, comments or anything else send them to
+poopnug.poo@verizon.net and I will get back to you as soon as possible.
+Be on the lookout for my walkthrough for Breath of Fire for GBA coming
+soon.

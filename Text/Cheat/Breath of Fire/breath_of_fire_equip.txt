@@ -1,0 +1,624 @@
+._______      ._______      .__________.  .__________.  .__________. ._.    ._.
+|~~~~~~\\     ||~~~~~\\     ||_________|  ||~~~~~~~~||  |__________| | |    | |
+|       \\    ||      \\    ||            ||        ||       ||      | |    | |
+|        \\   ||      //    ||            ||        ||       ||      | |    | |
+|        //   ||     //     ||            ||________||       ||      | |____| |
+|_______//    ||____//      ||_________.  ||~~~~~~~~||       ||      | |____| |
+|~~~~~~~\\    ||~~~~\\      ||_________|  ||        ||       ||      | |    | |
+|        \\   ||     \\     ||            ||        ||       ||      | |    | |
+|        //   ||      \\    ||            ||        ||       ||      | |    | |
+|_______//    ||       \\   ||_________.  ||        ||       ||      | |    | |
+~~~~~~~~~     ||        \\  ||_________|  ||        ||       ||      |_|    |_|
+
+                                           -=======.  
+                                          //=======| 
+                            .________.    //
+                            ||______||    ||
+                            ||      ||    ||_____. 
+                            ||      ||    ||~~~~~|
+                            ||      ||    ||
+                            ||______||    ||
+                            |________|    ||
+
+           .__________. .__________.    ._________       .__________.
+           ||_________| |__________|    ||~~~~~~~\\      ||_________|
+           ||                ||         ||        \\     ||
+           ||                ||         ||        //     ||
+           ||                ||         ||       //      ||
+           ||_______.        ||         ||______//       ||_________.
+           ||_______|        ||         ||~~~~~~\\       ||_________|
+           ||                ||         ||       \\      ||
+           ||                ||         ||        \\     ||
+           ||                ||         ||         \\    ||
+           ||           .____||_____.   ||          \\   ||_________.
+           ||           |___________|   ||           \\  ||_________|
+
+
+
+     ______________________________
+    | BREATH OF FIRE EQUIPMENT FAQ |
+    | BY: jjholt                   |
+    | VERSION: 1.02                |
+    | dale_jeremy@hotmail.com      |
+    | finished 11/11/05            |
+    | Copyright(C) 2005-2007       |
+    |______________________________|
+
+
+
+   This is my first ever FAQ!  It's of all the equipment and the special 
+   effects of each in Breath of Fire.  I hope this helps you somehow.  If you 
+   have any questions or anything missing that needs to be added please email 
+   me at dale_jeremy@hotmail.com.
+
+
+        (~~~~~~~~~~~~~~~)
+        (  __________   )
+        ( |          |  )
+        ( | CONTENTS |  )
+        ( |__________|  )
+        (               )
+        (  1. Version   )
+        (     History   )
+        (  2. Weapons   )
+        (  3. Shields   )
+        (  4. Armors    )
+        (  5. Helmets   )
+        (  6. Etc.      )
+        (  7. Location  )
+        (  8. Credits   )
+        (~~~~~~~~~~~~~~~)
+
+  
+ __________________
+|                  |
+|1. VERSION HISTORY|  
+|__________________|
+
+   VERSION 1.0
+    My first faq completed on November 11, 2005.
+
+   VERSION 1.01
+    Just a minor update, thanks to MeepleLardicle for confirming that the 
+    PowerHT has a special effect.
+
+   VERSION 1.02
+    Adding the percentage of effectiveness of some equipments special effects
+    and a few more weapons uses as items, contributed from Deathlike2.
+
+   VERSION 2.02
+    Finally completed the brand new section of where everything is located, 
+    along with a bunch of other minor updates.
+___________________________________________________________________________
+
+
+   This is pretty self-explanatory; but I'll say it anyway. Under character 
+   everyone is all of the eight characters; guys is Ryu, Bo, Karn, Gobi, Ox, 
+   and Mogu.  The weapons that can be used as an item are listed as the spell 
+   they mimic under Nina and Bleu's spell list.
+ ___________
+|           |
+|2. WEAPONS |
+|___________|
+
+WEAPON	   ATTACK POWER	  WEIGHT     CHARACTER       HANDED    ITEM/effects
+BoneCN          14          4           Bleu            1
+B-Rang          60          2           Ryu             1
+BroadSD	        34          5           Ryu             1
+BrokenSD        42          15          Ryu             1
+BronzBW	        14          2           Bo              2
+BronzRP	        7           2           Nina            1
+BronzSD         12          3           Ryu             1
+Cane            8           2           Bleu            1       Zom1
+Club            30          6           Ox              1
+Dagger          32          2           Karn            1
+DarkDR          140         1           Ryu,Karn        1       inflicts 50%
+                                                                more damage
+                                                                against demonic
+                                                                enemies*
+Dart            46          2           Karn            1
+DigCW           42          2           Mogu            2
+Dirk            5           1           Ryu             1
+DragonSD        110         20          Ryu             1
+DwarfBW	        150         1           Bo              1       inflicts 50%
+                                                                more damage
+                                                                against demonic
+                                                                enemies*
+EmporSD	        255         1           Ryu             1       Char
+EvilCN          20          6           Bleu            1       increases AP by
+                                                                3 after each 
+                                                                attack
+EvilRP          55          7           Nina            1
+FlameDR	        74          7           Karn            1       F-Ball
+FlameHR	        120         8           Ox              2       Flame
+FlameRP	        28          5           Nina            1       F-Ball
+FlameSD         122         10          Ryu             1
+GiantHR         60          12          Ox              2
+GlowCN          100         8           Bleu            1       Para/Hold
+HeroBW          220         8           Bo              2
+HeroSP          56          4           Gobi            1
+IcyCN           30          10          Bleu            1       Chill
+IcyCW           88          3           Mogu            2       Frost
+IcyDR           75          9           Karn            1       Cold
+IronCW          74          3           Mogu            2
+IronHR          45          8           Ox              1
+IronRP          14          5           Nina            1
+JadeBW          80          8           Bo              2
+Javelin	        34          3           Gobi            1
+LightRP	        10          2           Nina            1
+LongBW          28          5           Bo              2
+LongSD          26          4           Ryu             1
+LoyalRP         64          6           Nina            1       increases AP by
+                                                                3 after each
+                                                                physical attack
+Mallet          255         1           Ox              1       inflicts 50%
+                                                                more damage
+                                                                against demonic
+                                                                enemies*     
+MoonBW          66          1           Bo              2
+MystCW          120         1           Mogu            1
+MystSD          100         3           Ryu             1
+OldSP           42          5           Gobi            1
+Pike            24          4           Gobi            1
+PoisonBW        42          6           Bo              2
+PoisonRP        20          5           Ryu,Nina        1
+Pole            12          2           Gobi            1
+PowerDR         66          7           Karn            1
+PowerRP         82          0           Ryu,Nina        1       Ag-Up
+PowerSD         62          5           Ryu             1
+RageHR          75          8           Ox              1       Frost
+Rang            18          2           Ryu             1
+Rapier          10          4           Nina            1
+RustCW          60          4           Mogu            2
+Sabre           8           2           Ryu             1
+Scythe          20          3           Ryu             1
+SharpBW         54          7           Bo              1
+ShortBW         20          4           Bo              2
+ShortRP         5           1           Nina            1
+Sickle          50          6           Ryu             1
+SilverDR        10          6           Karn            1
+Sleeper         100         8           Gobi            1       inflicts 50% 
+                                                                more damage
+                                                                against demonic
+                                                                enemies*
+SpineHR         120         15          Ox              1       
+StarHR          210         8           Ox              1       Comet
+SteelBW         35          5           Bo              2
+Stick           5           1           Bleu            1
+ThrowDR         20          1           Karn            1
+ThunderRP       46          6           Nina            1       Fry
+Tri-BW          96          12          Bo              2
+Trident         74          6           Gobi            1       Lstorm
+Tri-DR          54          6           Karn            1	
+Tri-Rang        150         2           Ryu             1       inflicts 50%
+                                                                more damage on
+                                                                certain flying
+                                                                enemies
+WingRP          34          2           Nina            1
+WingSD          96          8           Ryu             1
+
+* I have yet to test these myself	 
+
+ ___________
+|           |
+|3. SHIELDS |
+|___________|
+
+SHIELD	    DEFENSE POWER     WEIGHT    EQUIPPED BY        SPECIAL EFFECTS
+Bandage	        5               1       everyone
+Bracelet        12              3       Nina,Bleu
+BronzSH	        8               3       guys
+DragonSH        128             5       Ryu                 reduces damage from
+                                                            fire magic 25%
+FlameSH         38              8       Mogu,Ryu,Ox         reduces damage from
+                                                            fire magic 25%
+FlameSH         52              5       Ryu,Bo,Ox,Gobi,Mogu reduces damage
+                                                            from fire magic 25%
+Gauntlet        8               1       everyone
+Glove           20              6       Bo
+GuardSH	        32              10      guys,Bleu
+HuntGL          30              8       Bo
+IcySH	        30              5       everyone            reduces damage from
+                                                            snow/ice magic 25%
+IronSH          12              4       guys
+IronSL          22              5       Gobi
+LightSH         36              10      Nina,Bleu           reduces damage from
+                                                            fire magic 25%
+                                                            attacks
+MaskSH          65              8       everyone            counterattacks magic
+                                                            at 62.5% for around
+                                                            12.5% of magic
+                                                            attacks 
+MetalSH	        16              5       guys
+MetalSL         25              5       Gobi
+MystSH          48              5       Ryu,Bo,Ox,Mogu
+ProSH           32              5       guys
+SkySH           15              1       Nina
+StarSH          70              2       guys
+SuedeSH         2               1       everyone
+TrapGrd	        40              4       Karn
+WoodSH          5               2       Ryu,Bo,Karn
+Wrist           10              2       everyone
+
+
+ __________
+|          |
+|4. ARMORS |
+|__________|
+
+ARMORS    DEFENSE POWER  WEIGHT	  EQUIPPED BY             SPECIAL EFFECTS
+AgileAR	        92         0      Nina,Bleu
+AngleAR	        76         3      Nina,Bleu               counterattacks magic
+                                                          at 50% damage
+Armpad          8          2      Ryu,Bo,Gobi
+BronzAR	        25         9      guys,Bleu
+ChainML	        20         2      Ryu,Bo,Ox
+ClearCL	        100        0      Nina,Bleu
+Cloth           1          1      everyone
+DragonAR        110        0      Ryu
+Dress           8          25     Nina,Bleu
+EarthRB	        88         8      Ryu,Bo,Ox,Gobi,Mogu,Bleu  raises HP when
+                                                            attacked by
+                                                            elemental magic
+EvilRB          90         1      Nina,Bleu                reduces damage from
+                                                           all magic by 50%
+FlameAR	        82         10     Ryu,Mogu		   reduces damage from
+                                                           fire magic 25%
+Gown            18         1      Nina,Bleu
+GuruCT          70         0      Bleu
+HuntCL          16         4      Ryu,Bo,Karn
+IcyAR           80	   10	  Ryu,Bo,Ox                reduces damage from
+                                                           ice/snow attacks 25%
+IronML          27         9      Ryu,Bo,Ox
+LifeAR          115	   8	  Ryu                      increases HP with
+                                                           every step
+LightCL	        68         1      Nina,Bleu
+MetalAR	        39         10     Ryu,Bo,Ox,Mogu
+MystRB          60         8      Ryu,Nina,Bleu
+PlateAR	        24         4      guys,Bleu
+PowerAR	        84         8      Nina,Bleu
+PrisonCL        10         2      everyone                 increases FATE 20
+QuartzAR        50         9      everyone                 reduces damage from
+                                                           lightning, earth, 
+                                                           and explosive damage
+                                                           by 25% 
+RangerVT        40         8      Ryu,Bo,Gobi
+Robe            2          1      Ryu,Bleu
+SageML          25	   14	  guys
+SilkGN          15	   4	  Nina,Bleu
+SpineCL         60         10     Gobi                     increases attack 10
+SuedeAR         14         7      guys
+SuedeCP	        5          4      Ryu,Bleu
+SuedeGN	        10         6      everyone
+SuedeRB	        35         2      Nina,Bleu
+ThiefCL	        30         4      Ryu,Karn
+Wolfskin        80         11     Bo
+WoolRB          25         2      Nina,Bleu
+WorldAR	        80         9      Ox,Mogu
+WorldML         75         11     Ryu,Bo,Ox,Mogu
+
+
+
+
+ ___________
+|           |
+|5. HELMETS |
+|___________|
+					
+HELMETS	   DEFENSE POWER  WEIGHT   EQUIPPED BY	   SPECIAL EFFECTS
+AgileHT	        42          1      everyone
+Bandana	        5           1      everyone
+BronzHT	        10          4      guys
+ChainHT	        25          8      everyone
+CursedHT        62          20     everyone
+DivingHT        32          6      Gobi
+Domino		42	    7	   Nina,Bleu
+DragonHT        80          1      Ryu
+EchoHT          28          3      everyone        makes magic counterattack of
+                                                   12.5%
+Facemask        35          5      Mogu,Ryu,Karn
+GaiaMask        36          4  	   Ryu,Ox,Mogu
+GoldHT          14          6      everyone
+G-Tiara	        2           5      Nina,Bleu
+Hairband        8           2      Nina,Bleu
+HeadGear        16          5      everyone
+HornHT          37          6      guys
+IcyHT           16          6      Ryu,Bo,Ox
+IronHT          32          6      guys
+IronMask        30          7      Ox
+LoveHT          64          10     Nina
+NiceHT          6           3      everyone
+PowerHT	        44          3      Karn,Gobi       increases damgage opponent's
+                                                   attack inflicts on user 2X 
+ShellHT         25          1      Gobi        
+SkullHT         25          10     everyone        increases damage opponent's
+                                                   attack inflicts on user by
+                                                   33%
+StoneHT	        48          16     Mogu
+StrawHT	        2           1      everyone
+SuedeHT         3           6      everyone
+SunHT           12          8      guys
+Tiara           10          2      Nina,Bleu
+TideHT          0           0      everyone         protects against instant 
+                                                    death (rub/shock)
+Turban          11          1      everyone
+Visor           6           2      guys
+WolfHT          12          4      Bo               increases damage opponent's
+                                                    attack inflicts on user 2X
+
+
+ ________
+|        |
+|6. ETC. |
+|________|
+					
+ETC.      EFFECT                                                EQUIPPED BY
+Ring      increases attack 10                                   Ryu
+SkullRG   increases defense 10                                  everyone
+Rod 1     fish in lakes/ocean                                   Ryu
+Rod 2     fish in lakes/ocean                                   Ryu
+Rod 4     fish in lakes/ocean                                   Ryu
+Rod 5     fish in lakes/ocean/wells, pond                       Ryu
+Worm      fishing bait                                          Ryu
+Worm2     fishing bait                                          Ryu
+Shell     fishing bait                                          Ryu
+Urchin    fishing bait                                          Ryu
+MagicRG	  increases INT 8;increases MAG 6                       Nina,Bleu
+LoveBR    increases HP with each step                           Nina,Bleu
+Clog      increases agility                                     everyone
+Sash      increases attack 10                                   everyone
+SmartRG	  increases INT 8;increases MAG 6                       everyone
+SilverBR  none	                                                everyone
+MystSF    none                                                  Nina,Bleu
+WindBR    raises ACT 20;increases MAG 5	                        Nina,Bleu
+RubyBR    none	                                                Nina,Bleu,Mogu
+DreamRG   protects against paralyze(para)                       everyone
+DarkBR    increases ACT 20;increases FATE 20;increases MAG 5    Karn
+
+
+ _____________
+|             |
+| 7. Location |
+|_____________|
+
+****Warning****
+
+There could be some minor spoilers in this section, so read at your own risk if
+you haven't completed the game yet. 
+
+
+This section lists all the places everything listed above on this faq is located
+ Most if not all places are listed from the first time you can get something to 
+ the last time-left to right.
+
+Weapon          Locations
+AgileAR	        Pagoda
+AgileHT	        Second stage of Gobi in flea market/Tock/
+                dig spot southeast of Scande
+AngleAR	        First stage of Gobi in flea market/
+                Second stage of Gobi in flea market
+Armpad*	        Drogen Weapon Shop/Nanai Dungeon
+Bandage	        Karma Forest
+Bandana	        Karma Forest/Tantar Weapon Shop/Prima Weapon Shop
+BoneCN          Tunlan Weapon Shop
+Bracelet        Agua
+B-Rang          Krypt
+BroadSD	        Auria Weapon Shop/Bleak Weapon Shop
+BrokenSD        Winlan Castle
+BronzAR*        Bleak Weapon Shop/Prima Weapon Shop
+BronzBW*        Bo's Starting Weapon
+BronzHT*        Romero Weapon Shop/Cleansing Water Cave/Stone Robot
+BronzRP	        Winlan Weapon Shop/Romero Weapon Shop/Tantar Weapon Shop
+BronzSD	        Camlon Dungeon/Winlan Weapon Shop
+BronzSH	        Romero Weapon Shop/Tantar Weapon Shop
+Cane            Prima Weapon Shop/Tunlan Weapon Shop
+ChainHT	        Prima Weapon Shop
+ChainML	        Winlan Weapon Shop/Wisdon
+ClearCL         Under heavy crate in Bleak
+Clog            In dig spot northeast of Tantar/chest in house in Spring
+Cloth           Drogen Weapon Shop/Nanai Weapon Shop
+Club*           Prima Weapon Shop
+CursedHT        Mote's Dream World
+Dagger          Auria Weapon Shop/Bleak Weapon Shop/Krypt/Tunlan Flea Market
+DarkBR          Inside butte by Auria
+DarkDR          Second stage of Gobi in flea market
+Dart            Krypt/Auria-Bleak Cave/Auria palace/Prima Weapon Shops**
+DigCW*          Mogu's starting weapon
+Dirk*           Drogen Weapon Shop
+DivingHT        Prima Weapon Shop
+Domino          Pagoda
+DragonAR        In lake inside Spring
+DragonHT        In well southwest of Arad
+DragonSD        In well west of Romero
+DragonSH        In well in moutain range between Gust and Gramor
+DreamRG	        Krypt
+Dress*          Tunlan Weapon Shop
+DwarfBW	        Third Stage of Gobi in Flea Market
+EarthRB	        Under heavy crate in flute makers house in Gust
+EchoHT          Fortress
+EmporSD	        Left side of Jade's throne
+EvilCN          Tock
+EvilRB          Third Stage of Gobi in Flea Market
+EvilRP          Prima Flea Market/Second stage of Gobi in Flea Market/
+                Tunlan Weapon Shop
+Facemask        Prima Weapon Shop/Mote's Dream World
+FlameAR	        Spyre
+FlameDR	        Pagoda
+FlameHR	        Obelisk
+FlameRP	        Winlan Castle
+FlameSD	        Carmen Weapon Shop
+FlameSH	        Gust Weapon Shop
+FlameSH	        Agua
+GaiaMask        Gust Weapon Shop/Spring Weapon Shop
+Gauntlet        Camlon Dungeon/Tunlan Flea Market
+GiantHR         Gant Weapon Shop/Fortress
+Glove           Prima Weapon Shop/Scande
+GlowCN          Third Stage of Gobi in Flea Market
+GoldHT          Prima Weapon Shop
+Gown*           Romero Weapon Shop/Tunlan Weapon Shop
+G-Tiara	        Ross's house in Auria/Prima Weapon Shop/Second Stage of Gobi 
+                in Flea Market/Tock/Third Stage of Gobi in Flea Market
+GuardSH         Tock
+GuruCT          Tunlan Weapon Shop
+Hairband        Drogen Weapon Shop/Nanai Weapon Shop/Agua
+HeadGear        Krypt/Poison Gas Field in Mogu's Dream
+HeroBW          In dig spot east of Carmen
+HeroSP          Gant Weapon Shop
+HornHT          L. Keep/Prima Weapon Shop
+HuntCL          Bleak Weapon Shop/Krypt
+HuntGL          First stage of Gobi in flea market
+IcyAR           Tock
+IcyCN           Scande
+IcyCW           Carmen Weapon Shop
+IcyDR           In front of right statue on top floor of Agua
+IcyHT           Krypt
+IcySH           Prima Weapon Shop
+IronCW          Prima Weapon Shop/Spring Weapon Shop
+IronHR          Prima Weapon Shop/Gant Weapon Shop
+IronHT          Gant Weapon Shop
+IronMask        Prima Weapon Shop
+IronML          Prima Weapon Shop/Spring Weapon Shop
+IronRP          Nanai Weapon Shop
+IronSH          Agua/Krypt
+IronSL          Bleak Weapon Shop/Gant Weapon Shop
+JadeBW          Mote's Dream World
+Javelin	        Prima Weapon Shop
+LifeAR          In front of left statue on top floor of Agua
+LightCL	        Carmen Weapon Shop
+LightRP	        First stage of Gobi in flea market
+LightSH	        Prima Weapon Shop/Poison Gas Field in Mogu's Dream
+LongBW          Auria Weapon Shop/Bleak Weapon Shop/Prima Weapon Shop/
+                Tunlan Flea Market
+LongSD          Nanai Weapon Shop/Forest of Despair Dungeon/Auria Weapon Shop
+LoveBR          In butte south of Gust
+LoveHT          Talk to the girl in the room on the far right of the third level
+                of Tunlan with Puka, then walk up to the middle plant on the 
+                right and press A/dig spot southeast of Scande
+LoyalRP	        Carmen Weapon Shop
+MagicRG	        Nabal
+Mallet          Third Stage of Gobi in Flea Market
+MaskSH	        Third Stage of Gobi in Flea Market
+MetalAR	        First stage of Gobi in flea market/Gant Weapon Shop
+MetalSH	        Bleak Weapon Shop/Ross's house(basement)/Fortress
+MetalSL	        Prima Weapon Shop/Gant Weapon Shop
+MoonBW          Gust Weapon Shop
+MystCW          Dig spot southeast of Scande
+MystRB          Tunlan Weapon Shop
+MystSD          Tock
+MystSF          Guild Owner in Prima gives it to you
+MystSH          Carmen Weapon Shop
+NiceHT          Cleansing Water Cave/Prima Weapon Shop
+OldSP           Wisdon/Gust Weapon Shop
+Pike            Prima Weapon Shop
+PlateAR	        Prima Weapon Shop
+PoisonBW        Prima Weapon Shop
+PoisonRP        Prima Weapon Shop/Tunlan Flea Market/Tunlan Weapon Shop
+Pole*           SR-1/2/3 starting weapon/Gobi's starting weapon
+PowerAR	        Pagoda
+PowerDR	        Ocean volcano/Spring Weapon Shop
+PowerHT	        Carmen Weapon Shop/Scande
+PowerRP	        Third Stage of Gobi in Flea Market
+PowerSD	        Prima Weapon Shop
+PrisonCL        Auria Prison cell-next to sink
+ProSH           Wisdon
+QuartzAR        Spring Weapon Shop
+RageHR          Wisdon
+Rang            Karma Tower
+RangerVT        Prima Weapon Shop/Tunlan Flea Market
+Rapier          Auria Weapon Shop
+Ring            In cave north of Tuntar
+Robe*           Ryu's starting armor
+Rod 1           Prima Item Shop
+Rod 2           Prima Item Shop/First stage of Gobi in flea market
+Rod 4           Cort's Fortress
+Rod 5           Basement of Tunlan's Palace
+RubyBR          Chest in Carmen Inn
+RustCW          Prima Weapon Shop/Spring Weapon Shop
+Sabre           Drogen Weapon Shop/Winlan Weapon Shop/Romero Weapon Shop/
+                Tantar Weapon Shop
+SageML          Auria Weapon Shop
+Sash            Chest in Gust Inn/dig spot east of Pagoda
+Scythe          Tantar Weapon Shop
+SharpBW	        Ocean volcano
+Shell           Enemy drops/Spyre
+ShellHT	        Auria/Bleak Cave
+ShortBW	        Tantar Weapon Shop
+ShortRP*        Romero Weapon Shop
+Sickle          Prima Weapon Shop
+SilkGN          Drogen Weapon Shop/Nanai Weapon Shop/Romero Weapon Shop
+SilverBR        Agua/Wisdon
+SilverDR        First stage of Gobi in flea market
+SkullHT         Krypt
+SkullRG         Nabal
+SkySH           Cave north of Tuntar
+Sleeper	        Second stage of Gobi in flea market
+SmartRG	        Northwest house in Auria
+SpineCL	        Prima Weapon Shop/Spring Weapon Shop
+SpineHR	        Gant Weapon Shop
+StarHR          Behind right pillar in Jade's throne room
+StarSH          Dig spot southeast of Scande
+SteelBW	        5th Floor(boss floor) of Agua, go to the right behind the front
+                lighted pillar, walk in and press A/Prima Weapon Shops**/
+                First stage of Gobi in flea market***
+Stick*          Bleu's starting weapon
+StoneHT	        Pagoda
+StrawHT*        Ryu's starting helmet
+SuedeAR         Tantar Weapon Shop
+SuedeCP         Drogen Weapon Shop/Camlon Dungeon/Nanai Weapon Shop
+SuedeGN*        Winlan Weapon Shop/Aura Cave
+SuedeHT*        Winlan Weapon Shop/Winlan Castle
+SuedeRB         Prima Weapon Shop
+SuedeSH*        Nanai Weapon Shop/Winlan Castle
+SunHT           Agua/Auria Weapon Shop
+ThiefCL         Agua/Tunlan Flea Market
+ThrowDR*        Karn's starting weapon
+ThundrRP        First stage of Gobi in flea market
+Tiara           Auria Weapon Shop
+TideHT          In shelf on second floor of left inn in Prima
+TrapGrd         Pagoda
+Tri-BW          Carmen Weapon Shop
+Trident         Mote's Dream World
+Tri-DR          Prima Weapon Shop/Tunlan Flea Market/Gust Weapon Shop
+Tri-Rang        Hidden behind the Pagoda towers before they rise
+Turban          Winlan Castle/L. Keep
+Urchin          Enemy drops
+Visor           Camlon Dungeon/Winlan Weapon Shop/Tantar Weapon Shop/
+                Prima Weapon Shop
+WindBR          In cave east of Carmen
+WingRP          Gust Weapon Shop
+WingSD          Gust Weapon Shop/Spring Weapon Shop
+WolfHT          Forest of Despair Dungeon
+Wolfskin        Tock
+WoodSH*	        Drogen Weapon Shop/Nanai Weapon Shop/Winlan Weapon Shop
+WoolRB          Bleak Weapon Shop/Prima Weapon Shop
+WorldAR	        Spyre/Carmen Weapon Shop
+WorldML	        Gust Weapon Shop
+Worm            Prima Item Shop
+Worm2           Prima Item Shop
+Wrist           Forest of Despair
+
+* starting weapon
+** located at two weapon shops in Prima, the one in the flea market has the 
+   better deal
+*** You can get the SteelBW at half price with Gobi's shop
+
+
+
+ ____________
+|            |
+| 8. Credits |
+|___________ |
+
+I've done all this research and everything by myself, but I still need to thank
+everyone on the BoF message board for helping me to figure out some of the 
+special effects of the equipment.  And thanks to you for looking through my 
+faq.
+
+Thanks to MeepleLardicle for confirming that the PowerHT has a special effect.
+
+Thanks to Deathlike2 for giving me the percentages of the equipment's special
+effects, and for effects of RageHR, LoyalRP, EvilCN, IcyCW, and ThndrRP.
+
+Thanks again to MeepleLardicle for informing me about the special effects of
+the Tri-Rang, SkullHT, Sleeper, DarkBW, DarkDR, and Mallet; and for confirming
+the special effect of the MaskSH. 

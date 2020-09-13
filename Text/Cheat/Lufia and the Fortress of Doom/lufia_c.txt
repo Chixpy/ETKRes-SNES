@@ -1,0 +1,1206 @@
+
+Lufia
+and the Fortress of Doom
+_____________________________
+
+This walkthrough was created by Nick Jacobi, webmaster of the Unofficial Lufia 
+Homepage. Nick Jacobi can be contacted at cobes@bigfoot.com. Visit the 
+Unofficial Lufia Homepage at http://www.lufia.net. This walkthrough may not be 
+perfect, sources for this walkthrough come mostly from me, Nick Jacobi, from 
+hours of game play.
+
+Section 1: Main Walkthrough
+Section 2: Dragon Egg Locations
+Section 3: Lists of spells, items, etc...
+
+Section 1:
+
+-- Part 1: Fortress of Doom --
+	You start out 100 years before the Hero is even born. You are Maxim and 
+his team consisting of Selan, Guy and Artea. Your mission is to defeat the 
+Sinistrals for the first time. You start at the entrance of the Fortress of 
+Doom. Head all the way up until you enter a door. Head to the right, and then 
+head down. Go all the way down until you find a staircase. Go up the staircase, 
+and then head up again. You will see stone statues of the Sinistrals. Go up 
+further and enter the portal. Go up, and the you will meet the Sinistrals. You 
+will fight Gades first who does not use Magic. Use Guy and Maxim to attack with 
+their weapons, and use Artea and Selan to use Magic. You will easily defeat him, 
+as well of the other 3 Sinistrals. If you want to heal, use Artea’s Valor spell 
+after each battle. This will cost you 35 MP, but you most likely will not run 
+out of MP for all 4 battles with the Sinistrals. For the next three Sinistrals, 
+have Selan and Artea cast mirror on your party members. This will make you near 
+invincible for the next three Sinistrals. After you defeat Amon, Erim, and Daos, 
+you will be taken ahead 90 years to when the Hero first meets Lufia.
+
+--Part 2: Alekia and Sheran --
+Monsters in this area:
+Anemone - 17 HP
+Baby Crab - 26 HP
+Big Newt - 11 HP
+Earwig - 17 HP
+Green Orb - 16 HP
+Jellyfish - 16 HP
+Madshroom - 18 HP
+Nettles - 18 HP
+Spider - 18 HP
+
+	After you hear the rumors that monsters have attacked Sheran, you will 
+leave Lufia, and be determined to go to Sheran to see if the rumors are true. 
+First, talk to the commander in the castle, as well as the King. If you talk to 
+the Princess, she will give you 100 gold pieces. Buy potions and a dagger, and 
+anything else you think you will need. You are now ready to build up your level. 
+I do not suggest going to Sheran until you have built the Hero up to level 5. To 
+get to Sheran, head north from Alekia, past the small town of Chatam. Keep going 
+north until you see a cave to your left. This cave will lead you to Sheran. Head 
+to the upper left corner of the cave and exit. You will then see the kingdom of 
+Sheran. Once you enter the town, you will see many people injured and dying. If 
+you enter the castle, you will not see much except two locked doors. Now that 
+you know the rumors of a monster attack is true, go back to Alekia. If you talk 
+to the commander, he will say that they will not send a detail to Sheran for a 
+long time. You are disgusted by this, so you decided to go to Sheran yourself. 
+By this time, you will want to go back to the Inn and talk to Lufia. She is mad 
+because you left without telling her. If you leave town, Lufia will follow, and 
+then join your party. Build up Lufia’s level a little bit, and head back to the 
+caves. In Chatam, you should have talked to Danil who says his sister is in 
+Sheran castle, when you enter the caves the second time, you will find him 
+injured. You tell him to go back to Sheran, and he will give you the key to 
+Sheran castle. Go to the castle, and go back to the 2 locked doors. The key will 
+unlock the doors, and in the locked room on the left, you will find the switch 
+to open a secret entrance in the castle. Go to the staircase leading down in the 
+back of the upper level of the castle. Go down the stairs you find until you 
+find the prison. The King and a few villagers are here, let them out, and then 
+leave the castle. You will then meet Gades, Sinistral of Destruction. Lufia, the 
+King, and the villagers will leave for Alekia, but the Hero will try to fight 
+Gades. You will attack him a few times, but soon be massacred. Lufia then comes 
+to your rescue, and scares Gades away. You will then go back to Alekia. There, 
+you will tell Roman that you plan to return Danil’s sister, and then head out 
+even farther. Go fetch Danil’s sister from the castle’s guest room, then 
+continue on to Chatam. Danil will be pleased, and you will begin your adventure.
+
+-- Part 3: The One --
+	Your next stop will be Treck. Treck is a port town, and there’s plenty of 
+shops. If you talk to the villagers here, they will talk about an old man who 
+likes to watch the sea. Talk this man, and he will then tell a girl in his 
+house, Ainia, to take you to see The One. She tells you to head east from Treck. 
+You will cross two bridges, and come to a small cave. At the other side of the 
+cave is a small house. This is the house of Guy, known as The One. He will tell 
+you that you need to stop the Sinistrals, and even tell you to try to find 
+Artea. Guy will try to get up, but then die. If you search the cross on his 
+grave, you will find a shortsword, which is a good weapon for where you are in 
+the game. After Guy dies, head back to Treck. (Be sure to search Guy’s grave for 
+a shortsword).
+
+-- Part 4: Aguro and the Maberia --
+Demon Lord: 48 HP each
+
+	You will now want to get to Lorbenia, but there are too many monsters 
+attacking ships. You will now find guy, and monsters will sink his ship. You 
+will then be attacked by four monsters. They can be tough, and it may take you 
+awhile to beat them. Make sure your level is around 7 or so. After you defeat 
+the monsters, you will need to find the stolen ship, the Maberia. 
+
+-- Part 5: Search for the Maberia --
+Goblins: 118 HP each
+
+	You now need to find the Maberia to get to Lorbenia. You will now want to 
+do some level building because the monsters that took the Maberia are pretty 
+tough. Head North from Treck to a small cave. On the other end of this cave, is 
+the Maberia, and Daos’ Servants guarding the ship. Use Lufia to cast flash as 
+often as possible, and Aguro and The Hero to heal. When the Goblins die, the 
+ship is yours, and you are now ready for Lorbenia.
+
+--Part 6: Lorbenia --
+Monsters in this area:
+Giant Bat - 26 HP
+Giant Newt - 27 HP
+Kobold - 16 HP
+Mini Demon - 25 HP
+Rat - 30 HP
+Red Orb - 52 HP
+Rok - 127 HP
+Roozard - 24 HP
+
+ 	You should now be around lvl 8-10. There is not too much you have to do in 
+this port town. Aguro leaves your party on some business, and you are now able 
+to visit the famous Lorbenia stores. While shopping at the dress shop in the 
+Lorbenia “mall” a small boy runs past Lufia. The Hero is not dumb, and realizes 
+that the small boy stole money from Lufia. You will meet him outside of the 
+store, and learn he is the son of Professor Shaia, the famous inventor. This 
+doesn’t mean much until later in the game. You now can stay at the Inn, and 
+Aguro will meet you when you awake.
+
+
+--Part 7: Grenoble and the Old Cave --
+	The Old Cave is a great way to earn experience and money. You must visit 
+the basement of the Grenoble Tavern. There is an old man here who really wants a 
+Fairy Kiss, and item found in the Old Cave. Get assigned a task at the front 
+desk, and get this man his Kiss.
+
+Monsters in Old Cave, lvl 2:
+Blue Wolf - 63 HP
+Gold Orc - 125 HP
+Killer Bee - 31 HP
+Mace Man - 120 HP
+Mud Man - 70 HP
+Red Orb - 52 HP
+Rok - 127 HP
+Sting - 85 HP
+
+	There is a room in the NE corner of the Old Cave that has a sign which 
+reads: “Only women may enter.” Lufia goes in and gets the Fairy Kiss. You can 
+now go back to Grenoble, give the Kiss to the Old Man, and get the Old Papers to 
+give to Artea’s Apprentice. 
+
+-- Part 8: The Apprentice --
+Apprentice: 300 HP
+
+Monsters in the North Tower:
+Goblin - 32 HP
+Huge Bunny - 38 HP
+Mini Crab - 30 HP
+Rat - 30 HP
+Red Magi - 28 HP
+Zombie - 41 HP
+
+	Be sure to have lots of potions handy for this tower. The Apprentice is at 
+the top of this tower, and he can be tough. Mid-Arrows are a good way to defeat 
+him. Heal when necessary, and if all goes well, you will win. When you defeat 
+the Apprentice, he tells you to find Artea in Elfrea. Only an elf guide can 
+bring you to Elfrea, and you will need to go through Kirof, Medan, and Belgen. 
+This is a long journey.
+
+-- Part 9: Kirof and Reyna --
+
+Monsters in this area:
+Dracu Rose - 32 HP
+Fight - 35 HP
+Frog - 44 HP
+Spike Newt - 42 HP
+
+	Kirof is a small town West of Medan. In this town, is a small girl who is 
+very very sick.  Mark, a small boy from Medan is speaking to Reyna before you 
+talk to her. Talk to Reyna, and then head East to Medan Kingdom. Medan is famous 
+for its Hope Ruby, rumored to grant the wishes of people. Be sure to look at the 
+Hope Ruby, and then explore the rest of the castle. You will eventually hear the 
+princess reveal that the Hope Ruby is a fake made of glass. As you leave the 
+castle, Mark will run past you. He has the Hope Ruby for Reyna, and is going 
+back to Kirof. When you go back to Kirof, you will learn that Reyna disappeared 
+in the Ghost Cave. The Ghost cave is North of Kirof.
+
+-- Part 10: The Ghost Cave --
+Phantasm: 640 HP
+
+	The Ghost cave is a large cave, then can be confusing. In your searches, 
+be sure to find the Ghost Ring. (Don’t leave without it). Head to the SE corner 
+of the cave, and you will find a staircase. Eventually, you come to a room with 
+2 bridges on the sides. You cannot cross the bridges, so you must walk between 
+them, as if there is an invisible bridge there.
+
+How to defeat Phantasm:
+	The Phantasm is quite tough. I would recommend using Lufia's Drain spell 
+to lower his defensive power. Keep casting this on the Phantasm. Then make sure 
+you find the Ghost Ring(found in Ghost Cave). If the Hero or Aguro is equipped 
+with the ghost ring, fight the Phantasm with the person wearing the Ghost Ring. 
+Use the one who is not wearing the Ghost ring to use potions to heal the 
+wounded. If everyone has enough HP, then fight with the person not wearing the 
+ghost ring. Just repeat this and you should have no problem defeating the 
+Phantom. 
+
+-- Part 11: On to Belgen --
+	After you rescue Reyna, head back to Medan. You will see the Princess 
+talking to the towns’ people. After her speech, talk to her, and she will say 
+you can now head farther east through a cave north of Medan. This little cave is 
+quite easy, and you should spend some time leveling here. Your levels should now 
+be 15 or so. After the cave, head east to Belgen. The people of this town are in 
+an uproar because they had to sacrifice a half-elf, Jerin, to stop monster 
+attacks. In this town is a basement with a girl who really wants to save Jerin, 
+because Jerin took her spot as the sacrifice victim. She tells you to head SW 
+and get the Dais key from her brother who is in a cave south of the Dais Cave. 
+Go to this cave, and search it entirely for the good items here. You will 
+eventually find her brother, who gives you the key. The cave you now want to get 
+to is North of the cave you are currently in, but you will have to go around 
+some mountains to get to it. This cave is not too large either, and brings you 
+to the Dais. 
+
+-- Part 12: Save Jerin --
+Follower: 888 HP
+
+	There is a shrine looking temple on the world map. You must go here. You 
+will see Jerin on the altar, waiting for the sacrifice. guards will not let you 
+pass, but when you try to leave, the Follower will lift Jerin and head to the 
+North Tower. There is a priest and 2 healing buckets here. Use them, and then 
+save. You’re up for a new challenge. Head North to the tower, and work your way 
+to the top floor. You will need to use warp tiles to find the stairs that lead 
+to the top of this tower. Once you are at the top, you will see many warp tiles. 
+There are some good items to get here, but to get to the Follower, take the 
+eastern most tile. Then go north, and north again. The Follower awaits.
+
+How to defeat the Follower:
+	The Follower is not all too difficult. Just attack him like you would a 
+really tough monster. Use Lufia to heal if needed, and Aguro and Hero to attack. 
+You should really have no trouble defeating this monster, especially if you are 
+in the 18-20 level range.
+
+-- Part 13: Suringal, and the Lost Forest --
+	After you defeat the Follower, you will return to Kirof, and say farewell 
+to Jerin. She does not join your party until later. You can now head east across 
+the desert. Talk to the people here and you learn of the Lost Forest, and how 
+only an elf can guide you through the forest. Now head south to the guide 
+station. When you try to hire a guide, Jerin appears, and joins your party. She 
+takes you through the forest, and you can now start the Three Gems Quest. This 
+is the Quest most people seem to have trouble with. So pay attention in the next 
+part.
+
+-- Part 14: Jenoba --
+Monsters in this area:
+Archer - 80 HP
+Chomp Weed - 97 HP
+Skeleton - 90 HP
+Spellsnail - 85 HP
+Tarantula - 72 HP
+
+	There is something you MUST do in Jenoba, in order to eventually get the 
+red gem. There is an old woman in the basement of the Cider House, and you MUST 
+buy her tea. All she tells you is that there are three towers, and you need 
+three gems to put at the top of the towers. After you do what you want in 
+Jenoba, head SE to the Blue Tower.
+
+-- Part 15: The Blue Tower --
+Monsters in the Blue Tower:
+Dark Elf - 82 HP
+Frog - 44 HP
+Gargoyle - 106 HP
+Horroquin - 76 HP
+Jelly Bean - 98 HP
+
+	This is the easiest of the three towers, red being the hardest. Climb up 
+the first two floors, and you will come to a room with a hole in the middle. 
+Fall down the hole two times, and the second time, you will find the Green Jade. 
+You c an now leave the tower, unless you want to build levels. Which I always 
+advise doing in this game.
+
+-- Part 16: The Green Tower --
+Monsters in the Green Tower:
+Gargoyle - 106 HP
+Horroquin - 76 HP
+Sand Man - 54 HP
+Willowisp - 30 HP
+
+	This tower is a little trickier than the Blue Tower. There are switches 
+that make certain staircases disappear and appear. When the switch is down, you 
+can find the broken red gem. You don’t take the red gem, and you do nothing with 
+it. Don’t worry about it. You can get another Red gem later. After cleaning out 
+this tower, you’re ready for the red tower. Head east to get to it, but stop at 
+Ruan first.
+
+-- Part 17: Ruan and the Red Tower --
+Monsters in the Red Tower:
+Horroquin - 76 HP
+Flamefreak - 120 HP
+Flamespook - 48 HP
+Gargoyle - 106 HP
+Big Meany - 110 HP
+
+	Stop in Ruan before conquering the Red Tower. In this village, speak to 
+the jeweler who explains that sapphires are the same as rubies. You also learn 
+that the Dark Ghost has kidnapped the Water Fairy, and turned all of the water 
+near Ruan into poisonous swamp. After you heal, and stock up on supplies as 
+needed, head west to the red tower. In the basement of the red tower, is a room 
+completely covered in poisonous swamp. You will need to come back to this room 
+after killing the Dark Ghost. Head to the top of the tower, and meet your new 
+friend, the Dark Ghost.
+
+How to defeat the Dark Ghost:
+	The Ghost can be tough, if you're not prepared for it. I would suggest 
+having all of your guys in the 20-22 level range. It will also help a little bit 
+if you equip Aguro with the Ghost Ring found in the Ghost Cave north of Kirof. 
+Start out Right away by Attacking with Aguro, but have the Hero and Lufia use 
+their Drain spells to lower the Ghosts defense. Do whatever you want with Jerin. 
+(Try and build Jerin up to level 20 so that the Hero, Lufia, and Jerin all have 
+the spell Stronger.) Do this for the first few rounds. Then the Ghost will use 
+his Water spell that will hurt your party with 30-50 HP of damage. This is where 
+Stronger comes in. Use The Hero, Jerin, and Lufia to heal, while Aguro continues 
+to attack. Always attack with Aguro unless you absolutely have to use him for 
+something else. Also watch out for when the Ghost uses absorb. He can take away 
+a lot of MP from you. The Ghost will regain his Defense after a few rounds so 
+use Drain again. Once Drain takes away 20 or less Defense points, keep Draining 
+with Lufia but attack with The Hero. Now the Ghost should be pretty hurt. If he 
+starts to heal himself, then you know he's almost dead. Now do an all out attack 
+with Jerin, The Hero, Aguro, and if you want to stop Draining, attack with Lufia 
+also. Eventually, the Ghost will disappear, and the Water Fairy will be saved.
+
+	You can now go back to that room was covered with poisonous swamp, and 
+retrieve the Blue Gem. Head back to Ruan to heal, then go back to the Medan 
+Mines and speak to the old man in the back. He will not give you the gem if you 
+didn’t speak to the old woman in jenoba, defeat the Dark Ghost, and speak to the 
+jeweler in Ruan. So be sure you’re ready before going back. He will give you the 
+Red Gem if you have done everything you need to do.
+
+-- Part 18: Placing the Gems --
+	As you probably learned by now, you need to place the gems in the tower 
+corresponding to their color. You also need to do it in a certain order. The 
+order of placing the gems is: Blue First, then Green, and finally Red. After you 
+place the red gem, you are magically taken to Elfrea. Congratulations! You 
+solved the three gems problem! Now don’t e-mail me about it anymore :)
+
+-- Part 19: Elfrea and Artea --
+Monsters in this area:
+Chomp Weed - 97
+Spellsnail - 85
+Tarantula - 72
+
+	The elves are shocked to see human visitors, and you eventually meet 
+Artea, whom you will remember from the very beginning of the game. He is old 
+now, and is now blind. Artea now tells you of your next main goal: Find the Dual 
+Blade. Dual Blade was the legendary sword used by your ancestor, Maxim, to 
+defeat the Sinistrals. Without this sword, you cannot defeat the Sinistrals. 
+Dual Blade is believed to still be at the bottom of the sea where Doom island 
+fell. It will be awhile before you are ready to find Dual Blade though, but 
+Artea gives you a very valuable weapon, his bow. This bow will be a great weapon 
+For Jerin for pretty much the rest of the game. Artea also gives you a key to 
+the shrine. This shrine leads to the SE island, and you are now ready to go to 
+Ranqs, a town of miners.
+
+-- Part 20: Ranqs and the mysterious cave --
+Monsters in this area:
+Axe Knight - 132 HP
+Ghoul - 127 HP
+Gold Orc - 125 HP
+Halloween - 72 HP
+Harpie - 110 HP
+Land Worm - 160 HP
+Mace Man - 120 HP
+Mimicker - 49 HP
+Pin Lizard - 92 HP
+Rok - 127 HP
+Sting - 85 HP
+Yeoman - 90 HP
+
+	All of the men are in the tunnel leading to Odel, and don’t know what to 
+do because there is an odd force field blocking their path. Here is the solution 
+to the force field (Start at entrance): Up1, Right 2, Up 1, Right2, Up 4, Left 
+3, Down 1, Left 2, Down 1, Left 2, Up 2, Right 1, Up 1, Right 2, Then all the 
+way up. Now head SW to Odel.
+
+-- Part 21: Piron and the broken Bridge to Arus --
+	This bridge problem is kind of a pain in the neck, mainly because of all 
+the traveling, but it’s a good way to build experience. You need to get to Arus, 
+a town of magicians, but the bridge is out. Piron is an architect in Odel, and 
+says he can fix the bridge if he has the help of his friend who is in Lyden, 
+enjoying the many cooks that live there.  You should also visit Shaia 
+laboratory. The entrance is West then North of Odel. Search around the lab, and 
+you’ll eventually learn Professor Shaia has a ship that can travel underwater. 
+You’ll need it later to get the Dual Blade. Speak with all of the men in the NW 
+basement of the castle about the broken bridge, then talk to the Princess and 
+Piron. Now go to Lyden, which is on the SE tip of the island. It’s a long walk, 
+so be ready.
+
+-- Part 22: The first visit to Lyden, and Piron begins to fix the bridge --
+	Piron’s assistant is in a restaurant in the western side of town. He says 
+he’ll help right away, and leaves for Odel. Now go all the back to Odel, talk to 
+Piron again, then head SW, cross a bridge, and then head North. This is the cave 
+where the broken bridge is, but there are still 2 other entrances to this large 
+cave. When you walk in, Piron tells you to stand on the ledge to the right and 
+watch his work. I think this is just a way to force you to go through that damn 
+big cave. Leave this cave, and enter the Northernmost cave entrance. Work your 
+way through the cave, and you’ll eventually come to the ledge. When the bridge 
+is done, go back to the bridge, and you’ll now be able to get to Arus.
+
+-- Part 23: Arus --
+Monsters in this area:
+Armorlord - 109 HP
+Blue Meany - 103 HP
+Crazy Jar - 101 HP
+Ice Snake - 104 HP
+Mimicker - 49 HP
+
+	You need to find an elder named Flake here, but he went to the Tower of 
+Grief. Lufia will also dance through the Priphea in this town, and then you can 
+go. To get to the Tower of Grief, head West from Arus, then go through the cave. 
+Then head North.
+
+-- Part 24: Flake, Tower of Grief, and Professor Shaia --
+	This is an easy tower, with no big boss at the top, just the friendly 
+Flake. When you talk to Flake, he tells you more about Dual Blade. Flake also 
+increases Lufia’s MP by 10 whole points! You now need to find Professor Shaia. 
+Go back to Odel and Shaia Lab 2. Take the West exit to Platina. You meet Raile 
+Shaia, and he takes you on a little trip in the Falcon, which can travel 
+underwater. The ship isn’t ready for a dangerous trip like the one to Doom 
+Island, so you need Alumina. The Professor does let you keep Falcon to travel 
+above water though. Shaia also asks you to meet him at Carbis directly west of 
+Platina. He then gives you Falcon. Shaia tells you to find his assistant Cooper, 
+who is in Bakku. Bakku is west of Carbis.
+
+Monsters near Carbis:
+Blue Wisp - 61 HP
+Crazy Jar - 101 HP
+Ghoul - 127 HP
+Giant Oak - 130 HP
+Ice Snake - 104 HP
+Pin Lizard - 91 HP
+
+-- Part 25: Cooper, Bakku, and the Old Cave -- 
+Monsters near Bakku:
+Axe Knight - 132 HP
+Frogula - 130 HP
+Harpie - 110 HP
+Land Worm - 160 HP
+Pin Lizard - 91 HP
+Trap Harp - 241 HP
+
+	When you get to Bakku, the cleric tells you that Cooper went to explore 
+the 5th level of the Old cave NW of Grenoble. Go back to Grenoble and get 
+assigned the 5th level task. Search around this cave, and you’ll eventually find 
+Cooper. When you find him, Jerin warps everyone to Shaia Lab 3 on Carbis. You 
+now learn about the quest for 7 pieces of Alumina. This is another fairly long 
+quest, and you’ll build up your levels a lot throughout this quest. The 
+Professor now tells you to go to Linze, and find Brant, who is also looking for 
+Alumina. I think the professor is just an old man who makes you do his dirty 
+work.
+ 
+-- Part 26: The Tower of Light --
+Monsters in this area:
+Cave Rok - 154 HP
+Crazy Pine - 190 HP
+Killer Lily - 31 HP
+Land Worm - 160 HP
+Sabrespook - 120 HP
+Terrorquin - 100 HP
+Trap Harp - 241 HP
+Were Frog - 163 HP
+Werewolf - 150 HP
+Zaurus - 470 HP
+Zooster - 138 HP
+
+Guardian: ? HP
+
+	To get to Linze, you need a key that opens a door at the rear of the 1st 
+floor of the Tower of Light. And guess what? The key is gone! The key was stolen 
+by Amon’s Guardian. This tower is pretty tough, and you’ll need to fall through 
+traps to get where you need to go. Work your way to the top, and introduce 
+yourself to a challenging enemy, the Guardian.
+
+How to defeat the Guardian:
+	This guy is tough. He practically constantly uses a magic attack, either 
+Flame or Blizzard. He also uses Drain and Absorb occasionally. Flame and 
+Blizzard will be bad for Aguro, so give him the Yellow Ring to wear to raise his 
+Magic Resistance. Right away in battle, have the Hero and Lufia use Drain twice 
+each. This'll lower his very high Defense power. Don't even bother using magic 
+to attack him. He's got amazing MGR. Use Aguro to attack throughout the entire 
+battle unless it is absolutely necessary to use him to heal or whatever. Use the 
+Hero to heal, because you'll get hurt almost every round. If you're doing ok HP 
+wise, use him to attack. Use Lufia and Jerin to heal party members, or if you 
+can, use Lufia's Drain spell, because the Guardian regains lost Defense. If 
+everything goes ok, you'll defeat the Guardian, and meet Amon and Gades. They’ll 
+bully you a bit, but not attack. Then get the Tower of Light Key. Use the key on 
+the door at the rear of the first floor, and move on to Linze.
+
+-- Part 27: Linze and Gayas Cave--
+Locations of all Alumina:
+Gayas Cave (east of Linze): 1 piece
+Loire Island: 1 piece
+Ulupp Island: 2 pieces
+Elba Island: 1 piece
+Brant: Gives you 1 piece when you help him escape Loire Cave
+King Herat: Gives you 1 piece when you bring him the purple newt
+
+	After all that work to meet Brant, you learn that he has left to go meet 
+his girlfriend in Marse, which is past Gayas cave. You also learn that Alumina 
+is mostly found in the Fargo islands near Marse. Coincidence? The entrance to 
+Gayas cave is actually in the basement of a house in Linze. The first piece of 
+Alumina is in the middle of the first floor poison pool. There is also a switch 
+you need to switch down. The switch is in the middle of three doors right next 
+to each other. You will also find Clack in this cave, A doom island researcher. 
+He tells you that Doom island fell in the middle of the ringed island. You can 
+now head NW to Marse when you leave the cave.
+
+-- Part 28: Marse and the three caves --
+Monsters in this area:
+Blue Skull - 170 HP
+Cave Rok - 154 HP
+Demon Mace - 152 HP
+Eye Curse - 158 HP
+Green Magi - 149 HP
+Mud Ghoul - 228 HP
+Nailman - 158 HP
+Red Wolf - 175 HP
+Redcore - 101 HP
+Sabrespook - 120 HP
+Troll - 285 HP
+Vampire - 171 HP
+Werewolf - 150 HP
+Zaurus - 470 HP
+
+	You can take a cruise here in Marse, and see the the three islands you 
+will eventually have to search. You will notice a ship by Loire island, 
+indicating Brant is probably there. Loire should be your first island to visit. 
+To find Brant, fall through a trap door in the center of Loire island, but not 
+before you find the Alumina in this cave. When you talk to Brant, he tells you 
+where to find the rest of the Alumina, and also gives you a piece he found.
+	Now go to Elba Island. There is a ledge near the entrance with four doors. 
+Enter the door second from the right, and flip the switch in the room. This 
+opens a door in the eastern part of the cave. Go down a long ladder next to a 
+door in the NE corner, and locate the warp to Ulupp. There is a piece of Alumina 
+here. Go back through the portal, flip the switch, and warp back to Ulupp to 
+retrieve Ulupp’s second piece of Alumina. The piece in Elba island is through a 
+NE door on the second level. The piece is here. You should now have 6 pieces of 
+Alumina. It is time to visit King Herat.
+
+-- Part 29: King Herat and the Purple Newt --
+	To get to Herat, sail down a river west of Marse. The King Here really 
+wants a new flavor because he likes eating so much. He knows that there is a 
+purple newt in a cave east of Herat. You must retrieve the newt to create a new 
+flavor. To reach the cave east of Herat, sail back up the river, sail west, and 
+park on the desert area. Head all the way south, past the Dragon Shrine, and 
+then East, then North to the cave. This isn’t a big cave, but you need to flip a 
+switch in the NE corner. Use the warp, and the newt is in one of the chests 
+here. Now go to Lyden. The Master of Taste has returned, and will make a flavor 
+out of your newt. He gives you the flavor, and then you can return to Herat. 
+Give the flavor to the King, and he will reward you by giving you his piece of 
+Alumina. As well as many other items.
+
+-- Part 30: Aisen Island and Pirate Tower --
+Monsters is this area:
+Berserker - 154 HP
+Blue Skull - 170 HP
+Dark Spook - 139 HP
+Fire Plate - 180 HP
+Steel Lord - 183 HP
+Vampire - 171 HP
+ 
+	So now you’re ready to get the Falcon fixed and retrieve Dual Blade right? 
+Wrong! When you return to Carbis, you learn the Raile Shaia went to Pirate Tower 
+to save his son Lou, whom you met in Lorbenia at the store. If you took the 
+cruise in Marse, then you remember that Aisen island is west of the three 
+islands. You find Raile on the second floor, locked away in prison. Lou is at 
+the top. Work your way up until you come to a door with four switches in front 
+of it. You must step on the switches in a specific order to open the door. If 
+you make a mistake, you are attacked by pirates. The correct order is: Top Left, 
+Bottom Right, Bottom Left, Top Right. You can now try to defeat Bosun and the 
+Pirate.
+
+Bosun - 1,288 HP
+Pirate - 3,480 HP
+
+How to defeat Bosun and the Pirate:
+	These 2 really aren't that tough, HP wise, but are a challenge 
+nonetheless. First of all, kill Bosun. He's the little guy on the left. He will 
+cast spells on the big Pirate to regain his HP or raise his ATP and DFP. Once 
+Bosun's out of the way, its just a matter of time before you kill the big guy. 
+Throughout most of the match, the 2 pirates will use different kinds of arrows 
+to change the status of your team members. Your guys will be confused, 
+paralyzed, and put to sleep, so be ready to use awaken and what-not to regain 
+your normal status. Also, if Jerin is level 32 or above, she will have the spell 
+Mirror, which reflects all enemy magic. If you cast Mirror on Aguro, it will 
+protect him from Flood, which the big guy will use later in the fight. It will 
+also protect your characters from status changing magic. Attack with Aguro and 
+the Hero, and if you must heal with the Hero, do so. I didn't really find any 
+magic that was greatly effective against these 2 pirates, but that doesn't mean 
+you can't use it. If all goes well, you will defeat the pirates, and rescue Lou. 
+Get the key, and go release Raile. Now you can go to Carbis, and get Falcon 
+fixed!
+
+-- Part 31: Soshette, the ringed island --
+Monsters in this area:
+Fire Plate - 180 HP
+Griffon - 285 HP
+Mad Wolf - 191 HP
+Mega Frog - 389 HP
+Megaturtle - 266 HP
+Sea Snake - 171 HP
+Steel Lord - 183 HP
+
+	You have to sail to Soshette, and then to go below sea, enter on of the 
+spinning whirlpools, called Eddys. Dive into the Eddy NE of the ringed island. 
+Now navigate your way through the underwater cave, and you will eventually come 
+to Doom Island, sitting at the bottom of the sea. 
+	
+-- Part 32: Doom Island --
+Monsters in this area:
+Griffon - 285 HP
+Hydra - 321 HP
+Mad Wolf - 191 HP
+Mega Frog - 389 HP
+Megaturtle - 266
+
+	The fortress hasn’t changed a bit, so to get to Dual Blade, go all the 
+way, all the way right, then all the way down until you hit a staircase. Go up 
+the stairs, then up. You will see Dual Blade. When you retrieve Dual Blade, the 
+Sinistrals appear. You also hear Daos claim that Lufia is Erim, the last 
+Sinistral. The Sinistrals raise Doom Island, and fly away. Now you need a way to 
+fly up to Doom Island... You automatically return to Soshette, and rest.
+
+-- Part 33: Epro and Hedge --
+	Return to Carbis and speak to Shaia. He will tell you that Falcon could 
+fly if he had some Power Oil. He sends you to Epro, a town on the last continent 
+of the game (North of Marse). Epro is famous for its Power Oil. Shaia tells you 
+to bring the Power Oil to Shaia Lab 4, Frederia. Sail from Marse to Epro, and 
+speak to the people there. Unfortunately, getting Power Oil won’t be as easy as 
+buying it from a store. A landslide has halted production, and a man named Hedge 
+is the only one with information about Power Oil. Hedge can be found on the 
+world map, NW of Epro. You must speak to him to get the Power Oil Key. The only 
+way to enter the Oil Cave is by entering from underwater. Enter the eddy E then 
+N of Marse.
+
+-- Part 34: Power Oil Quest --
+Monsters in this area:
+Hydra - 321 HP
+Magura - 236 HP
+Manta Ray - 224 HP
+Sea Dragon - 279 HP
+Mad Knight - 279 HP
+Mega Frog - 389 HP
+Rock Golem - 262 HP
+Efreet - 288 HP
+Griffon - 285 HP
+Mad Wolf - 191 HP
+
+Sail through the underwater passage way, and enter the cave by using the key. 
+Locate the Dragon Ring, and use it to fight the Oil Dragon. Work your way to the 
+NE part of the basement and defeat the dragon.
+
+How to defeat the Oil Dragon:
+Oil Dragon - 4,650 HP
+I don't find the Oil Dragon all that challenging, but I will still tell you how 
+I beat him. First of all, use The Hero and Lufia to cast Drain, this will lower 
+his defense. Then use Aguro to attack. If you found the Dragon Ring in the Oil 
+Cave earlier, have Aguro equip it. Use Jerin to either heal, or use her Mirror 
+spell to repel against the Dragon's powerful fire attacks. For the rest of the 
+battle, use Lufia to either cast her Thunder spell, which is quite effective 
+against the Dragon, or use Lufia to heal anyone who may be hurt. Also use the 
+Hero to either fight or heal. Everything should go fine, and eventually you'll 
+kill the dragon. The Power Oil is in the chest behind him. Grab the Oil, and go 
+to Frederia, which is South of Carbis.
+
+-- Part 35: The Road to Glasdar Tower --
+Monsters near the Glasdar Key Cave:
+Efreet - 288 HP
+Mad Knight - 279 HP
+Rock Golem - 262 HP
+Wing Lion - 289 HP
+Zaurus Rex - 305 HP
+
+You are now very close to the end of the game. Maybe 2 hours or so untill the 
+end. Give the Power Oil to the Professor, and he will make the alterations to 
+Falcon. You can now fly! Go to Arubus, and stock up on the great items here. The 
+road to Glasdar Tower, and the way to the top is challenging. I’d say the most 
+challenging part of the game. And why shouldn’t it be? We’re almost done. Arubus 
+is only accesible by air, and is West of Fredaria. You must first get the Key to 
+Glasdar Tower. A man in Arubus will tell you the way for some Apple Cider. The 
+cave that houses the Glasdar Key is North of the tower. In your search of this 
+large cavern like cave, you’ll find a room with a small pool of water. Flip the 
+switch here, then exit the room, and retrieve the Glasdar Key. Leave the cave. 
+You are now ready to conquer Glasdar Tower.
+
+-- Part 36: Glasdar Tower, and Nazeby --
+Hope you’re ready for this tower. Make sure all of your levels are in the 50’s 
+range. This tower is sort of confusing, if you don’t know what you’re doing. 
+Along the way, you’ll see signs which tell you what floor you’re on. Make sure 
+the signs are going up in number. Eventually, you’ll come to three switches 
+right in a row. You must step on the correct switch in order to proceed to the 
+top. The correct switch is the middle one. Once you are at the very top, Nazeby 
+will appear as the Sinistrals last resort. Defeat him.
+
+How to defeat Nazeby:
+Nazeby - 5,468 HP
+Nazeby is the last enemy you'll fight before the Sinistrals. I do not believe 
+Nazeby is all that tough, but if I write about him, I have an excuse to use his 
+picture. Now that Jerin has Mirror, use her to constantly cast that spell on the 
+party one by one. This will make you virtually untouchable by Nazeby. Then use 
+The Hero, Aguro, and even Lufia to fight. Of course have Lufia use magic... 
+Hopefully your level will be high enough so that the Hero has Valor, which 
+restores all of your party's HP. If you're ever seriously hurt, use this spell. 
+After a few rounds, Nazeby will die, and you continue on with your quest.
+
+When Nazeby dies, the Sinistrals, minus Erim, will appear. Lufia, who is really 
+Erim, steals Dual Blade from The Hero as he is unconscious. She joins the 
+Sinistrals for the next three big bosses. Doom Island then flies to just NW of 
+the Tower of Grief, which was near Arus remember. Get ready, because you are now 
+going to beat the game.
+
+-- Part 37: The Final Battle --
+Monsters in Doom Island:
+Act Hydra - 289 HP
+Electromaz - 249 HP
+Fire Wave - 206 HP
+Green Core - 200 HP
+Water Sprout - 242 HP
+Whirlwind - 189 HP
+Mega Atlas - 206 HP
+Gold Golem - 125 HP
+Act Dragon - 705 HP
+Dragon - 567 HP
+Act Demon - 343 HP
+
+Stock up on supplies, and do whatever you want to do before attempting Doom 
+Island. Once you enter Doom Island, you’re at the end of the road. No more 
+towns, or priests. The last person you meet is your friend at the shrines. He 
+heals you as you pass through his shrine. To get to Doom island, just fly into, 
+and Land the Falcon near the shrine. Since you’ve walked through the Fortress of 
+Doom twice before, you should know the way to the Sinistrals by now. The order 
+in which you will fight them is: Gades, Amon, Daos, and Guard Daos. Here is the 
+strategy for the final fight:
+
+Gades -  3,000 HP
+Amon - 3,000 HP
+Daos - 3,000 HP
+Guard Daos - 6,304 HP
+
+How to defeat the Sinistrals and Guard Daos:
+The Sinistrals are easy. Almost too easy. First you fight Gades. He's really the 
+only Sinistral that will do some damage to you. Just fight him like you would 
+any boss. He doesn't use magic, so don't bother using Mirror. Use Trick on the 
+Hero and Aguro to boost your ATP. Gades will eventually die. Now, for the next 
+three guys, Amon, Daos, and Guard Daos, use this hint. Use Jerin's mirror on 
+everyone in the party, and simply attack with Hero and Aguro. It's flawless. As 
+long as you constantly keep casting the mirror on everyone in your party, they 
+can't hurt you! Amon, Daos, and Guard Daos never attack without magic! So 
+they're easy. Lufia will join you for Guard Daos. Do what ever you want with 
+her. That's how ya do it. Now sit back, and watch the end of the game unfold.
+
+You have just beat the game. Congratulations! The rest of this walkthrough, is 
+just extra information for you to know. I hope this walkthrough has helped, and 
+I hope you enjoyed Lufia and the Fortress of Doom. Now go beat Lufia 2!
+
+
+Section 2:
+
+Locations of all 3 sets of Dragon Eggs:
+
+First eight dragon eggs:
+Old Cave, 2nd floor
+Ghost Cave
+Red Tower
+Cave west of Odel
+Grief Tower
+Linze
+Gayas Cave
+Ullup Island Cave
+
+Second set of eight dragon eggs:
+Alekia Castle
+Belgen
+Cave west of Linze
+Cave southwest of Belgen
+Elba Island Cave
+Underwater near Soshette
+Oil Cave
+Northwest Tower
+
+Third set of eight dragon eggs:
+East Cave (east from Treck)
+Sheran Castle
+Lyden
+Old Cave, 7th Floor
+East of Herat Cave
+North Cave
+Southwest Cave
+Glasdar Tower
+
+This is what the Dragon Eggs do:
+When you collect 8 Dragon Eggs, and there are only 8 across the world at a time, 
+take them to the Dragon Shrine which is located in the southern desert west of 
+Herat. The Dragon will then give you 4 options. You can either raise everyone's 
+level up by 2, Get the Might Shield, Get the Might Bow, or have the Dragon use 3 
+of every kind of Potion on everyone in your team. (Mind Potion, Great Potion, 
+etc...) I always choose to have my guys leveled up by 2.
+
+
+Section 3:
+
+List of items:
+Name....................Price......................Use
+
+Grilled Newt...........2...........................Recover about 10 HP, one 
+member
+Wind Flute.............4600....................Recover 50-70 HP, one member
+Potion...................8............................Recover 15-25 HP, one 
+member
+Hi-Potion...............400.......................Recover 90-110 HP, one member
+Ex-Potion..............3000.....................Recover all HP, one member
+Magic Potion..........10........................Recover 15-25 MP, one member
+Hi-Magic................1000....................Recover 30-50 MP, one member
+Ex-Magic...............6000.....................Recover all MP, one member
+Antidote...............6..........................Heals poisoning
+Sweet Water.........10.......................50% less chance of monster 
+appearance when used
+Foul Water............10.......................50% more chance of monster 
+appearance when used
+Awake...................10.......................Wakes one sleeping party member
+Stone Cure...........100......................Cures Stone, one member
+Mystery Pin..........30........................Cures paralysis, one member
+Brone Sword.........5..........................Cures Confusion, one member
+Swing Wing...........80.........................Warps you to any place you have 
+already been
+Escape.................200.......................Escape from caves and dungeons
+Magic Guard.........50.........................Increases MGR 60% during battle, 
+one member
+Power Gourd........100.......................Increases ATP 60% during battle
+Mind Gourd...........100.......................Increases INT 60% during battle
+Great Potion........0..........................Adds 3-5 HP to max HP, one member
+Spell Potion.........0...........................Adds 3-5 MP to max MP, one 
+member
+Speed Potion........0..........................Adds 1-3 to max AGL, one member
+Mind Potion..........0..........................Adds 1-3 to max INT, one member
+Power Potion.......0...........................Adds 1-3 to max STR, one member
+Float...................50.........................Allows you to float over 
+poison ponds
+Smoke Ball...........80........................Creates a diversion so you can 
+run away from enemy
+Arrow.................2..........................ATP 37-43 of damage, one enemy
+Mid-Arrow...........50........................ATP 94-110 of damage, one enemy
+Big Arrow...........100......................ATP 225-275 of damage, one enemy
+Arrows..............2...........................ATP 36-44 of damage, one group 
+of enemies
+Hi-Arrow............100........................ATP 116-126 of damage, one group 
+of enemies
+Ex-Arrows..........200.......................ATP 240-260 of damage, one group of 
+enemies
+Dragon Arrow.....200.......................ATP 216-224 of damage vs. Dragons, 
+one enemy
+Sleep Arrow........5..........................40% success rate, puts one group 
+of enemies asleep
+Puzzle Arrow.......8.........................40 % success rate, one group of 
+enemies
+Stun Arrow..........15.......................40% success rate, one group of 
+enemies
+Gloom Arrow........80.......................20% success rate, one enemy
+Poison Pin............10.......................Gloom attack, success 70%
+Gloom Voice.........600.....................Gloom attack, success 100%
+Teddy Bear..........50.......................Confusion, success 50%
+Stuffed Dog.........10......................Paralyzed, success 50%
+Stuffed Pig..........10......................Sleep, success 50%
+Miracle.................5000.................Restores HP and MP, even when 
+member is dead
+Revive..................500...................Recovers HP and MP, even when 
+member is dead
+Pear CIder............10.....................Regain 27-33 HP and ATP up 10%, one 
+member
+Sour Cider............20.....................Regain 40-60 HP and ATP up 20%, one 
+member
+Lime Cider............20....................Regain 45-55 HP and ATP up 30%, one 
+member
+Plum Cider...........30.....................Regain 54-66 HP and ATP up 40%, one 
+member
+Apple Cider..........100...................Regain 90-110 HP and ATP up 50%, one 
+member
+Dagon Egg............0......................Collect 8 and take them to the 
+Dragon Temple
+Secret Map..........500..................No info
+Crown.................2000.................No info
+Silver Wick..........2300.................No info
+Royal Statue.......5000.................No info
+Silver Tarot........1800.................No info
+Straw Doll...........10.....................No info
+Long Nail.............4.......................No info
+
+
+List of all Spells:
+Spell............Name(level)..............(MP).......Effect
+
+Flash...........Lufia (1)......................	-2.........Bolt of lightning, 
+hits 1 enemy
+Bolt.............Lufia (21).....................-7.........Big Bolt of 
+Lightning, hits 1 enemy
+Thunder.......Lufia (41)....................-12........Huge Bolt of Lightning, 
+hits 1 enemy
+Spark..........Jerin (14).....................-6..........Column of flame, hits 
+one group of enemies
+Flame..........Jerin (22).....................-10........Big column of flame, 
+hits one group of enemies
+Vulcan.........Jerin (34).....................-15........Huge column of flame, 
+hits one group of enemies
+Dew.............Lufia (5).......................-5..........Column of water, 
+hits one group of enemies	
+Water..........Lufia (23).....................-10........Big column of water, 
+hits one group of enemies
+Flood............Lufia (37)....................-15........Huge blast of water, 
+hits one group of enemies
+Bang............Lufia (13).....................-10........Small explosion, hits 
+all enemies
+Blast...........Lufia (31).....................-15.........Medium explosion, 
+hits all enemies
+Sunder........Lufia (39)......................-20........Huge explosion, hits 
+all enemies
+Frost..........Jerin (14)......................-9...........Wave of ice 
+crystals, hits all enemies
+Blizzard.......Jerin (30).....................-13.........Small lumps of ice, 
+hits all enemies
+Glacier.........Jerin (38).....................-18.........Huge lumps of ice, 
+hits all enemies
+Perish..........Lufia (33)....................-4...........Kills weak monsters, 
+affects one enemy
+Succumb......Hero (44) Lufia (43).....-8...........Kills weak enemies, affects 
+one group
+Drowsy........Lufia (26).....................-4...........Makes monsters drowsy, 
+affects one group
+Fright..........Hero (31) Lufia (19)......-4...........Makes monsters sleepy, 
+affects one enemy
+Drain...........Hero (10) Lufia (9)........-3...........Lowers enemy DFP, 
+affects one enemy
+Dread..........Hero (34)......................-5...........Lowers enemy DFP, 
+affects one group
+Deflect........Lufia (11).....................-3...........Prevents monster 
+magic, affects one group
+Bounce.........Lufia (35)....................-5............Prevents monster 
+magic, affects one group
+Absorb.........Lufia (17) Jerin (16)....-1............Absorbs monster MP, 
+affects one member
+Fake............Hero (37).....................-4............Increases AGL, 
+affects your party
+Trick...........Hero (39) Jerin (40)......-5...........Increases ATP, affects 
+one member
+Confuse......Jerin (18)......................-3...........Confuses monsters, 
+affects one group
+Bravery......Hero (22)......................-4...........Increases DFP, affects 
+one member
+Courage......Hero (25) Lufia (25)......-5...........Increases DFP, affects your 
+party
+Shield.........Lufia (3)........................-2...........Shield against 
+spells, affects one member
+Protect......Lufia (29)......................-5...........Shield against spells, 
+affects one member
+Mirror........Jerin (32).......................-3...........Deflects enemy 
+spells, affects one member
+Statue.......Hero (16).......................-3..........Turns member into 
+stone, spells can't affect you
+Strong.......Hero (4)Lufia(7)Jerin(14)..-3.........Partially restores HP, 
+affects one member
+Stronger.Hero(19)Lufia(15)Jerin(20).-5.........Partially restores HP, affects 
+one member
+Champion...Hero(28) Jerin (36)........-8..........Completely restores HP, 
+affects one member
+Boost........Lufia (27) Jerin (28).......-15.........Partially restores HP, 
+affects one member
+Valor.........Hero (47).......................-35.........Completely restores 
+HP, affects all members
+Poison.......Hero (13) Jerin (14)........-3...........Antidote for poison, 
+affects one member
+Stun.........Jerin (14).........................-2..........Antidote for 
+paralysis, affects one member
+Revive......Jerin (26).........................-10........Brought back to life, 
+affects one member
+Rally.........Hero (41) Jerin (42).........-30........Restores fight power, 
+affects one member
+Stone.......Hero (22) Jerin (24).........-5..........Antidote for Statue, 
+affects one member
+Waken......Lufia (1)...........................-4.........Wakes up your party, 
+affects all members
+Warp........Jerin (14).........................-8.........Travel to any town 
+you've been before
+Escape......Jerin (14)........................-8..........Leave caves and 
+dungeons
+Float..........Hero (7).........................-2..........Cross toxic marshes, 
+affects all members
+Elf.............Jerin (Gotten in Elfrea)....-1.........Travel to Elfrea, affects 
+all members
+
+
+List of all weapons:
+Name...................User................Price...................ATP
+
+Knife....................HLAJ................10.......................+13
+Club......................H-A-.................120.....................+28
+Mace.....................-L-J.................600.....................+45
+Dagger..................HLAJ...............50........................+19
+Long Knife.............-L-J.................180.....................+24
+Short Sword..........H-A-................360.....................+39
+Rod.......................-L-J.................4800...................+75
+Gladius..................H-A-................15300.................+168
+Glass Rope............-L-J.................7200...................+88
+Silver Plate...........H-A-................1400...................+71
+Staff....................-L-J.................360.....................+37
+Scimitar................H-A-................2100...................+90
+Rapier....................-L-J.................2400...................+66
+Long Sword............H-A-................4800...................+115
+Long Staff..............-L-J................1200...................+56
+Axe........................H-A-................3000...................+104
+Spear.....................H-A-................780.....................+53
+Morning Star..........H-A-.................9600..................+142
+Mace......................-L-J..................600....................+45
+Cat-Whip................-L-J..................15600................+121
+Battle Axe.............H-A-..................12000................+155
+Hammer Rod..........-L-J...................9600..................+98
+Trident..................H-A-..................7800..................+128
+Silver Rod..............-L-J...................12000................+112
+Silver Sword..........H-A-..................24000................+192
+Buster Sword........H-A-..................2800..................+217
+Zircon Rod.............---J...................19200................+160
+Great Axe.............H-A-..................18600................+180
+Grand Blade..........H-A-...................38000...............+244
+Zircon Axe............--A-...................48000...............+288
+Zircon Sword........H---....................42000...............+256
+Broad Sword........H-A-...................1200.................+81
+Broad Rod............-L-J....................1200.................+50
+Luck Blade............--A-...................2400.................+400
+Gloom Pick............-L-J...................4800..................+0
+Dual Blade.............H---...................0........................+300
+Might Sword.........H-A-...................9500..................+380
+Elven Bow............---J.....................2800..................No info
+Artea's Bow........---J.....................24000................No info
+Might Bow...........H-A-....................30000................No info
+Carbo Sword.......H-A-....................33600................+232
+Frying Pan..........HLAJ....................50.....................+5
+Zircon Plate........HLAJ....................70.....................+10
+
+
+List of all armor:
+Name..................User...................Price....................DFP
+
+Dress..................-L-J....................120......................+4
+Cloth...................HLAJ..................140......................+8
+Cloth Armor.........H-A-..................240......................+12
+Robe....................-L-J....................260.....................+11
+Tan Armor...........H-A-...................480.....................+16
+Tan Robe..............-L-J...................540......................+15
+Light Armor..........H-A-..................3000....................+28
+Light Robe............-L-J....................3360....................+24
+Chain Mail.............H-A-....................960.....................+20
+Plate Cloth...........-L-J.....................5700...................+35
+Brone Armor........H-A-....................1400...................+24
+Quilted Silk...........-L-J.....................4800...................+28
+Half Mail...............H-A-....................4200..................+32
+Brone Robe..........-L-J.....................1500..................+21
+Silver Armor.......H-A-.....................7200..................+42
+Silver Robe.........-L-J......................8400...................+34
+Plate Mail............H-A-....................5800...................+36
+Zircon Robe.........---J.....................12000.................+44
+Zircon Armor......H-A-....................12000.................+50
+Clear Silk............-L-J.....................10000................No Info
+Might Armor.......H-A-....................60000................No Info
+Carbo Plate........H-A-....................10800................+46
+Gown..................-L-J.....................100.....................+2
+Apron.................HLAJ....................60......................+2
+
+
+List of all shields:
+Name...................User................Price..............DFP
+
+Bracelet..............-L-J....................90.................+2
+Tan Shield............HLAJ................180...............+15
+Wood Shield.........H-A-.................360...............+7
+Buckler...............H-A-.................1000............+13
+Wood Wrist.........-L-J..................480...............+8
+Kite Shield...........H-A-................1400.............+15
+Round Shield........H-A-................1920.............+18
+Round Wrist........-L-J.................2600.............+15
+Cat Heels............H-A-................720...............+10
+Tower Shield.......H-A-.................4600.............+25
+Large Shield........H-A-.................3400.............+20
+Silver Wrist.........-L-J..................2800............+20
+Shriek.................H-A-.................3800............+23
+Zircon Wrist........-L-J..................8400............+25
+Small Knife..........H-A-.................8400............+30
+Might Shield.........H-A-.................36000..........+65
+Brone Wrist........-L-J...................840.............+10
+Carbo Shield.......H-A-..................6000............+28
+Chop Block..........HLAJ................30.................+2
+
+
+List of all shoes:
+Name................User................Price.............DFP.........AGL.......
+....ATP
+
+Sandals.............HLAJ...............50.................+2...........0........
+.......0
+Cloth 
+Shoes.......HLAJ...............300...............+4...........0...............0
+Tan 
+Shoes..........HLAJ..............840................+6..........0...............
+0
+Spike Shoes........H-A-
+..............2000..............+4..........0................+5
+Brone Helmet......-L-
+J...............3000..............+2..........0................+5
+Wind Shoes.........H-A-...............No Info........+5..........0.............0
+Wind Heels..........-L-
+J................4900.............0...........+5.............0
+Knife Shoes........H-A-
+...............6000.............+5...........0...............+10
+Needle Heels.......-L-
+J................7200.............+2...........0...............+10
+Sonic Shoes........H-A-
+...............8600.............+5...........+8.............0
+Sonic Heels.........-L-
+J................10200...........+3...........+8.............0
+Sword Shoes.......H-A-
+...............11000...........+8...........0...............+15
+Heeled Shoes.......-L-
+J...............11400...........+3...........+15............0
+Mach Shoes.........H-A-
+..............11600...........0.............+10............0
+Mach Heels..........-L-
+J...............12200...........0.............+10............0
+
+
+List of all helmets:
+Name...................User.................Price..................DFP
+
+Cloth Helmet........H-A-.................120....................+2<
+Tan Helmet..........H-A-.................240....................+10
+Ribbon.................-L-J..................210....................+2
+Wood Helmet.......H-A-..................540...................+8
+Glass Cap............-L-J...................460...................+4
+Brone Shield........H-A-..................1200.................+11
+Red Beret...........-L-J...................120...................+8
+Iron Helmet.........H-A-..................2500.................+14
+Plate Cap............-L-J...................3800.................+10
+Plate Helmet.......H-A-..................4900.................+16
+Glass Beret.........-L-J...................1000.................+6
+Silver Helmet......H-A-..................7400..................+18
+Sakret................-L-J...................6200.................+12
+Zircon Beret.......---J....................9600.................+16
+Zircon Helmet.....H-A-...................10200...............+25
+Might Helmet......H-A-...................8900.................+20
+Might Cap...........-L-J....................8500.................+14
+Hairband............-L-J.....................210...................+1
+Broach..............-L-J.....................50.....................+1
+Earring..............-L-J.....................80.....................+1
+Necklace...........-L-J.....................100...................+1
+Carbo Helmet....H-A-....................10200...............No info
+Ear Tip..............-L-J.....................50.....................+1
+Pot....................HLAJ....................60....................+3
+Diamond Crown...HLAJ....................12000..............+4
+
+
+List of all rings:
+Name...........................Effect
+
+Power Ring....................ATP +10
+High Power Ring.............ATP +40
+Daze Ring......................DFP +8, MGR +4
+High Daze Ring...............DFP +40, MGR +10
+Mind Ring.......................INT +30, STR +10
+Sonic Ring.....................AGL +5
+Mach Ring.....................AGL +15
+Blue Ring.......................DFP +8, ATP +10
+Yellow Ring.....................DFP +20, MGR +20
+Red Ring.........................AGL +5, INT +10
+Purple Ring....................DFP +10, AGL +2, ATP +10, INT +4, MGR +10
+Green Ring.....................DFP +4, AGL +10, ATP +4, INT +4,MGR +4
+White Ring.....................DFP +20, AGL +4, ATP +40
+Black Ring......................DFP +5, AGL +10, ATp +10, MGR +40
+Heavy Ring.....................ATP +80  (Weight 120)
+Wave Ring......................DFP +20, AGL +8, ATP +30, INT +15, MGR +15
+Undead Ring..................Defends against Magic
+Ghost Ring....................Effective against Ghosts
+Dragon Ring...................Effective against Dragons
+Sea Ring........................Effective against Sea monsters
+Fly Ring.........................Effective aggainst Flying creatures.
+Water Ring....................Effective against monsters they hate water
+Fire Ring.......................Effective gainst Fire hating monsters
+Ice Ring.........................Effective against Ice hating  monsters
+Electro Ring..................Effective against Electricity hating monsters
+Flash Ring.....................Flash spells +80%, others -50%
+Flame Ring....................Flame spells +60%, others -50%
+Water Ring....................Water spells +60%, others -50%
+Blast Ring.....................Explosion spells +50%, others -50%
+Frost Ring.....................Blizzard spells +50%, others -50%
+Gloom Guard.................Guard against Gloom 100%
+Gloom Ring....................Gloom magic success +50%
+Diamond Ring................Stores charge more for goods
+Engage Ring...................Stores charge less for goods
+Monster Ring.................Monsters appear 50% more
+Emerald.........................No use
+Opal...............................No use
+

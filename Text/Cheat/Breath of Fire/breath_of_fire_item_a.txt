@@ -1,0 +1,5268 @@
+
+Breath of Fire (SNES)
+Item Guide
+
+Version: 0.97
+Released on September 29, 2010
+Last updated on June 20, 2011
+
+By Novalia Spirit
+Contact information: novaliaspirit (AIM and Hotmail)
+http://novaliaspirit.99k.org/
+
+
+Table of contents:
+1. General notes
+2. Items with a description
+3. Weapons
+4. Armor
+5. Acknowledgements
+6. Legal disclaimer
+
+
+###############################################################################
+                                 GENERAL NOTES
+###############################################################################
+
+Legend for locations:
+[A] The item is obtained by means of fishing or hunting.
+[C] The listed characters are initially equipped with this item.
+[D] The item can be found by digging the ground with Mogu in a specific region.
+[E] The item is obtained through an event.
+[G] The item lies on the ground. The direction faced is normally irrelevant.
+[M] The listed monsters may drop this item.
+[P] The item is obtained on the overworld map by punching a tree with Ox.
+[S] The item is available in the listed shops.
+[T] The item lies inside a treasure chest or within a dresser.
+
+Miscellaneous notes:
+1. One of the elements has yet to be named and is currently listed as [???].
+2. Sr-1, Sr-2, and Sr-3 can equip any item that is compatible with Gobi.
+3. Monsters that cannot normally be defeated are not listed.
+4. The value of items that cannot be sold is always zero; this is not listed.
+5. Money amounts for treasure chests have been removed, but may be reinserted.
+6. Elemental resistances are established by processing equipment in the
+   following order: shield, armor, helmet. Accessories are thus disregarded.
+   Once a piece of equipment with elemental properties is detected, the
+   procedure terminates, thereby neglecting the rest of the equipment.
+
+
+###############################################################################
+                           ITEMS WITH A DESCRIPTION
+###############################################################################
+
+Herb
+
+Description: This item recovers some HP.
+
+Value: 10
+
+Note: Restores 50 HP. The item is stackable.
+
+Location:
+ [M] Flea, Gloom, Beak, Creep, Morte, Mortea, Slime, Bowman, Bulla, Scorp,
+     Creon, Soldier, R.Slime, Tentacle, Wraith, P.Bug, Fungus, Chopper,
+     Phoenix, Goda, Shadow, M.Slime
+ [S] Drogen (9), Winlan (10), Camlon (8), Romero (10), Tuntar (10), Auria (13),
+     Bleak (12), Prima (9, 10), Gant (8), Gust (10), Tunlan (10, 13),
+     Dream World (10), Spring (10), World of Dreams (10)
+ [T] Camlon castle, first chest encountered in the basement
+ [T] Camlon castle, third chest encountered in the basement
+ [T] Camlon castle, sixth chest encountered in the basement
+ [T] Camlon castle, seventh chest encountered in the basement
+ [T] Camlon castle, leftmost chest in the throne room
+ [T] Romero, south chest in the room underneath a grave (after recruiting Bo)
+ [T] Forest to Karma, north of the junction near the eastern entrance
+ [T] Forest to Karma, behind a tree in the southwest area
+ [T] Forest to Karma, north of the western entrance
+ [T] Dragon Shrine southeast of Tantar
+ [T] Aura Cave, westernmost chest in the flooded area
+ [T] Aura Cave, northernmost chest in the flooded area
+ [T] Forest of Despair, on the western side
+ [T] Winlan castle, southwest chest in the western area on the second floor
+ [T] Winlan castle, northwest chest in northwestern area on the first floor
+ [T] Winlan castle, west chest in northeastern area on the first floor
+ [T] Winlan castle, east chest in northeastern area on the first floor
+ [T] Romero, west chest in the elder's house (after negating the plague)
+ [T] Karma Towers, west chest in the basement
+ [T] Karma Towers, east chest in the basement
+ [T] Karma Towers, alcove with four holes on the third floor
+ [T] Gust laboratory, east chest in the mousehole
+ [T] Forest fortress, west of both staircases in the basement
+ [T] Forest fortress, east of both staircases in the basement
+ [T] Forest fortress, northwest chest on the first floor
+ [T] Cave of the Cleansing Water, east of entrance
+ [T] Cave of the Cleansing Water, northwest of entrance
+ [T] Agua, southwest corner of the first floor
+ [T] Agua, northwest platform on the third floor
+ [T] Cave of the Cleansing Water, lower-central section in the first basement
+ [T] Tunlan, north chest in the room beneath the castle
+ [T] Stone Robot, first chest encountered
+ [T] Male weapon-collector's tent, north chest
+ [T] Male weapon-collector's tent, east chest
+ [T] Forest fortress, southwest chest in the second pit
+ [T] Forest fortress, northeast chest in the second pit
+ [T] Nanai, north chest in northeasternmost building
+ [T] Nanai, south chest in northeasternmost building
+ [T] Lake cave, east chest in the northwest corner of the flooded floor
+ [T] Bleak, west chest in the northwest house
+ [T] Bleak, east chest in the northwest house
+ [T] Bleak, west chest in the northeast house
+ [T] Bleak, east chest in the northeast house
+ [T] Auria, Ross's treasury (five chests; requires Karn)
+ [T] Krypt, east of ascending stairs on trap-filled floor
+ [T] Krypt, south of ascending stairs on trap-filled floor
+ [T] Krypt, north chest in the northwest corner of room beneath a blue chest
+ [T] Dark Dragons' ship, north chest
+ [T] Dark Dragons' ship, northeast chest
+ [T] Fortress near Nabal, west chest in the largest room
+ [T] Fortress near Nabal, southwest chest in the largest room
+ [T] Wisdon, east chest on western side of the first passageway
+ [T] Spring, dresser within the largest building
+ [T] Scande, dresser within the inn
+ [T] Wisdon, third chest from the left in northwest alcove in the third area
+ [T] Wisdon, west chest in the northeast alcove in the third area
+ [T] Wisdon, second chest from the west in the northwest alcove in third area
+ [T] Sea volcano, room with lava
+ [T] Gust laboratory, chest directly west of the entrance
+ [T] Tuntar, dresser within the elder's house
+ [T] Tantar, south chest beneath the elder's house (after moving Stone Robot)
+ [T] D.Keep, southwest chest on the fifth floor
+_______________________________________________________________________________
+
+Cure
+
+Description: This item recovers some HP.
+
+Value: 2000
+
+Note: Restores all HP. The item is stackable.
+
+Location:
+ [M] Stool, Talon, Blurb, Lancer, Ruga, Roach, Prickle, Fly, SpearMan, Fishy,
+     M.Scorp, LancerX, K.Roach, Rogue, Warlock, Buzzer, AmeblobX, Bully,
+     Cactus, Entity, D.Knight
+ [S] Drogen (1800), Winlan (2000), Camlon (1600), Romero (2000), Tuntat (2000),
+     Bleak (2400), Prima (1800, 2000), Gant (1600), Gust (2000),
+     Tunlan (2000, 2600), Spring (2000)
+ [T] Cave in the World of Dreams, northeast chest in the alcove with a hole
+ [T] Aura Cave, southwest chest in the flooded area
+ [T] Auria, dresser on the second floor of the southwest mansion
+ [T] Auria, chest on the second floor of the northeast mansion
+ [T] Winlan castle, northwest chest in the treasury (requires Karn)
+ [T] Nanai temple, south chest in the second lava room
+ [T] Romero, east chest in the elder's house (after negating the plague)
+ [T] Karma Towers, inside one of the rooms preceding the wizard's lair
+ [T] Karma Towers, northeast alcove on the third floor
+ [T] Krypt, northwest chest in the room with a blue chest
+ [T] Cave to Bleak, east chest in the central portion of the second floor
+ [T] Nabal, east of the staircase leading to the throne room
+ [T] Scande Tower, chest on the third floor
+ [T] Auria, west chest on the second floor of Ross's house
+ [T] Tuntar, dresser within the inn
+ [T] Tock, chest in the northwest corner on the second floor
+ [T] D.Keep, middle chest on the fifth floor
+_______________________________________________________________________________
+
+Antdt
+
+Description: This works as an antidote for poison.
+
+Value: 15
+
+Note: Removes Poison status. The item is stackable.
+
+Location:
+ [M] Flea, Beak, Creep, Bain, Zombie, WarHog, Bulla, Midget, Tronk, SandClod,
+     WraithX, Crab, Crawler, WarHogX
+ [S] Drogen (13), Winlan (15), Camlon (12), Romero (15), Tuntar (15),
+     Bleak (18), Prima (13, 15), Gant (12), Gust (15), Tunlan (15, 19),
+     Dream World (15), Spring (15), World of Dreams (15)
+ [T] Auria, chest on the second floor of the northwest mansion
+ [T] Winlan castle, northeast chest in the western area on the second floor
+ [T] Winlan castle, northeast chest in the northwest area on the first floor
+ [T] Romero, southwest chest in the elder's house (after negating the plague)
+ [T] Nanai temple, southeast chest in the first lava room
+ [T] Krypt, east chest in the room with a blue chest
+ [T] Camlon castle, west of stairs leading to the throne room
+ [T] Camlon castle, east of stairs leading to the throne room
+_______________________________________________________________________________
+
+Acorn
+
+Description: This item will recover AP.
+
+Value: 30
+
+Note: Restores 20 AP. The item is stackable.
+
+Location:
+ [M] Mage, Archer, Mothro (both), M.Scorp, BowManX, Chimera, Warlock, Blaze,
+     Golem, E.Chest, D.Flea, DogFishX, AmeblobX, Widow, ICU
+ [S] Winlan (30), Camlon (24), Romero (30), Tuntar (30), Bleak (36),
+     Prima (30, 33), Gust (30), Tunlan (30, 39), Dream World (30), Spring (30),
+     World of Dreams (30)
+ [T] Auria, chest on the first floor of the northwest mansion
+ [T] Forest fortress, southeast chest on the first floor
+ [T] Agua, west chest in the area west of the entrance
+ [T] Agua, chest near descending staircase on third floor
+ [T] Stone Robot, in the alcove north of the robot's heart (requires KngKey)
+ [T] Lake cave, chest near the northwest corner on the flooded floor
+ [T] Dark Dragons' ship, southwest chest
+ [T] Dark Dragons' ship, northwest chest
+_______________________________________________________________________________
+
+M.Drop
+
+Description: The party will return to normal and the members will recover all
+             HP.
+
+Value: 10000
+
+Note: Restores all HP and lifts Stun for all allies; in battle, the item also
+      removes Doze, Mute, Curse, Poison, Zombie, Stun, and FATE Up before
+      setting FATE to equal Luck, omitting bonuses from equipment. The item is
+      stackable.
+
+Location:
+ [M] Stool, Blurb, Mage, Archer, Fly, Mothro (both), BowManX, Chimera,
+     Sorcerer, Gargoyle, Blaze, Golem, E.Chest, D.Flea, Flower, DogFishX,
+     Widow, CrawlerX, Mimic, Bully, Claw, PincherX, D.Rider, ICU
+ [T] Karma Towers, chest in the southeast corner on the first floor
+ [T] Karma Towers, chest in the northwest alcove on the second floor
+ [T] Tunlan castle, west chest in the treasury (once the queen is sick)
+ [T] Sea volcano, chest in a small room on the third floor
+_______________________________________________________________________________
+
+T.Drop
+
+Description: This item changes Zombies back to normal.
+
+Value: 20
+
+Note: Removes Zombie status. The item is stackable.
+
+Location:
+ [M] Knight (both), SandWorm, Pincher, Nautulis, FireHead, Ghoul
+ [S] Drogen (18), Winlan (20), Camlon (16), Tuntar (20), Bleak (24),
+     Prima (20), Gust (20), Tunlan (20, 26), Spring (20)
+ [T] Forest of Despair, west chest near the southeast corner
+ [T] Forest of Despair, chest in the northwest corner
+ [T] Forest fortress, northeast chest on the first floor
+ [T] Cave of Cleansing Water, chest in the upper-central portion of B1
+ [T] Forest fortress, northwest chest in the second pit
+ [T] Forest fortress, southeast chest in the first pit
+_______________________________________________________________________________
+
+Charm
+
+Description: You'll return to normal.
+
+Value: 150
+
+Note: Removes Curse; in battle, the item also lifts FATE Up and sets FATE to
+      equal Luck, omitting bonuses from equipment. The item is stackable.
+
+Location:
+ [S] Winlan (150), Bleak (180), Prima (135, 150), Gant (120), Gust (150),
+     Tunlan (150, 195), Spring (150)
+ [T] Karma Towers, chest in the alcove east of the entrance
+ [T] Karma Towers, chest in the southwest corner on the third floor
+ [T] Tantar, dresser within the inn
+_______________________________________________________________________________
+
+Life2
+
+Description: Everything will return to normal.
+
+Value: 1000
+
+Note: Restores all HP and AP, and removes Curse, Poison, Zombie, and Stun. In
+      battle, the item also removes Doze, Mute, and FATE Up before setting FATE
+      to equal Luck, omitting bonuses from equipment. Can be used on living
+      entities during a melee. The item is stackable.
+
+Location:
+ [M] Wizard, Avian, Morte, Mortea, General, Wisp, Bowman, G.Fly, Octo, Squid,
+     Cloud, GrimFowl, Myst, FlowerX, Cerl, Morteo, Sorcerer, Toad, Zog,
+     Gargoyle, Flower, G.Slime, Nautulis, Mimic, Claw, PincherX, Ghoul
+ [G] Auria, under a barrel within the inn
+ [G] Bleak, under a barrel in the southeast house
+ [G] Nabal, under the westernmost vase directly east of the entrance
+ [T] Winlan castle, north chest in the treasury (requires Karn)
+ [T] Karma Towers, chest in the alcove west of the entrance
+ [T] Forest fortress, southwest chest on the first floor
+ [T] Agua, chest in the recede west of the entrance
+ [T] Agua, northeast chest in the alcove east of the entrance (requires Ox)
+ [T] Stone Robot, west chest southeast of the robot's heart (requires KngKey)
+ [T] Lake cave, chest in the southwest corner on the flooded floor
+ [T] Wisdon, east chest on the eastern side of the first passage
+ [T] Tock, west chest on the third floor
+ [T] Tock, north chest on third floor
+ [T] Dragon mark southeast of Scande, east chest
+ [T] D.Keep, chest on the sixth floor
+_______________________________________________________________________________
+
+Mrbl1
+
+Description: This will produce one perfect hit.
+
+Value: 1000
+
+Note: Enables the user to perform a critical hit on the designated target. The
+      item is stackable.
+
+Location:
+ [S] Auria (1300), Prima (1000, 1300), Gust (1000), Tunlan (1000, 1300)
+ [T] Camlon, dresser within the southwest house (after meeting Nina)
+ [T] Stone Robot, east chest southeast of the robot's heart (requires KngKey)
+ [T] Auria, chest on second floor of SE mansion
+ [T] Scande Tower, east chest in the south alcove on the second floor
+_______________________________________________________________________________
+
+Mrbl2
+
+Description: This will produce one perfect hit.
+
+Value: 10000
+
+Note: Enables the user to perform a critical hit on the designated target with
+      a 25% probability. Failure does not prevent the occurrence of a standard
+      critical hit. The item is stackable.
+
+Location:
+ [T] Dragon Shrine south of Nabal
+_______________________________________________________________________________
+
+Mrbl3
+
+Description: You can travel while avoiding enemies with this item.
+
+Value: 10
+
+Note: Eliminates enemy encounters. Lasts for 127 steps. Cannot be used amidst
+      a melee. The item is stackable.
+
+Location:
+ [M] Zombie, Tronk, Crawler
+ [S] Drogen (9), Winlan (10), Prima (10)
+ [T] Auria, dresser on the second floor of the northeast mansion
+_______________________________________________________________________________
+
+Whskrs
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Note: Cannot be sold or discarded. The item is stackable.
+_______________________________________________________________________________
+
+Worm
+
+Description: This is fishing bait.
+
+Counts as an accessory
+Compatibility: Ryu
+
+Value: 50
+
+Note: Required in order to fish. The item is stackable.
+
+Location:
+ [S] Auria (65), Prima (50)
+_______________________________________________________________________________
+
+Worm2
+
+Description: This is fishing bait.
+
+Counts as an accessory
+Compatibility: Ryu
+
+Value: 100
+
+Note: Required in order to fish. The item is stackable.
+
+Location:
+ [M] CreonX
+ [S] Prima (100)
+_______________________________________________________________________________
+
+Shrimp
+
+Description: This is fishing bait.
+
+Counts as an accessory
+Compatibility: Ryu
+
+Value: 200
+
+Note: Required in order to fish. The item is stackable.
+_______________________________________________________________________________
+
+Urchin
+
+Description: This is fishing bait.
+
+Counts as an accessory
+Compatibility: Ryu
+
+Value: 300
+
+Note: Required in order to fish. The item is stackable.
+
+Location:
+ [M] DogFish
+_______________________________________________________________________________
+
+Shell
+
+Description: This is fishing bait.
+
+Counts as an accessory
+Compatibility: Ryu
+
+Value: 500
+
+Note: Required in order to fish. The item is stackable.
+
+Location:
+ [M] DogFish
+ [T] Spyre, south chest in the southeast corner on the first floor
+_______________________________________________________________________________
+
+Apple
+
+Description: This item recovers some HP.
+
+Value: 100
+
+Note: Restores 60 HP. The item is stackable.
+
+Location:
+ [M] Avian, G.Fly, GrimFowl
+ [P] Trees with yellow-colored fruits (unlimited supply)
+ [S] Drogen (90), Camlon (80)
+ [T] Agua, east chest in the area west of the entrance
+ [T] Cave of the Cleansing Water, east chest in an alcove in the first basement
+_______________________________________________________________________________
+
+ProtnA
+
+Description: Your Attack Power will increase temporarily when you use this
+             item.
+
+Value: 300
+
+Note: Increases ATK by 20 and inflicts ATK Up. Ineffective on characters under
+      the effect of Zombie or ATK Up. Can only be used during battle. The item
+      is stackable.
+
+Location:
+ [M] Gremlin, Pog, RugaX (both), HornToad, Ronk
+ [T] Camlon, dresser within the northwest house (after meeting Nina)
+_______________________________________________________________________________
+
+Antler
+
+Description: This works as an antidote for poison.
+
+Value: 100
+
+Note: Removes Poison status. The item is stackable.
+_______________________________________________________________________________
+
+WMeat
+
+Description: This item will recover the HP for all party members.
+
+Value: 800
+
+Note: Restores 150 HP to all allies. The item is stackable.
+_______________________________________________________________________________
+
+Life
+
+Description: This will put you back into fighting shape.
+
+Value: 500
+
+Note: Removes Stun and sets the target's HP to one. The item is stackable.
+
+Location:
+ [M] Zard, Talon, S.Rider, Lancer, Ruga, Ameblob, Roach, EyeSpy, Scorp,
+     Prickle, SpearMan, Fishy, LancerX, Wraith, Fungus, K.Roach, Phoenix,
+     Rogue, Jade, Goddess (84, 96), Sara, Zoom, G.Knight, Shadow, Spider,
+     Buzzer, BlazeX, M.Flea, CrawlerX, D.Rider, Cactus, CactusX, Entity,
+     D.Knight
+ [S] Drogen (450), Winlan (500), Camlon (400), Romero (500), Tuntar (500),
+     Auria (650), Bleak (600), Prima (450, 550, 650), Dream World (500),
+     World of Dreams (500)
+ [T] Forest of Despair, east chest near the southeast corner
+ [T] Forest fortress, northeast chest in the first pit
+ [T] Forest fortress, southwest chest in the first pit
+ [T] Auria, chest on the first floor of the southwest mansion
+ [T] Auria, chest on the first floor of the southeast mansion
+ [T] Auria, dresser on the second floor of the northwest mansion
+ [T] Bleak, west chest in the elder's house
+ [T] Agua, southwest chest in the alcove east of the entrance (requires Ox)
+ [T] Lake cave, chest in the southeast corner of the flooded floor
+ [T] Krypt, chest in the southwest corner of the trap-filled floor
+ [T] Krypt, south chest in the northwest corner of room beneath a blue chest
+ [T] Winlan castle, northeast chest in the treasury (requires Karn)
+ [T] Fortress near Nabal, northwest chest in the largest room
+ [T] Wisdon, west chest on the eastern side of the first passage
+ [T] Wisdon, west chest in the southwest alcove in the third area
+ [T] Path to the Dream World cave, northwest chest on the eastern side
+ [T] Tock, south chest on the first floor
+ [T] D.Keep, southwest chest on the fourth floor
+_______________________________________________________________________________
+
+Nails
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Note: Cannot be sold or discarded. The item is stackable.
+_______________________________________________________________________________
+
+Meat
+
+Description: This item will recover the HP for all party members.
+
+Value: 100
+
+Note: Restores 70 HP to all allies. The item is stackable.
+
+Location:
+ [M] Bain, WarHog, Midget, SandClod, WraithX, Crab, WarHogX
+_______________________________________________________________________________
+
+B.Stn
+
+Description: You can use this item during a battle.
+
+Value: 20
+
+Note: Invokes a non-elemental, single-target spell sporting a power of 80.
+
+Location:
+ [M] Wizard, Squid
+ [S] Prima (22), Gant (16)
+ [T] Aura Cave, northwest chest in the flooded area
+ [T] Nanai temple, northeast chest in the first lava room
+ [T] Auria, Ross's treasury (requires Karn)
+ [T] D.Keep, northeast chest on the fourth floor
+_______________________________________________________________________________
+
+F.Stn
+
+Description: You can use this item during a battle.
+
+Value: 20
+
+Note: Invokes a non-elemental, single-target spell sporting a power of 40.
+
+Location:
+ [M] Frog, Knight (both), SandWorm, Mote, Pincher, SlimeX, Mote, FireHead,
+     Peril
+ [S] Prima (22), Gant (16)
+ [T] Nanai temple, southwest chest in the second lava room
+ [T] Cave of the Cleansing Water, chest north of the entrance
+ [T] Auria, chest on the second-highest floor (requires Karn)
+_______________________________________________________________________________
+
+C.Stn
+
+Description: You can use this item during a battle.
+
+Value: 40
+
+Note: Invokes a non-elemental, single-target spell sporting a power of 60.
+
+Location:
+ [M] Zard, General, Wisp, S.Rider, Ameblob, Octo, Cloud, Myst, Toad, Zoom,
+     G.Knight, CactusX
+ [S] Prima (44), Gant (32)
+ [T] Aura Cave, chest in the southeast corner of the flooded area
+_______________________________________________________________________________
+
+Smoke
+
+Description: You can use this item during a battle.
+
+Value: 100
+
+Target: All enemies
+
+Note: [A description has yet to be written]
+
+Location:
+ [T] Cave in the World of Dreams, northwest chest near a staircase
+_______________________________________________________________________________
+
+DkKiss
+
+Description: You can use this item during a battle.
+
+Value: 200
+
+Note: Deals damage equal to the target's HP, skipping damage modifiers. Always
+      misses monsters in event battles. If the Wisdom of the user exceeds that
+      of the target, the hit rate is 37.5%; otherwise, it is equal to 25%.
+
+Location:
+ [M] EyeSpy, Jade, Goddess (84, 96), Sara, Spider, BlazeX, M.Flea
+ [T] Camlon, dresser within the northeast house (after meeting Nina)
+_______________________________________________________________________________
+
+Cure2
+
+Description: This item will recover the HP for all party members.
+
+Value: 3250
+
+Note: Restores 250 HP to all allies.
+
+Location:
+ [G] Spyre, behind the easternmost pillar north of a staircase on first floor
+ [T] Spyre, chest north of the entrance
+ [T] Gust laboratory, chest directly east of the entrance
+_______________________________________________________________________________
+
+ProtnB
+
+Description: You can use this item during a battle.
+
+Value: 300
+
+Note: Increases ATK by 50 and inflicts ATK Up. Ineffective on characters under
+      the effect of Zombie or ATK Up. Can only be used during battle.
+
+Location:
+ [M] Gremlin, Pog, RugaX (both), HornToad, Ronk
+ [T] Romero, dresser within the northeast house
+_______________________________________________________________________________
+
+Sash
+
+Description: This is a mysterious item.
+
+Counts as an accessory
+Compatibility: Everyone
+
+Value: 10
+
+Note: Increases ATK by 10.
+
+Location:
+ [T] Dragon mark north of Romero, east chest
+ [T] Gust, dresser within the inn
+_______________________________________________________________________________
+
+W.Ptn
+
+Description: Your Wisdom will increase.
+
+Value: 10
+
+Note: Permanently increases Wisdom by a point. Cannot be used amidst a melee.
+
+Location:
+ [T] Forest to Karma, behind a tree near the northwest corner
+ [T] Tantar, dresser within the elder's house
+ [T] Cave north of Tantar, inside a chest
+ [T] Camlon, dresser within the house north of the inn (after meeting Nina)
+_______________________________________________________________________________
+
+S.Ptn
+
+Description: Your Strength will increase.
+
+Value: 10
+
+Note: Permanently increases Strength by a point. Cannot be amidst a melee.
+
+Location:
+ [G] Spyre, behind the westernmost pillar north of a staircase on first floor
+ [T] Dragon mark north of Romero, west chest
+ [T] Forest to Karma, behind a tree near the eastern entrance
+ [T] Nanai, dresser within the inn
+ [T] Auria, dresser on the first floor of the southwest mansion
+ [T] Dragon mark southeast of Scande, northwest chest
+_______________________________________________________________________________
+
+HrGlas
+
+Description: This item switches night and day.
+
+Note: Advances time. Cannot be sold or discarded. Cannot be amidst a melee.
+
+Location:
+ [T] Gant, dresser within the southwest house
+_______________________________________________________________________________
+
+ExpBug
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Value: 10
+
+Note: Produces no effect. Cannot be amidst a melee.
+_______________________________________________________________________________
+
+Slab
+
+Description: It is written in an ancient language... ...Where the mystic water
+             lies, the ultimate power sleeps.
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+Lifter
+
+Description: This is a mysterious item.
+
+Counts as an accessory
+Compatibility: Everyone
+
+Value: 0
+
+Note: Roughly doubles the rate of dropped items, provided that a member of the
+      active party is equipped with this item. The effect is not stackable.
+_______________________________________________________________________________
+
+E.Key
+
+Description: This has a connection to the goddess, Tyr.
+
+Note: Invokes a non-elemental, multitarget spell sporting a power of 30. The
+      item is not removed from the inventory, but may not be used more than
+      once per round. Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+ClnWtr
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Note: Had this item been usable outside of battle, it would have produced the
+      same effect as Life2. Cannot be sold or discarded.
+_______________________________________________________________________________
+
+Coach
+
+Description: Only a very strong person can pull the Coach.
+
+Counts as an accessory
+Compatibility: Ox
+
+Note: On the overworld map, all active members except for Ox will travel into a
+      coach, which renders them invulnerable to toxic swamps. The effect of
+      this accessory manifests itself only when Ox leads the party. Cannot be
+      sold or discarded.
+_______________________________________________________________________________
+
+Clog
+
+Description: The agility for the character wearing this item will increase.
+
+Counts as an accessory
+Compatibility: Everyone
+
+Note: Increases ACT by 10. Note that 25% of a character's MAG derives from ACT.
+      Cannot be sold or discarded.
+
+Location:
+ [G] Nabal, western edge of the port
+ [T] Spring, dresser within the inn
+ [T] Dragon mark northeast of Tuntar, northwest chest
+_______________________________________________________________________________
+
+A.Ptn
+
+Description: Your Agility will increase.
+
+Value: 20
+
+Note: Permanently increases Agility by a point. Cannot be used amidst a melee.
+
+Location:
+ [T] Forest to Karma, behind a tree near the western entrance
+ [T] Spyre, north chest in the southeast corner on the first floor
+ [T] Cave to Bleak, east chest in NW section of second floor (requires Ox)
+ [T] Dragon mark southeast of Scande, north chest
+ [T] Dragon mark northeast of Tuntar, southeast chest
+ [T] Gant, dresser within the northernmost building
+ [T] Camlon, dresser within the inn (after meeting Nina)
+_______________________________________________________________________________
+
+L.Ptn
+
+Description: Your Luck will increase.
+
+Value: 10
+
+Note: Permanently increases Luck by a point. Cannot be used amidst a melee.
+
+Location:
+ [T] Romero, dresser within the inn
+ [T] Auria, dresser on the first floor of the northeast mansion
+ [T] Cave to Bleak, west chest in NW section of second floor (requires Ox)
+ [T] Gant, dresser within the house north of the shops
+ [T] Gust laboratory, west chest north of entrance
+ [T] Cave in the World of Dreams, northwest chest in the alcove with a hole
+ [T] Dragon mark northeast of Tuntar, southwest chest
+ [T] Dragon mark southeast of Scande, northeast chest
+_______________________________________________________________________________
+
+V.Ptn
+
+Description: Your Vigor will increase.
+
+Value: 10
+
+Note: Permanently increases Vigor by a point. Cannot be used amidst a melee.
+
+Location:
+ [T] Drogen, dresser on the second floor of the elder's house (prologue only)
+ [T] Winlan, dresser within the building east of the item shop
+ [T] Auria, dresser on the first floor of the southeast mansion
+ [T] Dark Dragons' ship, within a dresser
+ [T] Dragon mark northeast of Tuntar, northeast chest
+ [T] Dragon mark north of Romero, south chest
+_______________________________________________________________________________
+
+DrSoul
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Counts as an accessory
+Compatibility: Everyone
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+DrWarp
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Note: Transports the party to a map that is seemingly parent to the designated
+      destination. Cannot be sold or discarded. Cannot be used amidst a melee.
+_______________________________________________________________________________
+
+PlceBo
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+Remedy
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+WtrJr
+
+Description: The mysterious power of this jar absorbs a great amount of water.
+
+Note: Cannot be sold, discarded, or put in storage.
+
+Location:
+ [T] Romero, north chest in the room underneath a grave (after recruiting Bo)
+_______________________________________________________________________________
+
+Saw
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+Tablet
+
+Description: The secret password to enter Agua is written here.
+
+Note: Cannot be sold or discarded.
+
+Location:
+ [T] Romero, north chest in the elder's house (after negating the plague)
+_______________________________________________________________________________
+
+Ring
+
+Description: This is a symbol os strength and courage.
+
+Counts as an accessory
+Compatibility: Ryu
+
+Note: Increases ATK by 10. Cannot be sold, discarded, or put in storage.
+
+Location:
+ [T] Lake cave, blue chest
+_______________________________________________________________________________
+
+WtrJr'
+
+Description: The jar contains the Cleansing Water.
+
+Note: Restores the HP and AP of all allies, and lifts Curse, Poison, Zombie,
+      and Stun. In battle, the item also removes Doze and Mute, and sets FATE
+      to equal Luck, omitting bonuses from equipment. After usage, the item
+      is replaced with WtrJr. Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+KngKey
+
+Description: With this key, you can operate the Stone Robot.
+
+Note: Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+Paper
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+Oath
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+Pouch
+
+Description: The Pouch is secured by a string.
+
+Value: 1000
+
+Location:
+ [S] Auria (1300), Prima (1300)
+_______________________________________________________________________________
+
+GnPwdr
+
+Description: You can use the GnPwdr to blast the blocking boulder.
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+LtKey
+
+Description: This has a connection to the goddess, Tyr.
+
+Note: Changes time to late afternoon. Must be used on the overworld map. Cannot
+      be used amidst a melee. Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+DkKey
+
+Description: This has a connection to the goddess, Tyr.
+
+Note: Changes time to early morning. Must be used on the overworld map. Cannot
+      be used amidst a melee. Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+Mirror
+
+Description: The mirror allows you to see the world of spirits.
+
+Note: Cannot be sold or discarded.
+
+Location:
+ [T] D.Keep, chest protected by the old man
+_______________________________________________________________________________
+
+Book
+
+Description: The secret techniques of the great thief are recorded in this
+             Book.
+
+Note: Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+Srdine
+
+Description: This item recovers some HP.
+
+Value: 50
+
+Note: Restores 50 HP.
+
+Location:
+ [S] Prima (50)
+_______________________________________________________________________________
+
+Mackrl
+
+Description: This works as an antidote for poison.
+
+Value: 100
+
+Note: Removes Poison status.
+
+Location:
+ [S] Prima (100)
+_______________________________________________________________________________
+
+Sole
+
+Description: This item recovers some HP.
+
+Value: 250
+
+Note: Restores 100 HP.
+
+Location:
+ [S] Prima (250)
+_______________________________________________________________________________
+
+Trout
+
+Description: This item cures poison and increases HP.
+
+Value: 500
+
+Note: Restores 150 HP and removes Poison status.
+
+Location:
+ [S] Prima (500)
+_______________________________________________________________________________
+
+C.Fsh
+
+Description: With this, you will return to normal and recover your HP.
+
+Value: 750
+
+Note: Restores 200 HP and removes Poison, Curse, and Zombie; in battle, the
+      item also removes FATE Up and sets FATE to equal Luck, omitting bonuses
+      from equipment.
+_______________________________________________________________________________
+
+Snapr
+
+Description: With this, you will return to normal and recover your HP.
+
+Value: 1000
+
+Note: Restores 400 HP and removes Poison, Curse, and Zombie; in battle, the
+      item also removes FATE Up and sets FATE to equal Luck, omitting bonuses
+      from equipment.
+_______________________________________________________________________________
+
+Tuna
+
+Description: With this, you will return to normal and recover your HP.
+
+Value: 2000
+
+Note: Restores all HP and removes Curse, Poison, and Zombie; in battle, the
+      item also removes FATE Up and sets FATE to equal Luck, omitting bonuses
+      from equipment.
+_______________________________________________________________________________
+
+Puffer
+
+Description: This is a delicious fish.
+
+Value: 5000
+
+Note: Removes Curse and inflicts Poison. Ineffective on super forms, as well as
+      characters afflicted with both Curse and Zombie. Cannot be used amidst a
+      melee.
+_______________________________________________________________________________
+
+Rod1
+
+Description: Ryu can equip this item.
+
+Counts as an accessory
+Compatibility: Ryu
+
+Value: 1000
+
+Note: Required in order to fish.
+
+Location:
+ [M] CreonX
+ [S] Auria (1300), Prima (1000)
+_______________________________________________________________________________
+
+Rod2
+
+Description: Ryu can equip this item.
+
+Counts as an accessory
+Compatibility: Ryu
+
+Value: 2000
+
+Note: Required in order to fish.
+
+Location:
+ [S] Prima (2000)
+_______________________________________________________________________________
+
+Rod3
+
+Description: Ryu can equip this item.
+
+Counts as an accessory
+Compatibility: Ryu
+
+Value: 5000
+
+Note: Required in order to fish.
+_______________________________________________________________________________
+
+Rod4
+
+Description: Ryu can equip this item.
+
+Counts as an accessory
+Compatibility: Ryu
+
+Value: 10000
+
+Note: Required in order to fish.
+
+Location:
+ [T] Gust laboratory, east chest north of the entrance
+_______________________________________________________________________________
+
+Rod5
+
+Description: Ryu can equip this item.
+
+Counts as an accessory
+Compatibility: Ryu
+
+Note: Required in order to fish. Cannot be sold or discarded.
+
+Location:
+ [G] Tunlan, under a box in the room beneath the castle
+_______________________________________________________________________________
+
+I.Ore
+
+Description: A blacksmith would appreciate this ore.
+
+Note: Cannot be sold or discarded.
+
+Location:
+ [T] Aura Cave, west chest on the eastern side of the flooded area
+_______________________________________________________________________________
+
+Key
+
+Description: This key will open the cave.
+
+Note: Cannot be sold or discarded.
+
+Location:
+ [T] Tantar, north chest beneath the elder's house (after moving Stone Robot)
+_______________________________________________________________________________
+
+Vitamn
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Value: 500
+
+Note: Removes Poison status.
+
+Location:
+ [S] Auria (650), Prima (650)
+_______________________________________________________________________________
+
+Statue
+
+Description: With this statue, you can enter Wisdon.
+
+Note: Cannot be sold, discarded, or put in storage.
+
+Location:
+ [G] Prima, under a bed in the guild (after conquering Nabal)
+_______________________________________________________________________________
+
+OldEgg
+
+Description: This is an ancient egg.
+
+Value: 0
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+Goods
+
+Description: The Goods from Gant are in crates.
+
+Note: Cannot be sold or discarded.
+
+Location:
+ [T] Gant, chest inside the northernmost house
+_______________________________________________________________________________
+
+Egg
+
+Description: This is the egg of a GrimFowl
+
+Note: Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+Sphere
+
+Description: You've got to become a big fish.
+
+Note: Cannot be sold, discarded, or put in storage.
+
+Location:
+ [T] Prima, west blue chest within the guild (after sea volcano)
+_______________________________________________________________________________
+
+Gills
+
+Description: This will allow you to breath in water.
+
+Note: Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+G.Bar
+
+Description: This is pure gold.
+
+Value: 50000
+
+Note: Whether you are buying or selling, this item is always worth 65000 GP.
+      This excludes the flea market, where the base value dictactes the offer.
+
+Location:
+ [S] Auria (65000), Prima (65000)
+ [T] Cave to Bleak, behind a locked door on the first floor (requires Karn)
+_______________________________________________________________________________
+
+Icicle
+
+Description: This item cools the surrounding area.
+
+Note: Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+Fife
+
+Description: This item reveals hidden bridges.
+
+Note: Cannot be sold or discarded.
+
+Location:
+ [T] Arad, chest inside the elder's house (after SandWorm's demise)
+_______________________________________________________________________________
+
+Pass
+
+Description: You can enter Scande.
+
+Note: Cannot be sold or discarded.
+
+Location:
+ [G] Carmen, near some trees (after obtaining TmKey)
+_______________________________________________________________________________
+
+B.Part
+
+Description: It is broken.
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+Parts
+
+Description: This is to be used in Scande Tower.
+
+Note: Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+D.Hrt
+
+Description: This is a legendary weapon.
+
+Note: Sets Ryu's HP to one, unless he is incapacitated. In addition, the item
+      halves Zog's HP or sets Sara's HP to one, should either enemy be present.
+      Cannot be sold, discarded, or put in storage. Usable only in battle.
+_______________________________________________________________________________
+
+Map
+
+Description: Push the Start Button to see the world.
+
+Note: Shows a map of the world when the Start button is pressed; only works on
+      the overworld map, unless flying. Cannot be sold or discarded.
+
+Location:
+ [G] Romero, under a barrel in the basement of the house northeast of the inn
+_______________________________________________________________________________
+
+List
+
+Description: There are many weapons listed.
+
+Note: Cannot be sold, discarded, or put in storage.
+
+Location:
+ [T] Male weapon-collector's tent, west chest
+_______________________________________________________________________________
+
+Wtzit
+
+Description: This is a mysterious item.
+
+Note: Cannot be sold, discarded, or put in storage.
+
+Location:
+ [T] Female weapon-collector's tent (???)
+_______________________________________________________________________________
+
+Note1
+
+Description: It says "it's a digging tool."
+
+Note: Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+Note2
+
+Description: It says "Please be my friend?"
+
+Note: Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+I.Claw
+
+Description: The Iron Claw allows you to dig into hard surfaces.
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+TmKey
+
+Description: This has a connection to the goddess, Tyr.
+
+Note: Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+B.Rang
+
+Description: This item is quite rare, but it is broken.
+
+Note: Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+SkyKey
+
+Description: This has a connection to the goddess, Tyr.
+
+Note: Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+Cowl
+
+Description: This item will help you understand any language.
+
+Note: Cannot be sold, discarded, or put in storage.
+_______________________________________________________________________________
+
+Bolster
+
+Description: This will allow you to creep into people's dreams.
+
+Note: Cannot be sold, discarded, or put in storage.
+
+Location:
+ [T] Tunlan castle, east chest in the treasury (once the queen is sick)
+_______________________________________________________________________________
+
+Maestro
+
+Description: This melody communicates with your heart.
+
+Note: Cannot be sold, discarded, or put in storage.
+
+Location:
+ [G] Gust, under the bed in the western house (after ???)
+_______________________________________________________________________________
+
+G.Fly
+
+Description: The use of this item is pretty obvious. It's just what the name
+             suggests.
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+Oil
+
+Description: This is an ingredient for a tonic.
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+M.Cura
+
+Description: This is medicine.
+
+Note: Cannot be sold or discarded.
+
+Location:
+ [T] Gust laboratory, west chest in the mousehole
+_______________________________________________________________________________
+
+Melon
+
+Description: This item recovers some HP.
+
+Value: 100
+
+Note: Restores all HP.
+
+Location:
+ [T] Dragon Shrine southeast of Tantar
+ [T] Dragon Shrine north of Gust
+ [T] Tunlan, second chest from left in castle treasury (once the queen is sick)
+ [T] Tunlan, fourth chest from left in castle treasury (once the queen is sick)
+ [T] Tunlan, south chest in the room beneath the castle
+_______________________________________________________________________________
+
+Fruit
+
+Description: This is a strange fruit.
+
+Note: Cannot be sold, discarded, or put in storage.
+
+Location:
+ [P] Large tree south of Carmen (unique)
+_______________________________________________________________________________
+
+P.Fish
+
+Description: This is an ingredient for a tonic.
+
+Value: 10
+
+Note: Removes Curse and inflicts Poison. Ineffective on super forms, as well as
+      characters afflicted with both Curse and Zombie. Cannot be used amidst a
+      melee.
+_______________________________________________________________________________
+
+Root
+
+Description: This is an ingredient for a tonic.
+
+Note: Cannot be sold, discarded, or put in storage.
+
+Location:
+ [D] Below the plant southwest of Gramor (unique)
+_______________________________________________________________________________
+
+C.Nut
+
+Description: This is an ingredient for a tonic.
+
+Value: 10
+
+Note: Restores 20 HP.
+_______________________________________________________________________________
+
+W.Ant
+
+Description: This item will recover AP.
+
+Value: 3000
+
+Note: Restores 100 AP.
+
+Location:
+ [G] Forest fortress, skeleton near the northeast corner of the prison area
+ [G] Carmen, under a barrel in the northeast house
+ [P] Palm trees (unlimited supply)
+ [T] Auria, chest on the second floor of the southwest mansion
+ [T] Bleak, east chest in the elder's house
+_______________________________________________________________________________
+
+Tonic
+
+Description: This is medicine.
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+Herb x9
+
+Description: This item recovers some HP.
+
+Value: 90
+
+Note: This item exists solely for its name and price to be displayed in shops,
+      and can thus never really be acquired.
+
+Location:
+ [S] Drogen (81), Camlon (72), Romero (90), Tuntar (90), Bleak (108),
+     Prima (81, 117), Gant (72), Dream World (90), World of Dreams (90)
+_______________________________________________________________________________
+
+Antd x9
+
+Description: This works as an antidote for poison.
+
+Value: 135
+
+Note: This item exists solely for its name and price to be displayed in shops,
+      and can thus never really be acquired.
+
+Location:
+ [S] Romero (135), Prima (121, 175), Dream World (135), World of Dreams (135)
+_______________________________________________________________________________
+
+Drop x9
+
+Description: This item changes Zombies back to normal.
+
+Value: 180
+
+Note: This item exists solely for its name and price to be displayed in shops,
+      and can thus never really be acquired.
+
+Location:
+ [S] Tuntar (180), Prima (198), Spring (180)
+_______________________________________________________________________________
+
+Chrm x9
+
+Description: You'll return to normal.
+
+Value: 1350
+
+Note: This item exists solely for its name and price to be displayed in shops,
+      and can thus never really be acquired.
+
+Location:
+ [S] Prima (1215, 1485, 1755)
+_______________________________________________________________________________
+
+Cure x9
+
+Description: Everything will return to normal.
+
+Value: 4500
+
+Note: This item exists solely for its name and price to be displayed in shops,
+      and can thus never really be acquired. Furthermore, the name derives from
+      a mistranslation, as the item referenced in the conversion table is
+      actually Life, as evidenced by the price.
+
+Location:
+ [S] Dream World (4500), World of Dreams (4500)
+_______________________________________________________________________________
+
+Acrn x9
+
+Description: This item will recover AP.
+
+Value: 270
+
+Note: This item exists solely for its name and price to be displayed in shops,
+      and can thus never really be acquired.
+
+Location:
+ [S] Prima (297), Gust (270), Tunlan (270, 351), Dream World (270),
+     Spring (270), World of Dreams (270)
+
+
+###############################################################################
+                                    WEAPONS
+###############################################################################
+
+Dirk
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: None
+
+Weight: 1
+Attack: 5
+
+Value: 50
+
+Location:
+ [C] Ryu
+ [S] Drogen (50)
+_______________________________________________________________________________
+
+BronzSD
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: None
+
+Weight: 3
+Attack: 12
+
+Value: 700
+
+Location:
+ [S] Winlan (700)
+ [T] Camlon castle, second chest encountered in the basement
+_______________________________________________________________________________
+
+Sabre
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: None
+
+Weight: 2
+Attack: 8
+
+Value: 400
+
+Location:
+ [S] Drogen (400), Winlan (400), Romero (400), Tantar (400)
+_______________________________________________________________________________
+
+Scythe
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: None
+
+Weight: 3
+Attack: 20
+
+Value: 1200
+
+Location:
+ [S] Tantar (1200)
+_______________________________________________________________________________
+
+LongSD
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: None
+
+Weight: 4
+Attack: 26
+
+Value: 2500
+
+Location:
+ [T] Forest fortress, northwest chest in the first pit
+
+Location:
+ [S] Nanai (2250), Gobi at Auria (2750)
+_______________________________________________________________________________
+
+DragonSD
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: Fire, Water & Light
+
+Weight: 20
+Attack: 110
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+PowerSD
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: None
+
+Weight: 8
+Attack: 62
+
+Value: 8000
+
+Location:
+ [S] Prima (10400)
+_______________________________________________________________________________
+
+WingSD
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: None
+
+Weight: 8
+Attack: 96
+
+Value: 10000
+
+Location:
+ [S] Gust (10000), Spring (10000)
+_______________________________________________________________________________
+
+EmporSD
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: Water & Light
+
+Weight: 1
+Attack: 255
+
+Value: 65000
+
+Note: If used as an item during battle, will invoke a non-elemental,
+      multitarget spell sporting a power of 180. The item will not disappear
+      from the inventory, but it may not be used more than once per round.
+
+Location:
+ [G] Obelisk, near the wall west of Jade's throne
+_______________________________________________________________________________
+
+BrokenSD
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: Dark
+
+Weight: 15
+Attack: 42
+
+Value: 100
+
+Note: Triggering the better ending while Ryu is equipped with this item results
+      in a cameo appearance of Chun-Li during the ensuing sequence in Drogen.
+
+Location:
+ [T] Winlan castle, southeast chest in the treasury (requires Karn)
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: Lightning & Earth, Ice
+
+Weight: 8
+Attack: 110
+
+Value: 15000
+_______________________________________________________________________________
+
+FlameSD
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: Fire
+
+Weight: 10
+Attack: 122
+
+Value: 20000
+
+Location:
+ [S] Carmen (20000)
+_______________________________________________________________________________
+
+Sickle
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: Wind
+
+Weight: 6
+Attack: 50
+
+Value: 6500
+
+Location:
+ [S] Prima (6500)
+_______________________________________________________________________________
+
+BroadSD
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: None
+
+Weight: 5
+Attack: 34
+
+Value: 5000
+
+Location:
+ [S] Gobi at Auria (5500), Bleak (5000), Prima (5000)
+_______________________________________________________________________________
+
+MystSD
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: None
+
+Weight: 3
+Attack: 100
+
+Value: 40000
+
+Location:
+ [T] Tock, chest on the top floor (after obtaining TmKey)
+_______________________________________________________________________________
+
+Dummy
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: None
+
+Weight: 3
+Attack: 70
+
+Value: 400
+_______________________________________________________________________________
+
+ShortRP
+
+Grip: One hand
+
+Compatibility: Nina
+Element: None
+
+Weight: 1
+Attack: 5
+
+Value: 400
+
+Location:
+ [C] Nina
+ [S] Romero (400)
+_______________________________________________________________________________
+
+Rapier
+
+Grip: One hand
+
+Compatibility: Nina
+Element: None
+
+Weight: 4
+Attack: 10
+
+Value: 1500
+
+Location:
+ [S] Gobi at Auria (1650)
+_______________________________________________________________________________
+
+IronRP
+
+Grip: One hand
+
+Compatibility: Nina
+Element: None
+
+Weight: 5
+Attack: 14
+
+Value: 2000
+
+Location:
+ [S] Nanai (1800)
+_______________________________________________________________________________
+
+PoisonRP
+
+Grip: One hand
+
+Compatibility: Ryu, Nina
+Element: None
+
+Weight: 5
+Attack: 20
+
+Value: 3000
+
+Location:
+ [S] Prima (3300), Tunlan (2700, 3300)
+_______________________________________________________________________________
+
+LightRP
+
+Grip: One hand
+
+Compatibility: Nina
+Element: None
+
+Weight: 2
+Attack: 10
+
+Value: 80
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Nina
+Element: Water & Light
+
+Weight: 0
+Attack: 255
+
+Value: 60000
+_______________________________________________________________________________
+
+FlameRP
+
+Grip: One hand
+
+Compatibility: Nina
+Element: None
+
+Weight: 5
+Attack: 28
+
+Value: 5000
+
+Note: If used as an item during battle, will invoke a non-elemental, single-
+      target spell sporting a power of 90. The item will not disappear from
+      the inventory, but it may not be used more than once per round.
+
+Location:
+ [T] Winlan castle, southwest chest in the treasury (requires Karn)
+_______________________________________________________________________________
+
+WingRP
+
+Grip: One hand
+
+Compatibility: Nina
+Element: None
+
+Weight: 2
+Attack: 34
+
+Value: 7000
+
+Location:
+ [S] Gust (7000)
+_______________________________________________________________________________
+
+BronzRP
+
+Grip: One hand
+
+Compatibility: Nina
+Element: None
+
+Weight: 2
+Attack: 7
+
+Value: 800
+
+Location:
+ [S] Winlan (800), Romero (800), Tantar (800)
+_______________________________________________________________________________
+
+EvilRP
+
+Grip: One hand
+
+Compatibility: Nina
+Element: Dark
+
+Weight: 7
+Attack: 55
+
+Value: 20000
+
+Location:
+ [S] Prima (20000), Tunlan (18000)
+_______________________________________________________________________________
+
+ThundrRP
+
+Grip: One hand
+
+Compatibility: Nina
+Element: None
+
+Weight: 6
+Attack: 46
+
+Value: 9000
+
+Note: If used as an item during battle, will invoke a non-elemental, single-
+      target spell sporting a power of 80. The item will not disappear from
+      the inventory, but it may not be used more than once per round.
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Nina
+Element: Dark, Water & Light
+
+Weight: 0
+Attack: 255
+
+Value: 1000
+_______________________________________________________________________________
+
+LoyalRP
+
+Grip: One hand
+
+Compatibility: Nina
+Element: Crush, Wind
+
+Weight: 6
+Attack: 64
+
+Value: 25000
+
+Note: The wielder of this weapon recovers three AP with each physical strike.
+
+Location:
+ [S] Carmen (25000)
+_______________________________________________________________________________
+
+PowerRP
+
+Grip: One hand
+
+Compatibility: Ryu, Nina
+Element: Wind
+
+Weight: 0
+Attack: 82
+
+Value: 30000
+
+Note: If used as an item during battle, will invoke a spell that inflicts
+      ACT UP and increases ACT by 20, unless the target is already under the
+      effect of ACT Up. The item will not disappear from the inventory, but it
+      may not be used more than once per round.
+_______________________________________________________________________________
+
+IronHR
+
+Grip: One hand
+
+Compatibility: Ox
+Element: None
+
+Weight: 8
+Attack: 45
+
+Value: 3500
+
+Location:
+ [S] Prima (4550), Gant (3150)
+_______________________________________________________________________________
+
+SpineHR
+
+Grip: One hand
+
+Compatibility: Ox
+Element: None
+
+Weight: 15
+Attack: 120
+
+Value: 30000
+
+Location:
+ [S] Gant (27000)
+_______________________________________________________________________________
+
+Club
+
+Grip: One hand
+
+Compatibility: Ox
+Element: None
+
+Weight: 6
+Attack: 30
+
+Value: 2500
+
+Location:
+ [C] Ox
+ [S] Prima (3250)
+_______________________________________________________________________________
+
+GiantHR
+
+Grip: Two hands
+
+Compatibility: Ox
+Element: None
+
+Weight: 12
+Attack: 60
+
+Value: 4500
+
+Location:
+ [S] Gant (4050)
+ [T] Fortress near Nabal, west chest in the first room
+_______________________________________________________________________________
+
+FlameHR
+
+Grip: Two hands
+
+Compatibility: Ox
+Element: Fire
+
+Weight: 8
+Attack: 120
+
+Value: 40000
+
+Note: If used as an item during battle, will invoke a non-elemental, single-
+      target spell sporting a power of 40. The item will not disappear from
+      the inventory, but it may not be used more than once per round.
+
+Location:
+ [T] Obelisk, chest on the southeast platform in the second starry area
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: Two hands
+
+Compatibility: Ox
+Element: Crush
+
+Weight: 13
+Attack: 100
+
+Value: 20000
+_______________________________________________________________________________
+
+RageHR
+
+Grip: One hand
+
+Compatibility: Ox
+Element: Ice
+
+Weight: 8
+Attack: 75
+
+Value: 8000
+
+Note: If used as an item during battle, will invoke a non-elemental, single-
+      target spell sporting a power of 60. The item will not disappear from the
+      inventory, but it may not be used more than once per round.
+
+Location:
+ [T] Wisdon, east chest in the northeast alcove in the third area
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Ox
+Element: Water & Light
+
+Weight: 2
+Attack: 160
+
+Value: 250
+_______________________________________________________________________________
+
+Mallet
+
+Grip: One hand
+
+Compatibility: Ox
+Element: Dark, Water & Light
+
+Weight: 1
+Attack: 255
+
+Value: 30000
+_______________________________________________________________________________
+
+StarHR
+
+Grip: One hand
+
+Compatibility: Ox
+Element: Crush
+
+Weight: 8
+Attack: 210
+
+Value: 400
+
+Note: If used as an item during battle, will invoke a non-elemental,
+      multitarget spell sporting a power of 400. The item will not disappear
+      from the inventory, but it may not be used more than once per round.
+
+Location:
+ [G] Obelisk, behind the pillar southeast of Jade's throne
+_______________________________________________________________________________
+
+Stick
+
+Grip: One hand
+
+Compatibility: Bleu
+Element: None
+
+Weight: 1
+Attack: 5
+
+Value: 150
+
+Location:
+ [C] Bleu
+_______________________________________________________________________________
+
+Cane
+
+Grip: One hand
+
+Compatibility: Bleu
+Element: None
+
+Weight: 2
+Attack: 8
+
+Value: 6000
+
+Note: If used as an item during battle, will invoke a non-elemental, single-
+      target spell sporting a power of 80. Ineffective on enemies that are not
+      considered as zombies. The item will not disappear from the inventory,
+      but it may not be used more than once per round.
+
+Location:
+ [S] Prima (6600), Tunlan (5400)
+_______________________________________________________________________________
+
+BoneCN
+
+Grip: One hand
+
+Compatibility: Bleu
+Element: Dark
+
+Weight: 4
+Attack: 14
+
+Value: 2680
+
+Location:
+ [S] Tunlan (2412)
+_______________________________________________________________________________
+
+EvilCN
+
+Grip: One hand
+
+Compatibility: Bleu
+Element: None
+
+Weight: 6
+Attack: 20
+
+Value: 4000
+
+Note: The wielder of this weapon recovers three AP with each physical strike.
+
+Location:
+ [T] Tock, southeast chest on the first floor
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Bleu
+Element: Water & Light
+
+Weight: 6
+Attack: 48
+
+Value: 6000
+_______________________________________________________________________________
+
+IcyCN
+
+Grip: One hand
+
+Compatibility: Bleu
+Element: Ice
+
+Weight: 10
+Attack: 30
+
+Value: 8300
+
+Note: If used as an item during battle, will invoke a non-elemental,
+      multitarget spell sporting a power of 100. The item will not disappear
+      from the inventory, but it may not be used more than once per round.
+
+Location:
+ [T] Scande Tower, west chest in the southern alcove on the second floor
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Bleu
+Element: Ice, Water & Light
+
+Weight: 0
+Attack: 50
+
+Value: 12000
+_______________________________________________________________________________
+
+GlowCN
+
+Grip: One hand
+
+Compatibility: Bleu
+Element: Fire, Water & Light
+
+Weight: 8
+Attack: 100
+
+Value: 60000
+
+Note: If used as an item during battle, will invoke a single-target spell that
+      removes Mute and causes Doze from one to four turns. Ineffective on
+      monsters during event battles. The item will not disappear from the
+      inventory, but it may not be used more than once per round.
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Everyone
+Element: None
+
+Weight: 0
+Attack: 10
+
+Value: 0
+_______________________________________________________________________________
+
+Pole
+
+Grip: One hand
+
+Compatibility: Gobi
+Element: [???]
+
+Weight: 2
+Attack: 12
+
+Value: 80
+
+Location:
+ [C] Gobi, Sr-1, Sr-2, Sr-3
+_______________________________________________________________________________
+
+Pike
+
+Grip: One hand
+
+Compatibility: Gobi
+Element: Dark
+
+Weight: 4
+Attack: 24
+
+Value: 2500
+
+Location:
+ [S] Prima (2750)
+_______________________________________________________________________________
+
+Javelin
+
+Grip: One hand
+
+Compatibility: Gobi
+Element: Wind, [???]
+
+Weight: 3
+Attack: 34
+
+Value: 4000
+
+Location:
+ [S] Prima (4400)
+_______________________________________________________________________________
+
+OldSP
+
+Grip: One hand
+
+Compatibility: Gobi
+Element: Crush, [???]
+
+Weight: 5
+Attack: 42
+
+Value: 6000
+
+Location:
+ [S] Gust (6000)
+ [T] Wisdon, chest in the first basement
+_______________________________________________________________________________
+
+HeroSP
+
+Grip: One hand
+
+Compatibility: Gobi
+Element: [???], Water & Light
+
+Weight: 4
+Attack: 56
+
+Value: 7500
+
+Location:
+ [S] Gant (6750)
+_______________________________________________________________________________
+
+Trident
+
+Grip: One hand
+
+Compatibility: Gobi
+Element: [???], Dark
+
+Weight: 6
+Attack: 74
+
+Value: 10000
+
+Note: If used as an item during battle, will invoke a non-elemental,
+      multitarget spell sporting a power of 95. The item will not disappear
+      from the inventory, but it may not be used more than once per round.
+
+Location:
+ [T] Cave in the World of Dreams, southwest chest in the alcove with a hole
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Gobi
+Element: [???]
+
+Weight: 5
+Attack: 82
+
+Value: 2000
+_______________________________________________________________________________
+
+Sleeper
+
+Grip: One hand
+
+Compatibility: Gobi
+Element: [???], Dark
+
+Weight: 8
+Attack: 100
+
+Value: 4000
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Gobi
+Element: None
+
+Weight: 63
+Attack: 1
+
+Value: 40000
+_______________________________________________________________________________
+
+DigCW
+
+Grip: Two hands
+
+Compatibility: Mogu
+Element: None
+
+Weight: 2
+Attack: 42
+
+Value: 5000
+
+Location:
+ [C] Mogu
+_______________________________________________________________________________
+
+RustCW
+
+Grip: Two hands
+
+Compatibility: Mogu
+Element: Dark
+
+Weight: 4
+Attack: 60
+
+Value: 7000
+
+Location:
+ [S] Prima (7700), Spring (7000)
+_______________________________________________________________________________
+
+IronCW
+
+Grip: Two hands
+
+Compatibility: Mogu
+Element: None
+
+Weight: 3
+Attack: 74
+
+Value: 10000
+
+Location:
+ [S] Prima (11000), Spring (10000)
+_______________________________________________________________________________
+
+IcyCW
+
+Grip: Two hands
+
+Compatibility: Mogu
+Element: Ice
+
+Weight: 3
+Attack: 88
+
+Value: 15000
+
+Note: If used as an item during battle, will invoke a non-elemental, single-
+      target spell sporting a power of 60. The item will not disappear from
+      the inventory, but it may not be used more than once per round.
+
+Location:
+ [S] Carmen (15000)
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: Two hands
+
+Compatibility: Mogu
+Element: Fire
+
+Weight: 3
+Attack: 100
+
+Value: 22000
+_______________________________________________________________________________
+
+MystCW
+
+Grip: One hand
+
+Compatibility: Mogu
+Element: None
+
+Weight: 1
+Attack: 120
+
+Value: 30000
+
+Location:
+ [T] Dragon mark southeast of Scande, west chest
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Bleu
+Element: None
+
+Weight: 0
+Attack: 0
+
+Value: 0
+_______________________________________________________________________________
+
+ThrowDR
+
+Grip: One hand
+
+Compatibility: Karn
+Element: None
+
+Weight: 1
+Attack: 20
+
+Value: 1000
+
+Location:
+ [C] Karn
+_______________________________________________________________________________
+
+Dagger
+
+Grip: One hand
+
+Compatibility: Karn
+Element: None
+
+Weight: 2
+Attack: 32
+
+Value: 2000
+
+Location:
+ [S] Gobi at Auria (2200), Bleak (2000), Tunlan (2200)
+ [T] Krypt, chest in the southeast corner on the trap-filled floor
+_______________________________________________________________________________
+
+Dart
+
+Grip: One hand
+
+Compatibility: Karn
+Element: None
+
+Weight: 2
+Attack: 46
+
+Value: 3000
+
+Location:
+ [S] Prima (3000, 3300)
+ [T] Auria, chest in Ross's treasury (requires Karn)
+ [T] Cave to Bleak, behind a locked door in the basement (requires Karn)
+_______________________________________________________________________________
+
+Tri-DR
+
+Grip: One hand
+
+Compatibility: Karn
+Element: None
+
+Weight: 6
+Attack: 54
+
+Value: 4000
+
+Location:
+ [S] Prima (4400), Gust (4000), Tunlan (4400)
+_______________________________________________________________________________
+
+PowerDR
+
+Grip: One hand
+
+Compatibility: Karn
+Element: Fire
+
+Weight: 7
+Attack: 66
+
+Value: 5500
+
+Location:
+ [S] Spring (5500)
+ [T] Sea volcano, chest in the southwest corner on the second floor
+_______________________________________________________________________________
+
+FlameDR
+
+Grip: One hand
+
+Compatibility: Karn
+Element: Fire
+
+Weight: 7
+Attack: 74
+
+Value: 7000
+
+Note: If used as an item during battle, will invoke a non-elemental, single-
+      target spell sporting a power of 90. The item will not disappear from
+      the inventory, but it may not be used more than once per round.
+
+Location:
+ [T] Pagoda, north chest in the door maze
+_______________________________________________________________________________
+
+SilverDR
+
+Grip: One hand
+
+Compatibility: Karn
+Element: Water & Light
+
+Weight: 6
+Attack: 10
+
+Value: 10000
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Ryu, Karn
+Element: None
+
+Weight: 8
+Attack: 86
+
+Value: 5000
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Karn
+Element: Dark
+
+Weight: 8
+Attack: 100
+
+Value: 6500
+_______________________________________________________________________________
+
+IcyDR
+
+Grip: One hand
+
+Compatibility: Karn
+Element: Ice
+
+Weight: 9
+Attack: 75
+
+Value: 7000
+
+Note: If used as an item during battle, will invoke a non-elemental, single-
+      target spell sporting a power of 30. The item will not disappear from
+      the inventory, but it may not be used more than once per round.
+
+Location:
+ [G] Agua, eastern dragon statue outside the shrine (requires Karn)
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Karn
+Element: None
+
+Weight: 14
+Attack: 126
+
+Value: 10000
+_______________________________________________________________________________
+
+DarkDR
+
+Grip: One hand
+
+Compatibility: Ryu, Karn
+Element: Dark
+
+Weight: 1
+Attack: 140
+
+Value: 40000
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Ryu, Karn
+Element: Water & Light
+
+Weight: 6
+Attack: 255
+
+Value: 60000
+_______________________________________________________________________________
+
+BronzBW
+
+Grip: Two hands
+
+Compatibility: Bo
+Element: Wind
+
+Weight: 2
+Attack: 14
+
+Value: 500
+
+Location:
+ [C] Bo
+_______________________________________________________________________________
+
+ShortBW
+
+Grip: Two hands
+
+Compatibility: Bo
+Element: Wind
+
+Weight: 4
+Attack: 20
+
+Value: 1000
+
+Location:
+ [S] Tantar (1000)
+_______________________________________________________________________________
+
+LongBW
+
+Grip: Two hands
+
+Compatibility: Bo
+Element: Wind
+
+Weight: 5
+Attack: 28
+
+Value: 2600
+
+Location:
+ [S] Gobi at Auria (2860), Bleak (2600), Prima (2860), Tunlan (2860)
+_______________________________________________________________________________
+
+SteelBW
+
+Grip: Two hands
+
+Compatibility: Bo
+Element: None
+
+Weight: 5
+Attack: 35
+
+Value: 4000
+
+Location:
+ [G] Agua, within a wall in the northeast corner on the fourth floor
+ [S] Prima (4000, 4400)
+_______________________________________________________________________________
+
+PoisonBW
+
+Grip: Two hands
+
+Compatibility: Bo
+Element: Dark
+
+Weight: 6
+Attack: 42
+
+Value: 5000
+
+Location:
+ [S] Prima (5500)
+_______________________________________________________________________________
+
+SharpBW
+
+Grip: One hand
+
+Compatibility: Bo
+Element: Crush, Wind
+
+Weight: 7
+Attack: 54
+
+Value: 7000
+
+Location:
+ [T] Sea volcano, chest in the southeast corner on the first floor
+_______________________________________________________________________________
+
+MoonBW
+
+Grip: Two hands
+
+Compatibility: Bo
+Element: Wind, Water & Light
+
+Weight: 1
+Attack: 66
+
+Value: 8000
+
+Location:
+ [S] Gust (8000)
+_______________________________________________________________________________
+
+JadeBW
+
+Grip: Two hands
+
+Compatibility: Bo
+Element: Wind
+
+Weight: 8
+Attack: 80
+
+Value: 10000
+
+Location:
+ [T] Cave in the World of Dreams, southeast chest in the alcove with a hole
+_______________________________________________________________________________
+
+Tri-BW
+
+Grip: Two hands
+
+Compatibility: Bo
+Element: Wind, Lightning & Earth
+
+Weight: 12
+Attack: 96
+
+Value: 12000
+
+Location:
+ [S] Carmen (12000)
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: Two hands
+
+Compatibility: Bo
+Element: Wind, Ice
+
+Weight: 8
+Attack: 110
+
+Value: 12500
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: Two hands
+
+Compatibility: Bo
+Element: Wind, Fire
+
+Weight: 8
+Attack: 124
+
+Value: 14000
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Bo
+Element: Wind, Water & Light
+
+Weight: 14
+Attack: 138
+
+Value: 17500
+_______________________________________________________________________________
+
+DwarfBW
+
+Grip: One hand
+
+Compatibility: Bo
+Element: Wind, Dark
+
+Weight: 1
+Attack: 150
+
+Value: 20000
+
+_______________________________________________________________________________
+
+HeroBW
+
+Grip: Two hands
+
+Compatibility: Bo
+Element: Wind, Water & Light
+
+Weight: 8
+Attack: 220
+
+Value: 30000
+
+Location:
+ [T] Dragon mark east of Carmen
+_______________________________________________________________________________
+
+(Nameless)
+
+Grip: One hand
+
+Compatibility: Bleu
+Element: None
+
+Weight: 0
+Attack: 0
+
+Value: 0
+_______________________________________________________________________________
+
+B.Rang
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: None
+
+Weight: 2
+Attack: 60
+
+Note: Hits all enemies. Cannot be sold or discarded.
+_______________________________________________________________________________
+
+Rang
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: None
+
+Weight: 2
+Attack: 18
+
+Note: Hits all enemies. Cannot be sold or discarded.
+
+Location:
+ [T] Karma Towers, chest in the wizard's room
+_______________________________________________________________________________
+
+Tri-Rang
+
+Grip: One hand
+
+Compatibility: Ryu
+Element: Wind
+
+Weight: 2
+Attack: 150
+
+Note: Hits all enemies. Cannot be sold or discarded.
+
+Location:
+ [G] Overworld, behind the tower on the island north of Romero
+
+
+###############################################################################
+                                PROTECTIVE GEAR
+###############################################################################
+
+Robe
+
+Category: Armor
+Compatibility: Ryu, Bleu
+Element: None
+
+Weight: 1
+Defense: 2
+
+Value: 10
+
+Location:
+ [C] Ryu
+_______________________________________________________________________________
+
+SuedeCP
+
+Category: Armor
+Compatibility: Ryu, Bleu
+Element: None
+
+Weight: 4
+Defense: 5
+
+Value: 240
+
+Location:
+ [S] Drogen (240), Nanai (216)
+ [T] Camlon castle, fifth chest encountered in the basement
+_______________________________________________________________________________
+
+Dress
+
+Category: Armor
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 25
+Defense: 8
+
+Value: 1000
+
+Location:
+ [C] Nina
+ [S] Tunlan (900)
+_______________________________________________________________________________
+
+MetalAR
+
+Category: Armor
+Compatibility: Ryu, Bo, Ox, Mogu
+Element: None
+
+Weight: 10
+Defense: 39
+
+Value: 9000
+
+Location:
+ [S] Gant (8100)
+_______________________________________________________________________________
+
+SilkGN
+
+Category: Armor
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 4
+Defense: 15
+
+Value: 2800
+
+Location:
+ [S] Drogen (2800), Nanai (2520), Romero (2800)
+_______________________________________________________________________________
+
+Cloth
+
+Category: Armor
+Compatibility: Everyone
+Element: None
+
+Weight: 1
+Defense: 1
+
+Value: 10
+
+Location:
+ [S] Drogen (10), Nanai
+_______________________________________________________________________________
+
+LightCL
+
+Category: Armor
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 1
+Defense: 68
+
+Value: 30000
+
+Note: Increases evasion by 1/256, 1/64, 7/256, or 1/16, depending on the
+      difference between the wearer's ACT and that of the attacker.
+
+Location:
+ [S] Carmen (30000)
+_______________________________________________________________________________
+
+Gown
+
+Category: Armor
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 1
+Defense: 18
+
+Value: 2000
+
+Note: Increases evasion by 1/256, 1/64, 7/256, or 1/16, depending on the
+      difference between the wearer's ACT and the attacker's. Equipping the
+      armor on the lead party member roughly multiplies the encounter rate by
+      sixteen; this effect and that of SilverBR and MystSF negate each other.
+
+Location:
+ [C] Bleu
+ [S] Romero (2000), Tunlan (1800)
+_______________________________________________________________________________
+
+ArmPad
+
+Category: Armor
+Compatibility: Ryu, Bo, Gobi
+Element: None
+
+Weight: 2
+Defense: 8
+
+Value: 300
+
+Location:
+ [C] Bo
+ [S] Drogen (300)
+ [T] Nanai temple, upper-northeast chest in the second lava room
+_______________________________________________________________________________
+
+WolfSkin
+
+Category: Armor
+Compatibility: Bo
+Element: Water & Light
+
+Weight: 11
+Defense: 80
+
+Value: 50000
+
+Location:
+ [T] Tock, east chest on the fourth floor
+_______________________________________________________________________________
+
+RangerVT
+
+Category: Armor
+Compatibility: Ryu, Bo, Gobi
+Element: None
+
+Weight: 8
+Defense: 40
+
+Value: 5000
+
+Location:
+ [S] Prima (5500), Tunlan (5500)
+_______________________________________________________________________________
+
+BronzAR
+
+Category: Armor
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Bleu, Mogu
+Element: None
+
+Weight: 9
+Defense: 25
+
+Value: 3600
+
+Location:
+ [C] Gobi, Ox, Mogu
+ [S] Bleak (3600), Prima (3960)
+_______________________________________________________________________________
+
+PlateAR
+
+Category: Armor
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 4
+Defense: 24
+
+Value: 3400
+
+Location:
+ [S] Prima (3740)
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Armor
+Compatibility: Ryu, Bo, Ox
+Element: Fire
+
+Weight: 11
+Defense: 104
+
+Value: 7400
+_______________________________________________________________________________
+
+FlameAR
+
+Category: Armor
+Compatibility: Ryu, Mogu
+Element: Fire
+
+Weight: 10
+Defense: 82
+
+Value: 28000
+
+Location:
+ [T] Spyre, north chest in the southwest corner on the first floor
+_______________________________________________________________________________
+
+PrisnCL
+
+Category: Armor
+Compatibility: Everyone
+Element: None
+
+Weight: 2
+Defense: 10
+
+Value: 10
+
+Note: Increases FATE by 20.
+
+Location:
+ [G] Auria, fountain within the jail
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Armor
+Compatibility: Ryu, Nina, Bo, Karn, Gobi, Ox, Mogu
+Element: Lightning & Earth, Ice
+
+Weight: 5
+Defense: 12
+
+Value: 500
+_______________________________________________________________________________
+
+IcyAR
+
+Category: Armor
+Compatibility: Ryu, Bo, Ox
+Element: Ice
+
+Weight: 10
+Defense: 80
+
+Value: 26000
+
+Location:
+ [T] Tock, west chest on the first floor
+_______________________________________________________________________________
+
+WorldML
+
+Category: Armor
+Compatibility: Ryu, Bo, Ox, Mogu
+Element: Lightning & Earth
+
+Weight: 11
+Defense: 75
+
+Value: 22000
+
+Location:
+ [S] Gust (22000)
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Armor
+Compatibility: Ox
+Element: Ice, Fire
+
+Weight: 10
+Defense: 70
+
+Value: 18400
+_______________________________________________________________________________
+
+SpineCL
+
+Category: Armor
+Compatibility: Gobi
+Element: None
+
+Weight: 10
+Defense: 60
+
+Value: 8000
+
+Note: Increases ATK by 10.
+
+Location:
+ [S] Prima (8800), Spring (8000)
+_______________________________________________________________________________
+
+ThiefCL
+
+Category: Armor
+Compatibility: Ryu, Karn
+Element: None
+
+Weight: 4
+Defense: 30
+
+Value: 2500
+
+Location:
+ [S] Tunlan (2750)
+ [T] Agua, southwest platform on the second floor
+_______________________________________________________________________________
+
+EvilRB
+
+Category: Armor
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 1
+Defense: 90
+
+Value: 9990
+
+Note: Halves damage from magic attacks bearing the Lightning & Earth, Ice, or
+      Fire attribute.
+_______________________________________________________________________________
+
+SuedeGN
+
+Category: Armor
+Compatibility: Everyone
+Element: None
+
+Weight: 6
+Defense: 10
+
+Value: 500
+
+Location:
+ [C] Karn, Sr-1, Sr-2, Sr-3
+ [S] Winlan (500)
+ [T] Aura Cave, lower-southeast chest in the flooded area
+_______________________________________________________________________________
+
+SuedeAR
+
+Category: Armor
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 7
+Defense: 14
+
+Value: 750
+
+Location:
+ [S] Tantar (750)
+_______________________________________________________________________________
+
+ChainML
+
+Category: Armor
+Compatibility: Ryu, Bo, Ox
+Element: None
+
+Weight: 2
+Defense: 20
+
+Value: 2000
+
+Location:
+ [S] Winlan (2000), Romero (2000)
+ [T] Wisdon, one of the chests in the northwest alcove in the third area
+_______________________________________________________________________________
+
+IronML
+
+Category: Armor
+Compatibility: Ryu, Bo, Ox
+Element: None
+
+Weight: 9
+Defense: 27
+
+Value: 5000
+
+Location:
+ [S] Prima (5500), Spring (5000)
+_______________________________________________________________________________
+
+WoolRB
+
+Category: Armor
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 2
+Defense: 25
+
+Value: 5000
+
+Location:
+ [S] Bleak (5000), Prima (5000)
+_______________________________________________________________________________
+
+SuedeRB
+
+Category: Armor
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 2
+Defense: 35
+
+Value: 6000
+
+Location:
+ [S] Prima (6600)
+_______________________________________________________________________________
+
+LifeAR
+
+Category: Armor
+Compatibility: Ryu
+Element: None
+
+Weight: 8
+Defense: 115
+
+Value: 30000
+
+Note: Increases HP by a point with each step taken by the wearer, provided that
+      the character is alive and that no screen transition ensues. The effect
+      is not stackable.
+
+Location:
+ [G] Agua, western dragon statue outside the shrine (requires Karn)
+_______________________________________________________________________________
+
+PowerAR
+
+Category: Armor
+Compatibility: Nina, Bleu
+Element: Water & Light
+
+Weight: 8
+Defense: 84
+
+Value: 2000
+
+Note: Causes the wearer to counter magic attacks with a fifty-fifty chance and
+      at half the default power. If the wearer is also equipped with EchoHT,
+      damage is further reduced by 75%. The effect of this item supersedes that
+      of EchoHT and MaskSH.
+
+Location:
+ [T] Pagoda, northwest chest on the second floor
+_______________________________________________________________________________
+
+QuartzAR
+
+Category: Armor
+Compatibility: Everyone
+Element: Lightning & Earth, Water & Light
+
+Weight: 9
+Defense: 50
+
+Value: 10000
+
+Location:
+ [S] Spring (10000)
+_______________________________________________________________________________
+
+AngleAR
+
+Category: Armor
+Compatibility: Nina, Bleu
+Element: Water & Light
+
+Weight: 3
+Defense: 76
+
+Value: 30000
+
+Note: Causes the wearer to counter all magic attacks at half the default power.
+      If the wearer is also equipped with EchoHT, damage is further reduced by
+      75%. The effect of this item supersedes that of EchoHT and MaskSH.
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Armor
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 2
+Defense: 46
+
+Value: 9500
+_______________________________________________________________________________
+
+GuruCT
+
+Category: Armor
+Compatibility: Bleu
+Element: None
+
+Weight: 0
+Defense: 70
+
+Value: 20000
+
+Location:
+ [S] Tunlan (18000)
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Armor
+Compatibility: Everyone
+Element: None
+
+Weight: 11
+Defense: 55
+
+Value: 12000
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Armor
+Compatibility: Everyone
+Element: None
+
+Weight: 2
+Defense: 8
+
+Value: 1111
+_______________________________________________________________________________
+
+WorldAR
+
+Category: Armor
+Compatibility: Ox, Mogu
+Element: None
+
+Weight: 9
+Defense: 80
+
+Value: 12000
+
+Location:
+ [S] Carmen (12000)
+ [T] Spyre, south chest in the southwest corner on the first floor
+_______________________________________________________________________________
+
+SageML
+
+Category: Armor
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 14
+Defense: 25
+
+Value: 3000
+
+Note: Equipping this armor on the lead party member roughly multiplies the
+      encounter rate by sixteen. The effect of this item and that of SilverBR
+      and MystSF negate each other.
+
+Location:
+ [S] Gobi at Auria (3300)
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Armor
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 16
+Defense: 65
+
+Value: 14000
+_______________________________________________________________________________
+
+MystRB
+
+Category: Armor
+Compatibility: Ryu, Nina, Bleu
+Element: None
+
+Weight: 8
+Defense: 60
+
+Value: 6000
+
+Location:
+ [S] Tunlan (5400)
+_______________________________________________________________________________
+
+EarthRB
+
+Category: Armor
+Compatibility: Ryu, Bo, Gobi, Ox, Bleu, Mogu
+Element: None
+
+Weight: 8
+Defense: 88
+
+Value: 1000
+
+Note: Causes magic attacks to heal rather than damage the user, ignoring most
+      modifiers. If the difference between the maximum HP and the current HP of
+      the wearer is smaller than the calculated damage, HP is replenished by an
+      amount equal to half that difference. Otherwise, half of the calculated
+      damage is added to the character's HP.
+
+Location:
+ [G] Gust, under a stack of crates in the west house (requires Doof)
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Armor
+Compatibility: Nina, Bo, Karn, Gobi, Ox, Bleu, Mogu
+Element: None
+
+Weight: 10
+Defense: 128
+
+Value: 20000
+_______________________________________________________________________________
+
+AgileAR
+
+Category: Armor
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 0
+Defense: 92
+
+Value: 10000
+
+Location:
+ [T] Pagoda, east chest on the second floor
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Armor
+Compatibility: Ox
+Element: None
+
+Weight: 18
+Defense: 94
+
+Value: 15000
+_______________________________________________________________________________
+
+HuntCL
+
+Category: Armor
+Compatibility: Ryu, Bo, Karn
+Element: None
+
+Weight: 4
+Defense: 16
+
+Value: 1500
+
+Location:
+ [S] Bleak (1500), Tunlan (1650)
+ [T] Krypt, chest in the lower-central section of the room beneath a blue chest
+_______________________________________________________________________________
+
+ClearCL
+
+Category: Armor
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 0
+Defense: 100
+
+Value: 10000
+
+Location:
+ [G] Bleak, under a stack of crates in the southeast house (requires Doof)
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Armor
+Compatibility: Gobi
+Element: None
+
+Weight: 18
+Defense: 105
+
+Value: 30000
+_______________________________________________________________________________
+
+WoodSH
+
+Category: Shield
+Compatibility: Ryu, Bo, Karn
+Element: None
+
+Weight: 2
+Defense: 5
+
+Value: 300
+
+Location:
+ [C] Ryu
+ [S] Drogen (300), Nanai (270), Winlan (300)
+_______________________________________________________________________________
+
+Gauntlet
+
+Category: Shield
+Compatibility: Everyone
+Element: None
+
+Weight: 1
+Defense: 8
+
+Value: 800
+
+Location:
+ [S] Tunlan (880)
+ [T] Camlon castle, fourth chest encountered in the basement
+_______________________________________________________________________________
+
+SuedeSH
+
+Category: Shield
+Compatibility: Everyone
+Element: None
+
+Weight: 1
+Defense: 2
+
+Value: 150
+
+Location:
+ [C] Ox, Bleu, Sr-1, Sr-2, Sr-3
+ [S] Nanai (135)
+ [T] Winlan castle, southwest chest in the northwest area on the first floor
+_______________________________________________________________________________
+
+GuardSH
+
+Category: Shield
+Compatibility: Ryu, Nina, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 10
+Defense: 32
+
+Value: 10000
+_______________________________________________________________________________
+
+Bracelet
+
+Category: Shield
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 3
+Defense: 12
+
+Value: 1200
+
+Location:
+ [T] Agua, southeast platform on the third floor
+_______________________________________________________________________________
+
+IronSH
+
+Category: Shield
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 4
+Defense: 12
+
+Value: 1000
+
+Location:
+ [T] Krypt, chest in the northeast corner on the trap-filled floor
+ [T] Agua, southeast platform on the second floor
+_______________________________________________________________________________
+
+BronzSH
+
+Category: Shield
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 3
+Defense: 8
+
+Value: 500
+
+Location:
+ [S] Romero (500), Tantar (500)
+_______________________________________________________________________________
+
+MetalSH
+
+Category: Shield
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 5
+Defense: 16
+
+Value: 1400
+
+Location:
+ [S] Bleak (1400)
+ [T] Auria, chest in Ross's treasury (requires Karn)
+ [T] Fortress near Nabal, southeast chest in the largest room
+_______________________________________________________________________________
+
+FlameSH
+
+Category: Shield
+Compatibility: Ryu, Ox, Mogu
+Element: Fire
+
+Weight: 8
+Defense: 38
+
+Value: 12000
+
+Note: Two different shields bear the name of FlameSH.
+
+Location:
+ [S] Gust (12000)
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Shield
+Compatibility: Ryu, Karn
+Element: None
+
+Weight: 4
+Defense: 15
+
+Value: 1500
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Shield
+Compatibility: Everyone
+Element: None
+
+Weight: 1
+Defense: 2
+
+Value: 200
+_______________________________________________________________________________
+
+IronSL
+
+Category: Shield
+Compatibility: Gobi
+Element: None
+
+Weight: 5
+Defense: 22
+
+Value: 2000
+
+Location:
+ [S] Bleak (2000), Gant (1800)
+_______________________________________________________________________________
+
+MetalSL
+
+Category: Shield
+Compatibility: Gobi
+Element: None
+
+Weight: 5
+Defense: 25
+
+Value: 3000
+
+Location:
+ [S] Prima (3300), Gant (2700)
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Accessory
+Compatibility: Everyone
+Element: None
+
+Weight: 0
+Defense: 0
+
+Value: 1111
+_______________________________________________________________________________
+
+Wrist
+
+Category: Shield
+Compatibility: Everyone
+Element: None
+
+Weight: 2
+Defense: 10
+
+Value: 700
+
+Location:
+ [T] Forest of Despair, chest south of the entrance to the fortress
+_______________________________________________________________________________
+
+IcySH
+
+Category: Shield
+Compatibility: Everyone
+Element: Ice
+
+Weight: 5
+Defense: 30
+
+Value: 4000
+
+Location:
+ [S] Prima (5200)
+_______________________________________________________________________________
+
+ProSH
+
+Category: Shield
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 5
+Defense: 32
+
+Value: 5000
+
+Location:
+ [T] Wisdon, west chest on the west side of the first passage
+ [T] Wisdon, one of the chests in the northwest alcove in the third area
+_______________________________________________________________________________
+
+LoveBR
+
+Category: Accessory
+Compatibility: Nina, Bleu
+Element: Water & Light
+
+Weight: 0
+Defense: 0
+
+Value: 12000
+
+Note: Increases HP by a point with each step taken by the wearer, provided that
+      the character is alive and that no screen transition ensues. The effect
+      is not stackable.
+
+Location:
+ [T] Cave behind the door with a dragon mark west of Gust
+_______________________________________________________________________________
+
+WindBR
+
+Category: Accessory
+Compatibility: Nina, Bleu
+Element: Water & Light
+
+Weight: 0
+Defense: 0
+
+Value: 4000
+
+Note: Increases ACT by 20. Note that 25% of a character's MAG derives from ACT.
+
+Location
+[T] Cave behind the door with a dragon mark east of Carmen
+_______________________________________________________________________________
+
+RubyBR
+
+Category: Accessory
+Compatibility: Nina, Bleu, Mogu
+Element: Water & Light
+
+Weight: 0
+Defense: 0
+
+Value: 30000
+
+Note: Protects against Rub.
+
+Location:
+ [T] Carmen, dresser within the inn
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Shield
+Compatibility: Karn
+Element: None
+
+Weight: 0
+Defense: 110
+
+Value: 4
+_______________________________________________________________________________
+
+DarkBR
+
+Category: Accessory
+Compatibility: Karn
+Element: Ice
+
+Weight: 0
+Defense: 0
+
+Value: 100
+
+Note: Increases ACT and FATE by 20. Note that 25% of MAG derives from ACT.
+
+Location:
+ [T] Cave behind the door with a dragon mark north of Auria
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Shield
+Compatibility: Nina
+Element: Water & Light
+
+Weight: 9
+Defense: 42
+
+Value: 30000
+_______________________________________________________________________________
+
+MystSH
+
+Category: Shield
+Compatibility: Ryu, Bo, Ox, Mogu
+Element: Water & Light
+
+Weight: 5
+Defense: 48
+
+Value: 20000
+
+Location:
+ [S] Carmen (20000)
+_______________________________________________________________________________
+
+Glove
+
+Category: Shield
+Compatibility: Bo
+Element: None
+
+Weight: 6
+Defense: 20
+
+Value: 3000
+
+Location:
+ [S] Prima (3900)
+ [T] Scande Tower, west chest in the northern alcove on the second floor
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Shield
+Compatibility: Ryu, Ox
+Element: None
+
+Weight: 28
+Defense: 28
+
+Value: 3000
+_______________________________________________________________________________
+
+TrapGrd
+
+Category: Shield
+Compatibility: Karn
+Element: None
+
+Weight: 4
+Defense: 40
+
+Value: 10000
+
+Location:
+ [T] Pagoda, northeast chest in the door maze
+_______________________________________________________________________________
+
+LightSH
+
+Category: Shield
+Compatibility: Nina, Bleu
+Element: Fire
+
+Weight: 10
+Defense: 36
+
+Value: 4000
+
+Location:
+ [S] Prima (4400)
+ [T] Path to the Dream World cave, southernmost chest on the eastern side
+_______________________________________________________________________________
+
+MagicRG
+
+Category: Accessory
+Compatibility: Nina, Bleu
+Element: Water & Light
+
+Weight: 0
+Defense: 0
+
+Value: 2500
+
+Note: Increases INT by 8. Note that 75% of a character's MAG derives from INT.
+
+Location:
+ [T] Nabal, chest west of the staircase leading to the throne room
+_______________________________________________________________________________
+
+Bandage
+
+Category: Shield
+Compatibility: Everyone
+Element: None
+
+Weight: 1
+Defense: 5
+
+Value: 500
+
+Location:
+ [T] Forest to Karma, southwest corner
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Shield
+Compatibility: Gobi
+Element: None
+
+Weight: 6
+Defense: 48
+
+Value: 6000
+_______________________________________________________________________________
+
+SilverBR
+
+Category: Accessory
+Compatibility: Everyone
+Element: Water & Light
+
+Weight: 0
+Defense: 0
+
+Value: 10000
+
+Note: Equipping this item on the lead party member roughly halves the rate of
+      enemy encounters. The effect of this item and that of Gown and SageML
+      negate each other. The effect is not stackable.
+
+Location:
+ [T] Agua, northwest chest in the alcove east of the entrance (requires Ox)
+ [T] Wisdon, east chest in the southwest alcove in the third area
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Shield
+Compatibility: Nina
+Element: None
+
+Weight: 40
+Defense: 5
+
+Value: 310
+_______________________________________________________________________________
+
+ColdSH
+
+Category: Shield
+Compatibility: Ryu, Bo, Ox
+Element: Ice
+
+Weight: 15
+Defense: 50
+
+Value: 10000
+_______________________________________________________________________________
+
+HuntGL
+
+Category: Shield
+Compatibility: Bo
+Element: None
+
+Weight: 8
+Defense: 30
+
+Value: 4500
+_______________________________________________________________________________
+
+MaskSH
+
+Category: Shield
+Compatibility: Everyone
+Element: None
+
+Weight: 8
+Defense: 65
+
+Value: 20000
+
+Note: Causes the wearer to counter magic attacks with a 6.25% probability and
+      at half the default power.
+_______________________________________________________________________________
+
+DragonSH
+
+Category: Shield
+Compatibility: Ryu
+Element: Fire, Water & Light
+
+Weight: 5
+Defense: 128
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Shield
+Compatibility: Ox
+Element: None
+
+Weight: 10
+Defense: 60
+
+Value: 10
+_______________________________________________________________________________
+
+FlameSH
+
+Category: Shield
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: Fire
+
+Weight: 5
+Defense: 52
+
+Value: 50000
+
+Note: Two different shields bear the name of FlameSH.
+
+Location:
+ [T] Agua, southeast platform on the fourth floor (requires Karn)
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Shield
+Compatibility: Gobi
+Element: Fire
+
+Weight: 6
+Defense: 35
+
+Value: 8000
+_______________________________________________________________________________
+
+SuedeHT
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 6
+Defense: 3
+
+Value: 200
+
+Location:
+ [C] Bo, Sr-1, Sr-2, Sr-3
+ [S] Winlan (200)
+ [T] Winlan castle, southeast chest in the northwest area on the first floor
+_______________________________________________________________________________
+
+Visor
+
+Category: Helmet
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 2
+Defense: 6
+
+Value: 800
+
+Location:
+ [S] Winlan (800), Tantar (800), Prima (880)
+ [T] Camlon castle, eighth chest encountered in the basement
+_______________________________________________________________________________
+
+HairBand
+
+Category: Helmet
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 2
+Defense: 8
+
+Value: 1000
+
+Location:
+ [S] Drogen (1000), Winlan (900)
+ [T] Agua, southwest platform on the third floor
+_______________________________________________________________________________
+
+Tiara
+
+Category: Helmet
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 2
+Defense: 10
+
+Value: 1500
+
+Location:
+ [S] Gobi at Auria (1650)
+_______________________________________________________________________________
+
+ChainHT
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 8
+Defense: 25
+
+Value: 2500
+
+Location:
+ [S] Prima (2750)
+_______________________________________________________________________________
+
+G.Tiara
+
+Category: Helmet
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 5
+Defense: 2
+
+Value: 20000
+
+Location:
+ [S] Prima (22000)
+ [T] Auria, east chest on the second floor of Ross's house
+ [T] Tock, east chest on the third floor
+_______________________________________________________________________________
+
+EchoHT
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 3
+Defense: 28
+
+Value: 2000
+
+Note: Causes the wearer to counter all magic attacks at 6.25% the default
+      power. The effect of this item supersedes that of MaskSH.
+
+Location:
+ [T] Fortress near Nabal, east chest in the first room
+_______________________________________________________________________________
+
+IronMask
+
+Category: Helmet
+Compatibility: Ox
+Element: None
+
+Weight: 7
+Defense: 30
+
+Value: 4000
+
+Location:
+ [S] Prima (4400)
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Helmet
+Compatibility: Ryu, Mogu
+Element: Fire
+
+Weight: 5
+Defense: 20
+
+Value: 1500
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 0
+Defense: 10
+
+Value: 10
+_______________________________________________________________________________
+
+StoneHT
+
+Category: Helmet
+Compatibility: Mogu
+Element: None
+
+Weight: 16
+Defense: 48
+
+Value: 6000
+
+Location:
+ [T] Pagoda, chest on the first floor
+_______________________________________________________________________________
+
+GoldHT
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 6
+Defense: 14
+
+Value: 20000
+
+Location:
+ [S] Prima (26000)
+_______________________________________________________________________________
+
+FaceMask
+
+Category: Helmet
+Compatibility: Ryu, Karn, Mogu
+Element: None
+
+Weight: 5
+Defense: 35
+
+Value: 6000
+
+Location:
+ [S] Prima (7800)
+ [T] Cave in the World of Dreams, southeast chest near a staircase
+_______________________________________________________________________________
+
+AgileHT
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 1
+Defense: 42
+
+Value: 5500
+
+Location:
+ [T] Tock, west chest on the fourth floor
+ [T] Dragon mark southeast of Scande, southeast chest
+_______________________________________________________________________________
+
+NiceHT
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 3
+Defense: 6
+
+Value: 600
+
+Location:
+ [C] Karn
+ [S] Prima (600)
+ [T] Cave of the Cleansing Water, chest to the far northwest of the entrance
+_______________________________________________________________________________
+
+MystSF
+
+Category: Accessory
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 0
+Defense: 0
+
+Value: 100
+
+Note: Equipping this item on the lead party member roughly halves the rate of
+      enemy encounters. The effect of this item and that of Gown and SageML
+      negate each other. The effect is not stackable.
+
+Location:
+ [T] Prima, east blue chest within the guild (after sea volcano)
+_______________________________________________________________________________
+
+DivingHT
+
+Category: Helmet
+Compatibility: Gobi
+Element: None
+
+Weight: 6
+Defense: 32
+
+Value: 4000
+
+Location:
+ [S] Prima (4400)
+_______________________________________________________________________________
+
+GaiaMask
+
+Category: Helmet
+Compatibility: Ryu, Ox, Mogu
+Element: None
+
+Weight: 4
+Defense: 36
+
+Value: 8000
+
+Location:
+ [S] Gust (8000), Spring (8000)
+_______________________________________________________________________________
+
+HeadGear
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 5
+Defense: 16
+
+Value: 2800
+
+Location:
+ [T] Krypt, chest in the area containing the boomerang
+ [T] Path to the Dream World cave, northeast chest on the eastern side
+_______________________________________________________________________________
+
+CursedHT
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 20
+Defense: 62
+
+Value: 100
+
+Location:
+ [T] Cave in the World of Dreams, southwest chest near a staircase
+_______________________________________________________________________________
+
+ShellHT
+
+Category: Helmet
+Compatibility: Gobi
+Element: Fire
+
+Weight: 1
+Defense: 25
+
+Value: 2000
+
+Location:
+ [T] Cave to Bleak, west chest in the central portion of the second floor
+_______________________________________________________________________________
+
+StrawHT
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 1
+Defense: 2
+
+Value: 200
+
+Location:
+ [C] Ryu
+_______________________________________________________________________________
+
+IronHT
+
+Category: Helmet
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 6
+Defense: 32
+
+Value: 7000
+
+Location:
+ [S] Gant (6300)
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Helmet
+Compatibility: Nina
+Element: None
+
+Weight: 0
+Defense: 0
+
+Value: 1111
+_______________________________________________________________________________
+
+TideHT
+
+Category: Helmet
+Compatibility: Everyone
+Element: Fire
+
+Weight: 0
+Defense: 0
+
+Value: 1111
+
+Location:
+ [G] Prima, shelf in the southwesternmost inn
+_______________________________________________________________________________
+
+SkullHT
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 10
+Defense: 25
+
+Value: 1000
+
+Note: Doubles incurred physical damage. The effect is not stackable.
+
+Location:
+ [T] Krypt, west chest in the room with a blue chest
+ [T] Krypt, southeast chest in the room with a blue chest
+_______________________________________________________________________________
+
+PowerHT
+
+Category: Helmet
+Compatibility: Karn, Gobi
+Element: None
+
+Weight: 3
+Defense: 44
+
+Value: 20000
+
+Note: Doubles incurred physical damage. The effect is not stackable.
+
+Location:
+ [S] Carmen (20000)
+ [T] Scande Tower, east chest in the northern alcove on the second floor
+_______________________________________________________________________________
+
+Domino
+
+Category: Helmet
+Compatibility: Nina, Bleu
+Element: None
+
+Weight: 7
+Defense: 42
+
+Value: 30000
+
+Location:
+ [T] Pagoda, southwest chest on the second floor
+_______________________________________________________________________________
+
+HornHT
+
+Category: Helmet
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 6
+Defense: 37
+
+Value: 5000
+
+Location:
+ [S] Prima (6500)
+ [T] D.Keep, east chest on the fifth floor
+_______________________________________________________________________________
+
+Bandana
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 1
+Defense: 5
+
+Value: 400
+
+Location:
+ [S] Tantar (400), Prima (400)
+_______________________________________________________________________________
+
+Turban
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 1
+Defense: 11
+
+Value: 2000
+
+Location:
+ [T] Winlan castle, south chest in the treasury (requires Karn)
+ [T] D.Keep, west chest on the top floor
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Helmet
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 8
+Defense: 38
+
+Value: 40000
+_______________________________________________________________________________
+
+LoveHT
+
+Category: Helmet
+Compatibility: Nina
+Element: None
+
+Weight: 10
+Defense: 64
+
+Value: 100
+
+Location:
+ [G] Tunlan, plants in the house of woman seeking inspiration (requires Puka)
+ [T] Dragon mark southeast of Scande, south chest
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Helmet
+Compatibility: Ryu, Bo, Ox, Mogu
+Element: Lightning & Earth
+
+Weight: 0
+Defense: 0
+
+Value: 1111
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Helmet
+Compatibility: Everyone
+Element: None
+
+Weight: 0
+Defense: 110
+
+Value: 1111
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Helmet
+Compatibility: None
+Element: None
+
+Weight: 0
+Defense: 0
+
+Value: 1111
+_______________________________________________________________________________
+
+BronzHT
+
+Category: Helmet
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 4
+Defense: 10
+
+Value: 1200
+
+Location:
+ [C] Gobi
+ [S] Romero (1200)
+ [T] Cave of the Cleansing Water, west chest in an alcove on B1
+ [T] Stone Robot, second chest encountered
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Helmet
+Compatibility: None
+Element: None
+
+Weight: 0
+Defense: 0
+
+Value: 1111
+_______________________________________________________________________________
+
+SunHT
+
+Category: Helmet
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: Fire
+
+Weight: 8
+Defense: 12
+
+Value: 2500
+
+Location:
+ [S] Gobi at Auria (2750)
+ [T] Agua, northwest platform on the second floor
+_______________________________________________________________________________
+
+WolfHT
+
+Category: Helmet
+Compatibility: Bo
+Element: None
+
+Weight: 4
+Defense: 12
+
+Value: 1332
+
+Note: Doubles incurred physical damage. The effect is not stackable.
+
+Location:
+ [T] Forest fortress, southeast chest in the second pit
+_______________________________________________________________________________
+
+IcyHT
+
+Category: Helmet
+Compatibility: Ryu, Bo, Ox
+Element: None
+
+Weight: 6
+Defense: 16
+
+Value: 1420
+
+Location:
+ [T] Krypt, northeast chest in the room with a blue chest
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Helmet
+Compatibility: None
+Element: None
+
+Weight: 0
+Defense: 0
+
+Value: 1111
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Helmet
+Compatibility: Nina
+Element: Water & Light
+
+Weight: 0
+Defense: 0
+
+Value: 1111
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Helmet
+Compatibility: None
+Element: None
+
+Weight: 0
+Defense: 0
+
+Value: 1111
+_______________________________________________________________________________
+
+StarSH
+
+Category: Shield
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: Water & Light
+
+Weight: 2
+Defense: 70
+
+Value: 29000
+
+Note: Protects against Rub.
+
+Location:
+ [T] Dragon mark southeast of Scande, southwest chest
+_______________________________________________________________________________
+
+HeroRG
+
+Category: Accessory
+Compatibility: Ryu
+Element: None
+
+Weight: 0
+Defense: 0
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+SkullRG
+
+Category: Accessory
+Compatibility: Everyone
+Element: Fire
+
+Weight: 0
+Defense: 10
+
+Value: 100
+
+Note: Increases DEF by 10. Protects against Rub.
+
+Location:
+ [G] Nabal, under the easternmost vase directly east of the entrance
+_______________________________________________________________________________
+
+SkySH
+
+Category: Shield
+Compatibility: Nina
+Element: None
+
+Weight: 1
+Defense: 15
+
+Value: 300
+
+Location:
+ [T] Lake cave, chest in the central portion of the flooded floor
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Shield
+Compatibility: Everyone
+Element: None
+
+Weight: 0
+Defense: 0
+
+Value: 50000
+_______________________________________________________________________________
+
+(Nameless)
+
+Category: Helmet
+Compatibility: Ryu, Bo, Karn, Gobi, Ox, Mogu
+Element: None
+
+Weight: 5
+Defense: 35
+
+Value: 6000
+_______________________________________________________________________________
+
+DragonHT
+
+Category: Helmet
+Compatibility: Ryu
+Element: None
+
+Weight: 1
+Defense: 80
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+DragonAR
+
+Category: Armor
+Compatibility: Ryu
+Element: None
+
+Weight: 0
+Defense: 110
+
+Note: Cannot be sold or discarded.
+_______________________________________________________________________________
+
+SmartRG
+
+Category: Accessory
+Compatibility: Everyone
+Element: None
+
+Weight: 0
+Defense: 0
+
+Value: 1111
+
+Note: Increases INT by 8. Note that 75% of a character's MAG derives from INT.
+
+Location:
+ [T] Auria, dresser on the first floor of the northwest mansion
+_______________________________________________________________________________
+
+DreamRG
+
+Category: Accessory
+Compatibility: Everyone
+Element: None
+
+Weight: 0
+Defense: 0
+
+Value: 1000
+
+Note: Prevents Doze status.
+
+Location:
+ [T] Krypt, chest in the northwest corner on the trap-filled floor
+
+
+###############################################################################
+                               ACKNOWLEDGEMENTS
+###############################################################################
+
+The following string was taken from Atom Edge's Item and Equipment Guide for
+Final Fantasy VI: "If used as an item during battle, will invoke".
+
+
+###############################################################################
+                               LEGAL DISCLAIMER
+###############################################################################
+
+The contents of this document cannot be reproduced without the written consent
+of the author, unless for personal purposes. Permission to distribute this
+document is granted exclusively to GameFAQs.com.
+
+© 2010, 2011 Jame Coban. All rights reserved.

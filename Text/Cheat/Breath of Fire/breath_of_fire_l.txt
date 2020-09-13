@@ -1,0 +1,3253 @@
+ ____                                                     _________________
+|   ||                                    _=_=_          | Circa 2009
+|  //                |  |                ||              | v1.9
+| \\     _ ___   __ _|_ |      ,    /'   ||=='    _ ___  | Began 08/11/07
+|  \\ |./ //_/ //  | |  |./|  / \ _|_    ||  | |./ //_/  |
+|__|| |   \\__ \\__|\ \_|  |  \./  |     ||  | |   \\__  | STRATEGY BOOK
+                                 _/                     .|_________________
+________________________________________________________/
+
+                Walkthrough for GBA and SNES by Zenalasca
+                       All respective rights reserved
+
+
+
+    CONTENTS
+------------
+
+      Preface
+      Author's Note
+      Disclaimer
+
+    Chapter 1
+      1:01  Default Controls
+             1:01A  For SNES
+             1:01B  For GBA
+      1:02  Screen Maps
+             1:02A  Field & Over-world
+             1:02B  Menu
+             1:02C  Battle
+      1:03  Game Terms
+             1:03A  Battle
+             1:03B  Status
+             1:03C  Status Ailments
+      1:04  Advice
+             1:04A  General
+             1:04B  Battle
+
+    Chapter 2
+      2:01  Walk-through
+             2:00A  Drogen: An Unfortunate Beginning
+             2:00B  Camlon: Your First Dungeon!
+             2:00C  Boss: Frog
+             2:00D  Sneaking into Nanai
+             2:00E  Gaia Temple
+             2:00F  Boss: Knight
+             2:00G  Travelling to Winlan
+             2:00H  Winlan Shops & Exploring
+             2:00G  Winlan Castle
+             2:00H  Aura Cave
+             2:00I  Going through Romero
+             2:00J  The Ramui Woods Maze
+             2:00K  Karma Tower Entrance
+             2:00L  Boss: Morte
+             2:00M  Climbing Karma Tower
+             2:00N  Boss: Mortea
+             2:00O  Twin Tower
+             2:00P  Boss: Wizard
+             2:00Q  Humanity Saves the Day!
+             2:00R  Boss: Wizard
+             2:00S  Back in Winlan......for the Last Time?
+             2:00T  Tantar the Remote
+             2:00U  Lament Woods
+             2:00V  How to Survive Dark Dragon's Fort
+             2:00W  Boss: Pog
+             2:00X  Filler 1: Names, names, names
+             2:00Y  Boss: General
+             2:00Z  Investigating Romero
+             2:01A  The Ease Cave Water Spring
+             2:01B  Going to Agua...or is it...Agua Tower!
+             2:01C  Boss: Wisp
+             2:01D  Enter the Giant
+             2:01E  Boss: General & Lancer 2x
+             2:01F  The Giant's Teleport Platforms
+             2:01G  The Lake Caves
+             2:01H  The Wedding Crusher
+             2:01I  Boss: Gremlin
+             2:01J  Boss: Talon <side-quest>
+             2:01K  Under Lock and Key in Auria
+             2:01L  The Fairies and the Cutting of their Trees <side-quest>
+             2:01M  Getting the Icicle in Bleak
+             2:0AA  See Chun-Li from Street Fighter <side-quest>
+             2:01N  Boss: Sand Worm
+             2:01O  Uncovering the Krypt
+             2:01P  Boss: Eye Spy
+             2:01Q  New Doors to Open <side-quest>
+             2:01R  L. Keep [east of Bleak]
+             2:01S  Boss: Cloud
+             2:01T  Boss: Knight & Archer
+             2:01U  The Rocks of North Peninsula Cave [north of Auria]
+             2:01V  Battles in the Secret Base & Dark Dragon Ship
+             2:01W  Boss: Octo
+             2:01X  Hunting for Gills
+             2:01Y  Gobi's Shop <side-quest>
+             2:01Z  Rock Walls to Break after You've got Oxi <side-quest>
+             2:02A  Hidden Fort
+             2:02B  Just Use Your Head and an Egg!
+             2:02C  Boss: Grim Fowl
+             2:02D  Herding a Flock of Birds to Nabal
+             2:02E  Nabal Fort
+             2:02F  Boss: Slime X
+             2:02G  Oh, so that moving town in the Dessert is Wisdon is it?
+             2:02H  Boss: Wisp, Cloud, then Myst
+             2:02I  Undersea Volcano
+             2:02J  Boss: Pincher
+             2:02K  The Sphere of the Ocean
+             2:XXA  Back to Gobi's <side-quest>
+             2:02L  Tulan and the Best Rod Ever!!! <side-quest>
+             2:0XA  Fishing Spots and their Catches <side-quest>
+             2:0XB  More training for Ryu <side-quest>
+             2:02M  Gust: A Bridge to Scande...not yet!
+             2:02N  Karn learns Gebo <side-quest>
+             2:02O  Curse of the Dark Dragon Flower
+             2:02P  Exchange between Human and Frog
+             2:02Q  Destruction of the Poison Flower
+             2:02R  The Old Man's Flute
+             2:02S  Mogu's Curse
+             2:02T  Getting the Bolster
+             2:02U  Mogu's Chaotic Dream World and the Tower
+             2:02V  Turning the Mindless Group into the Resolved Individual
+             2:02W  Facing his Demons
+             2:02X  Boss: Mothro
+             2:02Y  Places to Dig
+             2:02Z  About to Spring and Spyre Tower
+             2:02Z  Boss: Mote
+             2:03A  Tick Tock
+             2:03B  Boss: Cerl [the Surly ^_^]
+             2:03C  Softening Cerl's Heart with an Apple
+             2:03D  A New and Improved Nina
+             2:XXB  Back to Gobi's Again <side-quest>
+             S:03E  New Places you can Fly <side-quest>
+             2:03E  Scande, At Last
+             2:03F  Scande Tower
+             2:03G  Back to Karma Tower
+      2:02  Side-Quest Walk-Throughs
+             2:01J  Dragon Training
+             2:01L  The Fairies and the Cutting of their Trees
+             2:0AA  See Chun-Li from Street Fighter
+             2:01Q  New Doors to Open
+             2:01Z  Rock Walls to Break after You've got Oxi
+             2:02L  Tulan and the Best Rod Ever!!!
+             2:0XA  Fishing Spots and their Catches
+             2:0XB  More training for Ryu
+             2:02N  Karn learns Gebo
+
+    Appendix A
+      A:00  Character Information
+             A:00A  Ryu
+             A:00B  Nina
+             A:00C  Bo
+             A:00D  Karn
+             A:00E  Gobi
+             A:00F  Ox
+             A:00G  Bleu
+             A:00H  Mogu
+      A:01  Magic
+      A:02  Special Abilities
+      A:03  Background (spoiler alert!)
+
+    Appendix B
+      B:00  Bestiary Index
+      B:01  Stats
+      B:02  Strategies
+
+    Appendix C
+      C:02  Items
+      C:03  Weapons
+      C:04  Shields
+      C:05  Armour
+      C:06  Helms
+      C:07  Other Equipment
+      C:08  Locations of Armour, etc.
+      C:09  Locked Doors List
+      C:10  Breakable Walls List
+      C:11  Fishing Spots & Catches
+      C:12  Hunting Guide
+
+    Appendix D
+      D:01  Maps
+      D:02  Shops
+             D:02A  General Shop Index
+             D:02B  Gobi's Shop
+
+    Appendix E
+      E:01  General Advice
+      E:02  Secrets
+             E:02A  See Chun-li from Street Fighter
+      E:03  Game Enhancer Codes
+
+    Appendix F
+      F:01  Breath of Fire II
+      F:02  The Meanings Behind the Names
+      f:03  How BoF for GBA is Different
+
+      Bibliography
+      Version Log
+
+
+    PREFACE
+-----------
+
+    You take the role of a young man [Ryu or Zack depending on whether you
+    are playing on SNES or GBA] who comes from the Light Dragon clan. The
+    Dragon clans of Light and Dark have been fighting for many years and
+    while the Dark Dragons reign supreme the Dragons of Light are forced to
+    lie low. Ryu's only hope of finding his abducted sister is to find all
+    the Goddess Keys for which the Dragons' power comes from...
+
+    Breath of Fire was originally published in Japan by Capcom in 1993 as
+    Buresu obu Faia: Ryuu no Shenshi [Dragon Warrior]. Squaresoft licensed
+    the game and released it in the US. In 2001 Capcom released it for Game
+    Boy Advance, making it the company's first RPG.
+
+    For those of you who've played the other BoF games, the first game can
+    be a little disappointing. In ways it's better than BoF2, but some of
+    the things are less developed, like Ryu's fishing game. But it helps
+    you to understand the story of the rest of the series.
+      BoF is nowhere near as good as any of the Final Fantasies, though I
+    must admit the simplicity of the game is a nice change to all that
+    character development stress-material you tend to find in the FF games.
+    I like to think of it as a simpler yet more developed FF1, though there
+    is little replay value.
+
+    The story is pretty simple, in fact I would go so far as to say it's
+    like a cheap imitation of the Dragon Quest/Warrior series that had been
+    released in Japan and America at that point. Though for Square (which
+    hadn't merged with Enix at that time) I guess it was better than no
+    dragon games at all.
+
+    The characters, monsters and story are all childlike and the translat-
+    ion isn't that great (as was the rule with those early Japanese RPGs,
+    on top of being toned down for the American Audience). In Japan the
+    childlike element is expounded upon, in America it is seen as immature
+    and not worthy of much thought.
+
+    I don't know how basic a game can get in terms of sheer ease of play;
+    pretty much the hardest things are knowing where to go next and fight-
+    ing battles at a low level. I have tailored my walk-through to that.
+
+    The abilities and characters that you get throughout the game are cool
+    but since I hate really long dungeons I used a couple of cheats to
+    speed things up a bit.
+      It's nice having so many characters, not so good that so many of them
+    are so unlikeable. Gobi and Mogu are wierd, Bo isn't much better. Cap-
+    com experimented in too many things with this game and characterisation
+    was one of them.
+
+    My preferred version of Breath of Fire is the GBA one terms of a better
+    general layout and the fact that you can pretty well play it anywhere
+    you want to [with a DS you don't even need to worry about AA batteries
+    anymore]. And really this is the ideal kind of game to play when you've
+    got a spare moment with nothing else to do.
+
+    Lastly, there are two completely horrible things in this game; the
+    music and the ending. The combination of those two along with me play-
+    ing the game all day and feeling a bit sick made me have horrible night
+    mares half the night, going on some wierd quest with Bleu through a
+    maze of hex code in search for some special number with that dungeon
+    music in the background. DO NOT make the same mistake!
+      Yet I continue to play the game. Why? It has something. This game has
+    something.
+
+
+    AUTHOR'S NOTE
+-----------------
+
+    - If you have any questions that aren't answered in the guide send me
+      an e-mail to ze_faq [at] yahoo [dot] com [dot] au (I wrote the add-
+      ress in that way to help avoid spam).
+
+    - The differences between the GBA and SNES versions are rather sparse
+      [in comparison to other remakes] but I will mention them when they
+      come up.
+
+    - For everything you need to know about enemies in BoF see the monster
+      list by Novalia_Spirit at GameFAQs.
+
+
+    DISCLAIMER
+--------------
+
+    Copyright to Breath of Fire is owned by Capcom and the SNES release in
+    America is owned by Squaresoft [or Square-Enix as it's called now].
+
+
+===========================================================================
+                               CHAPTER 1
+===========================================================================
+
+    1:01  DEFAULT CONTROLS
+--------------------------
+
+           1:01A  For SNES
+           ---------------
+
+           D-Pad: Move cursor or character
+           A: Examine an object, talk or select an option
+           B: Cancel an option/action or run (while holding B down)
+           X: Programmable from options menu
+           Y: Programmable from options menu
+           L: Change character order (field); see Defence Commands (battle)
+              -- also programmable from options menu
+           R: Change character order (field); see Defence Commands (battle)
+              -- also programmable from options menu
+           Start: While on world map it toggles the map on/off
+           Select: See menu screen in field mode; return to field in battle
+
+
+           1:01B  For GBA
+           --------------
+
+           D-Pad: Move cursor or character
+           A: Examine an object, talk or select an option
+           B: Cancel an option/action or run (while holding B down)
+           L: Change character order (field); see Defence Commands (battle)
+           R: Change character order (field); see Defence Commands (battle)
+           Start: While on world map it toggles the map on/off
+           Select: See menu screen in field mode; return to field in battle
+
+
+    1:02  SCREEN MAPS
+---------------------
+
+           1:02A  Field & Over-world
+           -------------------------
+
+            - You can talk to people, open chests and enter buildings in
+              field and world map modes.
+            - In most cases the two modes are exactly the same except that
+              time doesn't pass in field mode.
+
+           1:02B  Menu
+           -----------
+
+            - The first option is the item menu. You may store and use up
+              to 48 types of items and 99-100 of each. That's a total of
+              4800 items! You can discard some items if you have too many,
+              though. In the SNES version you can sort the items manually,
+              whereas the GBA version has an automatic system and a
+              special compartment for "vital" items that are crucial to
+              the story. The SNES version has a special option that gives
+              you information about each item when you choose it, but the
+              GBA only gives limited information when you choose it the
+              normal way.
+            - In the GBA version, the magic menu is next (whereas it's the
+              armour menu in SNES BoF). You may use any outside-of-battle-
+              spells that a character knows in the magic menu and assign
+              fighting equipment in the categories of weapon [WPN], armour
+              [ARM], shield [SHD] and helmet [HLM]. [ETC] is for accessor-
+              ies. The different types of equipment will effect certain
+              stats as ATCK (damage potency using a physical weapon), DEF
+              (how much damage will be inflicted by enemies' attacks),
+              ACT (how many turns the party member will get in battle),
+              INT (how proficient the character is using magic), FATE (how
+              lucky the character is) and MAG DEF (how well the character
+              can defend against sorcery and magical attacks.
+            - The status menu elaborates on stats even further. See the
+              glossary for more information on game terms.
+            - You will have to press the L and R shoulder buttons to move
+              your players back/forward a row and go into defensive mode
+              respectively.
+
+           1:02C  Battle
+           -------------
+
+           The top of the screen shows the participants in the battle. The
+           enemies are on the left side while your allies are on the right.
+           Battle in Breath of Fire is similar to Dragon Quest because you
+           must choose actions for all of your party members before they'll
+           carry them out.
+             On the bottom of the screen is a status window and actions
+           menu. First, there is an starting battle menu...
+
+            - The picture of a sword allows you to individually choose each
+              party member's actions.
+            - AB stands for Automatic Battle. Your characters will attack
+              the enemy until someone wins.
+            - RUN allows your party to escape the battle (if possible).
+            - ST will allow you to check your party members' status, just
+              like the status screen in the main menu. Because there is a
+              blank space where your hero's name should be, his status
+              screen is somewhat hidden, but selectable none-the-less.
+            - The vertically running arrows will move your leading party
+              member forward or back into the front or back row. In the
+              front row melee attacks will be more powerful, but projectile
+              type weapons and any magical spells are not effected when in
+              the back row, so it is advisable to keep there if your party
+              member is not the close-combat type.
+            - The horizontally running arrows allow you to change your
+              party leader (if it is possible).
+
+              Now I will list the secondary, individual action that can
+            be made in battle...
+
+            - The unsheathing sword: attack using equipped weapon.
+            - Shield: guard against attacks (they will cause less damage
+              and there is a greater chance of evasion).
+            - Magic Staff: use any magic the character knows (if they have
+              enough MP).
+            - Bag: use an item you have in your inventory that can be
+              brought into battle.
+
+
+    1:03  GAME TERMS
+--------------------
+
+             1:03A  Battle
+             -------------
+
+             HP (hit points): Life force.
+
+             AP (ability points): Points that control the use of abilities.
+
+             EXP (experience): For every battle that is won a certain a-
+               mount of EXP [pertaining to the particular enemy/ies] is
+               shared out between the acting party members [those who've
+               not been KO'd]. The maximum experience you can have is
+               9,999,999...
+                 The quicker you defeat enemies, the more EP you'll get
+               from them. Do it in one round to get 50% more EP! Do it in
+               up to 6 turns for up to 20% more as well.
+
+             Level: For characters and enemies alike, battle competency is
+                largely based on their level. While enemies have fixed lvs
+                and will become really easy for a while, you can level each
+                of your characters up to 99; not only will the become
+                stronger in their individual ways they will learn new
+                abilities on the way. To find out how much EXP is needed
+                for each level up see the characters' respective stat
+                screens in the menu.
+
+             1:03B  Status
+             -------------
+
+             I have separated the stats in RPGs into two distinct categ-
+             ories. Natural stats are gained by levelling up and taking
+             items while equipment values are merely the stats of the
+             equipment brought out to their full potential only by having
+             good natural stats.
+
+                               GBA      SNES   FULL            MAX
+                               ---      ----   ----            ---
+
+                               HP       H P    Hit Points      999
+                               AP       A P    Ability Points  999
+
+                Natural Stats: STRNGTH  Str.   Strength        255
+                               VIGOR    Vigor  Vigour          255
+                               AGILITY  Agil.  Agility         255
+                               WISDOM   Wisdom Wisdom          255
+                               LUCK     Luck   Luck            255
+
+             Equipment Values: ATTACK   ATK    Attack          999
+                               DEFENSE  DEF    Defence         999
+                               ACTIVE   ACT    Activity        255
+                               INTLGCE  INT    Intelligence    255
+                               FATE     FATE   Fate            255
+                               MAGE DEF MAG    Magic Defence   255
+                               Wt.      WGHT   Weight          16
+
+             Strength: The higher this stat is the less the weight of a
+               weapon will be and the higher its potential for causing
+               damage.
+
+             Attack: These values control how strong the person will be
+                when they attack using their weapon.
+
+             Vigor & Defence*: These stats are what effect the damage done
+                by physical attacks from enemies. Armour that gives Defence
+                and takes away from other stats is most common, but you'll
+                need to walk a fine line between choosing these and drawing
+                the full potential of your characters [rather than making
+                them all tanks].
+
+             Agility: The higher a characters' agility is the more they'll
+               be able to evade attacks from enemies.
+
+             Active*: In each battle line up there is an order of turns
+               depending on who has the highest Active value.
+
+             Wisdom & Intelligence*: These values determine how well a
+               character can cast magic. For characters like Mogu who are
+               not magic users it doesn't matter so much. I don't know if
+               these values effect special abilities like Mogu's Dig.
+
+             Luck & Fate*: As there are few items that give Fate when
+               equipped these values often stay the same
+
+             Magic Defence: Determine how much damage a character recieves
+               from special enemy abilities and spells.
+
+
+             1:03C  Status Ailments
+             ----------------------
+
+             Sometimes an enemy will afflict one of your characters with a
+             "status ailment," all of which have telltales & must be cured.
+             There are a wide range of status ailments in Breath of Fire.
+             To explain what they are I will have to explain what each of
+             them does, so here goes.
+
+             Ailment   Symptom              Remedy
+             -------   -------              ------
+             Poison    Gradual loss of HP   Antdt,Antler,Mackrl,Trout,Tonic
+             Curse     Unknown              Tonic
+             Paralyse  Unknown              Tonic
+             Zombie    Unknown              T.Drop, Drop, Tonic
+             Stun      HP at 0, can't move  Renew/RenewX, Life/Life2
+
+    1:04  ADVICE
+----------------
+
+             1:04A  General
+             --------------
+              - Save and rest at inns often to keep healthy and happy.
+              - Stock up on healing and support items as often as you can.
+              - Put weak or dying characters in the back row.
+
+             1:04B  Battles
+             --------------
+             A big part of your fight in any game is analysing it from all
+             points of view before you begin. There are many factors you
+             have to consider and plans of action you have to prioritise.
+               Breath of Fire is one of the easiest RPGs in history. In
+             fact all you really need is the patience to level up and exp-
+             lore every little bit of the map.
+               Later on you'll have the opportunity to choose various party
+             members for your line-up. You'll need tank-types with heavy
+             constitutions who can man the the front line so that the
+             faster and weaker combatants can sneak over and dislodge some
+             crack in the enemy's plan...or complete a battle objective.
+             Medic types such as Nina and Bo will always be in high demand
+             when the fighting starts but depending on the toughness of a
+             battle you will need to take extra precautions to defend them.
+             Well, Bo's not entirely weak but he's in the middle.
+
+
+===========================================================================
+                                 CHAPTER 2
+===========================================================================
+
+When the Dragon Family was a the peak of its power, a goddess of desire,
+Tyr, appeared who granted wishes. The Dragons fought for this power. Tyr
+encouraged the fighting and watched the war of the Dragons escalate. When
+the world was at the brink of destruction a warrior and his 7 companions
+stepped forth and locked the goddess up after defeating her in battle. The
+"Goddess Keys" were hidden throughout the world. The Dragons of Light bal-
+anced the power of the family and peace reigned again.
+
+    2:00  WALK-THROUGH
+----------------------
+
+          The boss battles are easy enough and don't require much strategy.
+          As long as you level up plenty the game should be a breeze in
+          terms of battles. In fact, I don't see the point in levelling up
+          anyway, so I use cheat codes in that area. There seems to be a
+          taboo against cheating, but the cheats I use are only to save
+          time that would otherwise be spent in mindless levelling up.
+
+          Notes: - # indicates it's to do with the GBA version.
+
+             2:00A  Drogen: An Unfortunate Beginning
+             ---------------------------------------
+
+                              __~~~~~~~~|^^^^^^^^
+                                \~~~~~~~|    ^^^^
+                                 |~~~~~~|  D  ^^
+     __  _______     #######       \~~~/      ^^
+     ~~|_____   |  #############____|~|     ^^
+     ~~~~~~~~|  | ##########   |~~~~~~|   ^^^
+     ~~~~~~~~~\ | #########    |~|       ^^^^^^
+     ~~~~~~~~~~\\  ######      |~|       ^^^^^^
+     ~~~~~~~~~~| \ ######       =        ^^^^
+     ~~~~~~~~~~|_ \            |~|       ^^^
+     ~~~~~~~~~~~~\ \_          |~|        ^^
+     ~~~~~~/    =|_  |___| |___|~|__/  \  ^^
+     ~~~~~/    |~~~|           |~|      |
+     ~~~~/       |~|           |~|       \
+     ~~~~\        \~\_______   |~|        |
+     ~~~~~|        \~~~~~~~~\  |~|       _|
+     ~~~~/   ___          |~~\/~~\      |
+     ~~~~\__/~~~\----\    |~~~~~~~|____ |__
+     ~~~~~~~~~~~~~~~~|    \~~~~~~~~~~~~\Nan\
+     ~~~~~~~~~~~~~~~~/          \~~~~~~~\_ai
+     ~~~~~~~~~~~~~~~~|      /\  _____   \~~\
+     ~~~~~~~~~~~~~~~~~\____/~~\/~~~~~|Cam|~~|
+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~/    lon/~~~|
+     ~~~~~~~~~~~~~~~~~~|     _       /~~~~~/
+             ~~~~~~~~~~~~\   /~|__    \~~|
+             ~~~~~~~~~~~~~| |~~~~~\   _|~~\__
+             ~~~~~~~~~~/     \~~~~~| |~~~~~~~
+             ~~~~~~~~~~\_     |~/     \~~~~~~
+             ~~~~~~~~~~~~\_ _ TT     __|~~~~~
+             ~~~~~~~~~~~~~~=~\_TT __/~~~~~~~~
+             ~~~~~~~~~~~~~| |~~| /~~~~~~~~~~~
+             ~~~~~~~~~~~~~| \~~|/~/ \~~~~~~~~
+             ~~~~~~~~~~~~~\  |~~/  _/~~~~~~~~
+             ~~~~~~~~~~~~~~\___Drog|~~~~~~~~~
+             ~~~~~~~~~~~~~~~~~~\_an \~~~~~~~~
+             ~~~~~~~~~~~~~~~~~~~~\__/~~~~~~~~
+             ~~~~~~~~~~~~~~~~~~~~~F~~~~~~~~~~
+
+             MONSTER          HP     EP     GP   PLACES
+             -------          --     --     --   ------
+             Slime            12     1      3    Drogan, Camlon*, Romero
+             Bulla            20     3      4    Drogan, Camlon*, Romero
+
+             When you first start the game and are in your hot, smoking
+             room, stop an' take the time to open your chest to take out
+             Ryu's most valuable possession; a V.Ptn! You won't be able to
+             go back to that room so that's why I'm telling you about the
+             item.
+               When you enter the floor below, talk to the girl on the left
+             (there are only three girls there), then the one next to her
+             to continue the game.
+
+               There are a couple of shops in Drogen but there isn't a lot
+             to choose from. The equipment sucks, but the prices on normal
+             items are very cheap for a long while yet, so stock up! Espec-
+             ially on Antdts, Herbs and Mrbl3. 18x Antdts, 'cos poison is a
+             very common and annoying ailment.
+               You might want to stick around for a while, levelling up,
+             saving at the shrine and talking to one of the NPCs in Ryu's
+             burned house to heal. You're on a quest to destroy the evil
+             empire of Zog and rescue your sister, so you'll need to be
+             strong!
+               Though it's probably better to avoid fighting altogether un-
+             til you reach the dungeon in Nanai, as there are many healing
+             springs in it. The monsters on the world map are tough and
+             offer lousy EP.
+
+               It may help to note that those trees with apples on them,
+             roaming animals and fish in the sea aren't just ornaments!
+             They are to do with abilities later on in the game.
+
+             2:00B  Camlon Castle: Your First Dungeon!
+             -----------------------------------------
+             MONSTER          HP     EP     GP   PLACES
+             -------          --     --     --   ------
+             TREASURE         HP#    EP#    GP#
+             --------         --     --     --
+             P.Bug            8      5      12   Camlon, Nanai, Karma
+                                                 Forest
+             Slime            12     1      3    Drogan, Camlon*, Romero
+             Gloom            12     5      12   Camlon, Nanai, Aura Cave,
+                                                 Karma Tower
+                                                 Forest, Tantar/Tunar
+             Beak             14     8      8    Camlon, Nanai, Aura
+                                                 Cave, Karma Forest
+             Flea             15     3      4    Drogan, Camlon*, Romero
+             Bulla            20     3      4    Drogan, Camlon*, Romero
+             Creep            25     8      8    Camlon, Nanai, Aura
+                                                 Cave, Karma Forest,
+                                                 Tantar/Tunar
+
+             To prevent premature game over I advise you stay close to the
+             healing springs at first.
+               P.Bugs are the safest enemies to start off with, being the
+             weakest enemies so far with the best EP and GP on offer. The
+             only danger you face from P.Bugs is being poisoned, so you
+             heal ASAP (I'm assuming you brought plenty of Antdts).
+               Creeps yield good EP, but not a lot better as they're consid
+             erably tougher. Beaks are half-way there. But if you find your
+             self in front of a monster who's as tough or tougher than you
+             are, all you can do is defeat the thing (or escape if you're
+             *really* lucky). Glooms offer lousy EP / great GP and are easy
+             unless you find yourself on the recieving end of their power-
+             ful spells.
+
+               Don't be dismayed if there are various parts of a floor you
+             can't reach yet (unless you go to open a door and it does't
+             work--highly unlikely). Many Breath of Fire Dungeons are des-
+             igned in such a way that you'll return to a single level many
+             times via stairways.
+               Don't just equip all the new gear you pick up. For instance,
+             the BronzSD is less better overall than your starting weapon
+             even though its Attack is superior Ryu may not have enough
+             Strength to carry such a heavy weapon and it ends up being
+             less effective than your old one. To see more information see
+             the weapons and equipment ratings list in the appendices.
+               There are two chests near the end of the dungeon area; one
+             that heals you and the other that damages AP (which doesn't
+             matter because Ryu won't have any use for AP until much later
+             anyway).
+
+             2:00C  Boss: Frog
+             -----------------
+             After this battle you'll no longer be fighting battles in
+             Camlon's castle any longer (you were there to get rid of them
+             remember?), though P.Bugs and Beaks will become more common
+             on the world map as you continue.
+
+             - Has 180 HP (169 for GBA), 12 AP, 20 Atk/Def, 25, Act, 60
+               Wis...
+             - Don't go into auto, but attack constantly and eat a herb
+               if your HP goes down to 50%.
+             - I Defeated Frog at level 5 in the GBA version and levelled
+               up 3 times.
+             - Winnings (GBA): 600 EP, 300 GP; (SNES) 500 EP, 350 GP;
+               F.Stn [13.28%].
+
+
+             2:00D  Sneaking into Nanai
+             --------------------------
+             MONSTER          HP     EP     GP   PLACES
+             -------          --     --     --   ------
+             TREASURE         HP#    EP#    GP#
+             --------         --     --     --
+             P.Bug            8      5      12   Camlon, Nanai, Karma
+                                                 Forest
+             Slime            12     1      3    Drogan, Camlon*, Romero
+                              ??     1      4
+             Gloom            12     5      12   Camlon, Nanai, Aura Cave,
+                                                 Karma Tower
+                                                 Forest, Tantar/Tunar
+             Beak             14     8      8    Camlon, Nanai, Aura
+                                                 Cave, Karma Forest
+             Flea             15     3      4    Drogan, Camlon*, Romero
+                              ??     3      5
+             Bulla            20     3      4    Drogan, Camlon*, Romero
+                              ??     3      5
+             Creep            25     8      8    Camlon, Nanai, Aura
+                                                 Cave, Karma Forest,
+                                                 Tantar/Tunar
+
+             On the way to Nanai you might see a big claw in the earth
+             (this is for an ability near the end of the game). Head strait
+             south of the claw to find the town.
+               As for monsters, nearly all of them are fair game except
+             Slimes (a waste of time to begin with, save them for Dragon
+             Quest!).
+               Nanai is closely guarded by day...and not so closely once it
+             hits nightfall. Provided you can sneak past the guards that
+             *are* awake [which is no feat], at least you have a place to
+             save.
+               If you played Metal Gear Solid, ever, it should be dead
+             easy to sneak past a couple of sleepy guards or be thrown out
+             temporarily. Go too close to any guards and you'll be thrown
+             out. it there's a guard right next to a door it'll be unsafe
+             to go near that door. one on them is semi-hidden behind a
+             house on the north-eastern corner of town, so watch out! There
+             is a house you can enter above him that contains 2x Herb.
+               The town has a few shops with a couple of items, but all
+             overpriced and nothing worth it. If you want items go back to
+             Drogan (you'll level up anyway, so much for new equipment).
+             Get your items from the drawers and stuff found in houses.
+               Gaia Temple is in the Centre of town.
+
+             2:00E  Gaia Temple
+             ------------------
+             TREASURE         HP#    EP#    GP#  DROPS#
+             --------         --     --     --   ------
+             Beak             14     12     12   ?
+             Gloom            12     7      18   Antdt
+
+             Make sure you bring plennty of Herbs for the dungeon, for the
+             Glooms' thunder attacks more than anything.
+               There's more treasure in this dungeon and the enemies are a
+             little tougher. It doesn't start being a dungeon until you go
+             into the central staircase; the rest is like a combination be-
+             tween a normal house and castle.
+               Here is a layout of the turns you should take in the maze-
+             like area beneath the temple.
+
+                                       START 1      END 1
+                              650 GP    |---Antdt    |
+                                |       |            |
+                                |       |     _______|
+                                |       |    | B.Stn.
+                                |_______|____|___|
+
+                             START 2
+                               |   ____ArmPad
+                               |__|
+                               |  |         END 2
+                               |__|-70 GP     |__
+                               |                 |
+                               |_____            |
+                                     |           |
+                                     |   Cure    |
+                             F.Stn. -|____|______|
+
+
+             2:00F  Boss: Knight
+             -------------------                HP: 390 | EP: 700 | GP: 500
+             Note that when you defeat the Knight you will never be able to
+             visit Nanai again. At level 10 you'll probably have this
+             battle underhand, Though I could manage it at 8. The lower the
+             level is the more strategy you need.
+               You should need about 9x Herb for this battle, because the
+             boss will use T.Bolt to gradually decimate your HP (but only
+             use a herb at half HP).
+               When the boss gets its second wind you'll need to heal more
+             often. The Knight's attacks will be weaker but he doesn't have
+             a lot of HP left. In this period he'll also heal himself a lot
+             -- but don't let this change your behaviour as it's a sign
+             that you're nearly there!
+               There is a 13.28% chance of the Knight dropping an F.Stn.
+
+             2:00G  Travelling to Winlan
+             ---------------------------
+             To reach this city you will need to head far west, past the
+             ruins of Nanai, then north. There is a cave nearby but you
+             will have to speak with the royalty of Winlan to gain admiss-
+             ion there.
+
+             2:00H  Winlan Shops & Exploring
+             -------------------------------
+             For equipment the best is Bronze Sword and Chain Mail; at the
+             item shop you should probably get your basic healing gear.
+             Search the drawers in houses to get some items. And DON'T go
+             in the river unless you want to swept outta the city pronto!
+
+             2:00G  Winlan Castle
+             --------------------
+             Save before you do anything in here, for you won't be playing
+             as Ryu for a while, but Princess Nina. Talk to the guards on
+             either side of the woman to get some chests that are locked
+             up; walk past them to leave the castle. You might want to
+             purge the castle of chests before you leave as the dungeons
+             ahead are pretty gruelling. You'll also want to buy some new
+             equipment. PS: You'll be getting 2 new temporary party members
+             who use the same equipment as Ryu in the next section.
+
+             2:00H  Aura Cave
+             ----------------
+             I have a few tips about this dungeon; leave bridges and stairs
+             for last and it'll take less long to realise that you need to
+             go back for certain chests. Oh, and make sure you get an item
+             called Iron Ore [or I.Ore for SNES version]; you'll need it
+             later on.
+
+             2:00I  Going through Romero
+             ---------------------------
+             For the jar puzzle in the hideout make sure you push the first
+             jar to the right and the rest should be easy; the Map is in
+             the barrel. You need to get on the other side of the town and
+             to do that, take the westernmost exit; you'll on the world map 
+             and be able to continue left.
+
+             2:00J  The Ramui Woods Maze
+             ---------------------------
+             This er...dungeon can be the most befuddling in RPG history,
+             but it's not even a maze! If you stick to the main path and go
+             pretty much in a strait line through the forest you'll get
+             through fine. Think of it as being divided into two distinct
+             east and west sections; the east section contains a chest in
+             its north; the west section has four sub-sections, three
+             contain a chest and in one there is the exit...there's more to
+             it than that... There quite a few chests to be found if you
+             want to stick around and level up a bit.
+
+             2:00K  Karma Tower Entrance
+             ---------------------------
+             It first it may seem confusing where you should go first;
+             there are stairs going up and down as well as a boss blocking
+             the passage; do the stairs first.
+
+             2:00L  Boss: Morte
+             ------------------                 HP: 120 | EP: 280 | GP: 200
+             Give the boss a caution-attack combination (but not so much
+             caution, as there's a healing spring nearby and you don't
+             want to use too many items!) -- don't get the girl to attack
+             as her weakling moves aren't worth the time wasted on them.
+
+             2:00M  Climbing Karma Tower
+             ---------------------------
+             The maze has onion-like structure where you will be moving up
+             and down stairs all the time; when you enter a floor all the
+             leads on your side will lead nowhere; there are two floors
+             that are like this. There are holes that fall through to the
+             bottom of the tower but only one of them leads anywhere useful
+             -- where there are four holes, enter the on the upper right.
+
+             2:00N  Boss: Mortea
+             -------------------                HP: 230 | EP: 280 | GP: 200
+             Like last time Nina should be in supportive or defensive pos-
+             ition. Be very wary of Mortea whittling down your HP and tak-
+             ing advantage of an [even momentarily] weakened character.
+             Don't think you've won when the boss's HP is nearly out -- at
+             this point he'll get a second wind; he'll take quite long to
+             flick off and also be twice as damaging to your characters.
+
+             2:00O  Twin Tower
+             -----------------
+             At the top of the twin tower are a save statue and healing
+             spring, so take advantage of those. You'll need to step on
+             one of those buttons before you go down too.
+
+             2:00P  Boss: Wizard
+             -------------------
+             You can't win this. This is a dead end in the game. No go.
+             Thankfully, you can have one of your party members go for help
+             if you choose the escape option...
+
+             2:00Q  Humanity Saves the Day!
+             ------------------------------
+             As Ryu you'll be able to go back to the same place; note that
+             if you go west of where you can see the boss there's a chest
+             there that heals HP and MP and gives you a Rang; kind chest,
+             isn't it.
+
+             2:00R  Boss: Wizard
+             -------------------
+             HP: 180       Like the Knight before him, Wizard knows the All
+             AP: Infinite  Powerful 10 HP expelling thunder bolt spell, but
+             Atk: 40       don't let that perturb you, you're doin' great!
+             Def: 24       He has more HP than the last boss, but Ryu is
+             Act: 60       much stronger than the soldiers you used to
+             Wis: 128      fight the morte brothers.
+             EP: 1,000
+             GP: 700
+
+             2:00S  Back in Winlan......for the Last Time?
+             ---------------------------------------------
+             If you explored the castle you should know where the king is.
+             Nina is beside his bed you you'll have to talk to her to cont-
+             intue the story (not that there are any side-plots to be conc-
+             erned with anyway, Breath of Fire being a simple RPG and all).
+             Now you can take the eastern exit to the bridge. I don't
+             think you can take those chests now.
+
+             2:00T  Tantar the Remote
+             ------------------------
+             Go south along the road that you meet upon leaving the bridge.
+             There is a forest along the way but you can't enter it yet.
+             Tantar is the only place worth going at the moment. If you've
+             go Iron Ore [which is found in Aura Cave if you haven't got it
+             already] the smith in Tantar will trade it for a Saw.
+
+             2:00U  Lament Woods
+             -------------------
+             Go to that forest you couldn't enter before... Now you have
+             the saw, that stupid tree is no problem [no offence to trees].
+             What you have here is a short maze with three chest areas, one
+             to the south-east, one to the north-west and another to the
+             west mid-range. To get to the end you'll have to take the path
+             to the very north and follow it east; it's quite close to the
+             chest in the north-west as well.
+
+             2:00V  How to Survive Dark Dragon's Fort
+             ----------------------------------------
+             There are various traps throughout this dungeon which will
+             take you to rooms with treasure chests in them [which may
+             become annoying after you've opened all the chests]. Most of
+             the time it happens when you walk under one of those bat
+             things but it'll also happen without a bat if you take the
+             lower routes in the entrance floor. Keep your HP up, as there
+             are easy yet frequent semi-bosses in this fort, and there's
+             even a chest that takes 50 HP from your whole party [I was
+             killed by this once, no kidding].
+
+             2:00W  Boss: Pog
+             ----------------                 HP: 280 | EP: 1,400 | GP: 800
+             The red head shoots balls of flame and the blue one is charged
+             with electricity! Ryu's a fighter, Nina's a healer, so the
+             assumption is logical.
+               If you want you can skip the battle if you answer "no" to
+             the imposter chief's question enough times, but the next boss
+             battle will be harder.
+
+             2:00X  Filler 1: Names, names, names
+             ------------------------------------
+             You'll notice that the names in Breath of Fire seem to have
+             very obvious meanings. Winlan is simply a shortening of "wind
+             land." Morte, Morteo and Mortea all come from the same French
+             word "morte," meaning "death" [which doesn't seem that obvious
+             but you would see if you looked in any decent dictionary].
+
+             2:00Y  Boss: General
+             --------------------             HP: 250 | EP: 1,120 | GP: 300
+	         Not another battle! This time you get support, and he can use
+             a spell that the enemy is weak to! Be careful to have Nina
+             keep Bo's HP up though...
+
+             2:00Z  Investigating Romero
+             ---------------------------
+             With Bo in the lead, you can *walk through* most forests. That
+             means you can get to Romero without having to go through Win-
+             lan and Aura Cave [for those who don't know where to go, it's
+             the forest north of Winlan which you must enter from the east.
+             The folks of Romero will tell you how to reach Agua [which is
+             the floating tower west of Romero...] ...if you get rid of
+             their zombie problem. There's a cave to the south west which
+             is surrounded by forests and a moat where you can get the wat-
+             er, but you need a jar first! That you can get from the old
+             geezer standing around in Romero cemetery...but! [there's al-
+             ways a trick] you must talk to him in day-time, *then* night-
+             time.
+
+             2:01A  The Ease Cave Water Spring
+             ---------------------------------
+             Directly south of Karma Tower [that place where you fought the
+             wizard who used Zeon Gas] is your next dungeon [beware the
+             Mages!]. Like other BoF mazes it seems the direct approach
+             will get you through to the end the quickest way with all
+             cardinal turn-offs leading to chests with dead ends except in
+             the third floor where you must choose between two sets of
+             stairs; the northern one leads to a chests and the south stair
+             to the springs.
+
+             2:01B  Going to Agua...or is it...Agua Tower!
+             ---------------------------------------------
+             Now you have the Tablet you can use it on that place west of
+             Romero and east of Karma Tower where nothing happened before.
+             Of course, nothing's as easy as it seems and you have a whole
+             tower-maze before you. Though it's done in a fun way and the
+             monsters aren't too tough. It's easy to predict where the mov-
+             ing platforms go and so where to move.
+
+             2:01C  Boss: Wisp
+             -----------------                HP: 730 | EP: 1,200 | GP: 300
+             Stronger and quicker than your last boss, the only difference
+             is that you'll need to be well stocked with curing items and
+             have full AP. Nina can use her supportive spells on Ryu and Bo
+             while they attack and cast offensive spells. After this battle
+             you will be able to operate the stone robot over east-way.
+
+             2:01D  Enter the Giant
+             ----------------------
+             The giant is located about as far north above Tantar and Tunt-
+             ar as you can go in this continent. This is no maze, and as
+             such there is no need to give you a stratagem for it.
+
+             2:01E  Boss: General & Lancer 2x
+             --------------------------------
+             Look who's at it again! And they're just as weak as they were
+             last time you fought them. It's no reason to be too complacent
+             though.
+
+             2:01F  The Giant's Teleport Platforms
+             -------------------------------------
+             The first teleport other than the one right in front of the
+             giant's heart leads you to a place with three teleport units.
+             Every time you see three units it will be the same story; the
+             first one takes you back to the beginning again, the second
+             leads to a chest and the third to a new set of teleports.
+
+             2:01G  The Lake Caves
+             ---------------------
+             You can't really enter the Lake Cave until you get the key for
+             it; that you can get from the Elder of Tantar village. In
+             these caves you'll have to go down a series of waterfalls to
+             get the key.
+
+             2:01H  The Wedding Crusher
+             --------------------------
+             Everyone's in Tantar, ready to celebrate Terry and Amelia's
+             union as soon as you enter the mayor's house -- Tuntar is tot-
+             ally empty! Well, enjoy...
+
+             2:01I  Boss: Gremlin
+             --------------------           HP: 1,200 | EP: 1,400 | GP: 800
+             You will need to do the teleport maze again and confront the
+             General [who it seems is your rival...but why?]. Gremlin is
+             weak to Fire type attacks. Bo is usually weaker than the other
+             two, so cast protective magicks on him. Gremlin is much str-
+             onger in his limit break form, so be careful of that.
+
+             2:01J  Boss: Talon <side-quest>
+             ------------------                 HP: 700 | EP: 400 | GP: 190
+             There's a Dragon Training Hall just south of the Volcano where
+             Ryu can gain three shiny new spells! Even though it's a one-on
+             -one battle you'll probably find that it's not hard. I won at
+             level 17 and Ryu was twice as strong as his enemy.
+
+             2:01K  Under Lock and Key in Auria
+             ----------------------------------
+             What a weird town. Every time a soldier sees you you get
+             thrown in jail and have to talk to the sleeping guy to get out
+             again [there's an item in the sink btw]. If you give the guy
+             in the second floor of the item shop an vitamin he gives you
+             loads of money [must've been a pretty *bad* illness *snicker*]
+             You also get a lot of money from getting Nina to heal the man
+             in the north-western house; you'll also have to get her to
+             open the chest there or you'll be thrown in jail *again.* And
+             you'll get ill if you eat those potatoes! In the house
+             opposite there's an accessory in the closet which gives its
+             wearer 10+ intelligence. Oh, and if you talk to the man who
+             owns the mansion to the north after talking to the guy at the
+             dock you'll see a scene [sorta].
+
+             2:01L  The Fairies and the Cutting of their Trees <side-quest>
+             -------------------------------------------------
+             This will involve quite a lot of to-ing and fro-ing from Auria
+             to the fairy woods near the dragon training centre. 1) Talk to
+             the fairies in their wood [you'll need Bo to get there] and
+             the pattern of flowers on the world map that looks like a
+             square; 2) Talk to the woman in the mansion to the north-west
+             in Auria; 3) Go back to the fairy woods and tell them you'll
+             revert that bad boy's habits for good; 4) Go and talk to the
+             boy; 5) Return to the mother; she'll give you 20,000 G.
+
+             2:01M  Getting the Icicle in Bleak
+             ----------------------------------
+             To cross the next geological barrier in this game you need
+             something cold to survive the heat of the dessert at the end
+             of the cave south-west of Bleak. Quest mostly spent in Auria.
+             There's this guy in the main building of Bleak who'll give you
+             the Icicle if you give him a Gold Bar first. G.Bars can be
+             bought in the shop in Auria, but at a premium. I'll give you
+             an overview of good ways to earn money... 1) In Bleak, accept
+             the offer from the man at the inn for a free night's lodging &
+             he'll try to steal your Pouch [which you have to buy from
+             Auria item shop] but end up giving compensation; 2) Give
+             Vitamin to man on second floor of item shop in Auria; 3) Have
+             Nina cure a man in one of the Auria mansions; 4) Sell the Gold
+             Tiara you found in the rich man's house as it's useless any-
+             how....
+
+             2:0AA  See Chun-Li from Street Fighter <side-quest>
+             --------------------------------------
+             There's a guy in Bleak you offers to show you a magic trick
+             for 100 G. Say YES to him the first 2 times and every other
+             option say NO and you'll see Chun-li doing her "Lightening
+             Kick."
+
+             2:01N  Boss: Sand Worm
+             ----------------------       HP: 1,600 | EP: 1,200 | GP: 1,200
+             What you really want to do is enter the building just south of
+             the dessert village but first you need the Fife, and the mayor
+             of Arad is only willing to give it to you if you defeat a
+             monster that has been plaguing the village at night [yes, I
+             know they say the full moon but sound familiar don't it?]. So
+             you have to mosey up to the conspicuous stone tablet at night
+             and fight the damn thing.
+             It's amazing how weak the Sand Worm is to magic, especially
+             of the thunder variety. Ryu's dragon form really made this
+             battle work for me.
+
+             2:01O  Uncovering the Krypt
+             ---------------------------
+             This is a rather curious dungeon; in the first major floor you
+             are likely to fall into an expansive room the size of the
+             whole dungeon with nothing but a couple of staircases you can
+             not go on. My tip is to hug the sides of the platforms and
+             avoid going into open spaces. Every chest has a trap in it, so
+             come prepared with heaps of curing items. The rest of the
+             dungeon is made easier with a new party member in the lead. Or
+             you could just investigate the locations of the chests later
+             [with Karn in the lead you won't be falling into traps without
+             meaning to]. In the final chamber there are many caskets that
+             need to be tested for the scroll. The one you need is on the
+             bottom left hand corner of the chamber.
+
+             2:01P  Boss: Eye Spy
+             --------------------         HP: 1,600 | EP: 2,800 | GP: 2,800
+             Al-righty, start the routine; Ryu transforms into thunderdrake
+             Nina casts support spells, Bo casts Fry, etc. When Bo has run
+             out of AP just go into Automatic Battle and Ryu will kill the
+             beast for you.
+
+             2:01Q  New Doors to Open <side-quest>
+             ------------------------
+             - The locked chamber in Winlan castle just before the bridge.
+             - On the top floor of Agua Tower there's a section you
+               could not go to before. In the chamber with the statues of
+               dragons you can examine them to get some really awesome
+               equipment.
+             - Various doors in the Bleak-Auria Passageway.
+
+             2:01R  L. Keep [east of Bleak]
+             --------------
+             This tower has a lot of treasure but your main headache [other
+             than monsters] will be knowing where to go. Clues can be taken
+             from what kind of stair you see near a chest, whether it goes
+             up or down. That helps a lot.
+
+             2:01S  Boss: Cloud
+             ------------------           HP: 1,400 | EP: 4,800 | GP: 1,200
+             Name sound familiar? Hehe. Anyhow, your only chance against
+             this enemy is turning Ryu into a Snow Dragon. After the battle
+             you'll be able to get the Mirror item.
+
+             2:01T  Boss: Knight & Archer
+             ----------------------------
+             With Karn on board you can finally get into that safe in the
+             big mansion. You'll find the long awaited Lt.Key at the top of
+             the tower. The battle takes place at the dock but is easy;
+             Thunder Dragon and Fry should work fine.
+
+             2:01U  The Rocks of North Peninsula Cave [north of Auria]
+             ----------------------------------------
+             If you give Gobi on the dock a gold bar, in return he'll give
+             you an item that will allow you to blow up the rocks in the
+             cave to the north. You should have found a gold bar in a chest
+             up to this point.
+
+Note: You might want to deposit all your money at this point, as not far in
+  the distant future you will be in control of a single character who dies
+  very easily and the easiest way of getting to the next town is dying [but
+  you lose 25% of your money].
+
+             2:01V  Battles in the Secret Base & Dark Dragon Ship
+             ----------------------------------------------------
+             To continue the story you'll have to fight ever boss here.
+             Most are easy mini-bosses and there's a formal boss who is
+             weak to thunder. Boss: Squid.
+                   HP: 1,000 | EP: 6,000 | GP: 4,200.
+
+             2:01W  Boss: Octo
+             -----------------            HP: 1,000 | EP: 6,000 | GP: 1,500
+             After taking the ship from the dock in Auria you have to fight
+             a series of easy battles, then fight the boss. Keep your str-
+             ength up and don't waste any MP! Like Squid [or any aquatic
+             creature] the octopus is weak to thunder.
+
+Note: Don't worry about the money Gobi charges, you'll get it later.
+
+             2:01X  Hunting for Gills
+             ------------------------
+             With Gobi you can enter the ocean via beaches, and you can't
+             go far. To the west is Prima and the north, a volcano dungeon
+             that's not worth breaking your teeth on at the moment. Prima
+             has many shops with some things at different prices [so it
+             pays to shop around and be cautious with your gold].
+               To get to the town of Gant go south of Prima and continue 
+             south over land until you reach the town [if you go north at
+             that juncture there's only a weapons collector who says he's
+             never seen the B.Rang]. There's a man in Gant who'll ask you
+             to deliver some Goods to Prima and when you do so, you are
+             given the gills. Congratulations!
+               When you get back you'll have to fight Mortea [an easy boss]
+             then you'll get a new party member that can break down weak
+             rock walls.
+
+             2:01Y  Gobi's Shop <side-quest>
+             ------------------
+             Unless you already know, you can actually get Gobi to trade
+             his wares at a shop in Prima! The following is a chart of all
+             the things on offer and how many offers given (though the
+             availability will change throughout the game):
+
+                      Rarity  1st    2nd    3rd   Usual Price
+             F.Stn    ?       12     11     10    ?
+             LightRP  ?       48     36     28    ?
+             Smoke    ?       60     45     35    ?
+             Antdt x9 ?       80     60     45    ?
+             ProtnB   ?       180    165    150   ?
+             Rod2     ?       1,200  1,100  1,00  ?
+             Cure2    ?       1,950  -      -     ?
+             SteelBW  ?       2,400  2,200  -     ?
+             HuntGL   ?       2,700  2,475  2,025 ?
+             MetalAR  ?       5,400  4,050  3,150 ?
+             ThundrRP ?       5,400  4,050  3,150 ?
+             SilverDR ?       6,000  5,550  5,000 ?
+             AngleRP  ?       18,000 16,500 -     ?
+
+
+             2:01Z  Rock Walls to Break after You've got Oxi <side-quest>
+             ------------------------------------------------------------
+             - First floor of Agua Tower [you need Tablet].
+             - Auria-Bleak Passageway.
+             - Third floor of Krypt where you can get the B.Rang [erm, just
+               don't forget the Fife!].
+
+             2:02A  Hidden Fort
+             ------------------
+             You can now go to that place that was completely blocked by
+             rocks. This dungeon is full of mini-bosses yet you can still
+             avoid them by breaking down certain walls.
+
+             2:02B  Just Use Your Head and an Egg!
+             -------------------------------------
+             Nabal is your next primary destination but you can't enter
+             until your forces have strengthened. If you got the B.Rang
+             from Krypt using Ox's breaking ability al that can be sorted
+             out! But its broken, so take it to the blacksmith's in Gant
+             [you may have to talk to that old guy in the settlement a long
+             way east of Gant first] then talk to the weapon collector.
+             Or you may only have to repair the weapon.
+
+             2:02C  Boss: Grim Fowl
+             ----------------------       HP: 2,000 | EP: 4,200 | GP: 4,800
+             In the forest between the hidden fort and Nabal is an egg that
+             you can examine to initiate a fight. Basically what you're do-
+             ing here is taming a bird, and an easy boss at that.
+
+             2:02D  Herding a Flock of Birds to Nabal
+             ----------------------------------------
+             When you take the egg and leave the birds you may notice that
+             they seem to *follow* you! And they do! Make sure they are at
+             the end of your current party; only a couple will join at
+             first but the other two will follow if you go slowly; and take
+             a step or two back if they appear to be separating.
+
+             2:02E  Nabal Fort
+             -----------------
+             You don't need to worry much, because most enemies have their
+             full concentration on attending to their guests, your new pets
+             -- but it's helpful to note that if you push the right pot of
+             two just before the staircase; hidden where it was is an item
+             and there's another in the other pot if you push it down.
+
+             2:02F  Boss: Slime X
+             --------------------
+             The only thing I need say that's any different about this is
+             that it will be useful to have Ryu equipped with B.Rang, as it
+             can hit multiple enemies.
+
+             2:02G  Oh, so that moving town in the Dessert is Wisdon is it?
+             -------------------------------------------------------------
+             Yes it it, first you need a certain statue, which, after talk-
+             ing to the laid up guy in Prima can be found under his bed.
+             The dungeon on the way to the sleeping sorceress is easy, only
+             I got stuck in the big chamber with four sub-chambers -- I did
+             not realise the exit was right above where you enter until I
+             went to Auria and back.
+
+             2:02H  Boss: Wisp, Cloud, then Myst
+             -----------------------------------
+                               Boss: Wisp | HP: 730 | EP: 1,200 | GP: 300
+                            Boss: Cloud | HP: 1,400 | EP: 4,800 | GP: 1,200
+                             Boss: Myst | HP: 1,100 | EP: 4,000 | GP: 3,600
+             Wisp and Cloud are easy as they were last time, but Myst is a
+             certifiable toughie -- with 1/10 of his HP left he'll cure
+             himself 2/10; luckily, his HP will disappear if you attack him
+             consistently.
+
+             2:02I  Undersea Volcano
+             -----------------------
+             This place is quite far north from Prima.
+             In the first floor you need to go all the way east, opposite
+             for second floor and again east for third. Each floor seems to
+             go in a circuit, so be careful to note where certain weeds are
+             so you don't go back to one place too many times.
+
+             2:02J  Boss: Pincher
+             --------------------
+             One major advantage you have with this battle is Bleu's Boom
+             spell which takes over 100 from Pincher's HP [and there's not
+             much of it, so all you need is three hits]. Though Ryu in his
+             dragon form can take *far* more. You will need to take nearly
+             400 HP to get this boogie over the brink.
+
+             2:02K  The Sphere of the Ocean
+             ------------------------------
+             Talk to the guy in the Prima guild and he'll give you such a
+             great item. Now whenever Gobi presses A you can go anywhere in
+             the ocean, even across the big void next to the undersea volc-
+             ano. By the way, after you do this you'll get different items
+             via Gobi's shop.
+
+             2:XXA  Back to Gobi's <side-quest>
+             ---------------------
+             Take Gobi behind the counter of his shop in Prima or Tunlan
+             and you can find some great bargains, but you better hurry
+             'cos there's limited time. Hold your horses, however, as most
+             of the time you can get a better deal by refusing the first
+             time; this seems to most frequently the case with Cure 2.
+
+               - DarkDR: Decent weapon for Karn and Ryu/Zack. If you don't
+                 need it you can still make a profit when it's sold.
+               - Sleeper: Gobi's best weapon.
+               - AgileHT: Okay equipment for the moment.
+               - AngleAR: Get it for Nina [and Bleu when whe joins].
+               - Cure 2: My personal favourite item! You can get great
+                 deals on these.
+               - G-Tiara: Refuse three times. Lowest price is 7,000 GP
+                 which you can exploit in some of the more expensive shops
+                 in Prima or Tunlan.
+
+             2:02L  Tulan and the Best Rod Ever!!! <side-quest>
+             -------------------------------------
+             Tulan is on an island almost directly west of the gap in the
+             ocean next to the undersea volcano. One [rather odd] thing you
+             will encounter in the town's mansion is a whole lotta treasure
+             surrounded by guards who'll throw you into holes if you try to
+             get at it. It's not what it used to be like for thieves! Take
+             the left one [you'll get nothing with the right]. In this room
+             you *can* push a crate to fall down yet another hole, but if
+             you examine the crate on the bottom right hand corner of the
+             place you'll get a Rod5!
+
+             2:0XA  Fishing Spots and their Catches <side-quest>
+             --------------------------------------
+             Bay east of Tunlan [lots of fish varieties available to catch]
+             Hole east of Tunlan [nothing special]
+             Hole east of Arad and Wisdon [nothing special]
+             Hole past mountains east of Romero [Dragon Shield found here!]
+             Pond in Spring [Dragon Armour found here!]
+             Stone well west of Tantar [contains Slab].
+
+             2:0XB  More training for Ryu <side-quest>
+             ----------------------------
+             Below the mountains south-east of the hidden fort and Nabal
+             castle is another Dragon training centre where you fight a
+             similar enemy you did last time [but only if you've got the
+             Dragon Shield].
+
+             2:02M  Gust: A Bridge to Scande...not yet!
+             ------------------------------------------
+             To get to gust from the ocean deep, just swim west until you
+             reach the other side of the continent and follow the coast
+             north until you get to a beach. The weapon shop in Gust has
+             some great buys including a Moon Bow for Bo.
+
+             2:02N  Karn learns Gebo <side-quest>
+             -----------------------
+             One of the houses in Gust have a crate that if you push it,
+             you fall into a hole. There's a wizard there you will teach
+             Karn a unique spell if you can push the pots out of the way to
+             get to him. First you should get the first two of them out of
+             the way by pushing them left or right. The three pots in a row
+             all need to be pushed out of the way, but how? You need to
+             push two while also making room for the third; the way you do
+             this is push the ones an the left and right sides forward then
+             push the one in the middle to the left or right.
+
+             2:02O  Curse of the Dark Dragon Flower
+             --------------------------------------
+             North of Gust is a dungeon where you'll have to fight heaps of
+             Rogues and finally their boss. You'll also have to fight some
+             cockroaches to help the mice and revert to your usual form.
+
+             2:02P  Exchange between Human and Frog
+             --------------------------------------
+             You need the oil of a frog and I know where you can get it,
+             but before you rush off to the little cave not far away from
+             Tulan island consider this; *what do the frogs what from you?*
+             There's a small cave in Gust where a Giant Fly lives, and if
+             you can kill it I'm sure those frogs would be in your debt! It
+             is not a very easy monster [even using cheats, the game froze
+             up...] as each of its hits will take most of a character's HP
+             but if you heal and attack often you're sure to succeed!
+
+             2:02Q  Destruction of the Poison Flower
+             ---------------------------------------
+             Once you take the oil to Bleu and go towards the "lab." again
+             you'll have to fight yet another boss. FlowerX is Pretty hard
+             considering; have antidotes on hand and throw all the fire you
+             can at the fiend!
+
+             2:02R  The Old Man's Flute
+             --------------------------
+             In one of the houses is an old man who's just been cured of
+             the illness of the death flower and if you talk to him you can
+             get a special item from "underneath" his bed!
+
+             2:02S  Mogu's Curse
+             -------------------
+             There will be a few fights on the way out of Gust but you'll
+             get there...eventually. West of Gust bridge is a village of
+             moles. They request that you take a certain item to Tulan
+             [first I think you need to get a special flute called the
+             Maestro from some old geezer in Gust you you won't be able to
+             understand the people of Tulan, or maybe it's the Cowl that
+             does it...]
+
+             2:02T  Getting the Bolster
+             --------------------------
+             The Princess of Tunlan has an item that'll enable you to enter
+             Mogu's dreams and help him, but she's not willing to help you!
+             Ironically she has some markings on her shoulders that will
+             help you do it anyway, and the only way of seeing those mark-
+             ings is watching her bathe at night. The small chamber with
+             the two sets of stairs in it contains a crack, luckily, which
+             you can use to slip into the princess' chamber at night and
+             take a peek. "Blue, red and white from left to right," it
+             says when you do. When you go back to the old woman a fight
+             ensues, but after that you can take the Bolster from the chest
+             farthest the right [just be careful -- there's a trap right in
+             front of it that not even Karn can avoid so take it from the
+             left].
+
+             2:02U  Mogu's Chaotic Dream World and the Tower
+             -----------------------------------------------
+             This is a pretty cool place. Items and healing are really
+             cheap and there's a house full of food [not that you can get
+             to it...or that it'd be useful anyway.] The tower has green
+             and pink switches that change the way you see the dungeon. The
+             pink ones allow you to see it as it really is rather with the
+             green ones you only see the floor. To get to the boy take your
+             first left and continue until you meet the green switch and to
+             make it easy, continue until you meet the pink switch then go
+             back to the turn-off you went past; it will lead you to the
+             boy more or less. Even if you accept to fight the him [and you
+             can't win] you can still run from the battle.
+
+             2:02V  Turning the Mindless Group into the Resolved Individual
+             --------------------------------------------------------------
+             South of the dream town is a cave where Courage is hidden. You
+             will need to cross a minefield of bones and ghosts to get
+             there though.
+
+             2:02W  Facing his Demons
+             ------------------------
+             The second and third floor mazes are a little tougher. For the
+             second there are two main chambers with staircases in them and
+             you begin in the one to the right. In the third floor you'll
+             need to follow a path to the east, making sure that you enter
+             a [slightly] disguised path to the right which will take you
+             where you need to go.
+
+             2:02X  Boss: Mothro
+             -------------------          HP: 3,500 | EP: 6,000 | GP: 8,000
+             With this enemy's poison and stop attacks as well as the
+             occasional killer attack you really need to supervise this
+             battle.
+
+             2:02Y  Places to Dig
+             --------------------
+             - Gramor plains [mostly worms but you get a few Lifes too].
+             - On the hills near Camlon you'll another guy to teach Karn.
+             - In the hills north-east of Tantar you'll find some items.
+             - A digging site just north of Auria with worms and charms.
+             - Quite a few places east of Carmen.
+
+             2:02Z  About to Spring and Spyre Tower
+             --------------------------------------
+             South of Gramor is a cave that leads to a town and a tower
+             [you have to dig to get into the tower]. It's an easy dungeon
+             in terms of maze cracking until you get near the very top with
+             the single line in darkness... It's hard to give a guide but I
+             can give you advice; Every button will have a little moving
+             thing to help you get your bearings as well and where your
+             character is pointing helps too. In the next puzzle maze foll-
+             ow these steps (there are traps all over the place, so use
+             Karn); [1] take the right set of stairs, [2] walk to the east-
+             ern wall, one step away from the south-easternmost corner; [3]
+             take the bottom right stair of the four grouped here.
+
+             2:02Z  Boss: Mote
+             -----------------            HP: 3,500 | EP: 5,400 | GP: 6,000
+             His worst attack is Inferno, so try to use equipment that pro-
+             tects against fire. One thing you should use to your advantage
+             is that this boss's image can become clearer or more grainy at
+             various stages; when clear he is weak against magic, when
+             blurry only attacks will work. So you should have a balanced
+             team for this.
+
+             2:03A  Tick Tock
+             ----------------
+             Your next area is accessible via the waterfall in Spring. The
+             tower on the big hill east of Carmen is one big puzzle area
+             and you'll have to go to the top twice. Those arrows are funny
+             ...
+
+             2:03B  Boss: Cerl [the Surly ^_^]
+             -----------------            HP: 3,500 | EP: 8,000 | GP: 9,000
+             Yeah whatever... This boss is so easy that you can probably
+             even put your characters on auto-pilot. For any battle
+             my personal favourites are Ryu, Nina, Bleu and Karn.
+
+             2:03C  Softening Cerl's Heart with an Apple
+             -------------------------------------------
+             Alan speaks of a town he and Cerl used to live in and a fruit
+             that she liked. Using Ox one can get this fruit from the tree
+             next to the ruined village south of Carmen. Upon taking this
+             to Cerl you can finally get the Time Key! Woo hoo!
+
+             2:03D  Saving Carmen & the Nina Effect
+             --------------------------------------
+             After going up the blasted Tock tower *again,* you'll find
+             that there is a strange guy in Tunlan and Carmen, one next to
+             the dragon Shrine and other next to the easternmost house.
+             After the one in Carmen disappears examine where he stood.
+             Talk to the old man in one of the houses with the windmills in
+             them, exit, re-enter and talk again; he'll tell you to collect
+             some items for a special tonic which will be useful in curing
+             Nina's amnesia [she's the little girl who fell from the sky in
+             Tunlan]. When you've come back and got the tonic from him you
+             can give it to Nina in Tunlan!
+
+             2:03E  Collecting items for a Tonic
+             -----------------------------------
+             P.Fish: Fish on the end of the bridge in lake south of Carmen.
+             W.Ant: Find in the chest of drawers at Carmen inn.
+             C.Nut: Have Ox knock the palm trees surrounding Tunlan.
+             Root: Have Mogu dig under weird plants surrounding Gramor.
+
+Note: After you give the tonic to Nina in Tunlan the old items you got at
+      Gobi's shop will mostly be replaced with new ones, so organise your
+      affairs in that area before you continue please...
+
+             2:XXB  Back to Gobi's Again <side-quest>
+             ---------------------------
+             You should know by now about Gobi and his shops in Tunlan and
+             Prima. This is the final stage.
+
+             - PowerRP: Nina's most powerful weapon, yipee!
+             - MaskSH: One of better shields on offer.
+             - EvilRB: Good armour for Nina or Bleu.
+             - Mallet: Ox's best weapon.
+             - GlowCN: Bleu's best weapon.
+             - DwarfBW: Bo's best weapon.
+             - G-Tiara: Good for money-making.
+             - Cure 2 x9: This is actually Life x9.
+
+             2:03F  New Places you can Fly <side-quest>
+             -----------------------------
+             - Islands north of Romero.
+             - Dragon Shrine north of Gust.
+             - Mole hole on peninsula south of Scande.
+             - The home of a female weapon collector directly north of the
+               male one and on an island west of Tantar.
+
+             2:03G  Ryu learns Rudra Spell <side-quest>
+             -----------------------------
+             If you've fished out the Dragon Armour from the pond in Spring
+             you will now be able to go to the Dragon Shrine north of Gust
+             and put Ryu into some more training. I would suggest Bolt
+             Dragon for this [though even at level 25 it's cutting it
+             close].
+
+             2:03H  Get the Iron Claw
+             ------------------------
+             Remember that guy who was a weapon collector. Well, if you go
+             directly north of where he lives until you come to an island
+             that you couldn't reach until now you'll meet his female
+             counterpart! Go between them for a while [the chests must be
+             got via both their beds and by moving pots] and eventually you
+             will be given the I.Claw.
+
+             2:03I  Fixing the broken parts
+             ------------------------------
+             You'll be able to get into Scande if you have the Pass, which
+             is found in Carmen next to a water trowel. The elevator in the
+             tower is broken, but some guy in Spring has the parts and an-
+             other in Gant can fix them.
+
+             2:03J  Getting the D.Hrt
+             ------------------------
+             You will need to get this item from a girl in Tunlan [her
+             house is directly north from the entrance of the town] after
+             talking to the guy at the entrance of the tower. Hearing the
+             song will reduce Ryu's HP to 1 btw.
+
+             2:03K  Climbing Scande Tower
+             ----------------------------
+             This is a creepy place in terms of aesthetics but easy in term
+             of game-play. Chairs everywhere, evidence that people obvious-
+             ly visit...yet with the prison-like surroundings and levered
+             gaol bars all over the place...
+
+             2:03L  Boss: Zog
+             ----------------            HP: 16,000 | EP: 7,000 | GP: 7,000
+             My favourites for this battle are Ryu and Karn; the others I
+             merely use as Cure jockeys, because you do need to heal quite
+             often to win. I reckon Zog has over 3,000 HP in desperation
+             mode.
+
+             2:03M  Agua Tower and Beyond
+             ----------------------------
+             Now you can go past that area you that was barred before! How
+             Exciting! There'll be a teleport to a new dungeon which you
+             have to explore...
+
+             2:03N  Boss: Sara
+             -----------------           HP: 15,000 | EP: 8,000 | GP: 8,000
+             In her Dragon form Sara is one hellava monster! Keep strong,
+             heal often and you'll get there. 
+
+             2:03N  Teaching Mogu to use the Iron Claw
+             -----------------------------------------
+             If Mogu speaks with the master digger in Gramor he will learn
+             how to use the I.Claw [and so let you finish the game]. This
+             will be useful for the excavation cave in Scande and getting
+             into the obelisk [erm...they are the same place...]
+
+             2:03O  Ryu's Agni Spell <side-quest>
+             -----------------------
+             After fishing in the well west of Arad and getting the Dragon
+             Hat you can enter the Ease Cave to find a Dragon Shrine and
+             gain the ultimate power!
+
+             2:03P  Obelisk Maze
+             -------------------
+             You'll come to a place where you'll have to choose right or
+             left [choose the former rather than the latter]. In the next
+             juncture use the bottom one unless of course you want a Flame
+             HR. Where you meet that guy take the left turn.
+
+             2:03Q  Boss: Goda
+             -----------------           HP: 11,000 | EP: 6,000 | GP: 6,000
+             With Ryu's ultimate form you're virtually a boss-like monster
+             yourself; his desperation mode takes *ages* to overcome, about
+             6,000 extra HP you need to get rid of.
+
+             2:03R  Obelisk Maze continued
+             -----------------------------
+             You'll come to a platform where all transports lead to the
+             same place. The path is reasonably straitforward and your
+             target is the staircase in the middle of the room; go down the
+             next set of steps you find.
+
+             2:03S  Boss: Jade
+             -----------------           HP: 25,000 | EP: 8,000 | GP: 8,000
+             If you answer "yes" to Jade's question he'll get you to fight
+             a monster, after each battle if you press a button he'll ask
+             again and make you fight another monster if you say "yes." I
+             don't see the point of doing this other than getting 9,999 EXP
+             from M.Slime.
+
+             2:03T  Boss: Goddess
+             --------------------              HP: 16,000 | EP: 10 | GP: 12
+             The ending of the game depends on how you play this battle.
+             Before it starts she'll ask if you came here to have a wish
+             granted, so say yes to get healed.
+               During the battle, if you use Agni to defeat her you will
+             win the battle. The Goddess you defeat must look like a
+             mutated alien, her true form.
+               If you fail to use Agni and the Goddess still looks like a
+             deranged girl when you defeat her you'll get the bad ending.
+               This is one of those games where the end boss is actually
+             the hardest, especially after having fought a couple of
+             toughies beforehand... She becomes much easier when you use
+             Agni on her and she turns into her ugly form.
+
+ CONGRATULATIONS! YOU'VE COMPLETED THE FIRST OF THREE BREATH OF FIRE GAMES!
+         WILL YOU TRY YOUR LUCK AT THE NEXT ONE?? I KNOW I WON'T.
+
+
+    2:00  SIDE-QUESTS
+---------------------
+
+             2:01J  Boss: Talon
+             ------------------
+             There's a Dragon Training Hall just south of the Volcano where
+             Ryu can gain three shiny new spells! Even though it's a one-on
+             -one battle you'll probably find that it's not hard. I won at
+             level 17 and Ryu was twice as strong as his enemy.
+
+             2:01L  The Fairies and the Cutting of their Trees
+             -------------------------------------------------
+             This will involve quite a lot of to-ing and fro-ing from Auria
+             to the fairy woods near the dragon training centre. 1) Talk to
+             the fairies in their wood [you'll need Bo to get there] and
+             the pattern of flowers on the world map that looks like a
+             square; 2) Talk to the woman in the mansion to the north-west
+             in Auria; 3) Go back to the fairy woods and tell them you'll
+             revert that bad boy's habits for good; 4) Go and talk to the
+             boy; 5) Return to the mother; she'll give you 20,000 G.
+
+             2:0AA  See Chun-Li from Street Fighter
+             --------------------------------------
+             There's a guy in Bleak you offers to show you a magic trick
+             for 100 G. Say YES to him the first 2 times and every other
+             option say NO and you'll see Chun-li doing her "Lightening
+             Kick."
+
+             2:01Q  New Doors to Open
+             ------------------------
+             - The locked chamber in Winlan castle just before the bridge.
+             - On the top floor of Agua Tower there's a section you
+               could not go to before. In the chamber with the statues of
+               dragons you can examine them to get some really awesome
+               equipment.
+             - Various doors in the Bleak-Auria Passageway.
+
+             2:01Z  Rock Walls to Break after You've got Oxi
+             -----------------------------------------------
+             - First floor of Agua Tower [you need Tablet].
+             - Auria-Bleak Passageway.
+             - Third floor of Krypt where you can get the B.Rang [erm, just
+               don't forget the Fife!].
+
+             2:02L  Tulan and the Best Rod Ever!!!
+             -------------------------------------
+             Tulan is on an island almost directly west of the gap in the
+             ocean next to the undersea volcano. One [rather odd] thing you
+             will encounter in the town's mansion is a whole lotta treasure
+             surrounded by guards who'll throw you into holes if you try to
+             get at it. It's not what it used to be like for thieves! Take
+             the left one [you'll get nothing with the right]. In this room
+             you *can* push a crate to fall down yet another hole, but if
+             you examine the crate on the bottom right hand corner of the
+             place you'll get a Rod5!
+
+             2:0XA  Fishing Spots and their Catches
+             --------------------------------------
+             Bay east of Tunlan [lots of fish varieties available to catch]
+             Hole east of Tunlan [nothing special]
+             Hole east of Arad and Wisdon [nothing special]
+             Hole past mountains east of Romero [Dragon Shield found here!]
+
+             2:0XB  More training for Ryu
+             ----------------------------
+             Below the mountains south-east of the hidden fort and Nabal
+             castle is another Dragon training centre where you fight a
+             similar enemy you did last time [but only if you've got the
+             Dragon Shield].
+
+             2:02N  Karn learns Gebo
+             -----------------------
+             One of the houses in Gust have a crate that if you push it,
+             you fall into a hole. There's a wizard there you will teach
+             Karn a unique spell if you can push the pots out of the way to
+             get to him. First you should get the first two of them out of
+             the way by pushing them left or right. The three pots in a row
+             all need to be pushed out of the way, but how? You need to
+             push two while also making room for the third; the way you do
+             this is push the ones an the left and right sides forward then
+             push the one in the middle to the left or right.
+
+
+===========================================================================
+                                APPENDIX A
+===========================================================================
+
+      A:00  Character Information
+      ---------------------------
+       _____
+      | Ryu |___________________________________________________________
+      |_____| LV  | HP+ | AP+ | ST+ | VI+ | AG+ | WI+ | LU+ | New Spell |
+            |_____|_____|_____|_____|_____|_____|_____|_____|___________|
+            | 1   | 20  | -   | 10  | 10  | 8   | 12  | 12  | -         |
+            | 2   | 6   | 4   | 3   | 3   | 3   | 1   | 2   | -         |
+            | 3   | 5   | 2   | 1   | 3   | 2   | 2   | 3   | -         |
+            | 4   | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 5   | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 6   | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 7   | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 8   | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 9   | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 10  | 8   | 4   | 5   | 4   | 5   | 1   | 2   | -         |
+            | 11  | 8   | 5   | 3   | 4   | 4   | 2   | 3   | -         |
+            | 12  | 8   | 5   | 5   | 4   | 5   | 3   | 2   | -         |
+            | 13  | 8   | 5   | 5   | 4   | 4   | 3   | 2   | -         |
+            | 14  | 8   | 3   | 5   | 3   | 4   | 3   | 3   | -         |
+            | 15  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 16  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 17  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 18  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 19  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 20  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 21  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 22  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 23  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 24  | -   | 6   | 3   | 4   | 5   | 3   | 4   | -         |
+            | 25  | -   | 6   | 5   | 5   | 5   | 3   | 4   | -         |
+            | 26  | -   | 5   | -   | 4   | 5   | 4   | 5   | -         |
+      ______|_____|_____|_____|_____|_____|_____|_____|_____|___________|
+     | Nina | 5   | 36  | 45  | 10  | 24  | 35  | 38  | 30  | Cure      |
+     |______| 6   | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Lk-Up     |
+            | 7   | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Atk-Up    |
+            | 9   | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Cura2     |
+            | 11  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Hold      |
+            | 12  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Ag-Up     |
+            | 13  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Warp      |
+            | 14  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Zom1      |
+            | 15  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Cura3     |
+            | 16  | -   | 5   | 1   | 1   | 1   | 4   | 1   | -         |
+            | 17  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Renew     |
+            | 19  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Idle      |
+            | 21  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Shield    |
+            | 23  | -   | 8   | -   | 1   | 3   | 5   | 3   | Cura4     |
+            | 24  | -   | 6   | 2   | 1   | 3   | 5   | 2   | Zom2      |
+            | 25  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 26  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | FortX     |
+            | 27  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 28  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Hush      |
+            | 29  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 30  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Dispel    |
+            | 31  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 32  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 33  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 34  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | RenewX    |
+            | 41  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Wall      |
+            | 46  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | ZomX      |
+        ____|_____|_____|_____|_____|_____|_____|_____|_____|___________|
+       | Bo | 8   | 61  | 20  | 38  | 37  | 38  | 30  | 8   | -         | 
+       |____| 17  | -   | 2   | 3   | 4   | 4   | 1   | 1   | Life2     |
+            | 24  | -   | 3   | 3   | 3   | 4   | 2   | 1   | -         |
+            | 25  | 13  | 1   | 5   | 4   | 5   | 3   | 2   | -         |
+            | 26  | -   | 3   | -   | 4   | 3   | 3   | 3   | -         |
+      ______|_____|_____|_____|_____|_____|_____|_____|_____|___________|
+     | Karn | 12  | 116 | 53  | 38  | 34  | 69  | 42  | 51  | -         |
+     |______| 13  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | -         |
+            | 22  | -   | 3   | 1   | 3   | 6   | 4   | 5   | -         |
+            | 23  | -   | 3   | -   | 2   | 6   | 2   | 5   | -         |
+      ______|_____|_____|_____|_____|_____|_____|_____|_____|___________|
+     | Gobi | 15  | 90  | 48  | 35  | 40  | 32  | 49  | 69  | -         |
+     |______| 16  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Eco       |
+            | 17  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | EcoX      |
+            | 19  | -   | 1   | 2   | 4   | 1   | 4   | 2   | -         |
+            | 20  | -   | 3   | 1   | 2   | 3   | 4   | 4   | -         |
+            | 21  | -   | 3   | -   | 4   | 3   | 4   | 3   | -         |
+        ____|_____|_____|_____|_____|_____|_____|_____|_____|___________|
+       | Ox | 16  | 168 | 30  | 73  | 71  | 14  | 40  | 21  | -         |
+       |____| 19  | -   | 2   | 4   | 4   | 2   | 2   | -   | -         |
+            | 20  | -   | 2   | 5   | 3   | 3   | 2   | 1   | -         |
+      ______|_____|_____|_____|_____|_____|_____|_____|_____|___________|
+     | Bleu | 19  | 119 | 159 | 28  | 38  | 59  | 75  | 41  | F.Ball    |
+     |______| 21  | -   | 11  | 2   | 3   | 2   | 5   | 1   | LStorm    |
+            | 22  | -   | 11  | 3   | 1   | 4   | 4   | 2   | Chill     |
+            | 23  | -   | 9   | 3   | 3   | 3   | 5   | 2   | Flee      |
+            | 24  | -   | 11  | 2   | 1   | 2   | 4   | 1   | 9.5       |
+            | 25  | -   | 15  | 3   | 2   | 3   | 6   | 4   | Blast     |
+            | 26  | -   | 15  | 3   | 1   | 3   | 5   | 4   | Gale      |
+            | 27  | -   | 13  | -   | 1   | 4   | 5   | 4   | -         |
+            | 28  | -   | 13  | -   | 3   | 5   | 5   | 4   | Ice       |
+            | 29  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Char      |
+            | 20  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Nova      |
+            | 31  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | IceX      |
+            | 32  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | FireX     |
+            | 33  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Drain     |
+            | 35  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | BoltX     |
+            | 37  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | NovaX     |
+            | 40  | ?   | ?   | ?   | ?   | ?   | ?   | ?   | Comet     |
+      ______|_____|_____|_____|_____|_____|_____|_____|_____|___________|
+     | Mogu | 22  | 91  | 54  | 80  | 52  | 76  | 45  | 22  | -         |
+     |______| 23  | -   | 3   | 4   | 3   | 3   | 2   | 2   | -         |
+            |_____|_____|_____|_____|_____|_____|_____|_____|___________|
+
+     Ratings out of Five
+      ____________________________________________
+     | Character |HP |MP |Str|Vig|Agi|Wis|Lck| =  |
+     |___________|___|___|___|___|___|___|___|____|
+     | Ryu/Zack  | 4 | 3 | 5 | 4 | 4 | 2 | 4 | 26 |
+     | Nina      | 2 | 5 | 1 | 2 | 4 | 5 | 4 | 23 |
+     | Bo        | 5 | 2 | 4 | 5 | 4 | 2 | 1 | 23 |
+     | Karn      | 3 | 3 | 3 | 4 | 3 | 3 | 4 | 23 |
+     | Gobi      | 4 | 3 | 4 | 3 | 3 | 3 | 3 | 23 |
+     | Ox        | 5 | 3 | 5 | 3 | 1 | 3 | 3 | 23 |
+     | Bleu      | 2 | 5 | 1 | 3 | 3 | 5 | 5 | 24 |
+     | Mogu      | 5 | 3 | 3 | 3 | 4 | 3 | 3 | 24 |
+     |___________|___|___|___|___|___|___|___|____|
+
+
+             A:00A  Ryu/Zack
+             ---------------
+             The hero can learn his spells at various stages of the game
+             and only after completing certain requirements and defeating
+             the challenge in a Dragon shrine [Ryu only!]. They must be
+             done in order btw.
+
+              1. After you defeat Talon you can get SnoDr, FlmDr and ThrDr.
+              2. After you defeat Bain you can get IceDgn, FirDgn, BltDgn
+                 and GldDgn.
+              3. After you defeat Avian you can defeat Rudra.
+              4. In Ease Cave you can find the shrine in the underwater
+                 part and get Agni.
+
+              Ryu can also go fishing, as long as he's got a rod equipped
+              as a weapon and is in the lead of the party when you examine
+              a fishing well or beach with fish in it.
+
+             A:00B  Nina
+             -----------
+             This princess is a heavy magic-user and all her spells are got
+             via levelling up. Towards the end of the game she'll magically
+             grow up so you can fly on her!
+
+             A:00C  Bo
+             ---------
+             Bo learns virtually no new spells when you get him and though
+             he's useful at times to go through forests his main power will
+             be via Karn later in the game.
+               His special ability is to hunt all those animals that appear
+             on the world map at certain times of the day, netting you meat
+             and a couple of other things.
+               You can also go through forests with him in the front of the
+             party.
+
+             A:00D  Karn
+             -----------
+             Karn's spells involve transforming into two or more other
+             members of the party, giving all the weak characters except
+             Mogu a use... You can get the spells from side-quests only...
+             Everyone still gets the same EP at the end of the battle, and
+             while transformed outside of battle, Karn can use the other
+             characters' special abilities.
+
+             - Shin [Bo + Gobi]: Man in Gant.
+             - Debo [Ox + Gobi]: Man in Gust.
+             - Doof [Bo + Ox]: Man in dirt patch north of Camlon. Talk to
+               him with Mogu in the lead.
+             - Puka [Bo + Ox + Gobi]: House north of the Dragon Shrine
+               near bleak. Use Doof to push a big crate out of the way and
+               talk to the man there.
+
+               With Karn at the lead of the party you won't fall into any
+             traps or have to use keys to open doors/chests.
+
+             A:00E  Gobi
+             -----------
+             All of Gobi's significant abilities are non-battle related,
+             like being able to set up shop in Prima and Tunlan (just walk
+             up to the empty counter and press A), and being able to turn
+             into a big fish that everyone travels while in the ocean after
+             getting the crystal sphere.
+
+             A:00F  Ox
+             ---------
+             A physically strong character, Ox may have the might of the
+             aformentioned animal, but he also has the agility and intell-
+             igence of one.
+               His special abilities involve knocking things down, like
+             earthen walls in dungeons and fruit trees (coconut, apple...).
+
+             A:00G  Bleu
+             -----------
+             Bleu is the opposite of Nina, meaning the more you level her
+             up the more her repetoire of powerful offensive spells grows.
+             She's so good she doesn't need any special abilities, or maybe
+             Capcom were just lazy.
+
+             A:00H  Mogu
+             -----------
+             This character is like Gobi in the way he isn't great in
+             battle, but his dig abilities allow him to find items under
+             the earth (anywhere there are claw marks) and escape battles
+             easily.
+
+      A:01  Magic
+      -----------
+             A:01A  Magic Damage Ratings
+             ---------------------------
+             Note: Holy spells will only give damage if the enemy is undead
+
+             +30     - Cure
+             +100    - Cure2
+             +250    - Cure3
+             +250    - CureX*
+             +All HP - Cure4
+             -20     - Flare
+             -20     - Flare (fire**)
+             -25     - Spark
+             -30     - Ebb*, Cold, 3.5
+             -35     - Bomb
+             -37     - Spark (thunder**)
+             -40     - Flame (fire**)
+             -45     - Cold (water**), 3.5 (earth**)
+             -50     - EbbX*, 5.5
+             -52     - Bomb*
+             -60     - Flame (fire**), Frost
+             -70     - Eco*, Boom
+             -75     - 5.5 (earth**)
+             -80     - Fry, 9.5
+             -90     - Frost (water**), F.Ball
+             -95     - LStorm
+             -100    - EcoX*, Chill, SnowDr (1)
+             -105    - Boom (fire**)
+             -110    - Blast
+             -115    - FlmDr (1)
+             -120    - Zom (holy**), Fry (thunder**), 9.5 (earth**)
+             -130    - Gale, FlmDr (2), ThnDr (1)
+             -135    - F.Ball (fire**)
+             -142    - LStorm (thunder**)
+             -150    - Chill (water**), Ice (water**), SnowDr (4)
+             -165    - Blast (fire**)
+             -180    - Char (fire**)
+             -190    - ThnDr (2), IceDgn (1)
+             -195    - Gale* (thunder**)
+             -200    - Nova*
+             -210    - FirDgn (1)
+             -225    - Ice* (water**)
+             -230    - BltDgn (1)
+             -250    - IceX
+             -260    - FlmDr (fire-3)
+             -270    - Char* (fire**)
+             -285    - IceDgn (2)
+             -300    - ZomX (holy**), Nova* (fire**), NovaX, SnowDr (water-
+                       3)
+             -320    - Rudra (1)
+             -315    - FirDgn (2)
+             -345    - BltDgn (2)
+             -350    - FireX
+             -375    - IceX (water**), GldDgn (1)
+             -380    - ThnDr (thunder-3)
+             -400    - BoltX, Comet
+             -450    - NovaX (fire**)
+             -480    - Rudra (2)
+             -525    - FireX (fire**)
+             -570    - IceDgn (water-3)
+             -600    - BoltX (thunder**)
+             -630    - FirDgn (fire-3)
+             -690    - BltDgn (thunder-3)
+             -750    - GldDgn (2)
+             -960    - Rudra (thunder-3)
+             -999    - Agni
+             -***    - Sap (to HP)
+             -***    - Drain (to MP)
+
+               * Effects whole party
+              ** Effects enemies who have a weakness to the element shown
+             *** Damage is random
+             (1) Normal damage
+             (2) Normal damage & critical hit
+             (3) Normal damage, critical hit & enemy weakness
+
+      A:02  Special Abilities
+
+      A:03  Background (spoiler alert!)
+      ---------------------------------
+
+            A:03A  Ryu
+            ----------
+              Height: 160 cm (5'3")
+              Weight: 52 kg (114 lbs.)
+               Hobby: Fishing
+            Hometown: Drogan (change the "o" into an "a" and whaddya get?)
+                Past: He and his sister have lived in the town of Drogan
+                      Ryu's whole life. Their parents had died in the Godd-
+                      ess War that saw Zog take control of the world.
+                        Now the ruling clan of Dark Dragons have their
+                      sights set on defeating the clan of Light Dragons,
+                      who Ryu and his sister belong to.
+                        When they arrive they cast impenetratable fire on
+                      Drogan and the only person there with the power of
+                      the dragon is Ryu's sister.
+                        She turns everyone into stone so they can survive
+                      the burning flames and turn back to find their town
+                      in ruins but at least not to be captured by Zog's men
+                      ... but to draw their attention away from the others
+                      she had to allow herself to be captured.
+                        As the only Light Dragon left capable of taking on
+                      the Dark Dragons Ryu is the world's only hope of def-
+                      eating Zog...
+
+            A:03B  Nina
+            -----------
+              Height: 158 cm (5'2")
+              Weight: 45 kg (99 lbs.)
+               Hobby: Eating
+            Hometown: Winlan (wind land -- I can see it miles off)
+                Past: Nina is princess of the Wing Clan, which was peaceful
+                      and hid itself during the Goddess War. When she gets
+                      caught up in Ryu's quest she wants to come too!
+
+            A:03C  Bo
+            ---------
+              Height: 182 cm (6'0")
+              Weight: 87 kg (191 lbs.)
+               Hobby: Travelling
+            Hometown: Tantar/Tuntar
+                Past: Leader of the armies of the Forest Clan, Bo has
+                      fought the Dark Dragons on many occasions and been
+                      forced to retreat, and that is why he will join Ryu.
+
+            A:03D  Karn
+            -----------
+              Height: 154 cm (5'1")
+              Weight: 48 kg (105 lbs.)
+               Hobby: Collecting shoes
+            Hometown: Bleak
+                Past: As a young boy Karn was found and raised by the lead-
+                      er of the thieves in Bleak and has strived to become
+                      the best thief since then. That's how he met and join
+                      ed Ryu, Nina and Bo.
+
+            A:03E  Gobi
+            -----------
+              Height: 173 cm (5'8")
+              Weight: 110 kg (242 lbs.)
+               Hobby: Making money
+            Hometown: Prima
+                Past: Gobi's clan is the Manillos, who are fishlike and
+                      have a goal to take over the world in commerce. Gobi
+                      joins you in order to be able to get a sphere and be
+                      able to transform into a big fish so he can travel
+                      the ocean more quickly, for he was barred from using
+                      them by the clan, who agreed to lift it if he helped
+                      Ryu.
+
+            A:03F  Ox
+            ---------
+              Height: 250 cm (8'2")
+              Weight: 200 kg (440 lbs.)
+               Hobby: Cooking
+            Hometown: Gust?
+                Past: Ox's clan is the Iron Ogres, a large and powerful
+                      people who use their dextrosity to make weaponry and
+                      armour, although they are peaceful and would prefer
+                      making things like food implements.
+
+            A:03G  Bleu
+            -----------
+              Height: ??
+              Weight: ??
+               Hobby: Dreaming
+            Hometown: Unknown
+                Past: A sorceress famed by all the clans for being very
+                      powerful, yet she spends most of time in a deep coma,
+                      in a sleep she seems to enjoy greatly. Though she had
+                      to awake to lend her ability to Ryu.
+
+
+            A:03H  Mogu
+            -----------
+              Height: 83 cm (2'9")
+              Weight: 32 kg (70 lbs.)
+               Hobby: Ancient Studies
+            Hometown: ?
+                Past: Mogu comes from a clan of creatures who can...uh, dig
+                      really well. Ryu and co. come accross him because of
+                      a curse Mogu is facing that is related to their quest
+                      and after that Mogu is a lot of help when they're in
+                      Scande, for they have to deal with his secretive clan
+                      members.
+
+
+
+===========================================================================
+                                 APPENDIX B
+===========================================================================
+
+      B:00  Bestiary Index
+--------------------------
+      Note: Monsters are ordered in range of how their HP, EP and GP stack
+            up. For the sake of brevity any area on the world map that is
+            found to a near a town is referred to by that town. * Denotes
+            a dungeon within a town (which is often cleared of monsters
+            when you defeat the boss).
+
+      NORMAL MONSTERS  HP     EP     GP   AREAS                  WEAKNESS
+      ---------------------------------------------------------------------
+      P.Bug            8      5      12   Camlon, Nanai,
+                                          Karma Forest
+      ---------------------------------------------------------------------
+      Slime            12     1      3    Drogan, Camlon*,
+                                          Romero
+      ---------------------------------------------------------------------
+      Gloom            12     5      12   Camlon, Gaia Temple,
+                                          Aura Cave, Karma
+                                          Forest, Tantar/Tunar
+      ---------------------------------------------------------------------
+      Beak             14     8      8    Camlon, Gaia Temple,
+                                          Aura Cave, Karma
+                                          Forest
+      ---------------------------------------------------------------------
+      Flea             15     3      4    Drogan, Camlon*,
+                                          Romero
+      Bulla            20     3      4    Drogan, Camlon*,
+                                          Romero
+      Creep            25     8      8    Camlon, Nanai, Aura
+                                          Cave, Karma Forest,
+                                          Tantar/Tunar
+      Stool            25     40     20   Tantar/Tunar, Forest
+                                          of Despair
+      Zombie           25     70     36   Tantar/Tunar, Forest
+                                          of Despair
+      Spider           40     20     40   Karma Forest & Tower
+      S.Rider          45     120    90   Forest of Despair
+      Blurb            50     40     20   Tantar/Tunar
+      WarHog           50     160    80   Tantar/Tunar
+      G.Knight         50     100    200  Forest of Despair
+      Fishy            65     360    300                         Thunder
+      CactusX          70     360    270  Prima                  Thunder
+      Ameblob          75     60     45   Cleansing Water Cave   Thunder
+      CreonX           120    600    400  Prima                  Thunder
+      DogFish          140    560    160  Prima                  Thunder
+      Frog             180    500    350
+      Archer           180    560    180
+      AmeblobX         400    640    240  Underwater Volcano     Thunder
+      Blaze            400    860    360
+      Pincher          1,000  4,800  4,800                       Thunder
+      BlazeX           2,400  840    200
+      BowMan           180    200    140
+      BowmanX          110    280    90
+      Bully            45     120    60
+      Cactus           54     130    50
+      Chimera          180    560    180
+      Chopper          100    480    300
+      Claw             250    1,200  400
+      Crab             300    1,020  360
+      CrawlerX         25     250    150
+      Creon            100    220    120
+      D.Flea           200    280    90
+      D.Rider          44     50     30
+      D.Knight         180    780    300
+      DogFishX         300    560    180
+      E.Chest          45     860    360
+      Entity           700    1,680  800
+      FireHead         240    1,400  1,000
+      Flower           700    1,800  600
+      Fly              45     40     20
+      Fungus           80     240    120
+      G.Slime          120    800    300
+      Gargoyle         2,200  1,200  400
+      Ghoul            280    700    300
+      Golem            3,000  1,290  540
+      ICU              2,500  1,290  540
+      Lancer           100    120    100
+      LancerX          300    500    340
+      M.Scorp          65     640    240
+      M.Slime          2,000  5,400  6,000
+      M.Flea           100    1,680  400
+      Mage             85     140    70
+      Midget           55     80     40
+      Mimic            300    800    3,000
+      Nautilus         200    700    300
+      Peril            2,800  460    200
+      Phoenix          240    720    360
+      PincherX         1,700  1,800  600
+      Prickle          90     40     20
+      R.Slime          66     240    160
+      Roach            180    460    200
+      Rogue            2,000  6,520  1,200
+      Ruga             3,500  2,520  1,200
+      SandClod         100    430    120
+      Scorp            70     120    60
+      Shadow           100    340    60
+      SlimeX           2,000  9,999  9,999
+      Soldier          600    1,320  720
+      Sorcerer         200    600    200
+      SpearMan         150    500    340
+      Tentacle         60     240    150
+      Tronk            40     140    72
+      WarHogX          280    1,360  480
+      Warlock          250    1,020  360
+      Widow            300    1,400  450
+      Wraith           220    600    300
+      WraithX          320    480    240
+      Zard             35     60     45
+      Zoom             300    800    200
+
+      BOSSES           HP     EP     GP    AREAS           WEAKNESS
+      Frog             180    500    350   Camlon Castle   Dark
+      Wizard           180    1,000  700   Wizard's Tower
+      Morte            120    280    200   Karma Tower
+      Mortea           230    280    200   Karma Tower
+      General          250    1,120  300
+      Pog              280    1,400  800
+      Knight           390    700    240   Nanai
+      Knight           450    2,800  2,000
+      Talon            700    400    190
+      Wisp             730    1,200  300
+      Pog              280    1,400  800
+      G.Fly            1,000  5,600  6,400
+      Squid            1,000  6,000  4,200
+      Octo             1,000  6,000  1,500
+      Myst             1,100  4,000  3,600
+      Gremlin          1,200  1,400  800
+      Cloud            1,400  4,800  1,200
+      RugaX            1,400  3,200  2,400
+      SandWorm         1,600  1,200  1,200
+      Morteo           1,500  3,200  3,000
+      EyeSpy           1,600  2,800  2,800
+      Bain             1,800  1,020  360
+      GrimFowl         2,000  4,200  4,800
+      Toad             2,300  6,000  1,500
+      K.Roach          2,800  460    200
+      FlowerX          2,900  3,200  3,000
+      Avian            3,000  1,400  1,800
+      Mote             3,500  5,400  6,000
+      Mothro           3,500  6,000  8,000
+      Cerl             3,500  8,000  9,000
+      HornToad         4,000  6,800  7,000
+      Goda             11,000 6,000  6,000
+      Sara             15,000 8,000  8,000
+      Goddess          16,000 10     12
+      Zog              16,000 7,000  7,000
+      Jade             25,000 8,000  8,000
+
+
+      B:01  Stats
+-----------------
+      ENEMY            ATK DEF ACT WIS
+      Entity           120 152 85  2   = 357
+      Icu              120 120 80  2   = 362
+      D.Knight         148 180 40  2   = 368
+
+      B:02  Strategies
+----------------------
+
+
+===========================================================================
+                                APPENDIX C
+===========================================================================
+
+      C:02  Items
+-----------------
+      ---------------------------------------------------------------------
+            Item: 1. Apple
+                  2. C.Nut (Coconut)
+                  3. Cure
+                  4. Herb
+                  5. Melon
+                  6. Sole
+                  7. Srdine [Sardine]
+             Use: Recover 20 HP
+           Found: Defeat Avian (very rare)
+      ---------------------------------------------------------------------
+            Item: Sole
+             Use: Recover 100 HP
+      ---------------------------------------------------------------------
+            Item: Cure2
+                  C.Fish [Cat Fish?]
+             Use: Recover all HP
+      ---------------------------------------------------------------------
+            Item: Meat
+             Use: Party recovers 70 HP
+           Found: Hunt boar.
+      ---------------------------------------------------------------------
+            Item: WMeat [White Meat]
+             Use: Party Recovers 100 HP
+           Found: Hunt birds [that's why it's white meat]
+      ---------------------------------------------------------------------
+            Item: Acorn
+                  W.Ant
+             Use: Recover 20 AP
+           Found: Dark D. Fort, Agua, The Giant, Lake Shrine, Auria, Dark
+                  D. Ship, bought
+      ---------------------------------------------------------------------
+            Item: W.Ant [White Antler]
+             Use: Recover 100 AP
+           Found: Auria, Bleak, Carmen, hunting white deer [very rare]
+      ---------------------------------------------------------------------
+            Item: Life
+             Use: Revive stunned character with 1 HP left
+      ---------------------------------------------------------------------
+            Item: Life2
+             Use: Revive stunned character with all HP
+      ---------------------------------------------------------------------
+            Item: 1. Antdt [Antidote]
+                  2. Antler
+                  3. Mackrl [Mackerel]
+             Use: Heal Poison status ailement
+           Found: 1. Flea Market [46-80 GP], most shops, Camlon Castle,
+                     Gaia Temple, Winlan Castle, Romero, Auria, Krypt
+                  2. Hunt Deer
+      ---------------------------------------------------------------------
+            Item: Trout
+             Use: Heal Poison and 150 HP
+      ---------------------------------------------------------------------
+            Item: T.Drop
+             Use: Heal Zombie status affliction
+      ---------------------------------------------------------------------
+            Item: Charm
+             Use: Heal any status affliction except stun
+      ---------------------------------------------------------------------
+            Item: M.Drop
+             Use: Heal party of all status affliction except stun
+      ---------------------------------------------------------------------
+            Item: Snapr [Snapper]
+                  Tuna
+             Use: Heal all HP and status ailments
+      ---------------------------------------------------------------------
+            Item: A.Ptn [Attack Potion]
+             Use: Increase Attack by 1 permanently
+           Found: Ramui Woods, Gant, digspot northeast of Tantar, Spyre,
+                  dogspot southeast of Scande.
+      ---------------------------------------------------------------------
+            Item: L.Ptn [Luck Potion]
+             Use: Increase Luck by 1 permanently
+      ---------------------------------------------------------------------
+            Item: S.Ptn [Strength Potion]
+             Use: Increase Strength by 1 permanently
+      ---------------------------------------------------------------------
+            Item: V.Ptn [Vigour Potion]
+             Use: Increase Vigour by 1 permanently
+      ---------------------------------------------------------------------
+            Item: W.Ptn [Wisdom Potion]
+             Use: Increase Wisdom by 1 permanently
+      ---------------------------------------------------------------------
+            Item: C.Stn [?]
+             Use: Cast ice magic in battle
+      ---------------------------------------------------------------------
+            Item: B.Stn [?]
+             Use: Cast thunder magic in battle
+      ---------------------------------------------------------------------
+            Item: F.Stn [Flame Stone]
+             Use: Cast fire magic in battle
+      ---------------------------------------------------------------------
+            Item: Mrbl1~2
+             Use: Gives one critical hit in battle
+      ---------------------------------------------------------------------
+            Item: Mrble3
+             Use: Stop encountering monsters temporarily
+      ---------------------------------------------------------------------
+
+
+      C:03  Weapons
+-------------------
+
+      I'll list these in order of Attack. All weapons are one handed in
+      exception of those designed for Bo and Ox. All Rang weapons attack
+      all enemies at once, as well as Foil.
+
+      WEAPON    ATT  WGT  CHRS            Location
+      ------    ---  ---  ----            --------
+
+      EmporSD   255  1    Ryu/Zack        Search Jade's Throne after battle
+      Mallet    255  1    Ox              Flea market stage3 (12,000~18000)
+      HeroBW    220  8    Bo              Dig spot northeast of Carmen
+      StarHR*   210  8    Ox              Obelisk
+      DwarfBW   150  1    Bo              Flea Market stage 3(7,000~12,000)
+      Tri-Rang  150  2    Ryu/Zack        Near Pagoda behind tower
+      DarkDR    140  1    Ryu/Zack, Karn  16,000~24,000 GP (Flea Market, 2)
+      FlameSD   122  10   Ryu/Zack        Buy in Carmen for 20,000 GP 
+      MystCW    120  1    Mogu            Dig spot southeast of Scande
+      FlameHR*  120  8    Ox              Obelisk
+      SpineHR   120  15   Ox              Buy at Gant for 27,000 GP
+      DragonSD  110  20   Ryu/Zack        Use Rod5 in the well W of Romero
+      MystSD    100  3    Ryu/Zack        ?
+      Sleeper   100  8    Gobi            Flea Market stage 2 (1,600~2,400)
+      GlowCN*   100  8    Bleu            Flea Market stage 3 (27k~36k)
+      WingSD    96   8    Ryu/Zack        10,000 GP at Gust & Spring
+      Tri-BW    96   12   Bo              10,000 GP at Carmen
+      IcyCW     88   3    Mogu            Buy for 15,000 at Carmen
+      PowerRP*  82   0    Nina            12,000~18,000 at Flea Market
+      JadeBW    80   8    Bo              Mare Tower
+      RageHR    75   8    Ox              Wisdon
+      IcyDR*    75   9    Karn            Agua
+      IronCW    74   3    Mogu            Buy in Sping for 1,000 GP
+      Trident   74   6    Gobi            Mare Tower
+      FlameDR   74   7    Karn            Pagoda
+      MoonBW    66   1    Bo              Buy at Gust for 8,000 GP
+      PowerDR   66   7    Karn            Sea Volcano; 5,500 GP at Spring
+      LoyalRP*  64   6    Nina            Buy at Carmen for 25,000 GP
+      PowerSD   62   8    Ryu/Zack        Buy at Prima for 10,400 GP
+      B.Rang    60   2    Ryu/Zack        Krypt (repaired in Gant)
+      RustCW    60   4    Mogu            Buy at Spring for 7,000 GP
+      GiantHR   60   12   Ox              Hidden Fort, at Gant for 4,050 GP
+      HeroSP    56   4    Gobi            Buy at Gant for 6,750 GP
+      EvilRP    55   7    Nina            Flea Market 2 (8,000~12,000 GP)
+      Tri-DR    54   6    Karn            Buy at Gust for 4,000 GP
+      SharpBW   54   7    Bo              Sea Volcano
+      Sickle    50   6    Ryu/Zack        Buy at Prima for 6,500 GP
+      Dart      46   2    Karn            Buy at Prima for 3,000 GP
+      ThunderRP 46   6    Nina            Buy; Flea Market 1; 3,150~5,400GP
+      IronHR    45   8    Ox              ?
+      DigCW     42   2    Mogu            Initial weapon
+      OldSP     42   5    Gobi            Buy at Gust for 6,000 GP
+      PoisonBW  42   6    Bo              Buy at Prima for 5,500 GP
+      BrokenSD  42   14   Ryu/Zack        Winlan Castle
+      WingRP    36   8    Nina            ?
+      SteelBW   35   5    Bo              Flea Market stage 1 (1,600~2,400)
+      Javelin   34   3    Gobi            Buy at Prima for 4,400 GP
+      BroadSD   34   5    Ryu/Zack        Buy in Auria for 5,000 GP
+      WingRP    34   2    Nina            Buy at Gust for 7,000 GP
+      Dagger    32   2    Karn            Krypt; 2,200 GP in Auria & Tunlan
+      Club      30   6    Ox              Buy at Prima for 3,250 GP
+      IcyCN     30   6    Bleu            Scande Tower
+      FlameRP   28   5    Nina            Winlan Castle
+      LongBW    28   5    Bo              Buy at Bleak for 2,600 GP
+      LongSD    26   4    Ryu/Zack        Dark D. Fort, Auria (1,650 GP)
+      Pike      24   4    Gobi            Buy at Prima for 2,750 GP
+      ThrowDR   20   1    Karn            Initial weapon
+      Scythe    20   3    Ryu/Zack        Buy for 1,200 GP at Tantar
+      ShortBW   20   4    Bo              Buy at Tantar for 1,000 GP
+      PoisonRP  20   5    Nina, Ryu/Zack  Buy for 2,700 GP at Tunlan
+      EvilCN*   20   6    Bleu            Tock
+      Foil      18   2    Ryu/Zack        Karma
+      BronzBW   14   2    Bo              Initial weapon
+      BoneCN    14   4    Bleu            Buy for 2,412 GP at Tunlan
+      IronRP    14   5    Nina            Buy for 1,800 GP at Nanai
+      Pole      12   2    Gobi            Initial weapon
+      BronzSD   12   3    Ryu/Zack        Camlon Castle, 700 GP (Winlan)
+      LightRP   12   2    Nina            32~48 GP at Flea Market (stage 1)
+      Rapier    10   4    Nina            Buy for 1,650 GP at Auria
+      SilverDR  10   6    Karn            Flea Market stage 1 (4,500~6,000)
+      Cane      8    2    Bleu            Buy at Tunlan for 5,400 GP
+      Sabre     8    2    Ryu/Zack        Buy at Drogan, etc. for 400 GP
+      BronzRP   7    2    Nina            Buy for 700~800 GP (winlan, etc)
+      Dirk      5    1    Ryu/Zack        Initial weapon, buy at Drogen
+      ShortRP   5    1    Nina            Initial weapon, Romero shop (400)
+      Stick     5    1    Bleu            Initial weapon
+
+      * Special Effects:
+        - FlameHR: Cast Flame when used as item
+        - GlowCN: Cast Para when used as item
+        - PowerRP: Cast Ag-Up when used as item
+        - IcyDR: Cast Cold when used as item
+        - LoyalRP: Restore 3 AP for every attack
+        - ThunderRP: Cast Fry when used as item
+        - EvilCN: Restore 3 AP with every attack
+
+            
+
+      C:04  Shields
+-------------------
+
+      SHIELD    DEF  WGT   RY   NI   BO   KA   GO   OX   BL   MO
+      ------    ---  ---   --   --   --   --   --   --   --   --
+
+      DragonSH  128  5     YES  -    -    -    -    -    -    -
+      StarSH    70   2     YES  -    YES  YES  YES  YES  -    YES
+      MaskSH    65   8     YES  YES  YES  YES  YES  YES  YES  YES
+      FlameSH   52   5     YES  -    YES  YES  YES  YES  -    YES
+      ColdSH    50   15    YES  -    YES  -    YES  YES  -    -
+      TrpGrd    40   4     -    -    -    YES  -    -    -    -
+      LightSH   36   10    -    YES  -    -    -    -    YES  -
+      GuardSH   32   10    YES  -    YES  YES  YES  YES  -    YES
+      IcySH     30   5     YES  YES  YES  YES  YES  YES  YES  YES
+      IronSL    22   5     -    -    YES  -    -    -    -    -
+      Glove     20   6     -    -    YES  -    -    -    -    -
+      MetalSH   16   5     YES  -    YES  YES  YES  YES  -    YES
+      SkySH     15   1     -    YES  -    -    -    -    -    -
+      Bracelet  12   3     -    YES  -    -    -    -    YES  -
+      IronSH    12   4     YES  -    YES  YES  YES  YES  -    YES
+      Wrist     10   2     YES  YES  YES  YES  YES  YES  YES  YES
+      Gauntlet  8    1     YES  YES  YES  YES  YES  YES  YES  YES
+      ArmPad    8    2     YES  -    YES  -    YES  -    -    -
+      BronzSH   8    3     YES  -    YES  YES  YES  YES  -    YES
+      Bandage   5    1     YES  YES  YES  YES  YES  YES  YES  YES
+      WoodSH    5    2     YES  -     -   YES  -    -    -    -
+      SuedeSH   2    1     YES  YES  YES  YES  YES  YES  YES  YES
+
+
+      C:05  Armour
+------------------
+
+      ARMOUR    DEF  WGT   RY   NI   BO   KA   GO   OX   BL   MO
+      ------    ---  ---   --   --   --   --   --   --   --   --
+      LifeAR    115  8     YES  -    -    -    -    -    -    -
+      DragonAR  110  0     YES  -    -    -    -    -    -    -
+      ClearCL   100  0     -    YES  -    -    -    -    YES  -
+      AgileAR   92   0     -    YES  -    -    -    -    YES  -
+      EvilRB    90   1     -    YES  -    -    -    -    YES  -
+      EarthRB   88   8     YES  -    YES  -    YES  YES  YES  YES
+      PowerAR   84   4     -    YES  -    -    -    -    YES  -
+      FlameAR   82   10    YES  -    -    -    -    -    -    YES
+      WorldAR   80   9     -    -    -    -    -    YES  -    YES
+      IcyAR     80   10    YES  -    YES  -    -    YES  -    -
+      WolfSkin  80   11    -    -    YES  -    -    -    -    -
+      AngelAR   76   3     -    YES  -    -    -    -    YES  -
+      WorldML   75   11    YES  -    YES  -    -    YES  -    YES
+      GuruCT    70   0     -    -    -    -    -    YES  -    -
+      LightCL   68   1     -    YES  -    -    -    -    YES  -
+      MystRB    60   8     YES  YES  -    -    -    -    YES  -
+      SpineCL   60   10    -    -    -    -    -    YES  -    -
+      QuartzAR  50   9     YES  YES  YES  YES  YES  YES  YES  YES
+      RangerVT  40   8     YES  -    YES  -    YES  -    -    -
+      MetalAR   39   10    YES  -    YES  -    -    YES  -    YES
+      SuedeRB   35   2     -    YES  -    -    -    -    YES  -
+      ThiefCL   30   4     YES  -    -    YES  -    -    -    -
+      IronML    27   9     YES  -    YES  -    -    YES  -    -
+      PlateAR   24   4     YES  -    YES  YES  YES  YES  -    YES
+      WoolRB    25   2     -    -    YES  -    -    -    YES  -
+      Dress     25   8     -    YES  -    -    -    -    YES  -
+      BronzAR   25   9     YES  -    YES  YES  YES  YES  YES  YES
+      SageML    25   14    YES  -    YES  YES  YES  YES  -    YES
+      ChainML   20   2     YES  -    YES  -    -    YES  -    -
+      Gown      18   1     -    YES  -    -    -    -    YES  -
+      HuntCL    16   4     YES  -    YES  YES  -    -    -    -
+      SilkGN    15   4     -    YES  -    -    -    -    YES  -
+      SuedeAR   14   7     YES  -    YES  YES  YES  YES  -    YES
+      PrisonCL  10   2     YES  YES  YES  YES  YES  YES  YES  YES
+      SuedeGN   10   6     YES  YES  YES  YES  YES  YES  YES  YES
+      Robe      2    1     YES  -    -    -    -    -    YES  -
+      Cloth     1    1     YES  YES  YES  YES  YES  YES  YES  YES
+
+      C:06  Helms
+-----------------
+
+      HELMET    DEF  WGT   RY   NI   BO   KA   GO   OX   BL   MO
+      ------    ---  ---   --   --   --   --   --   --   --   --
+      DragonHT  80   1     YES  -    -    -    -    -    -    -
+      LoveHT    64   10    -    YES  -    -    -    -    -    -
+      CursedHT  62   25    YES  YES  YES  YES  YES  YES  YES  YES
+      StoneHT   48   16    -    -    -    -    -    -    -    YES
+      PowerHT   44   3     -    -    -    YES  YES  -    -    -
+      AgileHT   42   1     YES  YES  YES  YES  YES  YES  YES  YES
+      Domino    42   7     -    YES  -    -    -    -    YES  -
+      HornHT    37   6     YES  -    YES  YES  YES  YES  -    YES
+      GaiaMask  36   4     YES  -    -    -    -    YES  -    YES
+      FaceMask  35   6     YES  -    -    YES  -    -    -    YES
+      IronHT    32   6     YES  -    YES  YES  YES  YES  -    YES
+      DivingHT  32   6     -    -    -    -    YES  -    -    -
+      IronMask  30   7     -    -    -    -    -    YES  -    -
+      EchoHT    28   3     YES  YES  YES  YES  YES  YES  YES  YES
+      ShellHT   25   1     -    -    -    -    YES  -    -    -
+      ChainHT   25   8     YES  YES  YES  YES  YES  YES  YES  YES
+      SkullHT   25   10    YES  YES  YES  YES  YES  YES  YES  YES
+      HeadGear  16   5     YES  YES  YES  YES  YES  YES  YES  YES
+      IcyHT     16   6     YES  YES  -    -    -    YES  -    -
+      GoldHT    14   6     YES  YES  YES  YES  YES  YES  YES  YES
+      SunHT     12   8     YES  -    YES  YES  YES  YES  -    YES
+      WolfHT    12   4     -    -    YES  -    -    -    -    -
+      Turban    11   1     YES  YES  YES  YES  YES  YES  YES  YES
+      BronzHT   10   4     YES  -    YES  YES  YES  YES  -    YES
+      Tiara     10   2     -    YES  -    -    -    -    YES  -
+      Hairband  8    2     -    YES  -    -    -    -    YES  -
+      NiceHT    6    3     YES  YES  YES  YES  YES  YES  YES  YES
+      SuedeHT   6    3     YES  YES  YES  YES  YES  YES  YES  YES
+      Visor     6    2     YES  -    YES  YES  YES  YES  -    YES
+      Bandana   5    1     YES  YES  YES  YES  YES  YES  YES  YES
+      G.Tiara   5    2     -    YES  -    -    -    -    YES  -
+      StrawHT   2    1     YES  YES  YES  YES  YES  YES  YES  YES
+      TideHT    0    0     YES  YES  YES  YES  YES  YES  YES  YES
+
+
+      C:07  Other Equipment
+---------------------------
+
+      ETC.      Info
+      ---------------------------------------------------------------------
+      Clog      - Increases ACT by 10 and M.DEF by 2
+      Sash      - All can equip
+      ---------------------------------------------------------------------
+      Sash      - Increases ATT by 10
+                - All can equip
+      ---------------------------------------------------------------------
+      SkullRG   - Increases DEF by 10
+                - All can equip
+      ---------------------------------------------------------------------
+      DarkBR    - Increases ACT, FATE [20] and M.DEF [5]
+                - Karn can equip
+      ---------------------------------------------------------------------
+      WindBR    - Increases ACT [20] and M.DEF [5]
+                - Nina and Bleu can equip
+      ---------------------------------------------------------------------
+      DreamRG   - Does nothing
+      SilverBR  - All can equip
+                - This is like the TideHT, why is it even in the game?
+      ---------------------------------------------------------------------
+      LoveBR    - Regenerate HP slowly
+                - Nina and Bleu can equip
+      ---------------------------------------------------------------------
+      MystSF    - Does nothing
+      Ruby Ring - Nina and Bleu can equip
+      ---------------------------------------------------------------------
+      Ring      - Attack increased by 10
+                - Ryu can equip it
+                - Equip with the DarkDR for great performance!
+      ---------------------------------------------------------------------
+      Rod1~5    - Enables you to go fishing on beaches and in wells
+                - Ryu can equip it
+                - Locations
+                  1. Buy in Prima or Agua
+                  2. Buy in Prima or Flea Market
+                  4. Find at Lab
+                  5. Find at Tunlan
+      ---------------------------------------------------------------------
+      Shell     - Equip along with one of the rods and it'll act as a bait
+      Shrimp    - Like with the rods, only Ryu can equip
+      Urchin    - Bought in Auria and Prima
+      Worm      - Shell & Urchin dropped by Dogfish
+      Worm2     - Shell found at Spyre
+      ---------------------------------------------------------------------
+      
+      C:08  Locations of Armour, etc.
+-------------------------------------
+      [] LifeAR & IcyDR: Two of the dragon statues in Agua Dragon Temple.
+         These are the best armours for Ryu and Karn.
+
+      C:09  Locked Doors List
+-----------------------------
+
+      C:10  Breakable Walls List
+--------------------------------
+
+      C:11  Fishing Spots & Catches
+-----------------------------------
+            C:11  Places to Fish
+            --------------------
+            - South of Drogan
+            - South of Camlon
+            - East of Camlon
+            - East of Tantar
+            - North of Gramor
+            - North of Scande
+
+      C:12  Hunting Guide
+-------------------------
+            C:12A  How to Hunt
+            ------------------
+            - You need Bo or Karn to be able to hunt, as they can shoot
+              arrows at those animals on the world map.
+            - If you shoot just as the animal is about to jump, the animal
+              will jump underneath the arrow and you can get its spoils
+              without killing it, so you can get unlimited spoils.
+
+            C:12B  Spoils of the Hunt
+            -------------------------
+
+===========================================================================
+    Appendix D
+===========================================================================
+
+      D:01  Maps
+      ----------
+
+      D:02  Shops
+-----------------
+
+             Notes: - Camlon only has shops after you've defeated Zog
+                    - When I say "best" and "worst" it refers to the fact
+                      that you can get the item from more than one shop in
+                      that town.
+
+             D:02A  General Price Index for Items
+             ------------------------------------
+
+             Acorn  X1     20G  Camlon
+                           30G  Winlan, Winlan, Romero, Tuntar, Tunlan
+                                [best], Gust, Dream Town, Spring, Mare Town
+                           36G  Bleak
+                           29G  Tunlan [worst]
+             Antdt  X1     12G  Camlon, Prima [best], Gant
+                           13G  Drogen, Prima [average]
+                           15G  Winlan, Romero, Tuntar, Prima [worst],
+                                Tunlan [best], Gust, Dream Town, Spring,
+                                Mare Town
+                           18G  Bleak
+                           19G  Tunlan [worst]
+             Apple  X1     80G  Camlon
+                           90G  Drogen, Winlan
+                          100G  Romero
+             Charm  X1    120G  Prima [best], Gant
+                          135G  Prima [average]
+                          150G  Winlan, Prima [worst], Gust, Spring
+                          180G  Bleak
+             Cure   X1  1,600G  Camlon, Gant
+                        1,800G  Drogen, Prima [best]
+                        2,000G  Winlan, Romero, Tuntar, Prima [worst],
+                                Tunlan [best], Gust, Spring
+                        2,400G  Bleak
+             Herb   X1      8G  Camlon, Prima [best], Gant
+                            9G  Drogen, Prima [average]
+                           10G  Winlan, Romero, Prima [worst], Tunlan
+                                [best], Gust, Dream Town, Spring, Mare Town
+                           12G  Bleak
+                           13G  Auria, Tunlan [worst]
+                           16G  Tuntar
+             Herb   X9     72G  Camlon, Winlan, Romero
+             Life   X1    400G  Camlon
+                          450G  Drogen, Prima [best]
+                          500G  Winlan, Romero, Dream Town, Mare Town
+                          550G  Prima [average]
+                          600G  Bleak
+                          650G  Auria, Prima [worst]
+             T.Drop X1     18G  Drogen
+                           20G  Romero, Winlan, Tuntar, Tunlan [best],
+                                Spring
+                           24G  Prima
+                           26G  Tunlan [worst]
+             Vitamn       650G  Prima
+
+             Mrbl1  X1  1,000G  Prima, Tunlan [best], Gust
+                        1,300G  Auria, Tunlan [worst]
+             Mrbl3  X1      8G  Prima [best], Gant
+                            9G  Drogen, Prima [2nd best]
+                           10G  Winlan, Romero, Tuntar, Prima [average],
+                                Tunlan [best], Gust, Dream Town, Spring,
+                                Mare Town
+                           12G  Bleak, Prima [2nd worst]
+                           13G  Prima [worst], Tunlan [worst]
+             G.Bar     65,000G  Auria, Prima
+             Pouch  X1  1,300G  Auria, Prima
+
+             Rod1       1,000G  Prima
+                        1,300G  Auria
+             Rod2       2,000G  Prima
+             Worm   X1     50G  Prima 
+                           65G  Auria
+             Worm2  X1    100G  Prima
+             Srdine X1     60G  Prima
+             Mackrl X1    100G  Prima
+             Sole   X1    250G  Prima
+             Trout  X1    500G  Prima
+
+             B.Stn  X1     22G  Prima, Gant
+             F.Stn  X1     22G  Prima, Gant
+             C.Stn  X1     44G  Prima, Gant
+
+             D:02B  General Price Index for Equipment
+             ----------------------------------------
+
+             WEAPON      PRICE  TOWN/S                  RANKING
+             --------------------------------------------------------------
+             Dirk          50G  Drogen
+             Sabre        400G  Drogen, Camlon, Winlan, Romero, Tantar
+
+             BronzSD      700G  Camlon
+                          400G  Winlan
+             BroadSD    5,000G  Bleak, Prima
+             LongSD     2,250G  Nanai
+             PowerSD   10,400G  Prima
+             WingSD    10,000G  Spring
+             FlameSD   20,000G  Carmen
+
+             Scythe     1,200G  Tantar
+             Sickle     6,400G  Prima
+
+             ShortRP      400G  Romero
+             BronzRP      800G  Camlon, Winlan, Romero, Tantar
+             IronRP     1,800G  Nanai
+             EvilRP    18,000G  Tunlan 
+                       20,000G  Prima
+             PoisonRP   2,700G  Tunlan [best]
+                        3,300G  Prima, Tunlan [worst]
+             LoyalRP   25,000G  Carmen
+
+             ShortBW    1,000G  Tantar
+             LongBW     2,600G  Bleak
+                        2,280G  Prima
+                        2,860G  Tunlan
+             SteelBW    4,000G  Prima [best]
+                        4,400G  Prima [worst]
+             PoisonBW   5,500G  Prima
+             Tri-BW    12,000G  Carmen
+
+             Dagger     2,000G  Bleak
+                        2,200G  Tunlan
+             Dart       3,000G  Prima [best]
+                        3,300G  Prima [worst]
+             Tri-DR     4,400G  Prima, Tunlan
+             PowerDR    5,500G  Spring
+
+             Pike       2,750G  Prima
+             Javelin    4,400G  Prima
+             HeroSP     6,750G  Prima
+
+             Club       3,250G  Prima
+             IronHR     3,150G  Gant
+                        4,550G  Prima
+             GiantHR    4,050G  Prima
+             SpineHR   27,000G  Prima
+
+             Cane       5,400G  Tunlan 
+                        6,600G  Prima
+             BoneCN     2,412G  Tunlan
+
+             RustCW     7,000G  Spring
+                        7,700G  Prima
+             IronCW    10,000G  Spring
+                       11,000G  Prima
+                       15,000G  Carmen
+
+
+             ARMOUR      PRICE  TOWN/S          RANKING
+             --------------------------------------------------------------
+             Cloth          9G  Nanai
+                           10G  Drogen
+             HuntCL     1,500G  Bleak
+                        1,650G  Tunlan
+             ThiefCL    2,750G  Tunlan
+             SpineCL    8,000G  Spring
+             LightCL   30,000G  Carmen
+
+             ChainML    2,000G  Camlon, Romero
+             IronML     5,000G  Prima, Spring
+
+             SuedeGN      500G  Camlon, Winlan
+                        2,520G  Nanai
+             Dress        900G  Tunlan
+             Gown       1,800G  Tunlan 
+                        2,000G  Romero
+             SilkGN     2,800G  Drogen, Romero
+
+             SuedeAR      750G  Tantar
+             BronzAR    3,600G  Bleak
+             PlateAR    3,740G  Prima
+             MetalAR    8,100G  Gant
+             QuartzAR  10,000G  Spring
+             WorldAR   12,000G  Carmen
+
+             IronSL     1,800G  Gant
+                        2,000G  Bleak
+             MetalSL    2,700G  Gant
+                        3,300G  Prima
+                        3,930G  Prima
+
+             WoolRB     5,000G  Bleak, Prima
+             MystRB     5,400G  Tunlan
+             GuruCT    18,000G  Tunlan
+
+             RangerVT   5,500G  Prima, Tunlan
+
+
+             SIELD       PRICE  TOWN/S          RANKING
+             --------------------------------------------------------------
+             ArmPad       300G  Drogen
+             WoodSH       300G  Drogen, Camlon, Winlan
+                          270G  Nanai
+             SuedeSH      135G  Nanai
+             BronzSH      500G  Romero, Tantar
+             MetalSH    1,400G  Bleak
+             Glove      3,900G  Prima
+             IcySH      5,200G  Prima
+             Gauntlet     880G  Tunlan
+             MystSH    20,000G  Carmen
+
+             HELM        PRICE  TOWN/S          RANKING
+             --------------------------------------------------------------
+             HairBand   1,000G  Drogen, Nanai*
+             SuedeCP      216G  Nanai
+                          240G  Drogen
+             SuedeHT      200G  Camlon, Winlan
+             Visor        800G  Camlon, Winlan, Tantar
+                          880G  Prima
+             BronzHT    1,200G  Romero
+             Bandana      400G  Tantar, Prima
+             HornHT     6,500G  Prima
+             FaceMask   7,800G  Prima
+             GoldHT    26,000G  Prima
+             NiceHT       600G  Prima
+             ChainHT    2,750G  Prima
+             IronMask   4,400G  Prima
+             G.Tiara   22,000G  Prima
+             IronHT     6,300G  Gant
+             GaiaMask   8,000G  Spring
+             PowerHT   20,000G  Carmen
+
+             D:02C  Inns and Other Places of Respite
+             ---------------------------------------
+             Drogen: - Talk to the old man in the man building to rest up
+             Camlon: - There are many healing springs in the castle
+                     - Towards the end of the game the inn costs 1G
+             Winlan: - Rest at the inn for 80G
+             Romero: - The inn costs 60G
+             Tantar: - The inn costs 60G
+              Auria: - The inn costs 200G
+
+             D:02D  Services Available
+             -------------------------
+             All: Dragon Shrine
+             Drogen: Item Shop, Equipment Shop
+             Camlon [before defeat of Zog]: Nothing
+             Camlon [after you defeat Zog]: Item Shop, Equipment Shop, Bank
+             Winlan: Inn, item shop, equipment shop, bank
+             Romero: Inn, item shop, equipment shop, bank
+             Tantar: Inn, item shop, equipment shop
+             Auria: Inn, item shop
+             Prima: 2x weapon shop, 2x item shop, 2x inn, name changer
+
+             D:02E  Flea Market
+             ------------------
+             In Prima and Tunlan there are shops that apparently have no
+             proprietors, only if Gobi is at the head of your party and he
+             is allowed to trade again you can walk behind the counter and
+             begin working with customers. There are various items you can
+             get depending on what part of the game you're in.
+               When they're driving "a hard bargain" it means you can go no
+             further the sale.
+
+             Note:
+              Stage 1 Lasts until you get the sphere for Gobi
+              Stage 2 Lasts until you cure Nina's amnesia
+              Stage 3 Lasts until you finish the game
+
+              ____________________________________________________________
+             |         Buying - Stage 1      |      Selling - Stage 1     |
+             |_______________________________|____________________________|
+             | ITEM     1ST     2ND     3RD  |ITEM     1ST    2ND    3RD  |
+             | ----     ---     ---     ---  |----     ---    ---    ---  |
+             | F.Stn    12      11      10   |B.Stn    5      7      -    |
+             | LightRP  48      36      28   |F.Stn    5      8      -    |
+             | Smoke    60      45      35   |Acorn    7      13     -    |
+             | Antdt x9 80      60      45   |LightRP  20     32     44   |
+             | ProtnB   180     165     150  |Pole     20     36     -    |
+             | Rod2     1,200   1,100   1,00 |Apple    25     45     55   |
+             | Cure2    1,950   -       -    |Antler   25     45     55   |
+             | SteelBW  2,400   2,200   -    |SuedeSH  37     52     67   |
+             | HuntGL   2,700   2,475   2,025|ProtnA   75     105    135  |
+             | MetalAR  5,400   4,050   3,150|IronSH   250    300    -    |
+             | ThundrRP 5,400   4,050   3,150|HuntGL   1,125  1,575  2,025|
+             | SilverDR 6,000   5,550   5,000|Sleeper  1,000  1,600  -    |
+             | AngleRP  18,000  16,500  -    |ThunderRP2,250  3,600  -    |
+             |_______________________________|Life2    250    -      -    |
+                                             |ChainML  500    900    -    |
+                                             |TideHT   277    444    610  |
+                                             |FlameRP  1,250  1,500  -    |
+                                             |____________________________|
+
+              STAGE 2  1ST     2ND     3RD
+              -------  ---     ---     ---
+              Antdt x9 80      60      46
+              Cure  x9 2,700   2,475   2,250
+              Tuna     1,200
+              Smoke    60      80
+
+
+             Selling Guide
+             -------------
+
+              STAGE 2
+              -------
+              Life         125   200~225
+
+
+              Advice:
+               - Store all your items while you're trading, you'll find
+                 the trading process gets easier whilst your inventory is
+                 empty.
+               - Be persistant and aim to get a minimum number of items in
+                 one sitting as things will be more efficient this way.
+               - Only ever accept an offer when they're driving a "hard
+                 bargain," not only will you have more kudos as a tough
+                 salesman but you won't fill up your inventory unnecessar-
+                 ily -- I know it sounds counter-intuitive to the sort of
+                 hording you tend to do with games -- but you'll end up
+                 getting more and better items if you're patient anyway.
+               - Keep a close eye on the offers they've made and
+                 comparisons, because the game will sometimes make an offer
+                 on the same item that's worse than the last...
+
+===========================================================================
+    Appendix E
+===========================================================================
+
+      E:01  General Advice
+      E:02  Secrets
+
+      E:03  Game Enhancer Codes
+-------------------------------
+      Warning: All these codes are tested on an emulator and may be
+      dangerous to a real SNES system.
+
+      Useful Item Code Info
+      ---------------------
+      Like with most Square games for SNES, the item codes tend to begin
+      with 7E [actually, this seems to be the case with most of the useful
+      codes]. You add any number from 00 to 8D to the address 7E5140 and
+      there's a second code whose address is 7D5141 determines the type and
+      volume of the item. 01 added to the end says that it's a normal item,
+      11 for weapons and 21 for all other equipment; the number at the end
+      of the address decides the volume of items there are so you can only
+      put in 1~9].
+
+      Character Stat Codes
+      --------------------
+      I have to be honest, these are the codes that made Breath of Fire
+      worthwhile for me to play [along with unlimited HP, AP and GP]. Codes
+      such as these tend to be all the same except for a single HEX value
+      [as pretty much all codes are hexadecimal, meaning that numbers go in
+      increments of 16 rather than 10].
+        If one is familiar with the HEX order of numbers they'll know
+      that the next group of codes are all the same except the final value
+      in the address segment of the code going from 57 to 63 on the hex
+      scale [that's 57 for Str, 58 for Vig, 59 for Wis, 5A for Agi, 5B for
+      Mag, 5C for luck, 5D and 5E for Att, 5F and 60 for Def, 61 for Int,
+      62 for Fate, 63 for Act...and the numbers continue for the rest of
+      your party until they run out].
+
+      7E1057 FF : 1st Character has max Str.
+      
+      
+      Miscellaneous
+      -------------
+      7E1090 00 :  No random battles
+
+      7E0FB1 FF :  65,535 EXP per battle
+
+      7E104C E7 :  1st Character has max HP
+      7E104D 03
+
+      7E1050 E7 :  1st Character has max AP
+      7E1051 03
+
+
+===========================================================================
+    Appendix F
+===========================================================================
+
+    F:01  Breath of Fire Sequels
+--------------------------------
+    I have both Breath of Fire I & II; they are both available for Game Boy
+    Advance and Super Nintendo. I'm also aware there's a Breath of Fire III
+    for PlayStation, though I've never seen in myself. What's weird about
+    the first sequel is that it seems that all of the characters have the
+    the same names -- yet they're very different. But I haven't got far in
+    my game, only "Ryu" and "Bow" (as in Bow Wow) are in the party.
+
+    F:02  The Meanings Behind the Names
+---------------------------------------
+
+    Bleu
+    ----
+    The French word for blue. Explains her hair I guess.
+
+    Ryu
+    ---
+    The Japanese word for dragon; that's why Street Fighter's Ryu has an
+    affinity with dragons too. And all the other Ryus...
+
+    Tyr
+    ---
+    In Viking Mythology he is the god of war, and where we get Tuesday
+    from. Tyr's Day, or Tiw's Day.
+
+
+    F:03  How BoF for GBA is Different
+--------------------------------------
+    Interface
+    ---------
+    - Not as much abbreviation is needed as in the SNES version, partic-
+      ularly when it comes to item names. The menus are more cramped look-
+      ing though.
+    - You can do a quick save anywhere you like outside of battle and story
+      scenes. When you've done a quick save the game resets, prompting you
+      to choose whether or not you'll load the quick save at the title
+      screen; load it and it's automatically deleted after loading, press
+      "NO" and it'll be deleted without loading (so take care).
+    - When buying you can trade in equipment, meaning that if you're buying
+      a weapon the game will show the price of the weapon, buy your old
+      weapon and replace it with the new.
+        The wierd thing is When the game prompts a "yes" or "no" to the
+      deal you cannot avoid it even if you say "no," you can only press B
+      to see how much your old weapon is being sold for. So be careful.
+    - The EP and GP you get from monsters is always higher.
+    - Brighter colours.
+    - It's easier to play overall.
+
+
+___________________________________________________________________________
+       YOU HAVE REACHED THE END. THANK YOU FOR READING & GOOD LUCK
+___________________________________________________________________________
+
+    BIBLIOGRAPHY
+----------------
+
+    SNES FAQ/Walkthrough by DCallander
+    SNES FAQ/Walkthrough by PeaceNLove
+    SNES FAQ/Walkthrough by Link San
+    SNES Monster Statistics by Novalia_Spirit
+    SNES Pro-Action Replay Codes by IFerrel
+    GBA FAQ/Walkthrough by flamefury
+    GBA manual by Capcom
+
+
+    VERSION LOG
+---------------
+
+    -0.8 (11/08/07)- * Began the project. Laid out the contents and set to
+                       work on filling them out.
+                     * Wrote the default controls for SNES and GBA
+                       versions.
+                     * General content for guide laid out.
+                     * Wrote about the main menu and battle screen.
+                     * Finished Walk-Through, then modified boss entries at
+                       leisure.
+                     * Added side-quests.
+                     * Added notes of spells gained at certain levels.
+                     * Added HP, EP and GP for monsters.
+                     * The Olympics hysteria is underway, and I've just
+                       entered the details for Gobi's shops!
+                     * Added HP, EP and GP for bosses.
+                     * Added a weapons list ordered in the strength of Att.
+                     * Added shields list order in strength of Def.
+                     * Added armour list in order of Def strength.
+                     * Added list of all other equipment.
+                     * Added list of ordinary items and their uses.
+                     * Finished general price index.
+                     * Wrote info about pro action replay codes.
+                     * Did work on the flea market chapter.
+                     * Added battle advice.
+
+    -1.8 (27/03/09)- * Guide has been released on GameFAQs.
+                     * Touched up on walk-through and added many things
+                       besides.
+
+    -1.9 (04/04/09)- * Added some maps to the walk-through.
+
+
+    TO DO LIST
+--------------
+     - Finish off flea market guide.
+     - List strategies for end bosses. *Yawn* battles are REALLY boring in
+       Breath of Fire, just be patient and you'll get there.
+     - Finish playing GBA version of game.
+     - Type in the other stat bonuses from level ups.
+     - Use following codes in SNES version:
+       7e1056 ff = Character position 1 level 99 1 battle
+       7e10f6 ff = Character position 2 level 99 1 battle
+       7e1196 ff = Character position 3 level 99 1 battle
+     - Do fishing, hunting and digging guides.
+     - Ascertain what all of Karn's special abilities do.
+     - Check if Sap and Drain are spells that absorb 1/15 of enemy's max
+       HP/MP.

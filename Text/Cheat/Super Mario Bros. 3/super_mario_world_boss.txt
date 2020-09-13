@@ -1,0 +1,363 @@
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+ ___                      __  __          _      __      __       _    _ 
+/ __|_  _ _ __  ___ _ _  |  \/  |__ _ _ _(_)___  \ \    / /__ _ _| |__| |
+\__ \ || | '_ \/ -_) '_| | |\/| / _` | '_| / _ \  \ \/\/ / _ \ '_| / _` |
+|___/\_,_| .__/\___|_|   |_|  |_\__,_|_| |_\___/   \_/\_/\___/_| |_\__,_|
+         |_|                                                             
+ ___              ___ _   ___  
+| _ ) ___ ______ | __/_\ / _ \ 
+| _ \/ _ (_-<_-< | _/ _ \ (_) |
+|___/\___/__/__/ |_/_/ \_\__\_\
+
+=~=~=~=~=~=~=~=~=~=~=~==~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=
+		   
+                 Console: Super Nintendo Entertainment System
+		      Release Date: December 31st, 1989
+			By: ZFS [ZFS@comcast.net]
+					
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+ 	- Table of Contents - 
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+I. Version History
+II. Introduction/Contact
+III. Boss FAQ
+	A. Iggy Koopa
+	B. Morton Koopa
+	C. Reznor Battle #1
+	D. Lemmy Koopa
+	E. Ludwig Von Koopa
+	F. Reznor Battle #2
+	G. Roy Koopa
+	H. Reznor Battle #3
+	I. Wendy Koopa
+	J. Reznor Battle #4
+	K. Larry Koopa
+	L. Bowser Koopa
+IV. Credits
+V. Copyright Notice
+
+=~=~=~=~=~=~=~=~=~=~==~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~==~=~=~=~=~=~=~
+ 	- Version History - 
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+Final Version - 12/05/06 - All strategies fully complete, contact information
+updated, and all grammatical errors fixed. Complete FAQ.
+
+Version 1.1 - 8/08/2004 - Corrected more spelling/grammar errors, presentation
+fixed, and a new advanced tip added.
+
+Version 1.0 - 6/21/2004 - The start of the FAQ, all major information added.
+
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+ 	- Introduction - 
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+Hello and welcome to my Boss FAQ for Super Mario World. This guide was made
+to help anyone with the many bosses that you may come across and have you 
+stumped in Super Mario World. If your having trouble facing anyone from 
+Reznor's to the final confortation with Bowser look no further than here! 
+
+You surely can't let our wonderful hero down can you? Princess Peach is 
+counting on you and Mario to bust through the castle's and save her from 
+Bowser so you'll need all the best strategies to take care of these Koopa's
+won't you? I'm here to make sure you take down those Koopa's with ease and 
+get back the Princess from the evil tyrant's clutches. 
+
+If you need to contact me about a strategy you may have found, just some 
+comments on the FAQ, or anything of that nature here is what you need to 
+contact me:
+
+E-mail address: ZFS@comcast.net
+
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+- Boss FAQ - 
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+ ============================================================================
+| A. Iggy Koopa - Castle #1 - Yoshi's Island                                 |
+ ============================================================================
+
+Once you complete Castle #1 you'll meet up with Iggy Koopa. This is the first
+and easiest boss fight in Super Mario World. Iggy resides on a platform that
+will shake back and forth while he throws fireballs at you from inside of his
+shell. To defeat Iggy all you have to do is jump on his head and knock him
+into the lava to beat him. This boss is extremely easy and is just to get you
+warmed up for what is you shall face ahead.
+
+*Advanced Tip* - If you go into the fight with a Fire Flower equipped you will
+be able to fire two quick fireballs real fast and knock Iggy off before he 
+even is able to retaliate! =)
+
+ ============================================================================
+| B. Morton Koopa - Castle #2 - Donut Plains                                 |
+ ============================================================================
+
+Unlike Iggy Koopa Morton actually has a challenge to the way he fights you. 
+At the beginning of the battle two pillars will come slamming into the ground,
+while these pillars look harmless enough they will allow Morton to climb them.
+Morton will climb the walls and slam into the ground when you are below him,
+avoid him and hit him on the head three times to defeat him. At the very
+beginning of the battle try to get at least one good hit in to start the 
+match off off. Dash out of the way after he climbs the ceiling and hit him
+two more times to end the match.
+
+*Advanced Tip* - It is possible to defeat Morton without him ever climbing
+the wall, simply time your jump so that you are above his head after he 
+recovers from one of your hits. Do this correctly and you'll have him begging
+for mercy within seconds of the battle!
+
+ ============================================================================
+| C. Reznor Battle #1 - Vanilla Fortress                                     |
+ ============================================================================
+
+This will be your first, and certainly not the last, encounter with the
+Reznor's. These prehistoric dinosaurs guard the four Fortresses' scattered 
+across Dinosaur Land. There are four of them sitting on a rotating platform. 
+To defeat them you must hit underneath the platform they are sitting on. 
+With one good hit they will fall off. You must beware though that they ground
+beneath you will soon start to split apart to reveal a lava pit. After you 
+have knocked at least one of them off of their platform hope onto the 
+platform to battle the other three. Knock the other three off of the platform
+they are sitting on to beat the Reznor's. Pretty simple eh? These guys can 
+get to be a royal pain in later stages so learn how to defeat them easily now
+to avoid further frustration. During your fight with these guys you have to 
+remember that they will shoot fireballs, though they travel slowly, so avoid
+those and take care of the Reznor's and your in business!
+
+*Advanced Tip* - If you enter into the battle as small Mario, and are fast
+enough, you can take out all of the Reznor's before the ground below you 
+breaks apart.
+
+ ============================================================================
+| D. Lemmy Koopa - Castle #3 - Vanilla Dome                                  |
+ ============================================================================
+
+Now Lemmy Koopa is another boss battle that you haven't had any experience 
+with. You will be in a room with a bunch of orange pipes, but what could this
+mean for the heroic plumber? You'll notice immediately that a Podoboo is 
+floating around the stage aimlessly, so you will need to avoid it while taking
+care of the Koopaling. Lemmy should pop out along with two other decoy's, you
+have to find the real Lemmy, the one that is yellow, and hit him on the head
+three times to defeat him. You should note that he has no set pattern so 
+expect him to popup anywhere. If you are having trouble distinguishing him 
+from the decoy's, which you shouldn't, he will be the one chuckling when he 
+jumps up from the pipe.
+
+*Advanced Tip* - None.
+
+ ============================================================================
+| E. Ludwig Von Koopa - Castle #4 - Twin Bridges                             |
+ ============================================================================
+
+Ludwig is in charge of the Twin Bridges where he composes great music, the
+great musician of the Koopalings. However we are about to make sure he never
+composes another musical piece again. At the start of the fight you'll start
+on the left hand side of level so run forward until you see Ludwig sitting 
+there. He'll start off by firing fireballs at you from his mouth, dodge these
+by jumping over them and give him a nice hit to the head. After you hit him
+on the head he'll go into his shell and roll around a few times before popping
+out of his shell with a big leap. Make sure you jump on his head again, if 
+you don't he'll begin to fire fireballs again. Hit him a grand total of three
+times to make sure he is sent off stage with a crowd full of boos. 
+
+*Advanced Tip* - When Ludwig jumps into the air if you are quick enough you 
+can jump on him while he's airborne to get a quick hit in.
+
+ ============================================================================
+| F. Reznor #2 - Forest Fortress                                             |
+ ============================================================================
+
+This will be your second, and this time it's in the Forest, encounter with the
+Reznor's. These prehistoric dinosaurs guard the four Fortresses' scattered 
+across Dinosaur Land. There are four of them sitting on a rotating platform. 
+To defeat them you must hit underneath the platform they are sitting on. 
+With one good hit they will fall off. You must beware though that they ground
+beneath you will soon start to split apart to reveal a lava pit. After you 
+have knocked at least one of them off of their platform hope onto the 
+platform to battle the other three. Knock the other three off of the platform
+they are sitting on to beat the Reznor's. Pretty simple eh? These guys can 
+get to be a royal pain in later stages so learn how to defeat them easily now
+to avoid further frustration. During your fight with these guys you have to 
+remember that they will shoot fireballs, though they travel slowly, so avoid
+those and take care of the Reznor's and your in business!
+
+*Advanced Tip* - If you enter into the battle as small Mario, and are fast
+enough, you can take out all of the Reznor's before the ground below you 
+breaks apart.
+
+ ============================================================================
+| G. Roy Koopa - Castle #5 - Forest of Illusion                              |
+ ============================================================================
+
+Roy is the "cool" Koopa of the group sporting some hip shades as he prepares
+to take you on. As soon as the battle begins you'll have a bit of deja vu, 
+you've done the battle before right? With Morton? Heh. This battle is much
+like the battle with Morton of Castle #2 except Roy has a new system of doing
+things. He has included trap walls within his confines, this means that the
+walls will slowly start to close in everytime Roy is able to land a slam from
+the ceiling into the ground. Start this battle off by giving Roy a quick hit
+to the head through your jump. After that he will scale the wall and slam
+into the ground causing the walls to come closer together, he will also start
+to speed up everytime you hit him. The speeding up and closer walls mean that
+the slams from Roy will come much faster than before, but he shouldn't be a 
+problem. After two more hits from the plumber's boots you'll be making Roy
+hang his head in shame!
+
+*Advanced Tip* - Much like with Morton if you are able to jump fast enough 
+you can defeat Roy before he is even able to scale the wall once. However to
+allow he gets much faster, unlike Morton, with ever hit so just time your 
+jumps better and you'll have him before he can crush any ground. Your reflexes
+will be just to much for the Koopaling!
+
+ ============================================================================
+| H. Reznor Battle #3 - Chocolate Fortress                                   |
+ ============================================================================
+
+This will be your third and this time it's in the dirt, encounter with the
+Reznor's. These prehistoric dinosaurs guard the four Fortresses' scattered 
+across Dinosaur Land. There are four of them sitting on a rotating platform. 
+To defeat them you must hit underneath the platform they are sitting on. 
+With one good hit they will fall off. You must beware though that they ground
+beneath you will soon start to split apart to reveal a lava pit. After you 
+have knocked at least one of them off of their platform hope onto the 
+platform to battle the other three. Knock the other three off of the platform
+they are sitting on to beat the Reznor's. Pretty simple eh? These guys can 
+get to be a royal pain in later stages so learn how to defeat them easily now
+to avoid further frustration. During your fight with these guys you have to 
+remember that they will shoot fireballs, though they travel slowly, so avoid
+those and take care of the Reznor's and your in business!
+
+*Advanced Tip* - If you enter into the battle as small Mario, and are fast
+enough, you can take out all of the Reznor's before the ground below you 
+breaks apart.
+
+ ============================================================================
+| I. Wendy O. Koopa - Castle #6 - Chocolate Island                           | 
+ ============================================================================
+
+Wendy Koopa is just like her brother Lemmy in the sense that she uses pipes.
+The problem with Wendy is that she has a second Podoboo floating around this
+time to give you trouble, however, there isn't a rise in the pipes. That
+means that they are completely flat. She has two decoy's (sound familiar?) 
+that you must sort through to get to the self-fish little Koopa. She'll pop
+in and out of the pipes every so often so land three quick hits to her head 
+and she'll go down fast. Make sure to avoid the Podoboo's and decoy's in the
+process and you'll be on your way to an easy victory.
+
+*Advanced Tip* - None.
+
+ ============================================================================
+| J. Reznor Battle #4 - Vally Fortress                                       |
+ ============================================================================
+
+This is going to be your last encounter, in the Valley of all places, with the
+Reznor's. These prehistoric dinosaurs guard the four Fortresses' scattered 
+across Dinosaur Land. These four dinosaur's will finally be put to rest with
+this last battle so make sure to follow the other three strategies for beating
+them and your well on your way to officially making them extinct.
+
+*Advanced Tip* - If you enter into the battle as small Mario, and are fast
+enough, you can take out all of the Reznor's before the ground below you 
+breaks apart.
+
+ ============================================================================
+| K. Larry Koopa - Castle #7 - Valley of Bowser                              |
+ ============================================================================
+
+Now you are playing with the big leagues, this is Bowser's favorite Koopaling
+his right hand, his second-in-command, etc. Larry Koopa is the most 
+intelligent of the group and also the most fierce. After making it through 
+this fight you'll be ready to take on the big man himself, Bowser.
+
+Larry has a battle much like you had with Iggy way back in Castle #1. Unlike
+his brother though Larry isn't so dumb as to just have a platform that sways
+back and forth, there are three Podoboo's that will come up on each portion
+of the platform. One will popup on the right, one will popup in the center, 
+and one will popup on the left. During the fight the platform are on will 
+sway back and forth along with Larry throwing fireballs at you from his shell.
+You will have to avoid the three Podoboo's, avoid Larry's fireballs, and send
+him into the lava to beat Larry. With a few quick jumps on the shell Larry
+will be a memory and nothing will stand between you and Bowser at the final
+confortation.
+
+*Advanced Tip* - Much like the battle you had with Iggy, if you go into the
+fight with a Fire Flower equipped you will be able to take care of him with
+a couple of fireballs to the shell.
+
+ ============================================================================
+| L. Bowser Koopa - Final Battle - Valley of Bowser                          | 
+ ============================================================================
+
+This is the final battle you've been waiting for, the big showdown between 
+you and Bowser himself. You will be fighting atop Bowser's Castle, as you 
+start you will hear his theme start playing (one great song if I do say so 
+myself) and then he'll float down in his Clown Car. This is the beginning of 
+one epic fight right here. With the lighting striking occasionally in the 
+background and the awesome music you are ready to take on Bowser Koopa!
+
+ ---------
+| Phase 1 |
+ ---------
+
+In this first phase Bowser will throw down two Mechakoopas. All you have to 
+do is jump onto the Mechakoopas, avoid Bowser's propeller, and throw the 
+Mechakoopas onto Bowser's head. While he is floating above take the 
+Mechakoopas and aim them so that they will land on his head as he is floating
+around. Do this two times and Bowser will go into the background and fly 
+forward off of the screen. During this time there will be fireballs that fall
+from the sky and onto the ground. Avoid these and then Princess will come out
+of the Clown Car to give you a Mushroom to help, grab it and get ready for the
+second phase!
+
+ ---------
+| Phase 2 |
+ ---------
+ 
+In this phase Bowser will drop two bowling balls from his Clown Car (do not
+ask), and then follow up with two Mechakoopas. Make sure to jump over the two
+bowling balls, as well as the propeller on his Clown Car, then stomp on the 
+two Mechakoopas he will be dropping. Throw them up into the air and aim them
+so that they hit him as he is going by (should be familiar). After he is hit
+twice he will once again go into the backgroun and then fly forward. The
+Podoboo's will drop from the sky and Peach will drop yet another Mushroom. 
+After that prepare for the third and final phase.
+
+*Advanced Tip* - To avoid the bowling balls better, simply spin jump onto them
+so that you won't take any damage but you will also have to make sure you 
+don't get hit by Bowser's propeller.
+
+ ---------
+| Phase 3 |
+ ---------
+
+This is the last phase of the final fight and it happens to be the hardest one
+out of all of them. Bowser's Clown Car becomes just as frustrated as Bowser
+himself, as it has an angered face on it instead of that disturbingly happy
+smile. Bowser will bounce around on the ground in his Clown Car to attack 
+this time so run underneath it when he jumps. He will throw out two 
+Mechakoopas and then continue to bounce, grab them and then throw them on top
+of his head. After two hits from the Mechakoopas he'll finally give up the 
+Princess and spin into the background, before disappearing. The Princess will
+fall from the Clown Car and walk over beside Mario to give him a kiss.
+
+You've finally done it! After defeating all of the Koopalings and Reznor's 
+you've beaten the evil tyrant who was trying to take over Dinosaur Land. 
+After you've beaten Bowser you can watch the credits and the ending. Good job!
+
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+ 	- Credits -
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+~ Thanks to CJayC for hosting my FAQ and creating a tremendous site. Good job.
+
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+ 	- Copyright Notice -
+=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
+
+This document is Copyright 2004 by Dustin Sutton. This may be not be 
+reproduced under any circumstances except for personal, private use. It may 
+not be placed on any web site or otherwise distributed publicly without 
+advance written permission. Use of this guide on any other web site or as a 
+part of any public display is strictly prohibited, and a violation of 
+copyright.

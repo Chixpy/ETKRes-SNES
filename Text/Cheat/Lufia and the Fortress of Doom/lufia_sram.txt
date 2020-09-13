@@ -1,0 +1,887 @@
+===============================================================================
+
+ Game: Lufia & The Fortress of Doom (SNES)
+ Author: Vegetaman
+ Document: SRAM Guide
+ 
+ Originally written for posting on gamefaqs.com, romhacking.net (RHDN) and my 
+ own personal website (https://sites.google.com/site/vegetaman/home).
+
+ Copyright (C)  2011  Vegetaman
+
+    Permission is granted to copy, distribute and/or modify this document
+    under the terms of the GNU Free Documentation License, Version 1.3
+    or any later version published by the Free Software Foundation;
+    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
+    A copy of the license is included in the section entitled "GNU
+    Free Documentation License".
+
+===============================================================================
+
+===============================================================================
+
+--------------------
+ Table of Contents:
+--------------------
+
+I.    Introduction
+II.   SRAM Divisions
+III.  The Checksum Algorithm
+IV.   SRAM Location Meanings
+V.    Item List
+VI.   Magic List
+VII.  Revision History
+VIII. Contact Information
+IX.   Other Notes
+X.    Special Thanks
+
+===============================================================================
+
+----------------
+I. Introduction
+----------------
+
+Hello, I am Vegetaman, and this is my SRAM guide to Lufia & The Fortress of
+Doom for SNES. In it, I will discuss how the SRAM is broken up for this game,
+as well as the different save slots. I will also talk about how the checksum
+algorithm works to verify good data, and show you how to figure out what
+items you have in your inventory and what magic you are able to cast (or, what
+value you would need to put into the SRAM to give yourself that item or that
+magic ability -- including some dummied out items and spells!). I will also
+briefly cover binary and hexadecimal to decimal. This entire document is the
+parallel effort of my SRAM editor I created for this game, as it contains all
+the documentation that was necessary to go about programming that project. I
+also included a discussion on binary, hexadecimal, and decimal numbers in the
+IX. OTHER NOTES section of this document, just in case you wanted a refresher
+or it is new to you. These are just the things I have discovered about the
+SRAM while making my editor progam -- but I am working on expanding the scope
+of that to discover what every byte of SRAM in each save slot does, so I would
+appreciate any help or assisstance that you can give!
+
+===============================================================================
+
+-------------------
+II. SRAM Divisions
+-------------------
+
+The SRAM for Lufia & The Fortress of Doom is approximately 8192 bytes long, or
+in HEX 0x2000 (see IX. OTHER NOTES for more information about HEX numbers).
+
+Now, that 0x2000 bytes of SRAM is divided up into 3 "save slots" that are
+approximately 0x800 bytes in length (that's 2048 bytes in decmial notation).
+With the final fourth of SRAM seemingly just loaded with the value "E5".
+
+That means the four slots are located at:
+
+SLOT 00:      0x000
+SLOT 01:      0x800
+SLOT 02:     0x1000
+EXTRA SPACE: 0x1800
+
+On an interesting note though, where the fourth save slot would be, the SRAM
+file I was working with says "Estpolis Biography Neverland Co.". A perfect
+32 bytes starting at SRAM location 0x1800.
+
+===============================================================================
+
+----------------------------
+III. The Checksum Algorithm
+----------------------------
+
+Special thanks to KingMike from RHDN for supplying me with this assembler code
+that contains the checksum algorithm for Lufia & The Fortress of Doom:
+
+ $00/9429 A0 FC 03    LDY #$03FC              A:0070 X:616E Y:0000
+ $00/942C A6 1F       LDX $1F    [$00:001F]   A:0070 X:616E Y:03FC
+ $00/942E A9 02 65    LDA #$6502              A:0070 X:0000 Y:03FC
+ $00/9431 18          CLC                     A:6502 X:0000 Y:03FC
+ $00/9432 7D 08 00    ADC $0008,x[$70:0008]   A:6502 X:0000 Y:03FC
+ $00/9435 E8          INX                     A:4AE7 X:0000 Y:03FC
+ $00/9436 E8          INX                     A:4AE7 X:0001 Y:03FC
+ $00/9437 88          DEY                     A:4AE7 X:0002 Y:03FC
+ $00/9438 D0 F7       BNE $F7    [$9431]      A:4AE7 X:0002 Y:03FB
+ $00/943A AA          TAX                     A:592C X:07F8 Y:0000
+ $00/943B 7A          PLY                     A:592C X:592C Y:0000
+ $00/943C AB          PLB                     A:592C X:592C Y:0000
+ $00/943D 28          PLP                     A:592C X:592C Y:0000
+ $00/943E 60          RTS                     A:592C X:592C Y:0000
+
+The first 8 bytes of each save slot file are used to serve two purposes:
+
+1. The first six bytes contain the save slot number (SLOT00, SLOT01, SLOT02).
+2. The next two bytes contain the calculated checksum value.
+
+The checksum is calculated by starting with the first memory location after
+the calculated checksum value, and going forth until the next save slot 
+location. So, you have three slots that break down as such in SRAM:
+
+0x000 - 0x007: File00XX (where XX is the checksum value for 0x008 - 0x7FF)
+0x008 - 0x7FF <- The actual save slot data that gets added up for the checksum
+                 that gets stored at 0x006 and 0x007
+
+0x800 - 0x807: File01XX (where XX is the checksum value for 0x808 - 0xFFF)
+0x808 - 0xFFF <- The actual save slot data that gets added up for the checksum
+                 that gets stored at 0x806 and 0x807
+
+0x1000 - 0x1007: File02XX (where XX is the checksum value for 0x1008 - 0x17FF)
+0x1008 - 0x17FF <- The actual save slot data that gets added up for the
+                   checksum that gets stored at 0x1006 and 0x1007
+
+0x1800 - 0x1FFF <- Unused data bank
+
+To calculate the checksum for each save slot, you start with the first offset
+in your save slot, and add up the little endian 16-bit numbers. 
+
+So, say for SLOT00, your first 16 bytes looked like this:
+
+ 46 69 6C 65 30 30 E8 63 01 04 E5 E5 E5 E5 E5 E5
+
+So, your first four bytes: "46 69 6c 65", are the HEX equivalent of the word 
+"File" (if you don't believe me, look up the ASCII character table, and find
+that hex values 0x41 - 0x5A are upper case characters and hex 0x61 - 0x7A are
+lower case characters of the alphabet [A-Z and a-z respectively]).
+
+Then, your next two bytes: "30 30", are the HEX equivalent of the printable
+ASCII characters 00 (the ASCII table defines hex values 0x30 - 0x39 as the
+textual representations of the characters 0 - 9).
+
+Now we come to the little endian checksum part, which can be complicated, so
+please bear with me:
+
+Then, the next two bytes are what your checksum is currently calculated as. 
+Since it is a 16 byte value, to get your checksum as a decimal number, you
+take the first number, "0xE8", and convert it to a decimal -- 232. Now, you
+take the second number, "0x63", and convert it to a decimal -- 99. 
+
+But! Before you can add these two numbers together, you have multiply 99 by 
+256, since the number that exists there would actually be 0x6300. Anyway, 99 
+times 256 is 25344. Then you add 232 to that, and you get: 25576. That is your 
+checksum value.
+
+Why did I show you that complicated method? Because, we're dealing with little
+endian encoding. That means that "0x63" is your high order byte, and "0xE8" is
+your low order byte. The 16 bit value that is your checksum is not 0xE863, but
+it is actually 0x63E8. This little tidbit of information becomes important when
+we start going through the save slot to compute the checksum.
+
+Now, if we were to start computing the checksum for this save slot, we would
+begin after the checksum bytes with the first "0x01". This is the low order
+byte, so the decimal equivalent here is 1. Now, we take the high order byte,
+which is "0x04". Remember, this is just like saying "0x0400" for the purposes
+of computing a checksum. So, convert the byte to a decimal -- in this case, 4,
+and then multiply it by 256 -- 1024; before adding back in 1. So, your first 
+value in your checksum is 1025. You will continue in this manner until you
+reach the end of that save slot. 
+
+Except, there is a caveat: what happens when your checksum value goes over
+0xFFFF (the biggest 16-bit number, aka. 65535). Well, your counter technically
+rolls back over to 0, and starts counting up again -- and you just throw
+away the extra.
+
+So you've added up your save slot and you find out that it still doesn't match
+the two bytes at the end of "File00"? Well, that's why the assembler code up
+above was important -- it not only told us how the checksum algorithm works,
+but it also told us the base value to begin the checksum calculation off of.
+In this case, it is 6502. You can either start with this value from the onset,
+or you can add it on as the last step in the process, but regardless, the
+value this yields will be the two bytes that get stored away as your checksum
+for this save slot. Then you just have to rinse and repeat this process for
+the next two save slots! (by the way, 6502 is a decimal value -- not in hex).
+
+If you decide you want to make modifications to the hex file but do not want
+to calculate the checksum by hand -- I have an SRAM editor program that will
+crunch the data for you.
+
+===============================================================================
+
+---------------------------
+IV. SRAM Location Meanings
+---------------------------
+
+As I discussed earlier, the SRAM is divided into four logical blocks:
+
+0x0000 - 0x07FF <- Save Slot File 0
+0x0800 - 0x0FFF <- Save Slot File 1
+0x1000 - 0x17FF <- Save Slot File 2
+0x1800 - 0x1FFF <- Unused Space
+
+So, I will be doing this document based on the offsets for the first save slot,
+also known as File00. If you want to know the appropriate location for the
+data you are looking for in File01 or File02, you just have to add either
+0x800 to the number for File 1, or 0x1000 to the number for File 2.
+
+NOTE: If I do not know what the data at a particular SRAM location holds, I 
+      will just be skipping over it. This document is still a work in progress,
+      and if you have any light to shed on these other SRAM locations -- please
+      scroll down to the Contact Info section and give me a buzz ASAP!
+
+With that being said, let us look at the SRAM for File00 (and don't forget that
+these values are stored in little endian format):
+
+0x000 - 0x005 -> "FILE0?" where 0 is the ? for this file location in SRAM.
+0x006 - 0x007 -> The 16 bit little endian checksum we discussed in the previous
+                 section of this document.
+
+0x113 - 0x116 -> 5 bytes for the Hero's name plus a null terminator (0x00).
+0x119 - 0x11E -> 5 bytes for the Hero's name a second time plus a 0x00.
+0x11F - 0x124 -> 5 bytes for Lufia's name (once she joins) plus a 0x00.
+0x125 - 0x12A -> 5 bytes for Aguro's name (once he joins) plus a 0x00.
+0x12B - 0x12F -> 5 bytes for Jerin's name (once she joins) plus a 0x00.
+
+0x131         -> This byte says how many party members you currently have.
+
+0x132 - 0x134 -> Three bytes that contain the amount of gold your party has.
+
+0x13E - 0x1B5 -> 120 bytes that hold the item information, which breaks down
+                 as follows into byte pairs:
+
+  Items: You get a maximum of 5 pages of items, with 12 items a page, 
+         for a maximum of 60 items. The way the data is stored is that
+         the first byte of the pair identifies what the item is (see
+         V. ITEM LIST for more info on that), while the second byte of
+         the pair identifies the quantity of that item that you have.
+
+0x1B6         -> Hero's Level
+0x1B7         -> Lufia's Level
+0x1B8         -> Aguro's Level
+0x1B9         -> Jerin's Level
+
+0x1C6 - 0x1C7 -> Hero's HP
+0x1C8 - 0x1C9 -> Lufia's HP
+0x1CA - 0x1CB -> Aguro's HP
+0x1CC - 0x1CC -> Jerin's HP
+
+0x1CE - 0x1CF -> Hero's MP
+0x1D0 - 0x1D1 -> Lufia's MP
+0x1D2 - 0x1D2 -> Aguro's MP
+0x1D3 - 0x1D4 -> Jerin's MP
+
+0x1D6 - 0x1F5 -> Hero's Magic Spells (32 bytes for 32 spells)
+0x1F6 - 0x215 -> Lufia's Magic Spells (32 bytes for 32 spells)
+0x216 - 0x235 -> Jerin's Magic Spells (32 bytes for 32 spells)
+
+  Magic: You have a maximum amount of space for spells of 32 bytes. However,
+         the way that magic works is that the spell listing must end with a
+         call to 0x00 for "END OF LIST". Otherwise, if you use up all 32 slots
+         in Hero's Magic list, he will also have every spell of Lufia's in his
+         spell casting ability as well! And likewise, if you fill up all 32 of
+         Lufia's spells, you can spill over into Jerin's territory. And if you
+         fill up Jerin's... Well, you'll probably crash something, but just
+         beware if you go to edit the game in this manner. Though with this
+         method, you can actually give your Hero EVERY spell in the game when
+         the team consists of only you and Lufia! Also, notice that there is
+         no space reserved for Aguro to have magic, so you cannot just give
+         him some spells to let him cast away.
+
+0x307         -> Hero's Equipped Weapon
+0x308         -> Lufia's Equipped Weapon
+0x309         -> Aguro's Equipped Weapon
+0x30A         -> Jerin's Equipped Weapon
+
+0x30B         -> Hero's Equipped Armor
+0x30C         -> Lufia's Equipped Armor
+0x30D         -> Aguro's Equipped Armor
+0x30E         -> Jerin's Equipped Armor
+
+0x30F         -> Hero's Equipped Shield
+0x310         -> Lufia's Equipped Shield
+0x311         -> Aguro's Equipped Shield
+0x312         -> Jerin's Equipped Shield
+
+0x313         -> Hero's Equipped Helm
+0x314         -> Lufia's Equipped Helm
+0x315         -> Aguro's Equipped Helm
+0x316         -> Jerin's Equipped Helm
+
+0x317         -> Hero's Equipped Shoes
+0x318         -> Lufia's Equipped Shoes
+0x319         -> Aguro's Equipped Shoes
+0x31A         -> Jerin's Equipped Shoes
+
+0x31B         -> Hero's Equipped Ring
+0x31C         -> Lufia's Equipped Ring
+0x31D         -> Aguro's Equipped Ring
+0x31E         -> Jerin's Equipped Ring
+
+===============================================================================
+
+-------------
+V. Item List
+-------------
+
+The whole section in the SRAM locations about inventory data does no real good
+unless you can decipher just exactly what item it is that is stored in that
+location -- so, I give you the hex codes for items you can obtain (and some
+dummy items that you should not be able to obtain and that don't seem to do
+anything even if you hex edit the game to give you the items).
+
+    ITEM NAME      HEX NUMBER     DECIMAL NUMBER
+|---------------|--------------|-----------------|
+  Empty Slot           00                0
+  Knife                01                1
+  Club                 02                2
+  Mace                 03                3
+  Dagger               04                4
+  Long Knife           05                5
+  Short Sword          06                6
+  Rod                  07                7
+  Gladius              08                8
+  Glass Robe           09                9
+  Brone Sword          0A               10
+  Staff                0B               11
+  Scimitar             0C               12
+  Rapier               0D               13
+  Long Sword           0E               14
+  Long Staff           0F               15
+  Axe                  10               16
+  Spear                11               17
+  Morning Star         12               18
+  Catwhip              13               19
+  Battle Axe           14               20
+  Hammer Rod           15               21
+  Trident              16               22
+  Silver Rod           17               23
+  Silver Sword         18               24
+  Buster Sword         19               25
+  Zircon Rod           1A               26
+  Great Axe            1B               27
+  Grand Blade          1C               28
+  Zircon Axe           1D               29
+  Zircon Sword         1E               30
+  Broad Sword          1F               31          (cursed) 
+  Broad Rod            20               32          (cursed)
+  Luck Blade           21               33          (cursed)
+  Gloom Pick           22               34          (cursed)
+  Dual Blade           23               35
+  Dress                24               36
+  Cloth                25               37
+  Cloth Armor          26               38
+  Robe                 27               39
+  Tan Armor            28               40
+  Tan Robe             29               41
+  Light Armor          2A               42
+  Light Robe           2B               43
+  Chain Mail           2C               44
+  Chain Cloth          2D               45
+  Plate Cloth          2E               46
+  Brone Armor          2F               47
+  Quilted Silk         30               48
+  Half Mail            31               49
+  Brone Robe           32               50
+  Silver Armor         33               51
+  Silver Robe          34               52
+  Plate Mail           35               53
+  Zircon Robe          36               54
+  Zircon Armor         37               55
+  Clear Silk           38               56
+  Bracelet             39               57
+  Tan Shield           3A               58
+  Wood Shield          3B               59
+  Buckler              3C               60
+  Wood Wrist           3D               61
+  Kite Shield          3E               62
+  Round Shield         3F               63
+  Round Wrist          40               64
+  Brone Shield         41               65
+  Tower Shield         42               66
+  Large Shield         43               67
+  Silver Wrist         44               68
+  Silver Plate         45               69
+  Zircon Wrist         46               70
+  Zircon Plate         47               71
+  Cloth Helm           48               72
+  Tan Helm             49               73
+  Hair Band            4A               74
+  Wood Helm            4B               75
+  Glass Cap            4C               76
+  Brone Helm           4D               77
+  Red Beret            4E               78
+  Iron Helm            4F               79
+  Plate Cap            50               80
+  Plate Helm           51               81
+  Glass Beret          52               82
+  Silver Helm          53               83
+  Sakret               54               84
+  Zircon Beret         55               85
+  Zircon Helm          56               86
+  Sandal               57               87
+  Cloth Shoes          58               88
+  Tan Shoes            59               89
+  Spike Shoes          5A               90
+  Heeled Shoes         5B               91
+  Wind Shoes           5C               92
+  Wind Heels           5D               93
+  Knife Shoes          5E               94
+  Needle Heels         5F               95
+  Sonic Shoes          60               96
+  Sonic Heels          61               97
+  Sword Shoes          62               98
+  Cat Heels            63               99
+  Mach Shoes           64              100
+  Mach Heels           65              101
+  Power Ring           66              102
+  HiPower Ring         67              103
+  Daze Ring            68              104
+  Hi Daze Ring         69              105
+  Mind Ring            6A              106
+  Sonic Ring           6B              107
+  Mach Ring            6C              108
+  Undead Ring          6D              109
+  Ghost Ring           6E              110
+  Dragon Ring          6F              111
+  Sea Ring             70              112
+  Fly Ring             71              113
+  Water Ring           72              114
+  Fire Ring            73              115
+  Ice Ring             74              116
+  Electro Ring         75              117
+  Flash Ring           76              118
+  Flame Ring           77              119
+  Water Ring           78              120
+  Blast Ring           79              121
+  Frost Ring           7A              122
+  Might Armor          7B              123
+  Might Shield         7C              124
+  Might Helmet         7D              125
+  Gloom Ring           7E              126
+  Gloom Voice          7F              127
+  Dummy                80              128
+  Brone Breast         81              129
+  Carbo Sword          82              130
+  Carbo Plate          83              131
+  Carbo Shield         84              132
+  Carbo Helm           85              133
+  Carbo Cap            86              134
+  Gloom Guard          87              135
+  Diamond Ring         88              136
+  Engage Ring          89              137
+  Monster Ring         8A              138
+  Blue Ring            8B              139
+  Yellow Ring          8C              140
+  Red Ring             8D              141
+  Purple Ring          8E              142
+  Green Ring           8F              143
+  White Ring           90              144
+  Black Ring           91              145
+  Heavy Ring           92              146
+  Wave Ring            93              147
+  Potion               94              148
+  Hi Potion            95              149
+  Ex Potion            96              150
+  Hi Magic             97              151
+  Ex Magic             98              152
+  Antidote             99              153
+  Sweet Water          9A              154
+  Foul Water           9B              155
+  Awaken               9C              156
+  Stone Cure           9D              157
+  Mystery Pin          9E              158
+  Shriek               9F              159
+  Swing Wing           A0              160
+  Magic Guard          A1              161
+  Power Gourd          A2              162
+  Mind Gourd           A3              163
+  Power Potion         A4              164
+  Spell Potion         A5              165
+  Speed Potion         A6              166
+  Mind Potion          A7              167
+  Great Potion         A8              168
+  Float                A9              169
+  Smoke Ball           AA              170
+  Arror                AB              171
+  Mid Arrow            AC              172
+  Big Arrow            AD              173
+  Arrows               AE              174
+  Hi Arrows            AF              175
+  Ex Arrows            B0              176
+  Dragon Arrows        B1              177
+  Sleep Arrow          B2              178
+  Puzzle Arrow         B3              179
+  Stun Arrow           B4              180
+  Gloom Arrow          B5              181
+  Bomb                 B6              182
+  Hi Bomb              B7              183
+  Ex Bomb              B8              184
+  Miracle              B9              185
+  Revive               BA              186
+  Pear Cider           BB              187
+  Sour Cider           BC              188
+  Lime Cider           BD              189
+  Plum Cider           BE              190
+  Apple Cider          BF              191
+  Hair Band            C0              192
+  Brooch               C1              193
+  Earring              C2              194
+  Necklace             C3              195
+  Stuffed Bear         C4              196
+  Stuffed Dog          C5              197
+  Stuffed Pig          C6              198
+  Emerald              C7              199
+  Opal                 C8              200
+  Goblet               C9              201
+  Ear Tip              CA              202
+  Empty Bottle         CB              203
+  Gown                 CC              204
+  Ribbon               CD              205
+  Fry Pan              CE              206
+  Small Knife          CF              207
+  Pot                  D0              208
+  Chop Block           D1              209
+  Apron                D2              210
+  Dragon Egg           D3              211
+  Crown                D4              212
+  Secret Map           D5              213
+  Miracle Gem          D6              214
+  Silver Wick          D7              215
+  Royal Statue         D8              216
+  Silver Tarot         D9              217
+  Golden Pawn          DA              218
+  Crown Jewels         DB              219
+  Wind Flute           DC              220
+  Escape               DD              221
+  Magic Jar            DE              222
+  Dragon Tooth         DF              223
+  Grilled Newt         E0              224
+  Poison Pin           E1              225
+  Might Sword          E2              226
+  Straw Doll           E3              227
+  Long Nail            E4              228
+  Bomb                 E5              229
+  Alumina              E6              230
+  Power Oil            E7              231
+  Elven Bow            E8              232
+  Artea's Bow          E9              233
+  Might Bow            EA              234
+  Dummy                EB              235
+  Dummy                EC              236
+  Dummy                ED              237
+  Dummy                EE              238
+  Free Door            EF              239
+  Sheran Key           F0              240
+  Letter               F1              241
+  Dais Key             F2              242
+  Shrine Key           F3              243
+  Pirate Key           F4              244
+  Light Key            F5              245
+  Oil Key              F6              246
+  Green Jade           F7              247
+  Red Sapphire         F8              248
+  Blue Jade            F9              249
+  Purple Newt          FA              250
+  Glasdar Key          FB              251
+  Magic Flavor         FC              252
+  Fairy Kiss           FD              253
+  Not Used             FE              254
+  Not Used             FF              255
+|---------------|--------------|-----------------|
+
+Note that there is some oddity in this list, such as two items named "Bomb",
+and at least 5 "Dummy" items, and then there's "Free Door" on top of that. 
+
+Not only that, but several of these items, such as "Sheran Key", go into your
+Scenario page, not your item list. But, I digress -- you can add them in to
+your SRAM file anyway.
+
+===============================================================================
+
+---------------
+VI. Magic List
+---------------
+
+When you are reading through the magic section of the SRAM data, use this data
+to decode (or modify) what you are reading [again, see section IX. Other Notes
+for information about how HEX numbers work]:
+
+  MAGIC NAME     HEX NUMBER     DECIMAL NUMBER
+|-------------|--------------|-----------------|
+  END OF LIST        00                0
+  Flash              01                1
+  Bolt               02                2
+  Thunder            03                3
+  Spark              04                4
+  Flame              05                5
+  vulcan             06                6
+  Dew                07                7
+  Water              08                8
+  Flood              09                9
+  Bang               0A               10
+  Blast              0B               11
+  Sunder             0C               12
+  Frost              0D               13
+  Blizzard           0E               14
+  Glacier            0F               15
+  Perish             10               16
+  Succumb            11               17
+  Drowsy             12               18
+  Fright             13               19
+  Drain              14               20
+  Dread              15               21
+  Deflect            16               22
+  Bounce             17               23
+  Absorb             18               24
+  Fake               19               25
+  Trick              1A               26
+  Confuse            1B               27
+  Bravery            1C               28
+  Courage            1D               29
+  Shield             1E               30
+  Protect            1F               31
+  Mirror             20               32
+  Statue             21               33
+  Strong             22               34
+  Stronger           23               35
+  Champion           24               36
+  Boost              25               37
+  Valor              26               38
+  Poison             27               39
+  Stun               28               40
+  Dead               29               41
+  Rally              2A               42
+  Stone              2B               43
+  Waken              2C               44
+  Warp               2D               45
+  Escape             2E               46
+  Float              2F               47
+  Elf                30               48
+  Defake             31               49
+  Figual             32               50
+  Paraiz             33               51
+  Elegion            34               52
+  Elegi              35               53
+  Elegio             36               54
+  Absobl             37               55
+|-------------|--------------|-----------------|
+
+In case you do not recognize some of the last magic spells on that list, that
+is because they must have been in there for test purposes. Without going too
+much off topic, here is what it appears that these extra magic spells do:
+
+Defake - Agility Down
+Figual - Confuse
+Paraiz - Paralyze
+Elegion - Thunder Spell (all enemies)
+Elegi - Flash Spell (all enemies)
+Elegio - Bolt Spell (all enemies)
+Absobl - Absorb Magic
+
+The plus of some of these spells is that they cost only 1 or no MP at all to
+cast, meaning you can give them to your low level party and completly rule
+the entire game -- nevermind the great items you could give yourself as well.
+
+===============================================================================
+
+----------------------
+VII. Revision History
+----------------------
+
+Version 0.5 - February 02, 2010
+
+Version 1.0 - February 20, 2011 *CURRENT VERSION*
+
+Currently working on for next update... Experience Offsets and Stat Offsets...
+
+===============================================================================
+
+--------------------------
+VIII. Contact Information
+--------------------------
+
+You should be able to contact me via e-mail at: vegetaman@gmail.com
+
+In leui of that, I post on the Lufia & The Fortress of Doom board over at
+gamefaqs.com relatively frequently, so you can drop me a line there.
+
+Also, there's a topic on RHDN devoted to Lufia you could check out:
+
+http://www.romhacking.net/forum/index.php/topic,10287.0.html
+
+And, failing that, you may be able to find new contact information, or new
+information about projects I've got running, at my personal website:
+
+https://sites.google.com/site/vegetaman/home
+
+In case you were interested in my SRAM editor, you can pick it up from
+links on my website (there's a readme to go along with it, as well):
+
+https://sites.google.com/site/vegetaman/home/sramchecksum
+
+===============================================================================
+
+----------------
+IX. Other Notes
+----------------
+
+Okay, a brief run through over how binary and hexadecimal are related and how
+bits and bytes work and converting binary and hexadecimal to our human readable
+base 10 decimal.
+
+First! Computers store data as a series of 0s and 1s. Well, these 0s and 1s are
+grouped into sets of 8 bits called a byte (a byte also can be said to consist
+of two groups of 4 bits each, a left nibble/nybble and a right nibble/nybble,
+which is a handy trick for something I will show you shortly). Anyway, binary
+is a base 2 number system, so a byte will look like this:
+
+  _  _  _  _  _  _  _  _
+ 128 64 32 16 8  4  2  1
+
+Now, since it is base 2, you will see that from right to left:
+
+ 2 to the 0 power is 1.
+ 2 to the 1 power is 2.
+ 2 to the 2 power is 4.
+ 2 to the 3 power is 8.
+ 2 to the 4 power is 16.
+ 2 to the 5 power is 32.
+ 2 to the 6 power is 64.
+ 2 to the 7 power is 128.
+
+All of these will sum up to one less than 2 to the 8 power, or 256.
+
+So, if you have a 1 in that position, you add that value to the sum of the
+byte, and if it is a 0, you do not. So, for example:
+
+ 00001001 = 9 (since you have a 1 in the 1s spot, and a 1 in the 8 spot, and
+               8 + 1 = 9).
+
+ 10010010 = 146 (since you would have 128 + 16 + 2, which is 146).
+
+Now, there's something called hexadecimal, or HEX, which consists of base 16
+numbers (and are usually signified by writing 0x before the number). The
+numbers in HEX work like so:
+
+0, 1, 2, 3, 4, 5, 6, 7, 8, and 9 are all equal to what you think they are.
+
+But, to get to 16, you have the addition of:
+
+ A = 10
+ B = 11
+ C = 12
+ D = 13
+ E = 14
+ F = 15
+
+Now, to convert from hex to binary or binary to hex is the easiest thing in
+the world, due to the 4 bit "nibbles" or "nybbles" I told you about earlier.
+
+Take our earlier example of:
+
+ 10010010
+
+Now, split that into a left half and a right half:
+
+ 1001       0010
+
+Now, pretend -- just for a moment -- that these are two new binary values
+that start out with 2 to the 0 power on the right and 2 to the 3 power on
+the far left...
+
+ 1001 = 9   0010 = 2
+
+Okay, so now in hex, the value 10010010 would be 0x92 (or 92H). Simple, eh? It
+works really quickly and is the simplest method I know. Try another example:
+
+ 11110000 -> 1111 = 16    0000 = 0
+
+Well, since 16 is F, and 0 is 0, the resulting value would be: 0xF0.
+
+There's other cool things about binary, such as the fact that all the bits to
+the right of a number add up to one less than itself. Again, for example:
+
+ 01111111 = 127 decimal or 0x7F hexadecimal
+
+Why? Because 64 + 32 + 16 + 8 + 4 + 2 + 1 = 127, which happens to be one less
+than the value of the 2 to the 7th power, 128! But, I digress, this is a Lufia
+SRAM guide, not an introduction to computers course...
+
+So, on a final note, you may ask -- Why convert from hex to binary? Well, 
+namely because it makes it really easy to get to a decimal value, since binary 
+is pretty obvious. Also, you will need some understanding of how binary and
+hexadecimal and decimal work together when you try to read a SRAM file in a
+hex editor.
+
+One final note on this front, when something takes more than one byte, you
+just have to tack on the next batch of powers of 2.
+
+ 1 byte  =      256 possible values   (Remind you of anything? Like... The
+                                      rupee counter on The Legend of Zelda
+                                      for NES?)
+
+ 2 bytes =    65536 possible values   (You will probably run across the number
+                                      65536 or 65535 a lot when playing SNES
+                                      games)
+
+ 3 bytes = 16777215 possible values   (I include this because it is the maximum
+                                      amount of gold that this game lets you
+                                      have)
+
+So, if you have 2 bytes you need to convert to a decimal:
+
+ D3 E5
+
+If it is little endian, you multiply the decimal value of E5 by 256 and add 
+it to the decimal value of D3. If it is big endian, you multiply the value of
+D3 as a decimal by 256 and then add the decimal value of E5. 
+
+Same goes for if you increase it to three bytes:
+
+ 42 F7 96
+
+If it is little endian, you will covert all three of these numbers to decimal,
+and multiply 96 by 65536 and multiply F7 by 256 and add those values up with
+the decimal value of 42. If it is big endian, you multiply 42 by 65536, then
+you multiply F7 by 256, and then you add those two values up with the decimal
+value for 96 and that will give you your number. I'll tell you right now that
+you may well wind up with some pointer math that deals with three bytes and
+an offset (meaning a set value you need to start with to add the pointer to
+to reference a location in memory), but I fear I am going out of the scope of
+this document, so I will stop here...
+
+It makes sense, right? 8-bit is 1 byte, 16-bit is 2 bytes, 32-bit is 4 bytes,
+etc. etc. It seems like a lot of difficult math, but the more you use it, and
+the more comfortable you get with it, it will become just like second nature.
+
+I'll leave all the chat about assembly language to the pros. I do good just 
+being able to read it when coming out of a disassembler, honestly...
+
+===============================================================================
+
+------------------
+X. Special Thanks
+------------------
+
+I have quite a list of people I would like to thank, so here it goes:
+
+KingMike - The first person to set me off on this SRAM path, as you veered me
+           away from making just a save state evaluator and editor -- and not
+           only that, but you hunted down the checksum algorithm code for me,
+           without which this project would have never gotten off the ground!
+
+DarkCecil - You were the first person to make me want to pick this project
+            up again after six months of activity and you had a lot of
+            great tidbits and ideas to share, especially when it came to
+            character EXP offsets and how everything worked in tandem.
+
+Guktian Guk - Your e-mails made me re-examine my SRAM editor program and
+              discover about emulators wiping data on a save state load.
+
+Jigglysaint - You too helped bring this project back to life, as well as
+              what will (hopefully) become a reference for the Lufia text 
+              dictionary in the very near future.
+
+Nightcrawler - You told me that doing this documentation as an aside from my
+               SRAM editor would be a good thing to share with the world.
+
+creaothceann - Though a bit outside of the context of this SRAM guide, you
+               did show me what a proper SRAM editor should look like.
+
+DarknessSavior - Thanks for being just generally a good supporter of my
+                 several ongoing Lufia projects for over a year now.
+
+John David Ratliff - Your great SRAM guides were a prototype or a starting
+                     point for me. Also, you gave me the idea to throw a
+                     GNU Free Public License or "copyleft" on this.
+
+And lastly, thanks to all the good folks over at romhacking.net (RHDN) for 
+making all of this possible, as well as my ardent supporters from gamefaqs!
+
+===============================================================================

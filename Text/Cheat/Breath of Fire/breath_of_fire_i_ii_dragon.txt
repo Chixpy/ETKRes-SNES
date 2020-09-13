@@ -1,0 +1,468 @@
+----------------
+ BREATH OF FIRE
+      AND
+BREATH OF FIRE 2
+----------------
+
+     Dragon
+    Handbook
+
+----------------
+
+ANSI. Bah. :)
+
+----------------
+
+Latest version: January 27, 2005
+
+Version 1.0, 10/23/0:  First release!
+Version 1.2, 11/25/0: Removed Breath of Fire 4 speculation section, checked
+	every line to make sure it was under 80 spaces.  Gamefaqs.com never put
+	up version 1.0, so you didn't miss anything :)
+Version 1.5, 12/20/0:  I remembered, after being away from the game for too
+	long, that you can look at the characters' stats during battle in BoF1,
+	and I used this little feature to take a look at Ryuu's stats when he
+	transforms.  Made a few minor wording changes here and there to reflect
+	the fact that BoF4 is out now, and not 'upcoming' :)
+Version 1.51, 1/27/5: Minor changes to reflect that BoF1 and 2 have been out
+	on GBA for a long time now.  Updated e-mail address.  Re-uploaded to
+	GameFAQs so that all my FAQs are under the same contributor name. :)
+
+
+--------------
+
+This information guide is copyright 2000 DarkStorm, currently wrassedragon
+(at) yahoo (dot) com.  Do not publish this commercially without my
+permission (and I *will* want to be paid for it :). Do not put this FAQ on
+your website without contacting me first. Basically, read it all you want,
+save it to your hard drive, and enjoy it forever, but don't publish it or
+post it to another web page without e-mailing me and asking my permission
+(and I can't think of a reason I wouldn't give my permission).  Simple,
+neh?
+
+Do make sure, however, that you are looking at the most recent version of this
+guide, which should always be on my web site and www.gamefaqs.com.
+
+TABLE OF CONTENTS
+	I. Breath of Fire
+		A. Overview
+		B. Pros
+		C. Cons
+		D. The Big List Of Dragons
+			1. Drakes
+			2. Dragons
+			3. Rudra
+			4. Agni
+	II. Breath of Fire II
+		A. Overview
+		B. Pros
+		C. Cons
+		D. The Big List Of Dragons
+			1. Whelps
+			2. Dragons
+			3. Kaiser
+			4. Infinity
+		E. Cheating!
+
+-----
+
+	I'm assuming that you've played BoF3 when reading this, so I may make
+comparisons.  I think both BoF1 and 2 are out of print and difficult to find
+(since they're SNES games), but you can probably find ROMs if you're
+determined enough. (Note: Do *not* ask me for ROMs.  I have the original
+cartridges and have no need of ROMs for these two games) :)
+
+	Of course, both games are now also out on the GBA, but those are also
+out of print and somewhat difficult to find.  This guide is based on the SNES
+versions, but it should work fine for the GBA version.
+
+I. Breath of Fire
+
+A. Overview
+
+	The original game, the original Ryuu, the original dragon transformation
+spells.  They're Ryuu's *only* spells (unlike BoF2 and 3, but like BoF4).
+BoF3's dragons are partially taken from these: the bolt of lightning striking
+Ryuu and the fact he remains in dragon-form until he reverts.  Unlike BoF3,
+there is no AP cost to maintain the form.
+	Ryuu is healed to full HP upon taking dragon-form (and doesn't revert to
+his previous HP total when the battle ends), but he gains no extra HP (except
+in Agni form), and if the dragon-form dies, so does he.  On the other hand,
+the SnoDr transformation is a quick and relatively cheap way to refil his HP
+(since dragon transformations are done at the start of the round, no matter
+what his speed - or ACT score - is, right after healing or defensive spells)
+	Selecting magic when in dragon form brings up only one command:  Revert.
+Each dragon has a single breath attack that's done by simply selecting Attack.
+This attack does a constant amount of damage, even as Ryuu gains levels,
+though the dragon-forms' defense improves as Ryuu gains levels.
+
+
+B. Pros
+
+All dragons are immune to status changes (except Instant Death).
+
+Dragon-forms have improved defense scores.
+
+Dragon transformation lasts until the end of the battle with no maintance cost
+(unless you delibrately select Revert, or if Ryuu is killed in this form). You
+pay the AP to transform once, then you stay in the form as long as you like.
+
+Agni does incredible damage (999/round).
+
+
+C. Cons
+
+Since the dragons' attacks never get any more powerful, early dragons become
+useless later on.  Even Rudra isn't that good when Ryuu can dish out 700
+damage with his normal attack.
+
+The later dragons cost a lot of AP (up to 60), and Ryuu doesn't get much total
+AP, even at high levels (he has about 180 or so at level 40).  And you can't
+use Masters to boost his AP, since they weren't introduced until BoF3. :)
+
+Although dragons cannot be poisoned, cursed, etc., having those condiditions
+already in effect will prevent transformation.  Furthermore, having these
+conditions in effect on *any* of the party members will prevent Agni from
+working.
+
+
+D. The List
+
+And now, the noodles.  Each dragon "breath" mimics the effect of one of the
+game's spells, except in damage.  This spell will be listed along with the AP
+cost and damage. Damage is always an exact number, unless the target is
+vulnerable to or resistant to the element.
+
+Defense boosts are calculated based on Ryuu's current Defense score,
+*including* equipped weapons and armor, and even including the Fort spell, if
+it was cast before transformation. So if he had, for example, 200 Defense
+before transforming, he'd have 200 x 1.2 = 240 as a Thunder Drake.  If had 200
+Defense, then had Fort cast on him (which adds 20 points to Defense), and
+*then* transformed into a Thunder Drake, he'd have (200 + 20) x 1.2 = 264
+Defense.  Note that if it had been done the other way (transforming than
+casting Fort), he'd only have 260 Defense in dragon-form.  So if you're going
+to cast defensive spells on Ryuu, get them in before he transforms.
+(Defensive spells go before transformation spells in any event, so you can
+cast them on the same round).
+
+Attack scores listed are what's given on Ryuu's Status screen if checked while
+in dragon-form in battle.  What this actually affects is unknown.
+
+1. Drakes
+
+	The Drakes are gained in a Dragon Temple just after the Stone Robot
+scenario.  Ryuu must fight the Talon (looks like the Gargoyles near the end of
+the game) alone to win these dragon spells (there's a healing spring in the
+temple, so heal up before you fight). There are no prerequisites for this
+battle.
+
+Snow Drake (SnoDr): 7 AP, 100 ice damage to a single target.
+	Attack score: 40 (!)
+	Defense boost: 112%
+	Spell mimicked:  Cold
+Flame Drake (FlmDr): 10 AP, 115 fire damage to a single target.
+	Attack Score: 140
+	Defense boost: 116%
+	Spell mimicked: Flare
+Thunder Drake (ThrDr): 12 AP, 130 electric damage to a single target.
+	Attack Score: 160
+	Defense boost: 120%
+	Spell mimicked:  Fry
+
+Obviously, ThrDr is the best to use against bosses, unless you know they're
+weak against another element (for example, the Sandworm is weak against Ice,
+making the Snow Drake a better choice).
+
+2. Dragons
+
+	The Dragons are acquired in a Dragon Temple found by following the path
+between the Dark Dragon pyramid and Nabal Castle.  You need the Rod5 (hidden
+in Tunlan) to fish for the Dragon Sword (in the well northwest of Romero).
+You need to have gotten the Sphere for Gobi (because otherwise, you can't
+*reach* Tunlan).  (You can also get the Dragon Helmet from a well near Arad,
+and you should already have the Life Armor from the roof of Agua, thanks to
+Karn.  Less than halfway through the game, and Ryuu has some of his best armor
+and weapons already - though the Dragon Sword is nowhere near as good as it is
+in later games.  It's rather low down on the Best Swords list this time
+around). Once you have them, go to the temple and fight Bain, a blue phoenix.
+When this "training" is complete, you receive the following abilities:
+
+Ice Dragon (IceDgn): 20 AP, 190 ice damage to all enemies.
+	Attack score: 180
+	Defense boost: 124%
+	Spell mimicked:  Ice
+Fire Dragon (FirDgn): 27 AP, 210 fire damage to all enemies.
+	Attack score: 260
+	Defense boost: 128%
+	Spell mimicked:  Char (creates the interesting effect of a dragon
+		summoning a dragon)
+Bolt Dragon (BltDgn): 30 AP, 225 electric damage to all enemies.
+	Attack score: 280
+	Defense boost: 132%
+	Spell mimicked:  Gale
+Gold Dragon (GldDgn): 40 AP, 375 damage to all undead enemies only.
+	Attack score: 300
+	Defense boost: 136%
+	Spell mimicked:  ZomX
+
+I find the Gold Dragon useless despite its power.  The Fire Dragon does extra
+damage to undead enemies anyway, for a lower AP cost, and can affect
+non-undead in the enemy group as well.  Not that you'll be using these
+transformation spells in casual combat, unless you have a lot of Acorns.
+
+
+3. Rudra
+
+	The next Dragon Training session gives you but one dragon form, but
+what a form.  You should have the Dragon Armor from the town of Spring (fish
+off the docks once the town is thawed) - note you just have to have it in your
+inventory, not actually equipped.  The Life Armor is just as good defensively,
+plus it also heals HP as you walk. You should also have the Dragon Shield by
+now (from the well encircled by mountains east of Gramor), but it's not
+necessary for the training. Nina needs to be able to fly to get both the
+Dragon Shield and to get to this training spot.
+	Got all that?  Good. Now fly to the Dragon Temple sitting all by itself
+on an island northwest of Gust.  Go in, and fight the Avian (a recolored
+GrimFowl - it's an ostrich, basically) for this powerful (but, unfortunately,
+ultimately useless) spell.
+	In the Japanese version, this dragon is known as Kaiser - so this form
+*does* appear in every game.
+
+Rudra: 50 AP, 320 damage to all enemies.
+	Attack score: 400
+	Defense boost: 140%
+	Spell mimicked: None directly.  Think of Bleu's Comet spell, or any of
+	Gobi's fish-summoning spells, and replace the rocks/fish with tiny
+	firebirds.
+
+
+4. Agni
+
+	Why is Rudra "useless"?  Becuase you can get Agni immediately after
+getting Rudra.  Once you have Rudra, go back to the cave near Romero where you
+got the Cleansing Water.  Go down to where you got it, and keep going. You'll
+go into the water, and find a small Dragon Shrine there (apparently, this is
+what is purifying the water).  No fights are necessary, but you'll need the
+Dragon Helmet and Rudra to qualify.
+	This spell is unique in that it combines all eight members of your party
+into a single centaur-like dragon with recognizable parts of most of them
+(Bo's face, Nina's wings, Bleu's tail, Gobi's spines, Ox's horns, and Mogu's
+claws). This dragon has about 999 hit points if your party is at decent level
+(I'm not quite sure how the game calculates the hit points; it may simply be
+three times Ryuu's normal HP total). To use it, *every* member of your party
+must be alive, have no status problems (i.e., not sleeping, cursed, poisoned,
+rotting, etc), and not fused with Karn.
+	In a practical sense, you can do more damage per round with Ryuu as Rudra
+(using Mrbl1 to get a critical hit each time), Karn in his Puka fusion (also
+using Mrbl1), Bleu casting BoltX, and Nina healing and casting defensive
+spells, but using Agni is generally easier and quicker, since Agni is so
+powerful both offensively and defensively. (Though using the Rudra / Mrbl1
+strategy to beat Myria's true form is a lot more satisfying).
+	In the Japanese version, this is Infinity.  The Infinity Dragon is not
+seen again until BoF4 (where, named Infini, it's an event-dragon only).
+There's a dragon 'power' called Infinity (Anfini in the US) in BoF2, but
+it's not an actual dragon form, and the Infinity Gene in BoF3 just allows
+use of the Kaiser form.
+
+Agni: 60 AP, 999 damage to all enemies.
+	Attack score: 999
+	Defense boost: 200%
+	Spell mimicked:  Gale, followed by 3.5.
+
+------
+
+ii. Breath of Fire II
+
+A. Overview
+
+	A completely different dragon system was introduced in Breath of Fire
+II. Maybe the BoF1 dragons were considered too powerful (999 damage per round
+indefinitely from a 60 AP initial investement), so they tried to balance them.
+My own opinion is that they went *too* far to try to "fix" things.  BoF2 has
+arguably the best storyline (albeit a lifeless translation) of the three
+(though I do like BoF3's Search For Identity/Who Framed The Dragon Clan?
+storyline), but the worst dragon system.  The Shaman system is also more
+awkward than the Master system or Rei's Weretiger in 3 or Karn's Fusions in 1.
+	The dragons in this game are simply 'blasts', used much like Nina and
+Bleu's attack spells  They're single shot spells that transform Ryuu into a
+dragon just long enough to dish out damage on his opponents. I say "single
+shot" because it eats up *all* of Ryuu's remaining AP in the process.  Damage
+done is proportional to the number of AP remaining vs. maximum AP (Ben Siron's
+excellent Breath of Fire II Handbook - also on gamefaqs.com - has exact
+calculations, but it's approximately base damage times the square of the ratio
+of current AP to maximum AP.  Or, in English, at half maximum AP, you'll do
+one-quarter damage, at one-third AP, you'll do one-ninth damage, etc). These
+dragons are more akin to Breath of Fire IV's Dragon Evocations than to the
+Transformations in 1, 3, and 4. (Yes, 4 has both Transformations *and* one-
+shot 'blasts') :)
+	The reasoning, I believe, for Ryuu's weakened dragon spells is that
+he's only half-Dragon (his father is a normal human), so his body can't hold
+dragon shape for more than a few seconds. Also note that his transformation
+pose was reused (though redrawn, of course) in BoF3 as (adult) Ryuu's
+transformation pose, just before the lightning bolt strikes.
+
+
+B. Pros
+
+Damage!  These attacks are the most powerful in the game.  You're probably not
+going to be able to beat K.Sludges without the G.Drgn spell.
+
+They're quicker to use than the other three games, since you don't need to
+spend one round to transform.
+
+
+C. Cons
+
+You can only use them once before needing to refill your AP.  This is a huge
+drawback, limiting the use of them to once-per-boss-battle-and-not-before. All
+the other games in the series let you use the dragons more than that.
+
+There's little variety.  Except in one case, there's no reason to use the
+Whelps once you get the Dragons, or the Dragons once you get Kaiser
+(especially since the AP cost is the same no matter which you use).
+
+Damage done goes down based on the *square* of the AP ratio.  If you use any
+AP to heal, or if the opponent uses Drain, or even if you gain a level so AP
+is no longer at maximum, you're not going to get the full effect of these
+spells.  (And the W. Seeds of this game restore 20 AP, but also make you
+*lose* 20 HP when you use them, so they're not the best solution to AP
+problems).
+
+
+D. The Big List Of Dragons
+
+1. Whelps
+
+The game calls them 'puppies', but I like the BoF3 name.  You get the Whelps
+at the same time you find your first Shaman, just after the Save The Villagers
+scenario in Capitan.  It's part of the storyline, so you can't miss them.
+
+FirPuppy: 256 (base) fire damage to one target
+IcePuppy: 256 (base) ice damage to one target
+T.Puppy: 256 (base) electric damage to one target
+
+
+2. Dragons
+
+	When you first get Jean, before going into Simafort, why not hop in
+the lake to the north and take a ride down the waterfall?  Go on, the swim
+will do you good.
+	If you don't go in when you first get Jean, you'll lose him
+temporarily, and you'll have to go through the entire Simafort scenario (which
+includes no fewer than four boss enemies) without these forms.
+	You're not actually required to get these forms, but I can't imagine
+why you'd want to skip them. :)
+
+FireDrgn, IceDrgn, and T.Drgn:  These three are, for all intents and purposes,
+	identical. Despite their names, they do not cause elemental damage.
+	Base damage of 512 to all targets
+
+
+3. Kaiser
+
+	Again, I use the BoF3 name (because this is clearly an early form of
+the dragon seen in KaiserBreath)... and becuase this dragon *is* Kaiser in the
+Japanese version.  Why they changed it to the obscure name of G.Drgn
+(especially since they *never* tell you what the G stands for) is unknown.
+
+	You also get this form as part of the storyline: when a Dark Dragon
+hits you with his most powerful breath attack, it'll release your most
+powerful attack...
+
+G.Drgn: 999 (base) non-elemental damage to all targets.
+
+
+4. Infinity....
+
+	Not really a dragon form at all.  You gain Anfini in the dragon town,
+as part of the storyline.  It costs 0 AP, and cannot be used until the final
+battle, and doesn't do anything more than bringing your party back to life to
+attack the boss. I only mention it at all for the sake of completeness. :)
+
+
+E. Cheating!
+
+	I don't normally include Game Genie codes, but this one is directly
+related to the dragon spells.
+
+CCCA-8762 + 57CB-8762:
+
+	This code messes with Ryuu's spell list, giving him a random
+assortment of dragon and other spells at the bottom of the list (so it won't
+erase any spells you already have, even if you have them all). Turn the Game
+Genie off when you have a selection of spells you like, and save the game -
+the spells will still be there after saving, with or without the Game Genie.
+If you don't like the selection of spells, get into a fight with the code on,
+and your spells will change after battle, and they'll change again if you
+check Ryuu's status screen. You gain, randomly, a bunch of the dragon spells
+(except Anfini), often multiple copies thereof, but also the enemy spell
+Zombie, and Flrmagic (Spar's "The Flower Blooms!" Ntre ability), plus one
+other...
+
+	Call it Failure Kaiser.  Sometimes, the G.Drgn that appears by this
+method is not the normal one.  Check its AP cost when you get it: if the AP
+cost is the same as your current AP, then it's the normal one. If it's 0 AP,
+then it's the Failure version.  This version can be used indefinitely (because
+of its 0 AP cost), and always does 999 damage, no matter how many AP you have.
+
+	The downside is that it *only* does damage to the first enemy on the
+list; all others take 0 damage. (Hence, "Failure"). Even if you defeat that
+enemy, there's still a blank space where it was (i.e., the second enemy on the
+list doesn't become the "first" enemy for this calculation).  It's really
+useful on most bosses, and somewhat useful in random battles (since it pretty
+much means you can have your party concentrate on the other enemies while the
+G.Drgn utterly decimates the first one).  It also makes the early portions of
+the game laughably easy - I'd only suggest this code if you're the type who
+plays through RPGs multiple times (like me) :)
+
+	Do, however, be careful when using it - if you're in a battle where
+the object is to keep one of the opponents alive, that one is usually put
+first on the attack list; using Failure Kaiser then will kill the wrong
+opponent.
+
+	This code has yet to harm my game (other than filling Ryuu's spell
+lists with a lot of repeated junk), but make a backup of your saved game
+anyway, just in case.  Sadly, BoF1 has no such dragon spell codes (at least,
+none that I know of).  If anyone knows a 'Start With All Dragon Spells' (or
+even a 'Start With *A* Dragon Spell') GG code for BoF1, let me know... :)
+
+-------
+
+Random thought:  Is the Dragonlord/DracoLord from Dragon Warrior 1 a
+dimensionally-displaced member of the Dark Dragon clan?  Breath of Fire
+vs. Dragon Warrior... hm.... nah.  The Dragon Clan / The Brood / They Who
+Endure would splatter Erdrick and his kin all over the map :)
+
+-------
+
+Special Thanks to:
+
+Capcom, for making this game.  May the Breath of Fire series last as long
+as there are consoles to play them on.
+
+The Game Genie Code Creator's Club (http://www.videogamesource.com/genie/) for
+the Ryuu Dragon Spell code (in their Breath Of Fire 2 Code Collection). I
+don't think this site exists anymore, but I still thank them.
+
+Ben Siron, for his Breath of Fire II handbook.
+
+Anyone I forgot.  :)
+
+
+No Thanks to:
+
+Capcom of America, for delaying Breath of Fire IV for nearly two months after
+its original ship date (originally Oct 2, not released until Nov 30th).
+Halloween is my birthday, and I was looking forward to picking it up then.
+No such luck.
+
+Capcom of America, again, for making drastic storyline edits to BoF4 simply
+to remove one decapitation scene.  I think I'm old enough not to be scarred
+for life by watching one cartoon character cut another's head off :)
+
+Capcom of America, yet again, for failing to re-translate BoF1 and 2 when
+they had the chance.
+
+-------
+
+© 2000-2005 DarkStorm (Laurence A. Isen)

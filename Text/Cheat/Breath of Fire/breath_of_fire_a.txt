@@ -1,0 +1,1379 @@
+BREATH OF FIRE FAQ & WALKTHROUGH v1.00
+BY  : Hellspawn
+MAIL: avanrompaey@geocities.com
+URL : http://www.geocities.com/TimesSquare/Lair/5837
+
+CONTENTS
+--------
+1. Story
+2. Characters
+      2.1 Main Characters
+      2.2 Support Characters
+3. Walkthrough
+4. Index of Items
+      4.1 Common Items
+      4.2 Scenario Items
+5. Item Effects
+6. Index of Equipment
+      6.1 Weapons
+      6.2 Armor
+      6.3 Accessories
+7. Index of Monsters
+8. Index of Spells
+9. Dragon Shrines
+10. Gobi's Shop
+11. Karn's Forms
+12. Rod5 Sites
+13. Dragon Marks
+14. Dragon Stone Doors
+15. General Hints
+
+---------------------------------------------------------------------
+
+1. STORY
+
+When the Dragon Family was at the peak of its power, a goddess of desire 
+appeared.
+The goddess, Tyr, granted wishes. The Dragons fought each other for her power.
+Tyr encouraged the fighting and watched the war between the Dragons escalate.
+When the world was at the brink of destruction, a warrior stepped forward.
+The warrior battled Tyr with his 7 companions and locked her using 6 keys.
+These "goddess keys" were scattered throughout the world and hidden away.
+The Light Dragons balanced the power of the family and peace reigned again.
+
+---------------------------------------------------------------------
+
+2. CHARACTERS
+
+2.1 Main Characters
+-------------------
+
+HERO - He is a member of the Light Dragon family, but he hasn't developed his 
+powers yet. He will embark on a quest to stop Zog from conquering the world. He 
+is the only one who can fish for items.
+
+NINA - Princess of Waylan. She will meet the Hero during the search for the 
+Remedy. The Hero will rescue her from the clutches of the wizard and then she 
+will join him. She can cast defensive and recovery spells.
+
+BO - He can hunt if he is leading the party and can also walk through forests. 
+He can cast minor offensive spells.
+      Buffalo - Meat
+      Bird - WMeat
+      Deer - Antler
+      White Deer - W-Ant
+
+KARN - The world's greatest thief. Karn can open locked doors, disarm trapped 
+chests and avoid hidden pits when leading the party. He can also learn morphing 
+spells.
+
+GOBI - He can morph into a big fish when he has the sphere and he is underwater. 
+When underwater, he can cast some offensive spells.
+
+OX - One of the metal smiths, Ox can break down weakened walls and rocks when 
+leading the party. On the overall map, he can hit some trees to get nuts and 
+fruits.
+
+BLEU - The sorceress who imprisoned the goddess Tyr. She has excellent offensive 
+spell casting ability.
+
+MOGU - He joins the party after you save him from his dream. He can dig in the 
+dragon marks to find special treasures
+
+2.2 Support Characters
+----------------------
+
+Sr-1, Sr-2, Sr-3 - Winlan soldiers that will help Nina and the Hero defeat the 
+wizard and get the Remedy.
+
+---------------------------------------------------------------------
+
+3. WALKTHROUGH
+
+3.1 The Beginning
+-----------------
+
+CHESTS: 300 GP
+DESCRIPTION: As soon as you wake up in the burning room, search the drawer to 
+the right to find a V-Ptn. Then follow the old woman. Talk to everyone 
+downstairs and you'll learn about SARA. You'll also learn that THE DARK DRAGON 
+FAMILY is attacking other dragon families. ZOG, the Dark Dragon King wants to 
+conquer the world by destroying THE LIGHT DRAGONS. Then Sara will turn everybody 
+to stone to protect them. Then she will fight against Jade. Jade will inform her 
+that they have the GODDESS KEYS, and the fight will end. After reading the 
+story, you'll return to normal. Then the old woman will tell you about the myth 
+of THE WARRIOR OF THE DRAGON. Then open the chest to receive 300 GP. Exit the 
+house and explore the ruined village.
+
+3.2 Drogen
+----------
+
+DESCRIPTION: Explore the village and buy equipment if you want. When you're 
+finished, exit the village and go west. Cross the bridge and continue north. 
+Then turn east. Continue east until you find a big city. Enter the city
+
+3.3 Camlon
+----------
+
+CHESTS: 70 GP (x2), Herb (x5), BronzSD, Gauntlet, SuedeCP, Visor, Antdt (x2), 
+150 GP
+BOSS: Frog
+DESCRIPTION: Talk to the citizens and learn that the city, NANAI, is occupied by 
+the Dark Dragons. Go north into the castle. Follow the corridor and you'll reach 
+a clean fountain. Drink from it to replenish your HP. Then continue north. Open 
+the nearby chests and go down the stairs. Open the stone door and get the 
+chests. Do the same in all floors. You'll have to fight a Frog in the end. To 
+defeat it, just use your normal sword attack. Have some Herbs ready because you 
+will need them. The Frog uses three different attacks. It can spit you some kind 
+of acid, it can hit you with its tongue (weakest attack) or it can jump onto you 
+(strongest attack). It can also recover some HP when its about to die. When you 
+take out all its HPs, it will regain some, so you'll have to kill it twice. 
+After you kill the Frog, get the last two chests. Then exit the castle. The King 
+will talk to you and you'll learn about the QUAKE CONTROL, who is in the Dark 
+Dragon's hands. They will ask you to find it and disable it so the quakes stop. 
+Exit the castle and head northwest. Follow the path until you reach a big city. 
+That's Nanai. You have to enter at night or you'll be kicked out by the guards.
+
+3.4 Nanai
+---------
+
+CHESTS: 150 GP (x2), Herb (x2) --> City
+Antdt, 650 GP, B-Stn, ArmPad, 70 GP, F-Stn, Cure --> Cave
+BOSS: Knight
+DESCRIPTION: Sneak into the city at night and stay as far as you can from the 
+guards. If they catch you, you'll have to start over. Go into the inn and search 
+the drawer to find a S-Ptn. Then enter the northern house far from the guard and 
+open the chests. You can buy weapons in the shop to the east. Then go into the 
+northeastern house and open the chests. Finally, go into the big building in the 
+center of the city. Open the metal door and climb down the stairs. You'll end up 
+in an underground cave. Cross the bridge to the east and open the chest. Explore 
+the cave thoroughly and open all the chests. Then take the stairs leading down 
+to reach the second level of the cave. Explore the second level and you'll find 
+the stairs leading to the Quake Control. You'll have to fight a Knight to 
+recover the machine. Use your sword and Herbs when needed. The Knight uses a 
+powerful sword attack and casts T. Bolt. You'll have a hard time beating him. 
+Use the B-Stn and the F-Stn if you have them. He can also cast Recover when low 
+on HPs. Again, after you take out all of his HPs, he will still live, so you'll 
+have to give him a couple of extra blows to kill him. After you kill him, take 
+the key from the stone mechanism (E-Key). Step into the teleporter on the right. 
+Nanai will be destroyed. Then you'll return to the king. They tell you to travel 
+east to WINLAN. Go back to where Nanai was and continue east. Follow the path 
+until you reach a city and a cave nearby. Go into the city.
+
+3.5 Winlan
+----------
+
+CHESTS: SuedeSH, SuedeHT, Herb (x4), Antdt (x2)
+DESCRIPTION: Explore the village and but supplies if you need to. Search the 
+drawer in the eastern house to find a V-Ptn. Then go north into the palace. Talk 
+to the guards there to learn about the land of ROMERO. Talk to the lady blocking 
+the door and she will talk with the princess. You'll learn the king was poisoned 
+and they need the REMEDY to cure him. Now you control Nina, the princess. Talk 
+to the people next to the king to learn about the wizard of KARMA. Go to the 
+first floor and open all the chests. Go down into the basement and pick the 
+treasure chests. Then exit the castle. Exit the village and go into the western 
+cave.
+
+3.6 Cave West of Winlan
+-----------------------
+
+CHESTS: Cure, SuedeGN, 150 GP, 70 GP, I-Ore, Herb (x2), B-Stn, C-Stn
+DESCRIPTION: Talk to the soldiers and allow them to join the party. Go down the 
+stairs and open the chest. Continue north through the bridge. You'll eventually 
+reach the stairs leading up. Take them and go north, then turn west. Open the 
+chest and climb the stairs in the right. You'll end up in another region of the 
+map. Go west and enter the town.
+
+3.7 Romero
+----------
+
+CHESTS: Herb, WtrJr --> After killing the Wizard
+Antdt, Herb, Tablet, Cure, 900 GP --> After taking care of the zombies
+DESCRIPTION: Talk to the guard in the door to learn the locations of KARMA and 
+AGUA. Search the drawer inside the inn to find a L-Ptn. Go into the house with 
+the hole and jump into it. Push the pots and make your way to the barrel. Search 
+it to find a Map. Search the drawer in the second floor of the northeastern 
+house to find a ProtnB. When you're finished, exit the village and head west. 
+You'll reach a forest.
+
+3.8 Forest West of Romero
+-------------------------
+
+CHESTS: Herb, Bandage, 150 GP, W-Ptn, Herb
+DESCRIPTION: As soon as you enter, go north and open the chest. Then go 
+southwest to find another chest. Go northwest and open a chest containing 150 
+GPs. There's a hidden chest behind a lonely tree. Find it and open it to reveal 
+a W-Ptn. After getting all the chests, head southwest to find the exit. Then go 
+west into the towers.
+
+3.9 Wizard's Tower
+------------------
+
+CHESTS: M-Drop (x2), Charm (x2), Herb (x3), Life2, Cure (x2), Rang
+BOSSES: Morte, Mortea, Wizard
+DESCRIPTION: As soon as you enter the tower, go north and drink the clear water 
+to recover health. Then fight the Morte standing on the right. The Morte uses a 
+powerful weapon attack. Just attack it with your three fighters and use Herbs or 
+Nina's Cura spell when needed. Explore the first floor completely and pick up 
+the chests. To explore all floors and get all chests, you have to use the 
+different stairs on the levels. Later, you'll have to fight another mini-boss 
+called Mortea. Use the same strategy as with Morte. Use the C-Stn if you have it 
+to make things easier. Go up the stairs and cross the bridge. You'll be in the 
+other tower. Explore it all then go down to the basement. There you'll encounter 
+the wizard. He will fill the room with Xeon Gas that will drain your power. 
+Fight the wizard. After a while of futile effort Nina will ask the soldiers to 
+go and get some help. The wizard will then destroy you but one soldier will 
+escape morphed into a bird. Dark Dragons will chase him but he will arrive at 
+Winlan. They will ask the Hero to help them rescue Nina. Agree to help them. 
+Exit Winlan and talk to the members of the rescue party. You'll reach the tower. 
+The commander will help you get to the wizard, but you'll have to face him 
+alone, for the Xeon gas is harmful for him. Go down into the basement and go to 
+the far left. Open the chest. Then go to the center of the room and face the 
+Wizad. The Wizard can use powerful spells such as T. Bolt or Freeze. Use the B-
+Stn on him for 80 points of damage. He can also cast Petrify to increase his 
+defense. After defeating him you'll obtain the Remedy. Then you'll escape to 
+Winlan and go into the castle. Go and talk to the King. After Nina joins the 
+party, go down to the basement and take the tunnel. Exit the tunnel and head 
+southeast. There's a forest but you can't enter because of a tree. After a while 
+of walking east, you'll find two cities separated by a dry river. Enter the left 
+one. The city is called TANTAR.
+
+3.10 Tantar
+-----------
+
+CHESTS: Herb, Key --> After recovering the water
+DESCRIPTION: Explore the village and buy weapons and supplies if you need to. As 
+always, check the drawer inside the inn for a Charm. Explore the houses and talk 
+to the people to learn about TUNTAR. Talk to the blacksmith. He'll make you a 
+SAW if you give him the I-Ore. Agree and receive the Saw. Go into the house in 
+the center of the town and learn about the RING. Search the drawer in the second 
+floor to receive a W-Ptn. Go back to the forest and use the Saw to chop down the 
+tree blocking the entrance. Now go inside.
+
+3.11 Forest of Despair
+----------------------
+
+CHESTS: Life, T-Drop (x2), Wrist, Herb --> Forest
+T-Drop (x3), Life (x2), LongSD, Herb (x5), Life2, Acorn, WolfHT
+BOSSES: Pog, General
+DESCRIPTION: Explore the forest thoroughly but be careful with the monsters 
+because they are really powerful. Open all the chests and then find the exit. To 
+find the exit, go all the way northwest and then take the narrow passage leading 
+east. You'll find a stone building. Go inside and kill the two guards. Then 
+continue exploring the building. You'll have to kill two more guards to pass. 
+Get the chests and go down the stairs. You'll have to kill three guards to reach 
+the old man. If you let him lead you to the weapons you'll fall into a trap and 
+will have to fight POG. Pog attacks you twice per turn. Once with each head. Use 
+your sword and healing spells when needed to defeat it. B-Stn works well against 
+it. After you defeat Pog, a man will save you. Then you'll have to fight the 
+General. Use sword attacks and healing spells to kill him. Then, Bo will join 
+the party. Exit the forest and go to the village east of Tantar.
+
+3.12 Tuntar
+-----------
+
+DESCRIPTION: Explore the village and go to the house in the middle. Talk to the 
+chief to learn that the stone robot to the north can move the rock that blocks 
+the river. They tell you to look for the secret of the robot in a town near 
+Romero called Agua. Search the drawer in  the second floor of the chief's house 
+to find an Herb. Also search the drawer inside the inn to find a Cure. Exit 
+Tuntar and go to Romero. Once you reach Romero, talk to everyone and the chief 
+will ask you to get rid of the zombies in exchange for information about Agua. 
+You'll learn about THE CLEANSING WATER that can save the soil. Now with Bo in 
+your party, you can walk through the forests. Go into Romero and talk to 
+everyone during the day. Then wait until night and talk to the old woman near 
+the entrance. Then go into the hole next to the grave. Exit Romero and head 
+southwest. Go into the cave surrounded by water.
+
+3.13 Cave Southwest of Romero
+-----------------------------
+
+CHESTS: Herb (x3), NiceHT, F-Stn, T-Drop, BronzHT, Apple
+DESCRIPTION: Explore the cave completely and open all the chests. Then go 
+northwest. Then east, north and west to find the stairs leading down. Go to the 
+lower level and fill the WtrJr with the Cleansing Water. You'll automatically 
+appear in Romero. The soil will be purified and the zombies will disappear. Then 
+the elder will inform you about Agua. Open the chests and talk to the people of 
+Romero to learn about THE GODDESS, and THE KEY in Agua. Exit Romero and head 
+northwest into the floating city. Now with the Tablet you can enter Agua.
+
+3.14 Agua
+---------
+
+CHESTS: Apple, Acorn (x2), Life2, Herb (x2), SunHT, IronSH, ThiefCL, HairBand, 
+Bracelet --> Before getting Ox
+3000 GP, Life, SilverBR, Life2, FlameSH --> After getting Ox
+BOSS: Wisp
+DESCRIPTION: You have to complete a dungeon in order to reach the city of Agua. 
+There are lots of chests, open them all and then find the stairs leading up. 
+Explore all other floors thoroughly. In the last floor, there's a pillar with a 
+purple ball onto it. Push it and Wisp will attack you. Use Bo's Fry spell and 
+the E-Key. Have Nina cast healing spells when needed. Wisp uses two types of 
+attack. One that damages all your party and one that damages one member. After 
+you defeat it, search the pillar to find the KngKey. Go back to Tantar and head 
+north. Find the Stone Robot and go inside.
+
+3.15 Stone Robot
+----------------
+
+CHESTS: Herb, BronzHT, Acorn, Life2, Mrbl1
+DESCRIPTION: Enter the robot through one of the legs. Then explore the inside 
+opening all chests. You'll eventually find a general and two soldiers. Fight 
+them and kill them. Then push the stone plaque and activate the robot. Now use 
+the teleporters to open the remaining chests. Use the teleporters to go to the 
+command room. Push the stone pillar and the robot will move. Using the robot's 
+power you'll destroy the rock blocking the river. Now go back to Tantar and talk 
+to the chief. He'll give you the key to the cave where the Ring is located. Go 
+north into the cave next to where the Stone Robot is now standing.
+
+3.16 Cave North of Tantar
+-------------------------
+
+CHESTS: W-Ptn
+DESCRIPTION: Explore the passage and find the exit. You'll appear next to the 
+cave containing the ring.
+
+3.17 Ring Cave
+--------------
+
+CHESTS: Life, Life2, 2000 GP, Herb, Acorn, SkySH, Ring
+BOSS: Gremlin
+DESCRIPTION: Open the entrance door with the key and start exploring the cave. 
+Jump into the waterfall and you'll end up in the area with the ring. Once you 
+find the Ring, step onto the teleporter and it will take you back to the 
+entrance. Go back to Tantar and go into the elder's house. Watch the marriage 
+and then the elder will tell you that you can cross the river using the Stone 
+Robot. Exit Tantar and you'll discover that the Stone Robot was stolen by the 
+Dark Dragons. With it, they will destroy Tuntar. After this, enter the robot 
+again and make your way to the top. Talk to the commander, who will reveal his 
+true form... the Gremlin. He is quite difficult to kill. Use Fry spell, the E-
+Key and healing spells when needed. After you kill it, the robot will jump into 
+a volcano and lava will erupt. Now you can go south via the solidified lava. 
+Cross the bridge to the south and enter the dragon shrine.
+
+3.18 Dragon Shrine
+------------------
+
+CHESTS: Melon
+BOSS: Talon
+DESCRIPTION: Put the Hero as leader in your party and talk to the old man by the 
+door. You'll be allowed to pass and complete the first stage in your training as 
+a dragon warrior. You'll have to beat Talon to complete the test. Use the E-Key 
+to defeat him. Then exit the shrine and enter the cave to the southwest. Find 
+the exit. After you exit the cave go south into the port city.
+
+3.19 Auria
+----------
+
+CHESTS: Life (x2), W-Ant, Mrbl1, Acorn, Antdt, Cure (x2), G-Tiara
+DESCRIPTION: You'll be jailed as soon as you enter the city. Search the square 
+with water in the upper right corner to find the PrisnCL. Talk to the man in the 
+bed. Answer yes when he asks if you want him to help you. Once you're out, don't 
+go close to the guards or they will arrest you again. First, go inside the 
+building with the fish sign above it. Buy some Vitamins in the item shop. Then 
+go to the second floor and give the vitamins to the man with the hiccups. He'll 
+reward you with 5000 GP. Then move the drawer in the wall and go through the 
+passage. Push the white pot and search the floor under it to find a Life2. Then 
+go inside the lower left big house and search the drawer to find a S-Ptn. Then 
+open the chest. Go upstairs and search the drawer to find a Cure. Then open the 
+chest there. Explore the drawers in the lower right house to find a V-Ptn and 
+2000 GP. Go to the upper left house and talk to the woman there. She'll ask you 
+to help her son who went to the forest. Search the drawers in that house to find 
+the SmartRG and a Life. Then go to the upper right house and search the drawers 
+to find a L-Ptn and Mrbl3. Talk to the old man upstairs with Nina leading the 
+party and heal his back ache. He'll give you 20000 GP. Exit Auria and go back to 
+the cave to the north. Find the exit and go to the clear in the forest. Talk to 
+the fairies. Then go to the clear between flowers to find the cursed man. Talk 
+to the man. Then go back to Auria and talk to the woman who asked you to find 
+the man. She'll give you 20000 GP. When you're done, go into the northern house. 
+Talk to the rich man and agree to help him. He'll ask you to save his daughter. 
+Go upstairs and search the drawer to find 2000 GP. Buy a G-Bar in the item shop 
+if you have the money. You must buy this item sooner or later. When you have it, 
+exit Auria and go into the cave to the east.
+
+3.20 Cave Leading to Bleak
+--------------------------
+
+CHESTS: Cure, ShellHT --> Before getting Karn and Ox
+Dart, G-Bar --> After getting Karn
+L-Ptn, A-Ptn --> After getting Ox
+DESCRIPTION: Explore the cave and open the chests. There are some doors that you 
+can't open until you have Karn in your party. When you exit the cave, go into 
+the town to the east.
+
+3.21 Bleak
+----------
+
+CHESTS: Herb (x4), Life, W-Ant
+DESCRIPTION: If you stay at the inn, make sure you have the Pouch or the 
+innkeeper will steal money from you. If you do have the pouch, you'll catch him 
+when trying to rob you and he'll pay you 5000 GP. Go into the house to the east 
+and push the barrel. Search the floor under it to find a Life2. Go to the 
+northern house and trade the G-Bar for the Icicle. Exit Bleak and go into the 
+cave to the west. You'll end up in the desert. Use the Icicle to cool the air. 
+Head south and you'll find Arad.
+
+3.22 Arad
+---------
+
+CHESTS: Fife --> After killing the SandWorm
+BOSS: SandWorm
+DESCRIPTION: There's nothing important in Arad. Just go and talk to the mayor. 
+Agree to kill the worm. Then, exit the mayor's hut and go to the northeastern 
+part of town. Fight the SandWorm there. Use normal attacks and healing spells 
+when necessary. Then, the mayor will give you the Fife. Go outside and step onto 
+the stone plate by the Krypt entrance. Use the Fife to make a bridge appear.
+
+3.23 The Krypt
+--------------
+
+CHESTS: Herb (x3), Life (x2), DreamRG, Dagger, IronSH, HeadGear, IcyHT, Cure, 
+Antdt, SkullHT (x2), HuntCL
+BOSS: EyeSpy
+DESCRIPTION: Many of the chests in the Krypt are trapped. You can wait until you 
+get Karn to open the chests. Explore the Krypt, find the stairs leading down and 
+then you'll have to fight EyeSpy. Use spells for massive damage. When he loses 
+all his eyes, he will begin using Thunder Bolts on your party. Have healing 
+spells ready. After you defeat him, go down the stairs and open the chests. When 
+you open the blue chest a trap will trigger. Luckily, Karn will arrive to save 
+you. After talking a bit, he will join you and ask you to find a certain book 
+from the tomb. Go down the stairs. Put Karn as leader of your party and open all 
+the locked doors. Go down the stairs and search all the coffins. Kain will gain 
+confidence. Exit the Krypt and go back to Bleak. Enter the tower west of Bleak.
+
+3.24 Tower of Darkness
+----------------------
+
+CHESTS: 2000 GP (x2), B-Stn, Life, Life2, Herb, Cure, HornHT, Turban, Mirror
+BOSS: Cloud
+DESCRIPTION: When inside the Tower of Darkness, use the stairs to explore all 
+the floors and open all treasure chests. Climb to the top and fight the Cloud. 
+Use powerful spells and attacks. Have healing spells ready. Cloud will attack 
+you with spells. When he is low on HP, it will use Devistat, a spell that does 
+45 points of damage on all members of your party. Use Hero's Thunder Dragon 
+magic to make things easier. After you defeat it push the pillar to receive the 
+DkKey. Then go down and talk to the old man. He'll give you the Mirror. Exit the 
+tower and go back to Auria. Go to the rich man's house and go into the basement. 
+Open the doors with Karn. Talk to the girl. Then go back and talk to the rich 
+man. You'll use the Mirror to make Ross realize that giving up the LtKey won't 
+help. Go down again and talk to the girl. Agree to help them fight the Dark 
+Dragons. Now you can open the chests and enter the Tower of Light.
+
+3.25 Tower of Light
+-------------------
+
+CHESTS: Herb (x5), Dart, B-Stn, MetalSH, F-Stn
+DESCRIPTION: Enter the Light Tower through the basement in the rich man's house. 
+Climb to the top and push the pillar to receive the LtKey. Go to the docks and 
+fight the Knight and the Archer. Defeat them and they will destroy the ship. Now 
+you'll need to move a big rock that is blocking a cave to the north to be able 
+to continue. Gobi will trade a G-Bar for the GnPwdr to blast the rock. Exit 
+Auria and go north into the cave. Set the explosives and blast the rocks. Now go 
+on and find the exit. You'll be attacked by two SpearMan. Defeat them and 
+continue west. Enter the Dark Dragon's ship.
+
+3.26 Dark Dragon's Ship
+-----------------------
+
+CHESTS: Herb (x2), Acorn (x2)
+BOSS: Squid, Octo
+DESCRIPTION: Kill the Archer that attacks you as soon as you enter. Go down the 
+stairs and kill the Archer and SpearMan. Climb the stairs up and fight Squid. 
+Hero's Thunder Dragon works excellent against it. Search the drawer to find a V-
+Ptn. Climb down the stairs. Open the chests. Then return to Auria and set sail. 
+After a while you'll be attacked again. You'll have to fight two Archers and a 
+SpearMan first. Then you'll have to fight three more Archers. Finally, you'll 
+have to fight two Archers and then Octo. Use the same strategy you used against 
+Squid. When you defeat it, the ship will sink and you'll appear in an island.
+
+3.27 Prima
+----------
+
+CHESTS: MystSF, Sphere --> After defeating the Dark Dragons
+DESCRIPTION: When you awake in the deserted island, Gobi will tell you that 
+Prima is near that location, and that you need the Gills in order to reach it. 
+At this point, you'll control Gobi in a quest to find the Gills. Go underwater 
+and head west. You'll find the city of Prima. Search the drawer inside the inn 
+to find the TideHT. Go to the Guild and ask for the Gills. They will tell you to 
+go to Gant. Exit Prima and go south until you reach a beach. Go back to the 
+surface and walk south. Then follow the path until you reach Gant.
+
+3.28 Gant
+---------
+
+CHESTS: Goods
+BOSS: Morteo
+DESCRIPTION: Go to the northern house and talk to the man there. You'll learn 
+that the Dark Dragons attacked Gant and took away all the young men. He'll ask 
+you to deliver Goods to Prima. Agree and go upstairs. Check the drawer to find 
+an A-Ptn. Explore the rest of the city and check the drawers in the houses to 
+find a L-Ptn and the HrGlas. Exit Gant and go back to Prima. Take the Goods to 
+the guild and you'll receive the Gills. Then, a survivor of a Dark Dragon attack 
+will arrive. There's a ghost that wants to take him to the Nether World. Gobi 
+knows how to kill the ghost. Say no to the guild owner until he offers 6000 GP. 
+Then go back to the surface where the party is. Now that you have the Gills, you 
+can breathe underwater. Go back to Prima and fight the ghost. Use normal attacks 
+or spells against Morteo. It's not so difficult to kill. After you defeat it, Ox 
+will join your party. Now that you have Ox with you, you can go back to Agua and 
+break the cracked wall to get the treasure. You can also go back to the cave 
+east of Auria. Use Karn to open the locked doors and get the treasures and use 
+Ox to break down the weakened walls and open the chests. After getting these 
+treasures, return to The Krypt and get the B-Rang using Ox. Then go back to 
+Gant. From there, walk east until you find a small hut.
+
+3.29 Hermit's Hut
+-----------------
+
+DESCRIPTION: Enter the hut and talk to the Hermit. He will identify the B-Rang 
+and tell you that it may be repaired in Gant. But first you have to save the 
+people of Gant. Go back to Prima. From Prima, walk northwest. Go back to the 
+surface and walk south. You'll find the Dark Dragon's fortress.
+
+3.30 Dark Dragon's Fortress
+---------------------------
+
+CHESTS: GiantHR, EchoHT, Herb (x2), MetalSH, Life
+BOSSES: Toad, GrimFowl
+DESCRIPTION: Use Ox to break through the walls and to get the chests. Climb up 
+the stairs and open the chest. Fight the LancerX. You can choose not to fight 
+the LancerX if you want. Explore the dungeon completely and find the stairs 
+leading down. You'll have to fight Toad to free the Gant people. Use Dragon ad 
+healing spells. After you defeat it, free the Gant people and they will tell you 
+that the rest of the prisoners along with the weapon were taken to Nabal. Now go 
+back to Gant and repair the B-Rang in the northern house. There's a secret 
+passage in the same house. Go to the eastern room and push one of the drawers. A 
+secret passage will be revealed. Go through it and smash the rocks with Ox. Talk 
+to the old man with Karn and he will teach him the Shin spell. Go back to the 
+fortress and cross it. Walk north and you'll reach a forest filled with 
+GrimFowl. Take the egg and a GrimFowl will attack you. Defeat it and pick up the 
+Egg. Then exit the forest and walk north into Nabal. Throw the Egg there and the 
+GrimFowl will distract the guards. Go inside Nabal.
+
+3.31 Nabal
+----------
+
+CHESTS: MagicRG, Cure
+DESCRIPTION: Go to the eastern part and push the pots. Search the floor under 
+them to find a SkullRG and a Life2. Then go down the stairs. Go south and break 
+down the wall. You'll find the General, but he will leave while you are attacked 
+by his henchmen. You'll have to fight SlimeX. They are quite powerful, you'll 
+have to use your best spells and attacks to defeat them. Then, the General will 
+set sail to destroy Prima. You'll automatically travel there. Go upstairs and 
+talk to the sleeping man. Search the bed to receive the Statue. Then go back to 
+Nabal to pick up the treasure. Search the lower left corner of the dock to find 
+the Clog. Now that you have the Statue go back to Arad. North of Arad, you'll 
+find a small moving village.
+
+3.32 Wisdon
+-----------
+
+CHESTS: Herb (x4), ProSH (x2), Life2, Life (x2), OldSP, SilverBR, RageHR, 
+ChainML
+BOSSES: Wisp, Cloud, Myst
+DESCRIPTION: Talk to the ghosts in the village to learn about the sorceress. 
+Then go down the stairs leading to the dungeon. Go north and turn west when you 
+reach the intersection. Use Ox to break down the walls and open the chests. Do 
+the same for the right way. Then go back to the intersection and head north. 
+Explore the dungeon getting all the treasure. When you exit the dungeon go 
+inside the castle. Drink from the fountain and go up the stairs. Talk to the 
+ghosts and fight them. Wisp will attack you first. You've fought him before. 
+Just use the same strategy. You'll then have to fight Cloud. Finally, you'll 
+have to defeat Myst. After defeating the three ghosts the sorceress will awake. 
+She will give you the OldEgg and tell you to throw it into a volcano.
+
+3.33 Underwater Volcano
+-----------------------
+
+CHESTS: SharpBW, 3000 GP, Herb, PowerDR, 2000 GP, M-Drop
+BOSS: Pincher
+DESCRIPTION: Go back to Prima and walk north. Enter the cave beneath the 
+volcano. As soon as you enter go east and open the chest. Explore the first 
+floor and the find the stairs going up. You'll find the lava in the third level. 
+Throw the OldEgg there and it will hatch. Then, you'll be automatically 
+teleported to Winlan, where Bleu will join your party. Then, you'll appear back 
+in Prima waiting for the Dark Dragons to make their move. When they do, the 
+Typhoon Bug will appear and sink their ships. Then, you'll be underwater again. 
+Walk a little bit north and fight the Dark Dragon leader, Pincher. After you 
+defeat it, you'll learn more about the story, Zog and Jade. When you can move 
+again, go back into Prima and go to the guild. The guild master will give you 
+the Sphere. Now with the Sphere you can cross the chasm underwater. Cross it and 
+go northwest until you find a beach. Go back to the surface and walk northeast 
+until you reach Gust.
+
+3.34 Gust
+---------
+
+DESCRIPTION: Push the barrels and the block in one of the houses and you'll fall 
+into a hole. Then push the barrels in the correct order and have Karn talk to 
+the old man there. He will teach Karn the second spell, Debo. Search the drawer 
+inside the inn to find the Sash. Then exit Gust via the northern exit. Keep 
+going north and you'll reach Cort's Laboratory.
+
+3.35 Cort's Laboratory
+----------------------
+
+CHESTS: Herb (x2), Cure2, L-Ptn, Rod4, M-Cura
+BOSSES: K-Roach, RugaX, FlowerX, HornToad 
+DESCRIPTION: Cort's Flower turned everyone insane in Gust. Enter through the 
+steel door. The chests are guarded by Rogue. Defeat him to obtain the treasure. 
+Climb the stairs leading up. Once in the second floor, Cort will appear and 
+shrink your party with a new formula. Find and enter the mouse hole in the 
+northern wall. Find the mouse village and rest at the inn if you want. Then go 
+north and fight the three K-Roach. Defeat them and return to the mouse village. 
+They will give you the M-Cura to revert the effects of the potion. You'll return 
+to normal. Then take the stairs leading down. Use the floating platforms to 
+reach Cort. You'll then have to fight RugaX. RugaX is in fact Nicholie 
+transformed by the Flower, but he's wounded. You'll need the Oil to cure him. To 
+find the Oil, first go into the cave in Gust. Kill the G-Fly. After you kill it, 
+take its corpse. Exit Gust and go into the sea. Walk southeast and you'll find a 
+beach. Go back to the surface and enter the cave nearby. Talk to the frogs. 
+Exchange the G-Fly for the Oil. Go back to Gust with the Oil and cure Nicholie. 
+Go north to the Laboratory and fight the FlowerX. Defeat it and go back to Gust. 
+Go to the Flute player's house and search under the bed to find the Maestro. 
+Then go to Nicholie's house. You'll have to fight RugaX again. Then, Nicholie 
+will be back to normal and will fix the bridge. Cross the bridge and Cort will 
+attack you as the HornToad. Kill him and cross the bridge. Travel west to 
+Gramor, the home of the Mole people.
+
+3.36 Gramor
+-----------
+
+DESCRIPTION: You'll learn that Mogu was put in coma by a Dark Dragon's spell. 
+Agree to get the item from Tunlan and you'll receive the Cowl. Now, exit Gramor 
+and go back into the sea through the beach near Gust. Go south from the beach 
+until you find another beach leading to a small island with a city on it. Enter 
+the city.
+
+3.35 Tunlan
+-----------
+
+CHESTS: Bolster, Melon (x2), M-Drop
+DESCRIPTION: Go into the northern house and turn right. Climb up the stairs. 
+Then you'll reach a room with a locked door and four statues. Take the left 
+narrow corridor and a statue will push you into a hole. Once inside the hole, 
+push the lower right box and search the ground under it to find the Rod5. You'll 
+need this in order to get some important items. Then talk to the old woman and 
+princess. Exit Tunlan and wait for the night (or use the DkKey) and return to 
+the palace. Go into the princess room via a crack in the wall. Look at the marks 
+on her back while she takes a bath. Blue, red and white from left to right. Go 
+to the safe and try to open it. You'll watch a little scene and the Dark Dragons 
+general Cerl will take the TmKey. After waking up return to the safe and pick 
+the treasure. Before returning to Gramor, buy some fishing bait and equip your 
+hero with the Rod5. Then teleport to Romero. From there, walk west. After a 
+while you'll come across a well. Fish there to receive the DragonSD. Then go the 
+Dark Dragon fortress where the Gant people were held prisoner and cross it. Once 
+you're in the other side walk west. Follow the path and you'll find the second 
+Dragon Shrine.
+
+3.36 Dragon Shrine
+------------------
+
+CHESTS: Mrbl2
+BOSS: Bain
+DESCRIPTION: Once you have the DragonSD you can enter the second shrine. Battle 
+and defeat Bain to receive Ice, Fire, Bolt and Gold Dragon spells. Now return to 
+Gramor with the Bolster. Enter Mogu's Dream.
+
+3.37 Mogu's Dream
+-----------------
+
+DESCRIPTION: Exit the village and go east then north until you find the tower. 
+Enter and explore it. Find Mothro and fight it. You can't hurt him yet, so run 
+away. Notice that green plates make walls disappear and red ones make them 
+reappear. Exit the tower and go back to the village. Someone will have repaired 
+the bridge leading south. Cross it and enter the cave.
+
+3.38 Poisonous Cave
+-------------------
+
+CHESTS: LightSH, Life, HeadGear
+BOSS: Mothro
+DESCRIPTION: Make your way through the poisonous gas and reach Courage. Unite 
+him with the other attributes and Mogu will join your party. Go back to the 
+tower where you'll have to climb to the top. There, you'll fight Mothro. Defeat 
+it and the dream will end. Exit Gramor and go south. Use Mogu to dig in the 
+strange looking tree and find the Root. Now you can dig in the dragon marks to 
+find treasure. Dig in the mark northeast of Camlon to find Karn's Doof spell. 
+Then go to Bleak and have Karn lead the party while transformed in Doof. Move 
+the heavy cabinet in one of the houses to find Karn's Puka spell. Also, move the 
+other cabinet and search the floor under it to find the ClearCL. With Puka, you 
+can open the dragon marked stone doors. Go back to Gramor and enter the cave to 
+the south. Find the exit and enter the village to the west.
+
+3.39 Spring
+-----------
+
+DESCRIPTION: Search the drawers in one of the houses to find an Herb. Then go 
+into the ice and head south. Go south until you reach the tower. Dig in the 
+Dragon Mark to find the entrance.
+
+3.40 Spyre
+----------
+
+CHESTS: Cure2, Shell, A-Ptn, FlameAR, WorldAR
+DESCRIPTION: Explore the first levels of the Spyre and open all the chests. 
+Reach the top and push the pillar. Mote will appear and send you into the dream 
+world again. Exit the village and go into the cave to the north.
+
+3.41 Dream World Cave
+---------------------
+
+CHESTS: Cure, JadeBW, L-Ptn, Trident, Smoke, CursedHT, FaceMask
+BOSS: Mote
+DESCRIPTION: Explore the first floors and you'll find Mote's conscience. 
+Continue north and then up the stairs. You'll reach an area with recovery water 
+and a save spot. Go north through the narrow corridor. When you reach the maze 
+that spins when you touch the pressure plates, remember that the way you are 
+facing after the spin is the way you were going before the spin. When you reach 
+the room with the damaging plates, look for hidden pits to access the correct 
+stairs. Then, you'll reach a room with lots of stairs. Take the lower right one 
+and you'll reach Mote. Fight Mote for a while. At first, you can't hurt him, but 
+then his conscience will appear and you can kill him. Mote can be resistant to 
+magic or resistant to attacks. If he is diffused, he is resistant to magic, if 
+he is sharpened, he is resistant to attacks. If you hit him with magic, he will 
+become diffused and if you hit him with attacks, he will sharpen. Alternate 
+magic with melee attacks to defeat him. Once he's dead, the dream will end and 
+you can obtain the SkyKey by searching the pillar. Then push the stone plaque 
+next to the pillar to restore the weather in Spring. Go back there. Go into the 
+cave in the waterfall and find the exit. Then walk south until you reach Carmen.
+
+3.42 Carmen
+-----------
+
+DESCRIPTION: You'll learn that time was stopped in Carmen. All are paralyzed 
+except for a man. There's a barrel in the second floor of the upper right house. 
+Search the ground under it to find a W-Ant. Exit Carmen and go to the tower to 
+the east.
+
+3.43 Tock
+---------
+
+CHESTS: Life, EvilCN, IcyAR, Cure, G-Tiara, Life2, GuardSH, AgileHT, WolfSkin
+BOSS: Cerl
+DESCRIPTION: Enter Tock and use the warp arrows to reach the top. When you reach 
+it, Cerl will warp you out. Go back to Carmen. Talk to everyone and then go back 
+to Tock. Fight Cerl. She'll warp you out once more. Go back to Carmen. Talk to 
+the others and then go south to the big tree. Hit it with Ox to get the Fruit. 
+Go back to Cerl's castle. Enter the castle and go upstairs. Cerl will give you 
+the key. Then Goda will appear and the castle along with Alan will disappear. 
+Then you'll appear in Tock. Go to the top and Nina will place the TmKey in the 
+machine. Carmen will return to normal but Nina will be lost in time and you'll 
+be thrown near Tunlan.
+
+3.44 Finding Nina
+-----------------
+
+DESCRIPTION: Nina has warped back in time and is now located in Tunlan. She has 
+amnesia. Go to Carmen and talk to the doctor. The doctor will tell you to make a 
+Tonic. The ingredients for the tonic are: P-Fish, Root, C-Nut and W-Ant. Then go 
+to the northeastern part of the village and talk to the mysterious man. He will 
+vanish. Search the spot where he was standing to find the Pass. To find the 
+Root, dig with Mogu the area below a strange lonely plant south of Gramor. The 
+W-Ant can be found by hunting a white deer. The C-Nut can be found by hitting 
+any palm tree a couple of times. Finally, the P-Fish can be fished in the bridge 
+to Scande. When you have all ingredients, take them to the doctor in Carmen and 
+he'll give you the Tonic. Then return to Tunlan and cure Nina. Now, she can fly. 
+Go northwest of Gust for the third set of Dragon spells
+
+3.45 Dragon Shrine
+------------------
+
+CHESTS: Melon
+BOSS: Avian
+DESCRIPTION: Battle Avian to receive the Rudra spell. Then go back to the cave 
+with the Cleansing Water and when you reach the water, dive into it. You'll find 
+the entrance to the last Dragon Shrine and you'll learn Agni if you have all the 
+Dragon Armor and have learned Rudra. Now, with the Pass you can enter Scande, 
+which is located in the middle of the swamplands to the south of Carmen.
+
+3.46 Scande
+-----------
+
+DESCRIPTION: Check the drawer inside the inn for an Herb. Talk to everyone and 
+learn about the climber who climbed the tower. Now exit and go to Spring. Find 
+the climber and he'll give you the B-Part. Take the broken parts to Gant, where 
+they will repair them. Go back to Scande and put the parts in the switch next to 
+the elevator. Climb the tower and talk to the mysterious man. He will tell you 
+to seek the D-Hrt, a weapon that can destroy any dragon. The D-Hrt is located in 
+Tunlan. Surprisingly, you'll discover that the D-Hrt is a song. A woman will 
+give it to you in a bottle. Go back to Scande's Tower.
+
+3.47 Scande's Tower
+-------------------
+
+CHESTS: Mrbl1, IcyCN, Glove, PowerHT, Cure
+BOSS: Zog
+DESCRIPTION: Explore all floors and find Zog at the top. Fight him and defeat 
+him. Use the Agni spell to quickly kill him. The Sara will appear. The hero will 
+give the goddess keys to Sara, and she will betray him by giving the keys to the 
+mysterious man who is in fact Jade. Then the mole people will appear and help 
+you escape. Exit Scande and go to Agua. Climb to the top where Jade will 
+activate the Pagoda Towers. Teleport there using the device in Jade's room.
+
+3.48 Pagoda Towers
+------------------
+
+CHESTS: PowerAR, Domino, AgileAR, FlameDR, TrapGrd, StoneHT
+BOSS: Sara
+DESCRIPTION: Step onto the pressure plates to reveal stairs. Climb up and you'll 
+find Sara. She will attack you and you'll have to kill her. Then continue 
+climbing and you'll find Jade. He will warp you out and resurrect the Obelisk.
+
+3.49 Obelisk
+------------
+
+CHESTS: FlameHR
+BOSS: Jade
+DESCRIPTION: You cannot enter the Obelisk yet. First, go to Gramor and talk to 
+the master digger. Learn about the I-Claw. To find it, fly to an island 
+southwest of Tantar. Talk to the old woman by the door. She would like to talk 
+to a weapons collector. Then fly far south into the hermit's house and he'll 
+give you the List. Take the List to the old woman. She'll give you an 
+unidentified weapon. Take it to the old man. Go back and forth a couple more 
+times and you'll receive the I-Claw. Go back to Gramor and talk to the master 
+digger with Mogu leading the party. You'll learn how to use the I-Claw. Now go 
+and enter the Obelisk that is located where Scande was. Use the floating 
+platforms to advance. Find Goda and kill him. Then you'll reach a tricky area. 
+Although the rooms look the same, they are not. Find Jade and kill him once and 
+for all. After you kill Jade go down the elevator and meet Tyr, the Goddess of 
+Destruction.
+
+3.50 Tyr, the Final Battle
+--------------------------
+
+BOSS: Goddess
+DESCRIPTION: Once you meet Tyr, ask for a wish to restore HP and AP. Then say no 
+and you'll fight. After a while, you'll talk again and Sara will appear and tell 
+you to use Agni. If you don't use the Agni spell, Tyr will not show her true 
+form and you'll get the BAD ENDING. If you use the Agni spell, she will show her 
+true form. Defeat her this way and win the game with the GOOD ENDING. 
+Congratulations, enjoy the ending.
+
+---------------------------------------------------------------------
+
+4. INDEX OF ITEMS
+
+4.1 Common Items
+----------------
+
+ITEM NAME    DESCRIPTION
+=========    ===========
+
+A-Ptn        Your Agility will increase
+Acorn        This item will recover AP
+Antdt        This works as an antidote for poison
+Antler       This works as an antidote for poison
+Apple        This item recovers some HP
+B-Stn        You can use this item during a battle (Bolt)
+C-Stn        You can use this item during a battle (Cold)
+Charm        You'll return to normal
+Cure         This item recovers some HP
+Cure2        This item will recover the HP for all party members
+F-Stn        You can use this item during a battle (Fire)
+Herb         This item recovers some HP
+L-Ptn        Your Luck will increase
+Life         This will put you back into fighting shape
+Life2        Everything will return to normal
+M-Drop       The party will return to normal and the members will recover all HP
+Mackrl       This works as an antidote for poison
+Meat         This item will recover the HP for all party members
+Melon        This item recovers some HP
+Mrbl1        This will produce one perfect hit
+Mrbl3        You can travel while avoiding enemies with this item
+ProtnA       Your Attack Power will increase temporarily when you use this item
+ProtnB       You can use this item during a battle
+S-Ptn        Your strength will increase
+T-Drop       This item changes Zombies back to normal
+Tuna         With this, you will return to normal and recover your HP
+V-Ptn        Your Vigor will increase
+W-Ant        This item will recover AP
+W-Ptn        Your Wisdom will increase
+WMeat        This item will recover the HP for all party members
+
+4.2 Scenario Items
+------------------
+
+ITEM NAME    DESCRIPTION
+=========    ===========
+
+Bolster      This will allow you to creep into people's dreams
+Book         The secret techniques of the great thief are recorded in this Book
+Cowl         This item will help you understand any language
+D-Hrt        This is a legendary weapon
+DkKey        This has a connection to the goddess, Tyr 
+E-Key        This has a connection to the goddess, Tyr
+Egg          This is the egg of a GrimFowl
+Fife         This item reveals hidden bridges
+Fruit        This is a strange fruit
+G-Bar        This is pure gold
+Gills        This will allow you to breath in water
+GnPwdr       You can use the GnPwdr to blast the blocking boulder
+Goods        The goods from Gant are in crates
+HrGlas       This item switches night and day
+I-Ore        A blacksmith would appreciate this ore
+Icicle       This item cools the surrounding area
+Key          This key will open the cave
+KngKey       With this key, you can operate the Stone Robot
+List         There are many weapons listed
+LtKey        This has a connection to the goddess, Tyr
+Maestro      This melody communicates with your heart
+Map          Push the Start Button to see the world
+Mirror       This Mirror allows you to see the world of spirits
+Oil          This is an ingredient for a tonic
+OldEgg       This is an ancient egg
+P-Fish       This is an ingredient for a tonic
+Parts        This is to be used in Scande Tower
+Pass         You can enter Scande
+Pouch        The Pouch is secured by a string
+Ring         This is a symbol of strength and courage
+Root         This is an ingredient for a tonic
+SkyKey       This has a connection to the goddess, Tyr 
+Sphere       You've got to become a big fish
+Statue       With this statue, you can enter Wisdon
+Tablet       The secret password to enter Agua is written here
+TmKey        This has a connection to the goddess, Tyr 
+Tonic        This is medicine
+WtrJr        The mysterious power of this jar absorbs a great amount of water
+
+---------------------------------------------------------------------
+
+5. ITEM EFFECTS
+
+ITEM                 EFFECT
+====                 ======
+
+DkKey                Turns day into night
+E-Key (Earth Key)    3.5 spell (30 damage)
+HrGlas               Advances time 12 hours
+IcyCN                Chill spell (100 damage)
+LtKey                Turns night into day
+Trident              LStorm spell (95 damage)
+WtrJr'               Restores all HP and AP for all members (one use)
+
+---------------------------------------------------------------------
+
+6. INDEX OF EQUIPMENT
+
+6.1 Weapons
+
+ITEM NAME    AP    WGT    TYPE        WHO
+=========    ==    ===    ====        ===
+
+B-Rang       60    2      One Handed  He
+BroadSD      34    5      One Handed  He
+BronzBW      14    2      Two Handed  Bo
+BronzRP      7     2      One Handed  Ni
+BronzSD      12    3      One Handed  He
+Cane         8     2      One Handed  Bl
+Club         30    6      One Handed  Ox
+Dagger       32    2      One Handed  Ka
+Dart         46    2      One Handed  Ka
+DigCW        42    2      Two Handed  Mo
+Dirk         5     1      One Handed  He
+DragonSD     110   20     One Handed  He
+EvilCN       20    6      One Handed  Bl
+EvilRP       55    7      One Handed  Ni
+FlameDR      74    7      One Handed  Ka
+FlameHR      120   8      Two Handed  Ox
+FlameSD      122   10     One Handed  He
+GiantHR      60    12     Two Handed  Ox
+HeroBW       220   8      Two Handed  Bo
+HeroSP       56    4      One Handed  Go
+IcyCN        30    10     One Handed  Bl
+IcyCW        88    3      Two Handed  Mo
+IronCW       74    3      Two Handed  Mo
+IronHR       45    8      One Handed  Ox
+IronRP       14    5      One Handed  Ni
+JadeBW       80    8      Two Handed  Bo
+Javelin      34    3      One Handed  Go
+LightRP      10    2      One Handed  Ni
+LongBW       28    5      Two Handed  Bo
+LongSD       26    4      One Handed  He
+LoyalRP      64    6      One Handed  Ni
+MoonBW       66    1      Two Handed  Bo
+MystCW       120   1      One Handed  Mo
+OldSP        42    5      One Handed  Go
+Pike         24    4      One Handed  Go
+PoisonBW     42    6      Two Handed  Bo
+PoisonRP     20    5      One Handed  He, Ni
+Pole         12    2      One Handed  Go
+PowerDR      66    7      One Handed  Ka
+PowerSD      62    8      One Handed  He
+RageHR       75    8      One Handed  Ox
+Rang         18    2      One Handed  He
+Rapier       10    4      One Handed  He
+RustCW       60    4      Two Handed  Mo
+Sabre        8     2      One Handed  He
+Scythe       20    3      One Handed  He
+SharpBW      54    7      One Handed  Bo
+ShortBW      20    4      Two Handed  Bo
+ShortRP      5     1      One Handed  Ni
+Sickle       50    6      One Handed  He
+Sleeper      100   8      One Handed  Go
+SpineHR      120   15     One Handed  Ox
+SteelBW      35    5      Two Handed  Bo
+Stick        5     1      One Handed  Bl
+ThrowDR      20    1      One Handed  Ka
+Tri-BW       96    12     Two Handed  Bo
+Tri-DR       54    6      One Hnaded  Ka
+Trident      74    6      One Handed  Go
+WingRP       32    4      One Handed  Ni
+WingSD       96    8      One Handed  He
+
+6.2 Armor
+
+ITEM NAME    DP    WGT    TYPE        WHO
+=========    ==    ===    ====        ===
+
+AgileAR      92    0      Armr        Ni, Bl
+AgileHT      42    1      Helm        All
+AngleAR      76    3      Armr        Ni, Bl
+ArmPad       8     2      Armr        He, Bo, Go
+Bandage      5     1      Shld        All
+Bandana      5     1      Helm        All
+Bracelet     12    3      Shld        Ni, Bl
+BronzAR      25    9      Armr        He, Bo, Ox, Go, Ka, Mo, Bl
+BronzHT      10    4      Helm        He, Bo, Ox, Go, Ka, Mo
+BronzSH      8     3      Shld        He, Bo, Ox, Go, Ka, Mo
+ChainHT      25    8      Helm        All
+ChainML      20    2      Armr        He, Bo, Ox
+ClearCL      100   0      Armr        Ni, Bl
+Cloth        1     1      Armr        All
+CursedHT     62    20     Helm        All
+DivingHT     32    6      Helm        Go
+Domino       42    7      Helm        Ni, Bl
+DragonAR     110   0      Armr        He
+DragonHT     80    1      Helm        He
+DragonSH     128   5      Shld        He
+Dress        8     25     Armr        Ni, Bl
+EchoHT       28    3      Helm
+EvilRB       90    1      Armr        Ni, Blx
+FaceMask     35    5      Helm        He, Ka, Mo
+FlameAR      82    10     Armr        He, Mo
+FlameSH      38    8      Shld        He, Ox, Mo
+FlameSH      52    5      Shld        He, Bo, Ox, Go, Ka, Mo
+G-Tiara      2     5      Helm        Ni, Bl
+GaiaMask     36    4      Helm        He, Ox, Mo
+Gauntlet     8     1      Shld        All
+Glove        20    6      Shld        Bo
+GoldHT       14    6      Helm        All
+Gown         18    1      Helm        Ni, Bl
+GuardSH      32    10     Shld        He, Bo, Ni, Ox, Go, Ka, Mo
+HairBand     8     2      Helm        Ni, Bl
+HeadGear     16    5      Helm        All
+HornHT       37    6      Helm        He, Bo, Ox, Go, Ka, Mo
+HuntCL       16    4      Armr        He, Bo, Ka
+HuntGL       30    8      Shld        Bo
+IcyAR        80    10     Armr        He, Bo, Ox
+IcyHT        16    6      Helm        He, Bo, Ox
+IcySH        30    5      Shld        All
+IronHT       32    6      Helm        He, Bo, Ox, Go, Ka, Mo 
+IronMask     30    7      Helm        Ox
+IronML       27    9      Armr        He, Bo, Ox
+IronSH       12    4      Shld        He, Bo, Ox, Go, Ka, Mo
+IronSL       22    5      Shld        Go
+LightCL      68    1      Armr        Ni, Bl
+LightSH      36    10     Shld        Ni, Bl
+LoveHT       64    10     Helm        Ni
+MaskSH       65    8      Shld        All
+MetalAR      39    10     Armr        He, Bo, Ox, Mo
+MetalSH      16    5      Shld        He, Bo, Ox, Go, Ka, Mo
+MetalSL      25    5      Shld        Go
+MystSH       48    5      Shld        He, Bo, Ox, Mo
+NiceHT       6     3      Helm        All
+PlateAR      24    4      Armr        He, Bo, Ox, Go, Ka, Mo 
+PowerAR      84    8      Armr        Ni, Bl
+PowerHT      44    3      Helm        Go, Ka
+PrisnCL      10    2      Armr        All
+ProSH        32    5      Shld        He, Bo, Ox, Go, Ka, Mo
+QuartzAR     50    9      Armr        All
+RangerVT     40    8      Armr        He, Bo, Go
+Robe         2     1      Armr        He, Bl
+SageML       25    14     Armr
+ShellHT      25    1      Helm        Go
+SilkGN       15    4      Armr        Ni, Bl
+SkullHT      25    10     Helm        All
+SkySH        15    1      Shld        Ni
+SpineCL      60    10     Armr        Go
+StarSH       70    2      Shld        He, Bo, Ox, Go, Ka, Mo
+StoneHT      48    16     Helm        Mo
+StrawHT      2     1      Helm        All
+SuedeAR      14    7      Armr        He, Bo, Ox, Go, Ka, Mo 
+SuedeCP      5     4      Armr        He, Bl
+SuedeGN      10    6      Armr        All
+SuedeHT      3     6      Helm        All
+SuedeRB      35    2      Armr        Ni, Bl
+SuedeSH      2     1      Shld        All
+SunHT        12    8      Helm        He, Bo, Ox, Go, Ka, Mo
+ThiefCL      30    4      Armr
+Tiara        10    2      Helm        Ni, Bl
+TideHT       0     0      Helm        All
+TrapGrd      40    4      Shld        Ka
+Turban       11    1      Helm        All
+Visor        6     2      Helm        He, Bo, Ox, Go, Ka, Mo 
+WolfHT       12    4      Helm        Bo
+WolfSkin     80    11     Armr        Bo
+WoodSH       5     2      Shld        He, Bo, Ka
+WoolRB       25    2      Armr        Ni, Bl
+WorldAR      80    9      Armr        Ox, Mo
+WorldML      75    11     Armr        He, Bo, Ox, Mo
+Wrist        10    2      Shld        All
+
+6.3 Accessories
+
+ITEM NAME         WHO
+=========         ===
+
+DarkBR            Ka
+DreamRG
+LoveBR            Ni, Bl
+MagicRG
+MystSF            Ni, Bl
+SilverBR
+SkullRG
+SmartRG
+WindBR            Ni, Bl
+
+---------------------------------------------------------------------
+
+7. INDEX OF MONSTERS
+
+NAME       EP     GP     TREASURE   ABILITY
+====       ==     ==     ========   =======
+
+Ameblob    90     67     None       None
+Blaze      1290   540    None       Burnout
+Blurb      60     30     None       None
+Bulla      4      6      None       None
+Buzzer     195    75     None       None
+CactusX    540    405    None       None
+Chimera    840    280    Acorn      None
+Chopper    720    450    Herb       None
+Crab       1530   540    None       None
+CrawlerX   375    225    None       None
+Creep      12     12     Herb       None
+Creon      330    180    None       None
+D.Flea     420    135    None       Silence
+D.Knight   1170   450    None       Deflect, AgileUP
+D.Rider    75     45     None       None 
+Entity     2520   1200   None       Deflect
+FireHead   2100   1500   None       Inferno, Petrify
+Flea       4      6      Herb       None
+Flower     2700   900    None       Paralyze 
+G.Knight   150    300    None       None 
+Ghoul      1050   450    T-Drop     None 
+Gloom      7      18     Herb       T.Bolt
+LancerX    750    510    Cure       None 
+M.Scorp    960    360    None       None 
+M.Slime    9999   9999   Herb       None
+Mage       210    105    None       None 
+Peril      1080   210    None       None
+Phoenix    1080   540    Herb       None 
+Slime      1      4      Herb       None
+Soldier    1980   1080   None       None 
+Sorcerer   900    300    None       None 
+SpearMan   750    510    Cure       None
+Stool      60     30     None       None 
+WarHog     240    120    Meat       None
+WarHogX    2040   720    None       Burnout
+Warlock    1440   540    None       T.Bolt, Curse
+Zard       90     67     None       None
+Zombie     105    54     Mrbl3      RotAway
+Zoom       1200   300    C-Stn      Blizzard, Blast, Shock
+
+*NOTE*: Experience points (EP) and Gold pieces (GP) values are when you defeat 
+the enemy in the first round. The longer you take, the less EP and GP you'll 
+receive.
+
+---------------------------------------------------------------------
+
+8. INDEX OF SPELLS
+
+NAME    AP  EFFECT
+====    ==  ======
+
+3.5     3   30 Damage on enemy party
+5.5     8   50 Damage on enemy party
+9.5 15  80 Damage on enemy party
+Ag-Up   8   Increases Agility for one character
+ATK-Up  15  Increases Attack for one character
+Blast   18  Powerful Burst Damage on single enemy
+BoltX   30  Devastating Shock Damage on single enemy
+Bomb    5   Weak Burst Damage on single enemy
+Boom    11  Medium Burst Damage on enemy party
+Char    36  Potent Fire Damage on enemy party
+Chill   12  Powerful Frost Damage on enemy party
+Cold    5   Weak Frost Damage on single enemy
+Cura    3   Recovers 50 HP for one character
+Cura2   6   Recovers 100 HP for one character
+Cura3   15  Recovers 250 HP for one character
+Dig     5   Lets you escape from battle
+Drain   2   Drains small amounts of AP from an enemy
+Ebb     3   30 Damage on enemy party (Underwater only)
+EbbX    5   50 Damage on enemy party (Underwater only)
+Eco     8   70 Damage on enemy party (Underwater only)
+EcoX    10  100 Damage on enemy party (Underwater only)
+Exit    20  Instantly teleports you out of current dungeon
+F-Ball  9   Powerful Fire Damage on single enemy
+FireX   30  Devastating Fire Damage on single enemy
+Flame   6   Medium Fire Damage on single enemy
+Flare   3   Weak Fire Damage on single enemy
+Flee    20  Lets you escape from battle
+Fort    6   Increases defense for one character
+FortX   14  Increases defense for entire party
+Frost   9   Medium Frost Damage on single enemy
+Fry     10  Medium Shock Damage on single enemy
+Gale    24  Powerful Shock Damage on enemy party
+Heal    5   Recovers status for one character
+Hold    8   Paralyzes one enemy
+Hush    6   Silences an enemy
+Ice     30  Potent Frost Damage on enemy party
+IceX    48  Devastating Frost Damage on single enemy
+Idle    5   Slows an enemy down
+Lk-Up   6   Increases Luck for one character
+Lstorm  11  Medium Shock Damage on enemy party
+Nova    42  Potent Burst Damage on enemy party
+NovaX   54  Devastating Burst Damage on single enemy
+Para    10  Stops time for a single enemy
+Renew   10  Revives a dead character
+Rub     20  Instantly kills an enemy
+Sap     1   Drains small amounts of HP from one enemy
+Shield  8   Increases resistance for one character
+Spark   4   Weak Shock Damage on single enemy
+Warp    2   Teleports you to any previously visited town
+Zom1    5   Powerful Damage on an undead enemy
+Zom2    15  Potent Damage on an undead enemy
+
+*NOTE*: Damage dealt by spells may vary depending on enemy resistance to magic.
+
+---------------------------------------------------------------------
+
+9. DRAGON SHRINES
+
+Dragon Shrines are places where the Hero can battle dragons to gain spells.
+
+LOCATION              FIGHT    REWARD
+========              =====    ======
+
+South of Tuntar       Talon    Snow, Flame and Thunder Dragon spells
+Southwest of Gant     Bain     Ice, Fire, Bolt and Gold Dragon spells
+Northwest of Gust     Avian    Rudra spell
+Under mystic water    None     Agni spell
+
+---------------------------------------------------------------------
+
+10. GOBI'S SHOP
+
+This is a list of the items you can get when Gobi plays merchant in Prima and 
+Tunlan. 
+
+ITEM NAME       OFFER
+=========       =====
+
+AngleAR         18000
+Antd x9         80
+B-Stn           12
+Cure x9         2700
+Cure2           1950
+EvilRB          5994
+F-Stn           12
+G-Tiara         12000
+HuntGL          2700
+LightRP         48
+Mackrl          60
+MaskSH          12000
+MetalAR         5400
+ProtnB          180
+Rod2            1200
+Sleeper         2400
+Smoke           60
+SteelBW         2400
+Tuna            1200
+
+---------------------------------------------------------------------
+
+11. KARN'S FORMS
+
+-Shin-
+A mixture of Karn, Gobi and Bo. He can fire arrows and walk through forest in 
+the global map. Found in Gant in a secret passage behind a moving cabinet.
+
+-Debo-
+Found in Gust by moving a crate in flute player's house.
+
+-Doof-
+A mixture of Karn, Bo and Ox. Stronger than Ox, he can move objects that Ox 
+can't. Found by digging with Mogu in the mark northeast of Camlon.
+
+-Puka-
+A combination of Karn, Gobi, Ox and Bo. He can breath to open the dragon marked 
+stone doors. Found in Bleak by moving the cabinet with Doof leading the party in 
+one of the houses.
+
+---------------------------------------------------------------------
+
+12. ROD5 SITES
+
+These are sites where you can use the Rod5 item along with some kind of bait and 
+receive important items.
+
+Well - Far west of Agua and east of third Dragon Shrine
+You'll receive the DragonSD needed to enter the second Dragon Shrine
+
+Well - Northwest of Tantar
+You'll receive the Slab
+
+Pond - Western pond with ducks in Spring
+You'll receive the DragonAR
+
+Well - West of Gust. You'll have to fly to reach it
+Receive the DragonSH
+
+Well - Southwest of Arad
+You'll find the DragonHT
+
+---------------------------------------------------------------------
+
+13. DRAGON MARKS
+
+These are sites where Mogu can dig to find secret treasure.
+
+LOCATION                   REWARD
+========                   ======
+
+Northeast of Camlon        Karn's Doof spell
+Far northeast of Tantar    L-Ptn, A-Ptn, V-Ptn, Clog
+Island north of Winlan     V-Ptn, S-Ptn, Sash
+South of Spring            HeroBW
+South of Scande            LoveHT, StarSH, AgileHT, Life2, L-Ptn, A-Ptn, S-Ptn,
+                           MystCW
+
+---------------------------------------------------------------------
+
+14. DRAGON STONE DOORS
+
+These are sites where Karn in his Puka form can open doors to find powerful 
+bracelets.
+
+LOCATION                          REWARD
+========                          ======
+
+North of Auria                    DarkBR
+Southwest of Gust                 LoveBR
+Southwest of Tunlan               WindBR
+
+---------------------------------------------------------------------
+
+15. GENERAL HINTS
+
+1) Search all the drawers you come across. They generally have useful items in 
+them. Search also any moving object such as pots, boxes and others. They can 
+also hide items.
+2) When traveling underwater, use Gobi as the lead character and morph him into 
+a big fish (only after you recover the Sphere). This way you won't be attacked.
+3) To find the Tri-Rang, search behind the Pagoda Towers before they are 
+activated.
+4) You can refill the WtrJr in Tunlan or in the mystic spring.
+5) Check the throne after defeating Jade to find the Emperor Sword. Also check 
+the right pillar to find the Star Hammer. Use it as an item to produce the Comet 
+effect.

@@ -1,0 +1,1000 @@
+
+Breath of Fire (SNES)
+Magic Guide
+
+Version 1.0
+Released on January 31, 2008
+
+By Novalia Spirit
+Contact information: novaliaspirit (AIM and Hotmail)
+http://novaliaspirit.99k.org/
+
+
+Table of contents:
+1. INTRODUCTION
+2. SPELL LIST
+3. DUMMY SPELL LIST
+4. STATUS AILMENTS
+5. LEGAL DISCLAIMER
+
+
+###############################################################################
+                                 INTRODUCTION
+###############################################################################
+
+This document features a comprehensive list of all the spells found in Breath
+of Fire, which includes a plurality of dummy spells. Because documentation on
+status ailments is relatively scarce, and these are primarily inflicted through
+attacks covered in this document, I have sought to integrate that in my study.
+
+Before proceeding further, there are several points that we have to clarify.
+Firstly, all spells can only be used in battle unless otherwise specified. In
+addition, all spells have information listed under "Element," "Learn at level,"
+and "Incantation," but not all of them will make use of such data. For example,
+only spells that inflict damage are affected by elemental modifiers; certain
+spells are innate to Bo or Ox, or cannot be learned by any means; spells issued
+from Ryu's Fight command or Gobi's Magic command never display an incantation
+message.
+
+As with my Monster Statistics Guide, the names assigned to the elements are
+arbitrary, which is obviously due to the fact that the real names are unknown.
+It should come as no surprise that the same applies to a handful of the status
+ailments, such as "Shield," "Stop," and "Wall."
+
+Spells whose hit rate depends on Wisdom operate as follows:
+A) If target's Wisdom is greater than or equal to caster's, the hit rate is 25%
+B) If target's Wisdom is less than caster's, then the hit rate is 37.5%
+
+Finally, note that spells with a "Power" entry will systematically deal damage
+in battle, as the value represents the potential damage that the target might
+suffer.
+
+
+###############################################################################
+                                  SPELL LIST
+###############################################################################
+
+
+3.5
+Power: 30
+AP expenditure: 3
+Learn at level: 9
+Element: Lightning & Earth
+Incantation: "Devistat"
+Aiming: All enemies
+
+
+5.5
+Power: 50
+AP expenditure: 8
+Learn at level: 18
+Element: Lightning & Earth
+Incantation: "Devistat"
+Aiming: All enemies
+
+
+9.5
+Power: 80
+AP expenditure: 15
+Learn at level: 24
+Element: Lightning & Earth
+Incantation: "Devistat"
+Aiming: All enemies
+
+
+Ag-Up
+AP expenditure: 8
+Learn at level: 12
+Element: Water & Light
+Incantation: "AgileUp!"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Increases target's ACT by 20
+        Inflicts "ACT Up"
+        No effect on targets afflicted with "ACT Up"
+Usage: Caster gains initiative (characters only)
+
+
+ATK-Up
+AP expenditure: 15
+Learn at level: 7
+Element: Water & Light
+Incantation: "Powerup!"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Increases target's ATK by 50
+        Inflicts "ATK Up"
+        No effect on targets afflicted with "Zom" or "ATK Up"
+Usage: Caster gains initiative (characters only)
+
+
+Blast
+Power: 110
+AP expenditure: 18
+Learn at level: 25
+Element: Lightning & Earth
+Incantation: "Blast"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+BoltX
+Power: 400
+AP expenditure: 30
+Learn at level: 35
+Element: Lightning & Earth
+Incantation: "T.Bolt"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+BoltX (Agni)
+Power: 999
+AP expenditure: 0
+Learn at level: 26
+Element: Lightning & Earth
+Incantation: "T.Bolt"
+Aiming: All enemies
+
+
+Bomb
+Power: 35
+AP expenditure: 5
+Learn at level: 11
+Element: Lightning & Earth
+Incantation: "Blast"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Boom
+Power: 70
+AP expenditure: 11
+Learn at level: 19
+Element: Lightning & Earth
+Incantation: "Blast"
+Aiming: All enemies
+
+
+Char
+Power: 180
+AP expenditure: 36
+Learn at level: 29
+Element: Fire
+Incantation: "Burn out"
+Aiming: All enemies
+
+
+Chill
+Power: 100
+AP expenditure: 12
+Learn at level: 22
+Element: Ice
+Incantation: "Blizzard"
+Aiming: All enemies
+
+
+Cold
+Power: 30
+AP expenditure: 5
+Learn at level: 8
+Element: Ice
+Incantation: "Freeze!"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Comet
+Power: 400
+AP expenditure: 75
+Learn at level: 40
+Element: Lightning & Earth
+Incantation: "BigCrash"
+Aiming: All enemies
+
+
+Comet (Rudra)
+Power: 320
+AP expenditure: 0
+Learn at level: 44
+Element: Lightning & Earth
+Incantation: "BigCrash"
+Aiming: All enemies
+
+
+Comet (enemy spell)
+Power: 70
+AP expenditure: 25
+Learn at level: 17
+Element: Water & Light
+Incantation: "BigCrash"
+Aiming: All enemies
+
+
+Cura
+AP expenditure: 3
+Learn at level: 1
+Element: Water & Light
+Incantation: "Recover!"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Restores 50 HP to a character or 10 HP to a monster
+Usage: Caster gains initiative (characters only)
+       Player cannot select entities that have full HP
+       Usable outside of battle
+
+
+Cura2
+AP expenditure: 6
+Learn at level: 9
+Element: Water & Light
+Incantation: "Recover!"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Restores 100 HP to a character or 40 HP to a monster
+Usage: Caster gains initiative (characters only)
+       Player cannot select entities that have full HP
+       Usable outside of battle
+
+
+Cura3
+AP expenditure: 15
+Learn at level: 15
+Element: Water & Light
+Incantation: "Recover!"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Restores 250 HP to a character or 100 HP to a monster
+Usage: Caster gains initiative (characters only)
+       Player cannot select entities that have full HP
+       Usable outside of battle
+
+
+Cura4
+AP expenditure: 20
+Learn at level: 23
+Element: Water & Light
+Incantation: "Recover!"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Restores all HP
+Usage: Caster gains initiative (characters only)
+       Player cannot select entities that have full HP
+       Usable outside of battle
+
+
+CuraX
+AP expenditure: 30
+Learn at level: 37
+Element: Water & Light
+Incantation: "CureAll!"
+Aiming: All allies
+Effect: Restores 250 HP to a character or 100 HP to a monster
+Usage: Caster gains initiative (characters only)
+       Player cannot select entities that all have full HP
+       Usable outside of battle
+
+
+Curs
+AP expenditure: 20
+Learn at level: 16
+Element: Lightning & Earth
+Incantation: "Curse"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Automatically misses monsters and Super Forms
+Effect: Inflicts "Curs"
+        No effect on targets afflicted with "Zom" or "Pois"
+
+
+Dispel
+AP expenditure: 20
+Learn at level: 30
+Element: Water & Light
+Incantation: "Redirect"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Inflicts "Dispel"
+        No effect on targets afflicted with "Dispel"
+Usage: Caster gains initiative (characters only)
+
+
+Drain
+AP expenditure: 2
+Learn at level: 33
+Element: Lightning & Earth
+Incantation: "Absorb"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Hit rate depends on Wisdom
+        Automatically misses monsters in event battles
+Effect: Absorbs 10.15625% of target's AP, with a minimum of 1 AP and a maximum
+        of 30 AP (skips all damage modifiers)
+        No effect on targets that have 0 AP
+
+
+Ebb
+Power: 30
+AP expenditure: 3
+Learn at level: 10
+Element: Water & Light
+Incantation: "Recover!"
+Aiming: All enemies
+
+
+EbbX
+Power: 50
+AP expenditure: 5
+Learn at level: 14
+Element: Water & Light
+Incantation: "Recover!"
+Aiming: All enemies
+
+
+Eco
+Power: 70
+AP expenditure: 8
+Learn at level: 16
+Element: Water & Light
+Incantation: "Recover!"
+Aiming: All enemies
+
+
+EcoX
+Power: 100
+AP expenditure: 10
+Learn at level: 17
+Element: Water & Light
+Incantation: "Recover!"
+Aiming: All enemies
+
+
+Exit
+Power: 25
+AP expenditure: 20
+Learn at level: 5
+Element: Lightning & Earth
+Incantation: "T.Bolt"
+Aiming: Single enemy (targets party's leader if target is invalid)
+Effect: Transports the party to the last occupied tile on the overworld map
+        No effect in areas marked as friendly or which prohibit its usage
+Usage: Only usable outside of battle
+
+
+F.Ball
+Power: 90
+AP expenditure: 9
+Learn at level: 20
+Element: Fire
+Incantation: "Burn out"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Fire (FlmDr)
+Power: 115
+AP expenditure: 0
+Learn at level: 1
+Element: Fire
+Incantation: "Burn out"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Fire (enemy spell)
+Power: 90
+AP expenditure: 30
+Learn at level: 21
+Element: Fire
+Incantation: "Burn out"
+Aiming: All enemies
+
+
+FireX
+Power: 350
+AP expenditure: 30
+Learn at level: 32
+Element: Fire
+Incantation: "Inferno"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Flam (FirDgn)
+Power: 210
+AP expenditure: 0
+Learn at level: 1
+Element: Water & Light
+Incantation: "Inferno"
+Aiming: All enemies
+
+
+Flame
+Power: 40
+AP expenditure: 6
+Learn at level: 15
+Element: Fire
+Incantation: "Burn out"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Flare
+Power: 20
+AP expenditure: 3
+Learn at level: 6
+Element: Fire
+Incantation: "Burn out"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Flee
+AP expenditure: 20
+Learn at level: 23
+Element: Lightning & Earth
+Incantation: "Run!"
+Aiming: All allies
+        Automatically misses in event battles, with the exception of Mothro
+Effect: Transports the party out of a battle
+
+
+Fort
+AP expenditure: 6
+Learn at level: 4
+Element: Water & Light
+Incantation: "Petrify!"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Increases target's DEF by 20
+        Inflicts "DEF Up"
+        No effect on targets afflicted with "Zom" or "DEF Up"
+Usage: Caster gains initiative (characters only)
+
+
+FortX
+AP expenditure: 14
+Learn at level: 26
+Element: Water & Light
+Incantation: "Petrify!"
+Aiming: all allies
+Effect: Increases target's DEF by 20
+        Inflicts "DEF Up"
+        No effect on targets afflicted with "Zom" or "DEF Up"
+Usage: Caster gains initiative (characters only)
+NOTE: The effect applies to dead targets despite the absence of an animation.
+
+
+Freeze (IceDgn)
+Power: 190
+AP expenditure: 0
+Learn at level: 1
+Element: Ice
+Incantation: "Freeze!"
+Aiming: All enemies
+
+
+Frost
+Power: 60
+AP expenditure: 9
+Learn at level: 17
+Element: Ice
+Incantation: "Freeze!"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Fry
+Power: 80
+AP expenditure: 10
+Learn at level: 16
+Element: Lightning & Earth
+Incantation: "T.Bolt"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Heal
+AP expenditure: 5
+Learn at level: 5
+Element: Water & Light
+Incantation: "Get well"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Cures "Pois," "Zom," "Curs," "Mute," "Doze"
+        Resets counters for "Mute" and "Doze"
+Usage: Caster gains initiative (characters only)
+       Player can only select entities afflicted with "Pois," "Zom," "Curs,"
+       "Mute," or "Doze"
+       Usable outside of battle
+
+
+Hold
+AP expenditure: 8
+Learn at level: 11
+Element: Water & Light
+Incantation: "Paralyze"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Automatically misses Super Forms
+        Automatically misses monsters in event battles
+Effect: Cures "Mute"
+        Inflicts "Doze"
+        Sets "Doze" counter to a random number between one and four
+        No effect on targets afflicted with "Doze"
+
+
+Hush
+AP expenditure: 6
+Learn at level: 28
+Element: Water & Light
+Incantation: "Silence!"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Automatically misses Super Forms
+        Automatically misses monsters in event battles
+Effect: Inflicts "Mute"
+        Sets "Mute" counter to a random number between one and four
+        No effect on targets afflicted with "Doze" or "Mute"
+
+
+Ice
+Power: 150
+AP expenditure: 30
+Learn at level: 28
+Element: Ice
+Incantation: "Freeze!"
+Aiming: All enemies
+
+
+Ice (SnoDr)
+Power: 100
+AP expenditure: 0
+Learn at level: 1
+Element: Ice
+Incantation: "Freeze!"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+IceX
+Power: 250
+AP expenditure: 48
+Learn at level: 31
+Element: Ice
+Incantation: "Chill"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Idle
+AP expenditure: 5
+Learn at level: 19
+Element: Water & Light
+Incantation: "SlowDown"
+Aiming: Single enemy (targets party's leader if target is invalid)
+Effect: Reduces target's ACT by 20
+        Inflicts "ACT Down"
+        No effect on targets afflicted with "ACT Down"
+NOTE: When negative, the residual ACT value is set to zero. Because of a bug in
+      the code, a value above 127 will be considered negative and, as a result
+      of that, will be set to zero
+
+
+Gale
+Power: 130
+AP expenditure: 24
+Learn at level: 26
+Element: Lightning & Earth
+Incantation: "T.Bolt"
+Aiming: All enemies
+
+
+Lk-Up
+AP expenditure: 6
+Learn at level: 6
+Element: Water & Light
+Incantation: "CheerUp!"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Increases target's FATE by 20
+        Inflicts "FATE Up"
+        No effect on targets afflicted with "Curs" or "FATE Up"
+Usage: Caster gains initiative (characters only)
+
+
+LStorm
+Power: 95
+AP expenditure: 11
+Learn at level: 21
+Element: Lightning & Earth
+Incantation: "T.Bolt"
+Aiming: All enemies
+
+
+Nova
+Power: 200
+AP expenditure: 42
+Learn at level: 30
+Element: Lightning & Earth
+Incantation: "Blast"
+Aiming: All enemies
+
+
+NovaX
+Power: 300
+AP expenditure: 54
+Learn at level: 37
+Element: Lightning & Earth
+Incantation: "Blast"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Para
+AP expenditure: 10
+Learn at level: 10
+Element: Lightning & Earth
+Incantation: "Time out"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Hit rate depends on Wisdom
+        Automatically misses monsters in event battles
+Effect: Inflicts "Stop"
+        Sets "Stop" counter to a random number between one and four
+        No effect on targets afflicted with "Stop"
+
+
+Pararai
+AP expenditure: 8
+Learn at level: 11
+Element: Water & Light
+Incantation: "Paralyze"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Automatically misses Super Forms
+        Automatically misses monsters in event battles
+Effect: Cures "Mute"
+        Inflicts "Doze"
+        Sets "Doze" counter to a random number between one and four
+        No effect on targets afflicted with "Doze"
+
+
+Poison
+AP expenditure: 20
+Learn at level: 16
+Element: Lightning & Earth
+Incantation: "Poison"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Automatically misses monsters and Super Forms
+Effect: Cures "Curs" if target is afflicted with "Zom"
+        Inflicts "Pois"
+        Sets "Pois" counter to three
+        No effect on targets afflicted with "Pois"
+
+
+Renew
+AP expenditure: 10
+Learn at level: 17
+Element: Water & Light
+Incantation: "Revive!"
+Aiming: Single ally
+Effect: Cures "Stun," "Curs," "Pois," "Zom," "FATE Up"
+        Sets target's HP to 1
+        Inflicts "Critical HP"
+        Sets FATE to equal Luck (negates the effect of equipment)
+Usage: Caster gains initiative (characters only)
+       Player can only select entities afflicted with "Stun"
+       Usable outside of battle
+
+
+RenewX
+AP expenditure: 30
+Learn at level: 34
+Element: Water & Light
+Incantation: "Revive!"
+Aiming: Single ally
+Effect: Cures "Stun," "Curs," "Pois," "Zom," "FATE Up," "Critical HP," "Mute,"
+        "Doze"
+        Resets counters for "Mute" and "Doze"
+        Restores all HP
+        Sets FATE to equal Luck (negates the effect of equipment)
+Usage: Caster gains initiative (characters only)
+       Player can only select entities afflicted with "Stun"
+       Usable outside of battle
+
+
+Rub
+AP expenditure: 20
+Learn at level: 14
+Element: Lightning & Earth
+Incantation: "Shock!"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Hit rate depends on Wisdom
+        Automatically misses monsters in event battles
+Effect: Deals damage equal to target's HP (skips all damage modifiers)
+
+
+Sap
+AP expenditure: 1
+Learn at level: 12
+Element: Lightning & Earth
+Incantation: "Absorb"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Hit rate depends on Wisdom
+        Automatically misses monsters in event battles
+Effect: Absorbs 10.15625% of target's HP, with a minimum of 1 HP and a maximum
+        of 30 HP
+
+
+Shield
+AP expenditure: 8
+Learn at level: 21
+Element: Water & Light
+Incantation: "Deflect!"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Inflicts "Shield"
+        Sets "Shield" counter to a random number between one and four
+        No effect on targets afflicted with "Shield"
+Usage: Caster gains initiative (characters only)
+
+
+Spark
+Power: 25
+AP expenditure: 4
+Learn at level: 7
+Element: Lightning & Earth
+Incantation: "T.Bolt"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Thander (ThrDr)
+Power: 130
+AP expenditure: 0
+Learn at level: 1
+Element: Lightning & Earth
+Incantation: "Run!"
+Aiming: Single enemy (targets party's leader if target is invalid)
+
+
+Volt (BltDgn)
+Power: 225
+AP expenditure: 0
+Learn at level: 1
+Element: Lightning & Earth
+Incantation: "T.Bolt"
+Aiming: All enemies
+
+
+Wall
+AP expenditure: 15
+Learn at level: 41
+Element: Water & Light
+Incantation: "Deflect!"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Inflicts "Wall"
+        No effect on targets afflicted with "Wall"
+Usage: Caster gains initiative (characters only)
+
+
+Warp
+Power: 25
+AP expenditure: 2
+Learn at level: 13
+Element: Lightning & Earth
+Incantation: "T.Bolt"
+Aiming: Single enemy (targets party's leader if target is invalid)
+Effect: Transports the party to any town previously visited (Drogen, Camlon,
+        Winlan, Romero, Tantar, Auria, Bleak, Arad, Gant, Gust, Carmen,
+        Spring, Tunlan, Wisdon, Gramor)
+        Effective only on the overworld map
+Usage: Only usable outside of battle
+
+
+Zom1
+Power: 80
+AP expenditure: 5
+Learn at level: 14
+Element: Water & Light
+Incantation: "Be gone!"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Automatically misses non-Zombie-type monsters
+
+
+Zom2
+Power: 120
+AP expenditure: 15
+Learn at level: 24
+Element: Water & Light
+Incantation: "Be gone!"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Automatically misses non-Zombie-type monsters
+
+
+Zombi
+AP expenditure: 20
+Learn at level: 16
+Element: Lightning & Earth
+Incantation: "RotAway!"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Automatically misses monsters and Super Forms
+Effect: Cures "Curs" if target is afflicted with "Pois"
+        Inflicts "Zom"
+        No effect on targets afflicted with "Zom"
+
+
+ZomX
+Power: 200
+AP expenditure: 35
+Learn at level: 46
+Element: Water & Light
+Incantation: "Be gone!"
+Aiming: All enemies
+        Automatically misses non-Zombie-type monsters
+
+
+ZomX (GldDgn)
+Power: 250
+AP expenditure: 0
+Learn at level: 1
+Element: Water & Light
+Incantation: "Be gone!"
+Aiming: All enemies
+        Automatically misses non-Zombie-type monsters
+
+
+###############################################################################
+                               DUMMY SPELL LIST
+###############################################################################
+
+
+Bolt
+Power: 0 (skips all damage modifiers)
+AP expenditure: 0
+Learn at level: 34
+Element: Lightning & Earth
+Incantation: "Recover!"
+Aiming: Single enemy (replaces spell with Fight command if target is invalid)
+
+
+Bom
+Power: 230
+AP expenditure: 30
+Learn at level: 40
+Element: Lightning & Earth
+Incantation: "Recover!"
+Aiming: All enemies
+
+
+Bomb
+AP expenditure: 0
+Learn at level: 0
+Element: Lightning & Earth
+Incantation: "Blast"
+Aiming: All enemies
+
+
+Cura
+AP expenditure: 0
+Learn at level: 1
+Element: Water & Light
+Incantation: "Recover!"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Restores HP for an amount equal to target's Wisdom
+Usage: Caster gains initiative (characters only)
+
+
+Ice
+Power: 120
+AP expenditure: 10
+Learn at level: 23
+Element: Ice
+Incantation: "Blizzard"
+Aiming: All enemies
+
+
+MP MAX
+AP expenditure: 8
+Learn at level: 11
+Element: Water & Light
+Incantation: "Deflect!"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Inflicts "DEF Up"
+        Sets target's MAG to 255
+        Sets "Shield" counter to a random number between one and four
+        No effect on targets afflicted with "DEF Up"
+Usage: Caster gains initiative (characters only)
+
+
+RenewX
+AP expenditure: 0
+Learn at level: 33
+Element: Water & Light
+Incantation: "SlowDown"
+Aiming: Single ally (replaces spell with Fight command if target is invalid)
+Effect: Cures "Stun," "Curs," "Pois," "Zom," "FATE Up," "Critical HP," "Mute,"
+        "Doze"
+        Resets counters for "Mute" and "Doze"
+        Restores all HP
+        Sets FATE to equal Luck (negates the effect of equipment)
+Usage: Caster gains initiative (characters only)
+       Player can only select entities afflicted with "Stun"
+       Usable outside of battle
+
+
+Silent
+AP expenditure: 6
+Learn at level: 27
+Element: Water & Light
+Incantation: "Paralyze"
+Aiming: Single enemy (targets party's leader if target is invalid)
+        Automatically misses Super Forms
+        Automatically misses monsters in event battles
+Effect: Inflicts "Mute"
+        Sets "Mute" counter to a random number between one and four
+        No effect on targets afflicted with "Doze" or "Mute"
+
+
+###############################################################################
+                                STATUS AILMENTS
+###############################################################################
+
+The list below details information about the status ailments in this game.
+
+Curs:
+Changes the FATE rating of the afflicted to 1.
+
+Dispel:
+Renders the next spell cast upon the afflicted ineffectual. This excludes
+spells issued from the Item command, Gobi's Magic command, or Ryu's Fight
+command.
+
+Pois:
+Outside of battles, the afflicted will lose one HP with every step in hostile
+territory. In battles, such a character will incur damage equal to 10.15625% of
+its HP, with a minimum damage of one, every time its "Pois" counter falls to
+zero, after which the counter is set to four. When a battle starts, the "Pois"
+counter is automatically set to four.
+
+Shield:
+Causes magical attacks made on the afflicted to deal 60.15625% normal damage.
+The status expires once the "Shield" counter reaches zero.
+
+Mute:
+Prevents characters from issuing spells from their Magic command, and disables
+monster special attacks, whether they be magical or physical. This status does
+not forestall counterattacks.
+
+Doze:
+Prevents the afflicted from taking action. The status expires once the "Doze"
+counter reaches zero.
+
+Stop:
+Prevents the afflicted from taking action. The status expires once the "Stop"
+counter reaches zero.
+
+Stun:
+Prevents the afflicted from taking action and, in most cases, being targeted.
+Strangely, such a restraining effect does not exist outside of battle, as
+characters afflicted with this status will still be able to use a magic spell.
+
+Wall:
+Renders the next spell cast upon the afflicted ineffectual. The spell is
+returned to the caster at half the default "Power" rate (if the afflicted is
+wearing an EchoHT, the rate might be one-eighth instead) except for monsters,
+as well as characters under the effect of "Dispel." This has no effect against
+spells targeted at the caster's party by default, and spells issued from the
+Item command, Gobi's Magic command, or Ryu's Fight command.
+
+Zom:
+The effect of this status depends upon the time of day. During nighttime, the
+ATK rating of the afflicted is doubled, whereas its DEF is set to 5. The rest
+of the time, the ATK and DEF ratings are set to and 5 and 1, respectively.
+
+The rest of the statuses serve no purpose other than to render certain spells
+or items ineffectual. All counters are decremented at the end of every round.
+Except for the "Pois" counter, this applies also to fallen combatants. Note
+that "Curs," "Pois," "Stun," and "Zom" are the only statuses that persist
+outside of battle.
+
+Apparently because of sloppy coding practices, removing a status from a battler
+will not necessarily reset the corresponding counter. As a result, when a
+status is reapplied, it is possible that the counter will be greater than it
+has been determined, depending on the bit pattern. This is due to the fact that
+the algorithm accomplishes this task through the bitwise inclusive OR operator.
+
+Each time a character's HP reaches zero, the game performs the following
+sequence of events:
+1. Lift all statuses
+2. Set "Stun" status
+3. Reset "Pois" counter
+4. Restore ATK and DEF
+5. Set FATE to equal Luck (negates the effect of equipment)
+
+As you may have surmised, the character's ACT remains unchanged despite the
+fact that the "ACT Up" and "ACT Down" statuses are removed. This behavior is
+arguably a bug.
+
+
+###############################################################################
+                               LEGAL DISCLAIMER
+###############################################################################
+
+All of the contents within this document cannot be reproduced in any way,
+shape, or form without the expressed written permission of the author, unless
+for personal, private use. Permission to distribute this document is granted
+exclusively to GameFAQs.com.
+
+This document is Copyright © 2008 C. Coban.
+
+All Rights Reserved.

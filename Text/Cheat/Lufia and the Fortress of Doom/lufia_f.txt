@@ -1,0 +1,2224 @@
+LUFIA AND THE FORTRESS OF DOOM
+A Walkthrough by Molokidan the Super Sushi-jin
+Full Version
+
+------------
+INTRODUCTION
+------------
+
+Lufia is a classic SNES RPG that will entertain gamers new to the genre, as
+well as challenge experienced players. It follows the story of the rise of the
+evil Sinistrals, and a young hero's quest to fulfull his destiny and stop them.
+It features a unique battle system not seen in any RPG before it, as well as a
+colorful cast of characters, enemies, magic, and weapons. If you're looking for
+an old-school classic game, check out Lufia. It's not a rare ROM if you use
+emulators, and can be found on any decent Emulation site. The game itself is
+out of print, and is rather hard to locate. (At least for me :)
+
+-----------
+WALKTHROUGH
+-----------
+
+*Notations:
+ - There's 99 total different event locations listed.
+ - The level notation is the Hero's level, not the whole party's level.
+ - All the items that are listed there are the ones you can get AT THAT
+PARTICULAR TIME. Other items are listed in the appropriate sections.
+
+1. Fortress of Doom
+Level: 79
+Enemies: Hydra, Stone Golem, Mad Knight, Mega Frog, Mad Wolf, Efreet
+Items: Power Potionx2, Spell Potionx2, Mind Potion, Great Potion, Miracle x5
+
+You start out in the front of a large castle, with four characters in your
+party, at nearly Level 80! This is definitely not the traditional start to an
+RPG! Well, it seems that you are the four chosen heroes to stop the newly
+arrived Sinistrals from wreaking havoc on the world. I'm not even going to
+cover the dungeon, it's just a straightforward path. You can get the treasures
+if you so desire, but they're really not necessary, as you have about 80 of
+each of them in your inventory, and you don't keep them after this scene is
+over. The enemies are also cheese. Eventually, you'll reach the end of the
+castle, and meet the four sinistrals. I'm not going to cover these guys either,
+because these battles are so extremely easy, that it's not worth wasting the
+space ^_^;. You can just mess around with different spells in these battles,
+because it's basically a nice little taste of what Lufia's engine is really
+capable of. I usually have Maxim and Guy attack, while Selan casts Thunder and
+Artea (usually) heals with Valor. Again, do whatever you want in these battles,
+they're just for fun. Finally, you'll lay rest to the Sinistrals, and the intro
+will be over.
+
+2. Alekia
+Level: 1
+Enemies: None
+Items: Revivex3, Cloth Helm, Dress, Sleep Powder, Potionx3, Arrow, Swing Wing,
+Escape,
+100 Gold, Sweet Water, Antidote, Stuffed Bear, Bracelet
+
+It starts out 90 years after the war. Hero and the innkeeper begin chatting,
+when
+a strange girl shows up. This is Lufia.
+
+Fast forward to 9 years after that. Lufia and Hero are best buds now, and
+they're living in the peaceful world without monsters. They eventually get into
+a scuffle after Hero learns that another kingdom was invaded by monsters, and
+you get control of him. I suggest buying 4 Potions and a Dagger. After that,
+just walk around town and plunder all the houses =). Taito was really generous
+here by putting tons of goods in each shelf of a house. Very good stuff,
+especially the Revive, an item that you don't have access to (but need) this
+early in the game. You *can* leave town, but unless you need Gold, I wouldn't.
+Hero can take the monsters out there to a certain extent, but there's really
+nothing to do and you could find yourself stuck in a sticky situation. Once
+you're ready, fill Hero's craving to update the Commander on the news and enter
+the castle. Head up and grab the chest in the top left room, but don't talk to
+the Commander just yet. There's another easily missed Revive behind him in the
+full shelf. Enter the next room and check the two full shelves. Now you can
+head upstairs. Get two more potions in the available rooms, and then continue
+upstairs. Talk to the princess, and she'll give you 100 gold pieces! Now head
+up to the top right, and go down all the stairs. You'll get ANOTHER Revive, as
+well as some other good treasure. Back on the roof, enter the princess's room
+on the left to get a Stuffed Bear and a Bracelet. Now you can head back
+downstairs and talk with the Commander. He'll give you the
+O.K. to go to Sheran. Lufia is still nowhere to be found, so your only other
+choice is to head north to Chatham.
+
+3. Chatham
+Level: 1
+Enemies: None
+Items: Smoke Ball
+
+There's not much to do here in Chatham. By talking with the townspeople, you'll
+find that a guy left to make sure his sister, who works in the castle, was
+alright. Just take the Smoke ball and head north.
+
+4. Chatham Cave (North)
+Level: 1
+Enemies: Spider, Jellyfish, Madshroom, Big Newt
+Items: 200 Gold, Potion
+
+The left cave leads to the next kingdom, but we're making a pit stop first at
+the north cave. Just go down and collect your treasure, because you can't make
+it past the rocks anyway. Now you can enter the other cave.
+
+5. Chatham Cave (West)
+Level: 2
+Enemies: Spider, Jellyfish, Madshroom, Big Newt
+Items: None
+
+This is the small cave to the left. Ahead is Sheran. You don't need to, but if
+you go up and right, you'll notice that this cave is connected to the north
+cave you entered earlier, on the other side of the rocks. No big deal, but
+interesting. Hopefully you bought a few Potions in Alekia, becase you'll most
+likely need a little bit of healing. Simply take the left path out.
+
+6. Sheran
+Level: 2
+Enemies: None
+Items: Potionx4, Sweet Waterx2, Foul Waterx2, Antidote, Awaken, Arrowx2, Mid
+Arrow, Revive
+
+Upon entering Sheran, you'll see a dead man in front of you. Greaaat, I can
+already tell where this is heading. All the 'dead' people will tell you to go
+back, because "IT" is still here. Well, you will, but not just yet ;). Head up
+to the castle and take the four potions in the room to the left, then the other
+items on the right. More items on the next floor, and then you can go into the
+throne room. Upon entering, you'll see some locked doors. Grr! I guess we have
+no choice but to leave. Something funny: If you talk to the dead man in the
+northeast house before going into the castle, you'll witness his death. Upon
+exiting, he'll die. . .again. o_O;. Anywyay, head back to Alekia.
+
+7. Alekia
+Level: 3
+Enemies: None
+Items: None
+
+Make your first stop the inn. Rest, and while you're at it, talk to Lufia
+upstairs. After you. . .er. . .*TRY* to make up, and you are free from the inn,
+head to the Commander. This guy is still being a jerk, and won't send any
+troops until next week! Time to take matters into your own hands yet again.
+Talk to the king, and even he won't help! Maybe the princess can convince him?
+Nope! It seems that everyone in Aleka is too lazy to do anything. Aaah, here we
+go again. . .leave town, but as you do, you'll be stopped by Lufia! Ah. . .what
+a touching moment. *wipes a tear from eye* Bah! Yeah right. At least we have a
+new party member, although Lufia is rather weak. Equip her with the Bracelet
+you found earlier, and then head back up to Sheran.
+
+8. Chatham Cave (West)
+Level: 3
+Enemies: Spider, Jellyfish, Madshroom, Big Newt
+Items: Sheran Key
+
+This time, you'll find Daril nearly dead a little ways in the cave. He'll give
+you the key to the castle and retreat, with hopes that you'll find and save
+Lilah. I'd also level up Lufia to at least 3 in here, or she's bound to get
+thrashed later.
+
+9. Sheran
+Level: 4
+Enemies: None
+Items: 100 Gold, Great Potion
+
+Alright! Now we have a key! Head up into the castle, and take the treasure as
+well as hitting the switch. Now, go to the upper left (or right) chamber on the
+roof, and walk down to the basement. A set of steps have appeared where there
+used to be nothing. You'll rescue the king, queen, as well as Lilah. What's
+funny is that they follow you around, but you don't get to fight with them :(.
+Don't forget to take the Great Potion up in the corner before you exit. Wait. .
+.something doesn't seem right here. Where are the monsters that locked up the
+king and queen? Ack! Once you exit the castle, you'll meet a familiar face. .
+.GADES! Hero tells Lufia to take the others and run, and Gades challenges you
+to a battle! Hah! It's obvious that you have to lose here, so just succumb to
+him. You'll get your head handed to you, but then Lufia shows up. She says that
+everyone made it to Alekia safely (Hah, I wish it took *US* that quick to get
+back) I guess that Gades has a soft spot or something, and leaves when Lufia
+tells him to o_O. You're automatically warped back to Alekia.
+
+10. Alekia
+Level: 4
+Enemies: None
+Items: None
+
+Roman will greet you as soon as you enter Alekia. It's very cliche, but Hero
+decides to go find out why a Sinistral was at Sheran, and then the goodbyes are
+said.  While you're here, you might as well sell your useless items and buy a
+Dagger for Lufia. Head to the castle and check the center room on the second
+floor to pick up Lilah. Now you're off to Chatham again.
+
+11. Chatham
+Level: 4
+Enemies: None
+Items: None
+
+Walk through Chatham, and Daril and Lilah will finally be reunited. Daril will
+then give you some much-needed information about where to go next. It's a port
+town south of Sheran called Treck.
+
+12. Treck
+Level: 5
+Enemies: None
+Items: Dress, Hair Band, Power Gourd, Arrows, Smoke Ball
+
+You're probably pretty beat-up from your trek to Treck, so head over to the inn
+and take a quick nap. Ah, a nice fresh new town. . .with tons of fresh new
+houses to plunder! Mwahahaha! Seriously, though, Lufia should get an award for
+having the most items you can steal from houses. Really, it's one of my
+favorite things in this game. Pick up a Robe and Long Knife for Lufia and a
+Club and Cloth Armor for Hero at the armory. Then, head down to the lower left
+side and enter a cave. Pick up two treasures in the left corner.  There's some
+crazy old guy in there that sells you HP-restoring cider. Anyway, by talking
+around town, you'll find out two important things: 1) There are no ships in
+port because they all are afraid of monster attacks, and 2) There is a guy at
+the port who used to be in the Guy Legion. Head down to the lower right part of
+the port this  time and talk to the old man. It's pretty sudden, but he then
+sends you off to the East Cave with his daughter, Aienea.
+
+13. East Cave
+Level: 5
+Enemies: Spider, Giant Bat, Nettles, Mini Crab
+Items: Cloth Shoes, Swing Wing
+
+The East cave is, obviously, east from Treck, across some bridges. Watch out
+for the grey area outside the cave, walking on it causes HP damage. Enter the
+cave, and just continue to the big doors. Watch out for the Giant Bats in this
+cave. This is why it's good to have Lufia leveled up. The bats in here can
+cause about 9-11 damage with one attack, so make sure you have a decent stock
+of potions. Aienea will open the doors, and you can continue out of the cave.
+
+14. Guy's House
+Level: 5
+Enemies: None
+Items: Short Sword, Great Potion
+
+Woah! Guy's still alive! No way! Way. And he tells you that Artea is still
+alive, too, and you need her help. Unfortunately, he buys the farm just as he
+tells you this, and you bury him. Ah well. . .time to head back and find a
+ship. After Guy's buried, check the grave for a Short Sword, and don't forget
+to take the Great Potion from Guy's drawers.
+
+15. Treck
+Level: 6
+Enemies: Demonlord
+Items: None
+
+You'll probably need to re-stock your items when you get back, so do that, and
+then head back to the port. You'll see some new interesting people there this
+time. Make sure you are healed and ready, and then talk to Aguro. He'll talk a
+bit, and then invite you to dinner! Rockin'! Well, not quite so rockin',
+because that's about the time that the demon ship arrives. Err. . crap. Boss
+time! These guys can tend to get annoying, especially when they all gang up on
+one guy. You have to constantly eye your HP gauge, and make sure you have a
+consecutive pattern of healing going. Once you kill one, it starts to go
+downhill. I usually have Hero either attack or heal, Aguro attacking, and Lufia
+bustin' a move with her Flash spell. They have about 60-70 HP each,  so it'll
+take about 4 hits on each to kill them. Another really annoying thing they do
+is "Magic Mirror", which basically bounces a spell you cast back on yourself.
+Just hope you're lucky and don't hit that one when the attack goes ^_^;. If two
+or more put one up, just forget the spell, it's safer that way. After the
+battle, Aguro is surprised by your swordsmanship, and eventually joins you in
+your quest to find a ship -_-;;. . .meaning that that whole fiasco was
+basically for nothing. *GROAN*. Ah well, since there's no ships, we're gonna
+have to get to Lorbenia the long way.
+
+16. Treck Cave
+Level: 6
+Enemies: Kobold, Bore Worm, Nettles, Giant Bat, Mini Crab, Green Orb, Goblins
+Items: Daze Ring, Potionx2, Power Potion
+
+The Treck Cave is north of Treck. Enter, and walk down the steps. Go down,
+avoiding the poisonous mud, and take the Daze Ring inside the room. Now, go up
+the next set of stairs, but instead of going left, fall down the hole. Now
+you'll see two portals. One leads to the entrance, the other to a hallway. Take
+the one above you. You'll reach a secret spring that restores your HP & MP.
+This is a great time to level up your characters, because coming up next is a
+pretty challenging boss. Anyway, when you've had enough, get out and take the
+bottom orb back to the entrance. Why!? Well, treasure, of course. This time go
+up the ladder in the right corner, and continue along the path, taking the
+treasure. Then, go back, fill up your HP & MP, and continue back to the left
+side of the hole. This time, continue left until you exit the cave. As you're
+about to board the ship, you're attacked again, this time by three goblins! I
+seriously suggest having all your characters at Level 8 by this battle, because
+these guys are even more annoying than the Demonlords. These guys do a MASSIVE
+amount of damage with each hit, around 13-16 HP per attack. When they gang up
+on someone, they can sometimes end up doing about 50 damage. Very bad. You can
+now put those Revives to work. If you need help, use a Power Guard to boost
+Hero's attack. And if you have any Mid Arrows, now is as good a time as any to
+use them. Lufia's Flash spell is still effective in this battle, but Dew is
+even better, because it attacks all of them. The worst part about these
+goblins, besides the fact that they have around 130-140 HP, is that they're
+sickeningly fast. They can kill a character by the time you have them healed
+from the last attack. You're gonna have to rely on all you have to win this
+one. If you are having *alot* of trouble, and can't even kill one, I strongly
+suggest going back into the cave and leveling up some more. After disposing of
+the Maberia's hijackers, you can go back to Treck and heal up. Talk to the
+capitan on the second floor of the pub in Treck when you're ready to go.
+
+17. Lorbenia
+Level: 9
+Enemies: None
+Items: Sweet Water, Mid Arrow
+
+Finally, finally! After the capitan lets you come aboard his ship, you can
+finally arrive in Lorbenia. Aguro leaves for his HQ, and you get to take Lufia
+shopping. Woo-hoo. Head into town, and then into the gigantic
+armor/weapons/pub/item shop. The left item shop has healing items, and the
+right has attack items like Power Gourds and Arrows. Take the Sweet Water on
+the second floor, but there's not much else but a crappy jewelry shop and a
+worthless stuffed animal shop. On the third floor, while Lufia goes crazy
+checking out dresses, some little punk tries to take your money! After that,
+don't even bother going back in the store, because the armory is on the left
+side. Buy every single thing in the armory save the Cloth Shoes. You should
+have just enough. They don't have any new weapons, so you can blow all your
+money on armor. Stay a night at the inn, and as you leave, Aguro will meet you
+and tell you that he's going to join your party for good. Running around
+outside will not make you gil very fast, so you'll have to cut it short with
+Aguro's armor, but try to at least buy him a shield. Also, if you haven't
+already, switch combat order with him and Lufia. This'll allow Lufia to take
+less damage, and Aguro to deal more.
+
+18. Grenoble
+Level: 9
+Enemies: None
+Items: Potion, Speed Potion,
+
+Grenoble is just a little ways down and left from Lorbenia. As far as the
+armories go, they have the exact same selection as Lorbenia. As usual, there is
+an old man here who knows what's what. Now, pay that jerk 50 Gold to go down
+into the basement. You'll find a treasure hunter guild of sorts. The old guy
+wants a "Fairy Kiss" before he'll tell you any more about Artea. Alright, time
+to go to the Old Cave. Before you leave, also enlist for the 500 Gold task of
+the Secret Map. Woo-hoo!
+
+19. Old Cave
+Level: 9
+Enemies: Roozard, Kobold, Giant Newt, Giant Bat, Mini Demon
+Items: Hi Magic, Potionx2, Antidote, Ex Potion, Sleep Arrow, Power Ring, Secret
+Map, Float, Tan Shield, Dragon Egg, Cloth Shoes, Dress, Hair Band, Heeled
+Shoes, Earring, Fairy Kiss
+
+Take the elevator down to the 2nd Level. There seems to be treasure EVERYWHERE
+in this place, but most of the boxes are empty. Check them all to be sure,
+though. If you head straight down, in the big pile of muck, about three steps
+below the empty chest, there is an Ex Potion hidden. Go through it quickly and
+then heal before you run into a battle. Near the door to the Secret Map, there
+is a box around the muck. Don't fall for it, none of the boxes in the cave
+contain any treasure whatsoever. Enter the door for the Power Ring and the
+Secret Map. Go back up and head left this time, then continue downwards to the
+two chests in the muck. Take them for a Tan Shield and a Dragon Egg. Go back up
+and you'll reach the room that only women can enter. Walk Lufia through,
+running from most of the battles, and then take all the treasure and leave.
+Here's the deal with Lufia's footwear. The Cloth Shoes raise her Defense by 2,
+but the Heeled shoes raise her attack by 5. I personally choose the Heeled,
+because she is usually just below a one-hit-kill attack during battles. Once
+you have the Fairy Kiss, you can head back to Grenoble.
+
+20. Grenoble
+Level: 9
+Enemies: None
+Items: None
+
+Re-stock your items and equipment, rest, and then head back to the Treasure
+Hunters' Guild. Don't forget you collect your reward for the Secret Map, and
+then get the letter from the old man. Now you're ready to enter Artea's Tower.
+
+21. Northwest Tower
+Level: 10
+Enemies: Goblin, Red Magi, Rat, Zombie, Huge Bunny, Fight, Mini Crab, Mini
+Demon, Giant Newt
+Items: Hi Potion, Hi Magic, Smoke Ball, Mind Potion, Great Potion, Power
+Potion, Spell Potion, Mid Arrowx2
+
+You may run into some Goblins on your way to the tower, but DO NOT BE ALARMED!
+These aren't the same Goblins you fought by the Treck cave! I don't know why
+Enix gave them the same name, because they are much wimpier and weaker. Anyway,
+the tower is directly up, then west across a bridge, then up some more to a
+peninsula. It looks like tower from World 6 of Super Mario Bros. 3 =). As soon
+as you enter, go to your immediate left, and enter the room. Keep going and
+take the Sonic Ring. Now, go back and take the right path, entering the room.
+Keep going right, and you'll reach two treasures. You might run into some
+strong enemies in here, such as the Red Magi or the Fight. The Magi can cast
+Dew and a nasty attack called Shock, and the Fights HP higher than the regular,
+and a pretty strong attack. For some reason, this tower is infested with all
+sorts of monsters. Make sure you have alot of potions. Head up the steps and
+take the Smoke Ball. Go left, and you'll be at a room you would be in if you
+took the left stairs. All the stairs lead to is the first floor. On your way
+in, DON'T jump out the window. All it does is take you to the entrance to the
+tower. Enter the right chamber, and go down the hallway. Take the potions in
+the two rooms, and then head back up the hallway and enter the first room on
+your left, heading to the third floor. If you're running low on items/HP here,
+you can always use Sweet Waters to keep monsters away (although you lose alot
+of EXP). Also, don't forget to use Lufia and Hero's healing spell Strong, it
+does about the same amount of healing that Potions do. (Which isn't much. . .=)
+On the third floor, enter the bottom right room for some inspirational words on
+conquering fears (???) and then some helpful potions. After that, get ready to
+head to the fourth and final floor. Head down the hallway, and enter the room.
+Make sure Hero's HP is full, and then talk to the guy. He *still* won't tell
+you anything, and he even makes you battle him! This bad boy has about 300 HP,
+and he begins by casting Fake on himself, allowing him to attack twice per
+turn. Greaaat. And you get to fight him one on one. This calls for. . .Mid
+Arrows!!! Hopefully you have at least 10. Kobolds drop them when you fight.
+Anyway, it took me six to subdue him, even when he used a Potion on himself.
+I'd do away with Potion-using for this battle and just crank out the Hi
+Potions, it's much easier that way. I only needed to use one before I killed
+him. You don't even get that much EXP from beating him. Afterwards, he'll tell
+you where Artea is, and give you a Speed Potion. Bah, he's just sorry he messed
+with you and is trying to make up. I pity da foo who challenges the Hero! Leave
+the room, and then head back around it, snag the two Mid Arrows, and hop out of
+the tower. Now, since you're alot more leveled up, I'd suggest going back to
+the Old Cave and checking out the 3rd Floor. If you don't want to, just skip
+this upcoming part.
+
+22. Old Cave
+Level: 11
+Enemies: Spike Newt, Dracu Rose, Zombie, Frog, Fight
+Items: Hi Potionx2, Bomb, Sour Cider, Escape, Revivex2, Smoke Ball, Miracle,
+Sweet Water, Hi Arrows, Float, Hi Magic, Apron, Bone Breast, Broad Sword, Brone
+Helm, Spike Shoes, Water Ring, Silver Wick
+
+Before heading back into Ye Olde Cave, you might wanna rest and re-stock at
+Grenoble. Head back to Grenoble anyway, and in the Treasure Guild, take up the
+task to get the Silver Wick for 1000 Gold. Woo-hoo! Here we go. Take the
+elevator the 3rd floor in the cave, and walk out into your new dungeon. There
+are totally new (and stronger) enemies in here, but there's also lots of
+treasure worthy of plundering. After taking the treasure in the muck, head up
+and into the room, taking treasure along the way. In the next room, the right
+puddle of muck has a Miracle hidden in it one space left and three spaces down
+from the Smoke Ball chest. Keep going, until you reach the big room with tons
+of chests. Now, the Broad Sword in here raises Hero's attack by 40, the only
+problem is that it's cursed, and takes down a bit of his HP every time he
+attacks. Me, I just equipped it on him anyway, ^_^;. You can get the curse
+lifted in Grenoble for 600 Gold. This doesn't totally do away with the curse,
+it just subtracts it to 1-3 damage per turn. But hey, it's your call, you could
+just sell it if you so wish it. Enter the last room, pick up the Silver Wick,
+and head back to Grenoble and get your prize. Now you can head south of the
+Tower.
+
+23. Warp Temple
+Level: 11
+Enemies: None
+Items: None
+
+Along the way, if you go north from the bridge, you'll see a silver temple.
+Enter, and hit the warp, and you'll be in a large closed in area with many
+sealed doors. There's your proverbial wise old guy standing in the middle, and
+for now, all he does is heal you. Cool. Just take note of this place, because
+we'll be back later.
+
+24. Kirof
+Level: 12
+Enemies: None
+Items: Plum Cider, Sweet Water, Hi Potion, Stuffed Dog, Stuffed Pig, Mid Arrow,
+Hi Arrows, Bomb
+
+Kirof is a small town south of the temple. Plunder the houses, and then go into
+the northeast house and back to the bedroom. Mark is leaving his girlfriend
+Reyna to go try and find a cure for her sickness. How sad. Anyway, check the
+two dressers for a Stuffed Dog and Pig. That's it for this petty town. The
+stupid guard up at the north cave won't let in you in yet, so head east.
+
+25. Medan
+Level: 12
+Enemies: None
+Items: Swing Wing, Escape,
+
+Head to the armory. You should have enough money to buy something for everyone.
+If you got the items from the Old Cave, you shouldn't need to buy a Wood Wrist
+for Lufia or a Wood Helm for Hero. As far as the weapons go, the Broad Sword
+kicks the crap out of the Spear they offer, so just buy one for Aguro. What's
+cool here, is that Lufia gets a Mace that raises her attack about 20. This
+town's claim to fame seems to be the Hope Ruby, so make a stop at the castle
+after you finish stocking up. The stupid old man in the northwest house won't
+move away from his left cupboard, so you can't check and see if there's
+something there :(. If anyone knows of a way to get him to move, e-mail me.
+Mark will stop you, and then you're free to enter the castle. This is a big
+castle, but there's no treasure :(. Head straight in, and then turn right and
+go down the stairs. *GASP* The Hope Ruby is a HOAX! Check out the ruby in the
+throne room, and Lufia throws a coin in. Exit, and you'll see that Mark has
+stolen it! Next stop, Kirof!
+
+26. Kirof
+Level: 12
+Enemies: None
+Items: None
+
+Upon reaching Kirof, Mark will tell you that Reyna has dissapeared! He joins
+your party, and your next destination is the cave north of Kirof.
+
+27. Kirof Cave
+Level: 12
+Enemies: Ghost Mail, Willowisp, Flamespook, Crazy Pot, Swordspook
+Items: Hi Potionx4, Escapex2, Chain Cloth, Miracle, 500 Gold, Ghost Ring,
+Monster Ring, Revivex2, Wood Shield, Hi Magicx2, Dragon Egg, Speed Potion,
+Power Potion, Spell Potion, Great Potion, Mind Potion, Smoke Ball,
+
+Man, that guard really sucks. He let Reyna walk right in! Bah. Time to be the
+heroes again. There are some really powerful enemies in here. The Willowisp is
+strong vs. physical attacks, so have Lufia cast Dew on them to kill them in one
+hit. They also have a powerful magic attack called Plasma that can deal up to
+20 damage to a character. Swordspooks randomly drop Scimitars, which are
+extremely powerful swords (even stronger than the Broadsword). The only problem
+is, if you have the Broadsword already equipped on Hero, you'll have to leave
+and go find a priest to uncurse you. I suggest doing it, though, because it'll
+save him alot of damage, plus, you can finally be rid of that wretched
+Broadsword. The Flamespooks have Spark, which attacks everyone for around 10,
+so beware. Enter the first room for an Escape. Keep going right and take the
+Chain Cloth, and go down the right ladder and enter the first room to get a
+Miracle. Keep going down, get your 500 Gold, go to not the first door but the
+second, and collect the Ghost Ring. The third room contains the Monster Ring.
+Now, go back and descend the stairs closest to the entrance. Rockin'! There's a
+much-needed HP/MP restorer down there. This is another good level-up time. Take
+the Revive. Go down the bottom stairs, taking the Wood Shield and Hi Magic.
+Take the top now, and get the Hi Magic on the other side. Top stairs, Dragon
+Egg. Now, take the bottom stairs, snag the Speed Potion, and then go through
+onto the other side, which is north on the first floor. Wheefun. Go back down
+the right ladder and enter the steps in the first chamber at the bottom. Go
+left, take the Hi Potion, then walk left and take the Hi Potion. Go up and take
+the Revive. The door leads back to the first floor, so if you want, you can
+take this chance to back and heal everyone in the HP/MP restorer. . .because it
+will be your last! Mwahahaha! Anyway. . .go as far right as you can from the
+steps, and pick up a fourth Hi Potion. Now, go back to where you first entered
+this floor, and go right this time. You'll enter a room with two sets of stairs
+in it. Take the right one and pick up a Power Potion and Spell Potion. In the
+rooms you'll get a Great Potion and Mind Potion. . .as well as find a person!
+If you heal him, he'll tell you that "Things are not what they appear to be."
+Great. I smell puzzle. Go back up and down the left stairwell to the last area.
+Head down either of the first stairs you see to get an Escape and Smoke Ball.
+Now for the last three steps. The middle on leads to a dead end. The left one
+has a bridge to the other side, but you won't be make it across because it's
+full of hidden holes. It's the same deal with the right one. What, then how do
+we get across? Remember what that guy said about things not being what they
+seem? Well, I think this was what he was talking about. Go down the middle set
+of stairs, and simply walk off the front of the platform. You'll be able to
+cross on an invisible bridge. Go to the other side, take the Revive, and walk
+to the next room. Now, before you talk to Reyna, make sure you're all healed
+and ready to go. It seems that the Phantasm beast is controlling Reyna, and
+he's pissed that you guys are messing up his plan. He attacks! I'd suggest
+being at Level 15 before this battle, because Phantasm has some nasty magic
+that he's itching to cast on your party. He can deal about 30 damage on each
+person with his Spark spells. The only thing he's really weak to is physical
+attacks. Good thing, because you should have been boosting Hero up with Great
+Potions and equipping him with the Scimitar. Have Hero and Aguro attack, use a
+Power Gourd on Hero to have him deal around 100 damage with each attack. Aguro
+will have a hard time surviving this battle, because he's horrendously slow,
+and very weak towards Phantasm's magic. By now, Lufia should have the Bang
+spell, which is a fun little spell that deals about 60 damage to all the
+enemies on the screen. It does about 45 to Phantasm, which will help keep her
+up with the rest of the party. You don't need to use it all the time,
+though--also keep her on hold for healing with Stronger. He can really piss you
+off when he casts Confuse. Not only does it work 50% of the time, but he casts
+it on every single member of your party! It usually doesn't last for long, but
+it cancels any spell they had ready to cast. He's not hard in matters of
+damage, but he just takes a while to beat. He's easy compared to the rest of
+the dungeon :). You get 800 EXP for beating him, not bad. Thankfully, you're
+automatically warped out of the dungeon and back to Kirof. Mark tells you that
+there's elves in Belgen. Well then, we're there! To enter the cave, head back
+to Medan and witness the queen telling everyone the truth about the ruby. Then
+talk to her, and she'll tell you the cave is open and you can enter. But first,
+there's an optional place to go, the mines north of Medan. If you don't want to
+go, you can skip this upcoming section, but I recommend going there.
+
+28. Medan Mine
+Level: 15
+Enemies: Swordspook, Willowisp, Ghost Mail, Flamespook, Crazy Pot
+Items: Foul Water, Sweet Water, Bomb
+
+You don't need to go here yet, but you can grab a few items. Take the Foul
+Water, and proceed down and grab the Sweet Water. Take the Bomb. This is as far
+as you go, because the old man won't let you go into his treasure room :(. Ah
+well. Now, you can exit and head east to the Belgen Cave.
+
+29. Belgen Cave
+Level: 15
+Enemies: None
+Items: Revive, Hi Potion
+
+You'll have to go across the first muck puddle you see in there to recieve a
+Revive and a Hi Potion. After that, pass the guards on the bridge and exit the
+cage.
+
+30. Belgen
+Level: 15
+Enemies: None
+Items: Hi Magic, Revive, Power Gourd, Mind Gourd
+
+Once the stupid guards let you in Belgen, go to the Armory. Buy a Brone Sword
+for Aguro and a Long Staff for Lufia. (How does a Long Staff have more attack
+power than a Mace???) Go to the end and into the cave, take the two treasures.
+Go into the back room and check the drawers, then talk with the girl at the
+top. You learn that the monsters took Jerin, and you need to go to the
+southwest cave to get the key to the dais. Whew. Confusing. Now go out and talk
+to the people in the large building (also taking treasures) to learn more about
+Jerin. It should make a little sense now.
+
+31. Southwest Cave
+Level: 15
+Enemies: Ghost Mail, Mummy, Swordspook, Poison Rat, Killer Bee, Blue Wolf,
+Beetle, Mud Man
+Items: Hi Potionx2, Smoke Ball, Float, Escape, Power Potion, Spell Potion,
+Miracle, Brone Helm, Brone Shield, Brone Armor, Hi Magic, Fly Ring, Revive,
+Dais Key
+
+There's a few choices of where to go, but for now you want to follow story. Go
+as far down as you can from Belgen, and cross the bridge and enter the cave. Go
+down the steps and check out the first room you see to get a Hi Potion. Then,
+go down into the steps closest to that room to get a Smoke Ball and a Float.
+What really sucks in here are the Poison Rats. They're not hard, but every time
+they attack you you have a chance of getting poisoned. Stock up on antidotes.
+Back on the first floor, head right from where you emerge and go down the
+steps. Go through the upper muck and take the Escape, then go around and nab
+the Power Potion and Spell Potion. In the small section of muck up there, there
+is a Miracle hidden in the corner. Now, head to the upper left room on the
+first floor, and take the steps down to the second floor. Circulate that floor,
+and then hitch a ride down to the third floor. Go right and take the Brone
+equipment, and then take the items in the left room. There is a Scimitar hidden
+in the middle right corner of the muck, which will actually make Aguro useful
+during battle =P. Head up the north stairs to score a Revive and a Fly Ring.
+Finally, go down the south stairs, and then enter the room. You'll get the Dais
+Key. w00t. But what exactly do we do with this key? Well, first we gotta get
+out of the Southwest Cave.
+
+32. Dais Cave
+Level: 16
+Enemies: Mummy, Poison Rat, Orc, Red Orb, Beetle, Mimick
+Items: Great Potion, Mind Potion, Speed Potion, Float, Revive, Hi Magic, Mind
+Gourd, Power Gourd, Spell Potion, Power Potion,
+
+Head back to Belgen, heal up and stock up, and then head west, above the
+Southwest Cave, into the Dais Cave. You can unlock the red door with the Dais
+Key, but before going in, go down and collect the Great, Mind, and Speed
+Potions. Enter the door and follow the path to the big muck puddle. There is a
+monster that lurks in here called the Mimick, when defeated, gives you 500-600
+EXP. It's not too hard to defeat, either, so watch out for it. Go up and take
+the Float. Keep going across the bridge to get a Revive and a Hi Magic. Go down
+and take the Mind and Power Gourd. Then follow the left bridge and go under the
+next bridge to recieve a Spell and Power Potion. Go back up the rope ladder,
+then cross the bridge and keep going up until you're out.
+
+33. Dais
+Level: 17
+Enemies: None
+Items: None
+
+The Dais looks like a little temple on the map. Enter, and the guys won't let
+you ascend the stairs. Go around the right side and you'll see Jerin. Check the
+left and right pots to refill your HP/MP. There's also a priest if you need to
+save. Try to leave, and a dragon will carry off Jerin. Exit, and head north
+into the Dais Tower.
+
+34. Dais Tower
+Level: 17
+Enemies: Nightmare, Red Orb, Orc, Skeleton, Archer, Straw Man, Follower
+Items: Revive, Mystery Pin, Antidote, Awaken, Hi Potion, Shriek, Stone Cure,
+Flash Ring, Miraclex2,
+
+This tower can be very annoying. There's tons of enemies here, most of which
+are very strong. The archer can do 40 damage to all your characters with its Hi
+Arrows, the Straw Men cast paralysis, adn the Skeletons and Nightmares have
+unusually high HP. It's the hardest place you've been yet, and you're bound to
+have at least one bad experience in here. The worst part is that you don't get
+more EXP, you get the same amount you'd get if you were back fighting in the
+Southwest Cave. Just rely on Lufia's Stronger spell and pray to god you don't
+die. Very frustrating. Use the portal to enter. Don't bother going into the two
+rooms, all there is is one portal between the two. Just go straight up the
+steps until you reach the Treasure Room. Take note of the light spots on the
+floor below, because those mark the holes on this floor. Take all the treasure,
+and then go back down to the first floor and enter the right room. Take the
+portal and then the steps. Now go down, enter the first room for a Flash Ring.
+The second contains nothing, and the third just contains a guy with useless
+info. Continue up the stairs until you reach a place with alot of portals. *DO
+NOT*, I repeat, *DO NOT* step in the swirly one at the top yet. That takes you
+back to the entrance, and it pissed me off when I found that out o_o;;. Go into
+the portal to the left of it to warp to a pillar. Go in the top one to go to
+another pillar. The top one of that warps you to a treasure, a Miracle. The
+bottom of the second warps you back to the first, where you can take the bottom
+of that one to go back to the floor. Now go to the far left one to get another
+Miracle. Now go to the far right portal, and you'll be on another platform. Go
+in the top one to reach the last platform. Go in the top one again, and you'll
+be on the center one. The dragon awaits. Heal, and then approach him. The
+"Follower" attacks. As far as this guy goes, he's cheese. I mean, the dungeon
+was harder than he was. He only does 30-40 damage with each attack, and his
+Frost spell is super-weak. He has a Drowsy spell, but it hardly ever works.
+What really pisses me off is when he uses Grin on Aguro, because Aguro is a
+total idiot when he's confused. He's sucessfully destroyed my whole party when
+he is confused. Sometimes if you get him low enough he'll use Stronger, which
+is a pain, but it doesn't even heal him 100 HP, which is only 2 attacks from
+me. All this guy has going for him is high HP. I had Lufia use all my Power
+Gourds on Hero, and then had him and Aguro pound the stuffing out of this guy.
+Lufia's Bang spell works on, but she is more effective by healing the others. I
+heard that he has a pretty strong Bolt spell, but I never let him live that
+long =P. You'll get more EXP than you deserve for beating him, but it's just
+payback from the underpayment you got from the past bosses. Afterwards, you'll
+take Jerin back to the town, and she'll give you a Miracle for her gratitude.
+Err. . .great. Now what? Weren't we supposed to find an elf? Oh well. Rest up,
+and head east across the bridge and up into the desert. Go right, then do a
+total loop down and east until you get to. . .
+
+35. Lost Forest Guide Station
+Level: 17
+Enemies: None
+Items: Revive, Sweet Water, Swing Wing
+
+It seems that you need a guide to get into the forest. Well, Jerin pops up to
+save the day this time, and you get her on your party. She's pretty weak, at
+Level 14, and has crappy armor. Go figure. A cool thing about Jerin, though, is
+that she can attack all the enemies in a group at once. w00t. Now that you have
+Jerin in your party, head back up and go all the way east in the desert until
+you see a little town.
+
+36. Surinagal
+Level: 17
+Enemies: None
+Items: Hi Potion, Hi Magic, Miracle,
+
+Our main priority here is to update everyone's equipment before the descent
+into the Lost Forest. What's cool here, though, is that for the first time in
+the game, you can actually buy Hi Potions at the store! Buy a few packs of ten.
+Buy two Axes for the men and two Rapiers for the women. If you have gotten
+every treasure so far, you only need Brone Armor, Brone Shield, and Tan Shoes
+for Aguro, a Brone Robe for Lufia, and a Brone Breast and a Glass Cap for
+Jerin. After you've rested and stocked up, you're done here.
+
+37. Lost Forest
+Level: 18
+Enemies: Red Orb
+Items:
+
+You're ready to enter the Lost Forest once you finish at Suringal. Head south
+into the tree. Once you're in, just follow Jerin's instructions. This is a
+pretty straightforward maze, no hard enemies or puzzles.
+
+38. House
+Level: 18
+Enemies: None
+Items: None
+
+This crazy old guy gives you free lodging! sw33t!
+
+39. Jenoba Tunnel
+Level: 18
+Enemies: None
+Items: None
+
+Just pass through this tunnel. Talk to All-Knowing Old Guy #92385214285 to
+learn some more about Elfrea.
+
+40. Jenoba
+Level: 18
+Enemies: None
+Items: Hi Arrows, Bomb, Hi Potion
+
+Jenoba is north of the tunnel's exit. Up in the far house, down the stairs in
+the pub, you're find a cideraholic grandma who will tell you how to get to
+Elfrea. Three towers, three gems. Lots of dungeon-crawling. If you were like
+me, you squandered all your money at the last town to get tons of Hi Potions.
+That's okay. . .but you should manage to scrounge up enough money to buy the
+Long Swords for the guys. I could buy everything but the Light Armor/Robes.
+Don't worry, you don't need *everything* just yet.
+
+41. Ruan
+Level: 18
+Enemies: None
+Items: Hi Potion, Revive, Sweet Water, Emerald, Small Knife, Power Potion,
+Empty Bottle
+
+It's a pretty long trek to Ruan. You need to go northeast from Jenoba, and then
+down past the marsh into the town. The jeweler has some interesting info on the
+Medan Mine, and you can take an Emerald from the cupboard. Another weird thing,
+down in the right corner, check the middles of the blooming flowers to find a
+Power Potion and Empty Bottle. That's about it for this town. Now, what? You
+don't want to go into the Red Tower yet, because there's some very scary
+enemies in there that you're not ready for. Then why did I make you walk all
+this way? Patience, grasshopper. Check Jerin's spells. . .she has one called
+"WARP". This allows you to warp to any previously visited town! First, warp to
+Grenoble, because it's that time again. . .
+
+42. Old Cave
+Level: 18
+Enemies: Orc, Red Orb, Killer Bee, Blue Wolf
+Items: Smoke Ball, Hi Potion, Magic Guard, Miracle, Light Armor, Wind Heels,
+Flame Ring, Buckler, Light Robe, Long Sword, Brone Helm, 520 Gold, Hi Magic,
+Escape, Long Nail, Float, Spell Potion, Broad Rod, Crown,
+
+In Grenoble, enlist to find the "Crown" for 2000 Gold. Then head to the Old
+Cave and go to Floor 4. Take the treasure, then go up the upper left passageway
+and into a room for a Miracle. Then, go into the chamber opposite it, for even
+more treasure. Go all the way right once you are back in the main room, and
+you'll reach a big muck puddle. There is a Spell Potion hidden on the left-most
+row, third down from the top. Take the Broad Rod and the Crown, and then head
+back. Don't forget to cash in your treasure. Afterwards, you should have enough
+to Gold to buy whatever equipment at Jenoba that you couldn't before.
+
+43. Blue Tower
+Level: 18
+Enemies: Horrorquin, Frog, Gargoyle, Dark Elf, Jellybean
+Items: Blue Ring, Magic Guard, Sweet Water, Hi Potion, Hi Magic, Revive, Green
+Jade
+
+The Blue Tower is just a stone's throw south of Jenoba. If you didn't maximize
+everyone's equipment, go run around outside and gather Gold. You'll need it.
+Now, this tower is basically. . .EASY! Yes, you heard me right. This is a very
+simple tower. The enemies are a piece of cake, and there's no complex labyrinth
+(ala Dais). Go in and head to the left room and pick up the Blue Ring.
+Hopefully you've been collecting your rings, because they start to come in
+handy here. Just pick what suits your characters best stat and elemental-wise.
+Check the right room for a Magic Guard. Head up the stairs. The room below you
+on the next floor links you between the left and right paths. There's a
+treasure in the center, but there's a large pit around it. How do we get it to
+it? Go down the left path and take the Sweet Water at the bottom. You'll notice
+that the sides of this tower are unlike any other tower you've been to. That's
+because you can fall off this one! Amazingly, you don't take any damage, but
+you still get warped back to the beginning, which sucks even more. So don't
+head to close to the edge. Don't risk going up the next left path, it just
+leads to a plaque that tells you to go to the Red Tower last. Woo-hoo. Now take
+the right path, and go up the first set of stairs to get a Hi Potion. Go all
+the way down the right path and take the last set of stairs to floor 3. The
+right stairs lead to the treasure on floor 2. The bad part is, if you get it,
+you have to go back to the first floor, so save that one for a quick exit after
+you take the orb. I'll remind you at the end. Take the Hi Magic up the left
+stairs and head to the next floor. Woo-hoo. A pedestal. That's all there is
+here. Now, go back and drop down the stairs. Take the Revive and. . .the Green
+Jade! w00tage. We're done here. . .for now. Warp back to Jenoba and heal, and
+then get ready to tackle the Green Tower.
+
+44. Green Tower
+Level: 19
+Enemies: Dark Demon, Gargoyle, Willowisp, Sand Man, Horrorquin
+Items: Green Ring, Magic Guard, Ex Potionx2, Revivex2, Hi Magic, Swing Wing
+
+The Green Tower is on a little peninsula on the south side of the Ruan Lake.
+This place is a bit harder than the Blue in terms of enemies. There are Dark
+Demons here that can cast Bolt, dealing about 80 damage to a party member.
+Ouch. For some reason, the willowisps make a reappearance here. Did someone say
+Dew? Take the Green Ring from the left room. Believe it or not, there's an INN
+in the right room, but the guy charges alot for a night. For inns, I usually
+just warp back to the first town and stay there for 10 Gold, as opposed to the
+100-200 Gold inns we see now. The middle door leads you to another hallway
+where you're faced with another decision of steps. The left stairs lead to a
+Magic Guard as well as a switch that opens a stairwell somewhere else. Click
+the switch, then go up the right stairs. You'll see another stairway to the
+left, that's the one you triggered. Go up and find an Ex Potion and a Revive,
+as well as a broken Red Sapphire that you don't take with you =(. The bottom
+steps will reward you with a Hi Magic, Revive, and Ex Potion. Take the Swing
+Wing in the corner of the room, and then go back and switch the switch up. Now
+the steps have dissapeared and there are two new ones in there place. The top
+one leads to a dumb guy who charges you 100 Gold for some information. It's
+basically this: There is an order to place the jewels in the towers, and if you
+do it wrong you're screwed. So don't waste your time and head up and see the
+pedestal. Then you're done here.
+
+45. Old Cave
+Level: 20
+Enemies: Rok, Mace Man, Gold Orc, Sting,
+Items: Smoke Ball, Luck Blade, Opal, Ex Potionx2, Kite Shield, Hi Bombx2, Hi
+Potion, Spell Potion, Revivex2, Battle Axe, Power Potion, Opal, Float, Miracle,
+Frost Ring, Golden Pawn
+
+Since you're at Level 20, it's time to head back to the Old Cave to tackle
+Level 5. Warp to Grenoble and this time, enlist to find the Golden Pawn for
+3000 Gold. Once in the cave, head down and take the Smoke Ball. The enemies in
+here are stronger than what you're used to, but they give around 400 EXP every
+battle, which makes good for leveling up :). Go into the lower room and plunder
+it. Now, the Luck Blade. This thing is cursed, but it doesn't take down his HP.
+The thing that's wrong with this baby, is that it misses 50% of the time. But,
+if you do get a successful hit, it does about 300 damage to the monsters in
+here. It ups Aguro's attack by 200. TWO HUNDRED. It's still a pretty good
+sword, although it does miss alot. But if you fight as much as I do, it's not
+really that bad compared to how much damage you usually do. Back in the main
+room, check the top corner of the lower muck puddle for another Ex Potion. On
+the other side, take the Kite Shield and head into the top room, plundering it.
+Enter the middle room, take the treasure in there, and then go back and through
+the third door. Take the BATTLE AXE, another super-powerful weapon to add to
+your collection. Go down, and then left and collect the two treasures. Go up 7
+and right 1 to take the Revive in the muck. Collect the treasures and head back
+up, into a room you were in before. Now go back into the third room and enter
+the door across the muck. This room contains the Gold Pawn, as well as the last
+of the treasure in this cave. Don't forget to cash in your treasure.
+
+46. Medan Mine
+Level: 20
+Enemies: Swordspook, Willowisp, Ghost Mail, Flamespook, Crazy Pot
+Items: Ruby, 500 Gold, Diamond Ring, Opal, Emerald
+
+Remember the jeweler in Ruan talking about the Medan Mine? Well, since we can't
+get our Ruby from the tower, this is the only other place to look. Hopefully
+you took the three items before, so I'm not going to list them here. Talk to
+the old man, and he'll give you his last ruby. Aww, how sweet. But the stupid
+old geezer leaves his treasure room door open! Ha! Go in there and take all his
+stuff to thank him for giving him your ruby! (Otherwise, you'd have to steal it
+:)
+
+47. Red Tower
+Level: 20
+Enemies: Flamefreak, Big Meany, Flamespook, Gargoyle, Horrorquin, Dark Ghost
+Items: Spell Potion, Power Potion, Hi Potionx3, Red Ring, Float, Power Gourd,
+Magic Guardx2, Hi Magic, Smoke Ball, Miracle, Dragon Egg, Blue Jade
+
+Now that you have the Ruby, you can take on the evil demon in the Red Tower.
+Warp to Ruan, rest/stock-up, and then head into the Red Tower. (If you don't
+know where it is, just stop reading this walkthrough right now, because you're
+beyond help ;) The only thing really annoying about this place are those
+accursed Flamefreaks. They're insanely fast, and cast "Flame", and attack that
+hits everyone for 30-40 damage. Get four of them on you at once, they're
+dealing you 160 damage every turn. BAD, very bad. I'd run if I got in a
+situation like that, no matter what level you are! This tower presents you with
+four rooms at the start. Head into the second, and down to a gigantic floor of
+muck. Ah well, no pain, no gain. . .walk through it and take the chests. Now,
+me, being the sushibrained person I am, searched through the whole muck looking
+for treasure X_X;. I can now tell you that there is ABSOLUTELY NONE IN THERE!
+Exit and head back to the main floor. Enter the first room and get two more
+treasures. Now you're left with two doors. Actually, not. They both lead to the
+same room. Go to the second floor, and enter the right room to get the Float.
+Go down the left path and take the Power Gourd and Magic Guard. The top stairs
+back in the hallway only lead to another plaque, reading "Blue is Blue, Green
+is Green, Red is Last." Count on Aguro to make a stupid line such as: "If red
+were blue, we'd be in big trouble!" Go down and take the Hi Magic and Hi
+Potion. Go up the stairs closest to you, and take the treasure up there. Now go
+back to the second floor, and enter the lower left room and climb the steps to
+the third floor. Go up the stairs directly above you and get another Hi Potion.
+Now go aaaaaaaall the way around the floor and head up to the fourth floor.
+Continue up to the fifth floor, where you'll see an ugly-looking spirit thing
+in front of the pedestal. This *can't* be good. Heal your guys, and then
+attempt to converse with the misplaced ghost. Well, after he curses the
+"dratted" water fairy, he attacks! Jerin was my designated healer throughout
+this battle. Aguro should be able to knock off 300 HP from it each turn if you
+have the Luck Blade (and are lucky) on him. Hero can do 100 with a Power Gourd.
+I had Lufia cast Bang and take care of other odds and ends. The only thing hard
+about him is his 50-60 HP Water spell. This is another cheese boss, those
+Flamefreaks were tougher than this guy. Send this guy back to Hell and then the
+Water Fairy will thank you. Now. . .fall out of the tower, then go back in down
+to the basement lake. The chests you took earlier have been re-filled, and the
+Blue Jade is now there. Rockin' like a hurricane. Now, get out of there like a
+hurricane and go to Ruan.
+
+48. Ruan
+Level: 21
+Enemies: None
+Items: None
+
+Everyone is happy you saved them, and the innkeeper'll let you stay for free.
+w00t. Now, you have to head back to every tower and set the jades in, making
+sure you do it in the order of Blue, Green, Red. *GROAN*. Refer back to my
+guides to those towers if you forget your way through. Use your large
+collection of Sweet Waters to keep the monsters away if you're sick of random
+battles, even though they hardly ever do a good job of it. After you put the
+red jade on, you're automatically warped to Elfrea, and my least favorite part
+of the game is finally over!
+
+49. Elfrea
+Level: 21
+Enemies: None
+Items: Mind Potion, Speed Potion, Shrine Key, Artea's Bow
+
+The weapons shop here hooks you up with some cool elven gear. (Man did that
+sound stupid. . .) Buy one Rod for Lufia and two Quilted Silks for the girls,
+but you shouldn't need to buy Tridents because of the weapons you got in the
+Old Cave. This town is small, but it's still not without treasure. Take the
+potions in Artea's house and then talk to him upstairs. He tells you tons of
+information about your journey, and then gives you the Shrine Key and a better
+weapon for Jerin. Well, here we go again. . .head to the basement and jump on
+into the portal.
+
+50. Small Shrine
+Level: 21
+Enemies: None
+Items: None
+
+The portal takes you a small shrine southwest of the Blue and Green towers.
+Jump from tunnel to tunnel until you come out on the new continent.
+
+51. Warp Shrine
+Level: 21
+Enemies: None
+Items: None
+
+The Warp Shrine is west from where you entered the continent. This takes you
+back that four-door place you were at earlier. Crazy old guy heals you again.
+
+52. Ranqs
+Level: 21
+Enemies: None
+Items: None
+
+Ranqs is a quaint town far south of where you entered this continent, across a
+few bridges, nestled between some cliffs next to a small desert. The Morning
+Stars cost a freaking FORTUNE here, so it's a good thing you don't need them.
+^_^;. Do buy a Half Mail and Iron Helm for Hero, and a Half Mail, Iron Helm,
+and Spike Shoes for Aguro. Seems like everyone here left to go work in the
+tunnel. Time for you to join them.
+
+53. Odel Tunnel
+Level: 21
+Enemies: None
+Items: None
+
+The guys at the foot of the cave say they can't get through. Enter annoying
+"Magic Wall" puzzle. From the small hallway from the front room to the room
+with the four stones, go: Up-1, Right-2, Up-1, Right-2, Up-4, Left-3, Down-1,
+Left-2, Down-1, Left-2, Up-2, Right-1, Up-1, Right-2, and then head straight up
+the steps.
+
+54. Odel
+Level: 21
+Enemies: None
+Items: Ex Potion, Ex Magic, Miracle, Great Potion, Speed Potion, Mind Potion,
+Power Potion, Spell Potion
+
+From the exit of the cave, head to your immedate southwest to reach Odel. Buy a
+Kite Shield for Aguro at the Armory. There's a weird weapon called a "Glass
+Robe" at the weapon shop. I thought it was a hidden armor for the girls, but
+it's actually a weapon. o_O Buy one for Lufia. Plunder the northwest house, and
+then head to the castle. Head to the right side and take the Great, Speed, and
+Mind Potions from the flowers. On the first floor, take the Power and Spell
+Potions, and then the two Hi Magics from the cabinents. On the second floor
+enter the throme room and talk to Piron the architect. You get to be little dog
+and fetch his friend from Lyden.
+
+55. Lyden
+Level: 22
+Enemies: None
+Items: Swing Wing, Grilled Newt, Stone Cure, Small Knife, Frypan, Chop Block,
+Miracle.
+
+Lyden is far south of Odel, down a bridge on a small island. For some reason,
+all the enemies around Lyden give around 700-800 EXP per battle, which is
+amazing. You could get a level up within 5 battles. I dunno if the game did
+this on purpose or not, but it rocks the casba. Definitely level up, then head
+to the inn and rest whenever you are low. Anyway, welcome to Cooktown, the
+place where if you are not a cook, you are not cool. Plunder the village. In
+the resturant, the guy in there is Piron's little buddy. He'll run back once
+you tell him what's going on. Don't forget to take the items in the basement of
+the Wizard of Taste's house. The item shop has some weird and extremely weak
+equipment, so just warp back to Odel when you're done.
+
+56. Odel
+Level: 22
+Enemies: None
+Items: Mind Gourd, Power Gourd
+
+Back in Odel, Piron will tell you to go check the bridge for him. Man is this
+guy lazy! Before you leave, head down in the castle courtyard and down the
+upper right steps. You'll be in Shaia Lab 2. What's Shaia Lab? We'll get to
+that later. In the cabinents you can find a Mind and Power Gourd. Now go down
+the steps. Enter the portal and then, in the four-way hallway, go west. You'll
+come out at Platina. Exit Platina and then re-enter. Now you can warp here
+later. Go back and then go north. This'll take you to the Odel Cave.
+
+57. Odel Cave
+Level: 22
+Enemies: Ice Snake, Blue Wisp, Blue Meany, Armor Lord, Crazy Jar, Ghoul,
+Mimicker
+Items: Yellow Ring, Stone Cure, Dragon Egg, Ex Potionx2, Half Mail, Glass Robe,
+Stone Cure, Quilted Silk, Miraclex2, Glass Cap, Iron Helm, Wind Shoes, Escape,
+Hi Arrows, Revivex2,
+
+Take the Yellow Ring and Stone Cure and then climb the steps. Now you're on the
+world map. Go around and below the place you entered, and then enter the
+westernmost cave. Like the Lyden area, the enemies in here give TONS of EXP,
+allowing you to have more frequent level-ups. The enemies are cheese, too,
+especially the Ice Snakes, which only have 100 HP. The Mimickers in here  give
+about 2500 EXP points per battle, though! Once I got three of them in a battle!
+EXCELLENT! Inspect the broken bridge, and then take the Dragon Egg and Ex
+Potion and leave. (Notice that when you cast Escape, it takes to the other
+three, not the entrance to the far-off fourth one :) Warp back to Odel and
+whine to Piron about it. Now use the Shaia Lab warp to get back to the caves.
+Go to the far north entrance and enter. Go down and take the Half Mail, then
+around for the Glass Robe. The Stone Cure is to the left, and the Quilted Silk
+and Miracle are far down in the left corner. There is a Glass Cap far southwest
+from the 2nd entrance, and an Iron Helm and Wind Shoes even farther than that.
+After that's done with, enter the fourth entrance and go to the bridge. Talk to
+both Piron and his assistant, to find out you have to go back all the way
+around and look over the bridge. Go there, and then watch them build the
+bridge. Now you have to go all the way back. Yay. At this point, you may want
+to head back to Odel and rest up, because Jerin's MP is bound to be hurting
+from the excessive Warping/Escaping you've been doing. Just follow the steps to
+get back to the bridge. On the north side, go right, up, and around to claim an
+Escape and Hi Arrows. Now head back down the right passage and into a lower
+level. Trudge across the muck and grab the Miracle, then continue on. After
+Lufia does her crazy spell thing and you make it through the basement level,
+you should be back on the ground floor. Take the Revive. Now go all the way
+left and down to get an Ex Potion. Take another Revive after climbing the next
+ladder. The third ladder will lead you to your exit.
+
+58. Arus
+Level: 26
+Enemies: None
+Items: Hi Magic, Mind Potion
+
+Finally, Arus! Do you even remember what our quest was? The Inn here has a
+cheap cost, so that's cool. Pilfer as usual, and you'll find out that the
+doctor is *not* in! At the large house up north, the flower in the top
+right-hand corner contains a Mind Potion. The doctor seems to be in the "Tower
+of Grief", which, yep, you guessed it, has a large labyrinth with tons of
+monsters in it. *sigh*. This is a good time for a break. . .which is just what
+I have for you! Since we just had this massive level-up through the Odel Cave,
+it's time to head back to the Old Cave!
+
+59. Old Cave
+Level: 26
+Enemies: Axe Knight, Frogula, Harpie, Trap Harp
+Items: Hi Bombx3, Gladius, Plate Cloth, Plate Mail, Power Potion, Spell Potion,
+Speed Potion, Escape, Ex Magicx2, Ex Potionx2, Miraclex2, Plate Helm, Revive,
+Hammer Rod, Power Gourdx2, Knife Shoes, Needle Heels, Mind Gourd, Blast Ring,
+Miracle Gem
+
+Enter Grenoble and enlist to find the Miracle Gem. On the 6th floor of the Old
+Cave, take the 3 Hi Bombs as you go up, and enter the first room. In the room,
+you'll find the Gladius, a new sword for Hero. AND IT'S NOT CURSED! You'll find
+some more new equipment in this room as well as  3 potions. Back in the main
+hall, proceed into the next room and take the Escape. I don't know why they
+bother awarding you with these useless items anymore. . .maybe they just need
+to add extra treasures to make you seem special. o_O. Take the Ex Magic and Ex
+Potion in the muck, but that isn't all that's there. From the right chest, two
+spaces up on the right is a Miracle. Take the treasures on the right. On the
+left, you'll find the critically-acclaimed HAMMER ROD, which is a stronger rod
+for Lufia sporting a stylish hammer on the end! Downstairs, get the Ex Magic,
+Power Gourd, Ex Potion, as well as the brilliant Knife and Needle Shoes. Be the
+talk of the town while you walk around in shoes lined with spiky, dangerous
+blades! Back on ground floor, take the Mind Gourd and proceed to the last set
+of treasures. Take the Blast Ring and Miracle Gem, and don't forget to get the
+Miracle, which is in the muck three steps below the Blast Ring. Head back to
+Grenoble and claim your prize.
+
+60. Tower of Grief
+Level: 27
+Enemies: Ghoul, Yeoman, Ice Snake, Halloween, Blue Wisp
+Items: Purple Ring, Dragon Egg, Revivex2, Stone Curex2, Ex Potion, Hi Magic,
+Miracle
+
+Now, I know that you're SO anxious to head to another dungeon, but I'd head
+back to Odel and re-stock on potions. You'll have to pass through some
+insignificant hallway of a cave to get to the Tower, and I'm not even going to
+bother to list it by itself due to it being so unneccessary. I don't know why
+Taito suddenly had the urge to add a cave there before the tower. And one
+without treasure, no less! It contains all the same enemies from the Odel Cave,
+and some stupid puddle of muck. Whoopee. Now, enter the tower of grief, which
+looks as much as a tower of grief as I look like Cindy Crawford. For those of
+you who are illiterate, (Read: stupid) that's NONE. Collect the Purple Ring
+from the right path, then enter the center room and go up the steps to recieve
+a Dragon Egg, Revive, and Stone Cure. Okay. . .is it just me, or does this
+tower seem like the farthest thing from a tower of grief? So far it's awarded
+us with some pretty good items, and I've only fought two battles! And the
+monsters aren't even hard, either. Then again, they don't give much EXP. Maybe
+the real grief is making your way through this pathetic excuse for a dungeon.
+The only other choice now is to go up the left stairs, circle the second floor,
+and enter the third. Choices, choices, choices. On the third floor, you'll be
+greeted with not one, not two, not three, but FOUR stairways. Go up the
+southwest stairways to get an Ex Potion and Hi Magic, and then the northeast
+for another Revive and Stone Cure. Now, it doesn't matter which of the
+remaining two steps you take, because they both eventually lead to the same
+hallway on the fifth floor, just north and south parts of it. On the fifth
+floor, you get a HP/MP refiller, which, you don't really need since the enemies
+here are weak. Although, if you're behind on levels, this is a good time to
+catch up. On the top floor you'll see an old man and a treasure chest. Hmmm. .
+.stylish old man. . .treasure. . .stylish old man. . .treasure. . .TREASURE!
+Take the treasure for a Miracle. Now, talk to this old man, who, unlike the
+other all-knowning old guys you've met, has a *RED* robe! w00tage!
+Unfortunately, this guy isn't Prof. Raile, but he's some guy named Flake. He
+says some magical incantations on Lufia and gives her the same effect a few
+Spell Potions would do =P. Woo-hoo. We climbed the Tower of Grief for THAT? Ah
+well. Time to return to the Shaia Lab.
+
+61. Platina
+Level: 27
+Enemies: None
+Items: Hi Magic, Ex Arrows, Gloom Arrow,
+
+Remember going to Platina earlier to get it on your warp list? Well, time to
+make use of that. This is Platina, or, Shaia Lab 1. Raile is now here. Go up
+the right stairs, and check the four unusual cabinents to get a Hi Magic, Ex
+Arrows, Gloom Arrow, and Hi Bomb. He'll take you to the basement and try out
+the Falcon, but in the end all he leaves you with is a leaky ship that can't
+travel underwater. Ah well. At least you can explore the sea. Time for Side
+Quest-o-Rama! Actually, no, there's only one thing worth doing at this point in
+the game. And the best part is, you can travel the sea safely without worries
+of monsters! Ha! Yeah right! Prepare for the ultimate, hands-down, most
+ANNOYING part of Lufia, and that is navigating the seas. You'll have to deal
+with the most active monster areas in the game, one, after another, after
+another. Bwar.
+
+62. Forfeit
+Level: 27
+Enemies: None
+Items: Hi Magic, Hi Potion, Gown, Ribbon, Mind Ring,
+
+The quickest way to get here is to warp back to Suringal and then sail a small
+bit north to the small island. Ever wonder where all your sold items go? This
+is the place! Weird, but you can buy back all the items you ever sold here. Be
+warned about the shop on the 2nd floor with the purple-and-green checked floor,
+because the girls in there will FORCE you to buy something to leave! Luckilly,
+there are items there that are 2 and 5 Gold each. *phew*. Now, exit Forfeit,
+but not all the way. Go around the building and enter the secret stairwell
+behind the place. South leads to the back of the item shop's place, giving you
+a Mind Ring. North leads to an odd place called the "House of Magic". What is
+it? No one really knows!
+
+63. Carbis
+Level: 27
+Enemies: None
+Items: Mind Potion
+
+Warp back to Platina and head west to the small island that Carbis, or Shaia
+Lab 3, is on. Grab the Mind Potion and then go down to the basement. There's a
+groovy chick to the left who cures you for free. Talk to Shaia, who wants to
+make you a little messenger dog again and go get his partner in Bakku. Here we
+go again. Head even more west to Bakku.
+
+64. Bakku
+Level: 27
+Enemies: None
+Items: Ex Magic, Revive, Ex Potion,
+
+Bakku is west of Carbis, to the left of the large forest section of the next
+continent. Enter and see. . .tons of nude women dancing! Actually, no. I just
+wanted to add the word 'nude' to this walktrhough so that people who search for
+"Cindy Crawford Nude" will find this FAQ >=). Buy a Round Shield for Hero, a
+Plate Mail, a Round Shield, and a Plate Helm for Aguro, a Round Wrist and Plate
+Cap for Lufia, and a Plate Cloth, Round Wrist, and Plate Cap for Jerin. When
+you talk to the priest, you'll find that Cooper is at the Old Cave. Great. More
+chasing. I guess this is to force people who aren't even at Level 20 to get
+there. Just follow it to the last room where you took the Gold Pawn before.
+Cooper will be in there waiting. After his escape craps out and you save his
+sorry behind, you can head back to Carbis.
+
+65. Carbis
+Level: 27
+Enemies: None
+Items: None
+
+Once Cooper is back with Raile, you'll find out that you need seven pieces of
+Allumina to fix the hole in the Falcon. There's only one guy who can do it, and
+he's far off beyond the "Tower of Light". Egad! Well, that old guy in Bakku had
+the key, right? Wrong! Upon returning, you'll find that the key *WAS* stolen,
+but a. . .*doot doot doo* SUSPICIOUS OLD MAN!
+
+66. Warp Shrine
+Level: 27
+Enemies: None
+Items: None
+
+The third warp shrine is west from the Tower of Light, which is far north from
+Bakku, at the start of a small mountain range. The same old healing guy is
+here.
+
+67. Tower of Light
+Level: 28
+Enemies: Mad Lily, Zooster, Werewolf, Axe Knight, Trap Harp, Terrorquin,
+Guardian
+Items: Hi Bomb, Ex Potionx4, Stone Curex2, Power Potion, Spell Potion,
+Revivex2, Ex Magic, Miracle, Power Gourd, Gloom Voice, Light Key
+
+As stated before, the Tower of Light is way north of Bakku, looks exactly like
+the Tower of Grief. Start off your climb by dropping down the hole in front of
+you! Take the six treasures scattered in the corners of the room, and proceed
+up the steps. You're now on the other side of the hole. At the other end of
+this hall are the doors to exit, but they're locked. Ya need the stupid key!
+Grar. Here we go. The monsters in this are a mix of the weaklings from the
+sixth level of the Old Cave and some new powerful ones. The Mad Lily can do
+some major damage, and the Terrorquin is even more annoying than its
+predecessor, and casts confuse 75% of the time instead of the former 50%. Oh
+joy. Try fighting four of them at once, and have every one of them confuse all
+your party members on the first turn. *NOT* fun, especially with Aguro's Luck
+Blade. You can rack up a good amount of EXP in here, though. Go to the second
+floor hallway with either stairway, and continue down to two doors. As is
+usually the case in this tower, the doors lead to the same room, which you can
+grab a Stone Cure and go to the third level. Go into the room above and take
+the Revive. Go down and take another Revive, then into the right room, but
+watch out! On the straight path to the right chest, there is a hole that will
+drop you back down to the first floor! Take the left path and recieve and Ex
+Magic and Ex Potion. Now, go into the left room and go up the stairs in the
+left room to get to the fourth floor. Down the hall, and you'll be at the
+choice of a room or steps. Go up the steps, and then on the fifth floor, go
+into the right room. Follow the unneccessarily long path and take the Miracle
+at the end, then go aaaaaaaaall the way back to the fifth floor. Continue up
+the right side for your fourth Ex Potion, then simply fall down a hole. Head up
+and up the sets of stairs to the sixth floor. Take the south room and follow
+the path to get the Power Gourd. Then you can climb to the seventh floor. The
+first treasure you see is surrounded by holes, except for the top, so go up
+there and get the Gloom Voice. Now head up and up to the ninth floor, where
+you'll meet the Guardian, a little cronie of the Sinistrals. Finally, a boss!
+It's been so long. Spells are practically useless in this battle, since the
+Guardian is a spellcaster himself. Yep, that's an understatement, considering
+that his Flame and Blizzard spells, (which attack all, mind you) deal around
+50-80 HP to everyone! Lufia's Water spell deals around 40 damage, which isn't
+much. Aguro can only do 200 damage in this battle! Gah! Use a Power Gourd on
+him to get him back up to his regular potential. I'd have Lufia and Jerin be
+the designated healers, (trust me, you'll need them BOTH) Lufia hopefully has
+Boost by now, and Hero and Aguro attack, as usual. Don't count on your Ex
+Arrows or Hi Bombs in this battle, either, because they do squat.  I used two
+Power Gourds on Aguro, getting him to do about 300 damage per round. Hero could
+do about 80. That's at the beginning, though. At the start of the battle, have
+Hero and Lufia consecutively use Drain for about four rounds. This'll totally
+deplete the Guardian of his defense, which will extremely up the damage you're
+doing to him. Shield can also help Aguro withstand Guardian's magic better.
+Magic Guards also help a little bit. This guy has around 2000 HP, so get ready
+for a long fight. After the battle Amos and Gades will come and beat the snot
+out of you. Take the Light Key and fall out of the tower. Then simply go back
+in and unlock that previously locked door. (Trust me, that way is faster.)
+
+68. Linze
+Level: 29
+Enemies: None
+Items: Escape, Sweet Water, Dragon Egg, Swing Wing
+
+Time to get rid of Aguro's Luck Blade. At this point in the game, the monsters
+get harder, and their agility gets so high to a point that it hardly EVER works
+anymore. Sure, the Great Axe is much less, but techinically, you'll be doing
+more damage as a whole that you would with the Luck Blade. The two Great Axes
+will cost a fortune, but it's okay, since there's nothing else in this town for
+you to buy. When you're ready, head down the stairs in the northeast house,
+until you come to a red and green path. The red path leads to three treasures.
+The green path leads to an exit.
+
+69. Allumina Cave
+Level: 29
+Enemies: Cave Rok, Mad Lily, Sabrespook, Werewolf, Werefrog, Zaurus
+Items: Stone Cure, Escapex2, Ex Potionx5, Hi Magicx2, Ex Bombx3, Revivex4,
+Alumina, Dragon Egg, Ex Magic, Magic Guard, Ex Arrows, Opal, Silver Sword,
+Power Gourd, Mind Gourd,
+
+Go down the stairs, and watch out for the floor in this place. There's random
+holes placed everywhere. The monsters in here are okay, except for the
+Werefrog, who has a freakin' powerful spell called 'Flood', and you still get
+cheated out of EXP from them. Take the Stone Cure and Escape up in the left
+corner, to get to them just walk left, up, left, up, etc. On the right there is
+a Ex Potion and Hi Magic. Just head straight right from the steps. There are
+two on the bottom. Walk downwards, paralell with the left one to make it to the
+Ex Bomb and Revive. Now, walk left. You'll fall down a hole, but, you'll have
+access to a stairway that will give you the Alumina! Heh. Cool, eh? Take the
+three treasures on the second floor, then go back up. There is an Ex Potion and
+Ex Bomb left in the bottom left corner, take those by clinging to the right
+side, and then heading left, parallel with the boxes. Now that you've plundered
+the two floors, head down the ladder on the entry floor. It's under the upper
+right pair of treasures. Then you'll see three doors. Go in the left room and
+get the Revive. Head in the right one and take the Ex Magic and Ex Potion. Now
+go up past the three rooms and into the room at the top. Come out the other
+side to take the two treasures. Now all you have left is the middle room, which
+doesn't contain steps or a portal at all! It has a switch. Push it down, but
+nothing seems to happen. Well, now the portal in the left room warps you to an
+entirely different place. Take the Ex Potion and head down the next set of
+stairs. Now you're on the lower level of the second floor. Check the upper
+chest for some Ex Arrows, and then continue right. Go up and take another
+Revive. Cotinue around to the top right room, and follow the hallway that leads
+to the bottom part of the cavern. Take the Opal, and then continue into the
+lower room, taking the Ex Potion, which'll warp you to a small plateau and
+gives you the Silver Sword, a new weapon for Hero. Now, you can go back to the
+steps that were south of the hallway and proceed to the third floor. Go down
+the small ladders, taking the Power Gourd and Mind Gourd on your way, then go
+down the big long ladder. Take the Revive, and then walk across the bridge and
+into the bottom room. There's no treasure, but there is a HP-restorer. After
+that, exit and head up the thin hallway. You'll find not Brant, but Clack, the
+researcher of Doom Island. Ask him about everything, and then you can leave.
+
+70. Old Cave
+Level: 31
+Enemies: Griffon, Mega Frog, Mad Wolf, Megaturtle, Rock Golem, Hydra
+Items: Sweet Water, Gloom Pick, Ex Potionx3, Gloom Voice, Ex Magicx2, Power
+Potionx2, Spell Potionx2, Buster Sword, Crown Jewels, Miraclex4, Hi Magic,
+Float, Great Potion, Wind Flute, Clear Silk, Mind Potion, Escape
+
+Here it is! The last time in the Old Cave! Warp back to Grenoble and take up
+the task of finding the Crown Jewels. 10,000 Gold! Yee-haw! Now *that*'s a
+task. Go down to the 7th level, and take the Sweet Water. The enemies here are
+great! I fought two Griffons and got 3000 EXP! You'll be leveling up with ease
+in here. The only problem is, some of these enemies are really nasty. The Mega
+Frogs have the Champion spell, which they use quite often to heal themselves
+back to full. The Megaturtles have a pretty high defense, and a sickeningly
+strong attack. This was the only place I ever died in the game, and it was
+against four of those cursed Megaturtles. Go into the muck and grab the Gloom
+Pick. On the right side, snag the Ex Potion and go into the room. In the next
+cavern, there is a Gloom Voice hidden on the right side of the highest row in
+the muck. Down the steps, take the Ex Magic and head up. Continuing on the
+upper path, take the Power and Spell Potions. Go up the steps and grab the
+Buster Sword, an awesome sword for Hero. Go in the room and take the Crown
+Jewels and two Miracles, but you're in no way done in this cave! Go back down
+into the underground passage, and take the lower hallway and take the Hi Magic.
+Go down and up the steps, and you'll be back at the room you started in. Now
+head up the ladder. Get the Ex Potion and Float, and then go through the door.
+Take the Great Potion to your left. Take another Spell and Power Potion below,
+and then go down the ladder. Take the Ex Magic, and then go across the muck and
+recieve the Miracle, then go down the steps. On the lower level, take the Ex
+Potion and continue on. On the left, take the treasure and enter the room for
+the Wind Flute, a myster-ious item. Up the hallway, take the Clear Silk, and
+then climb the ladder to get a Miracle. Down the steps, take the Mind Potion on
+the bottom right and continue along, nabbing the Escape. This will loop you
+back around to where you began, so you're finally done! Sorry for putting you
+in such a hard dungeon so early, but I think it's best to get the Old Cave with
+done early, so that you don't have to interrupt important quests later to come
+back here and clear up loose ends. Plus, getting all the chests early is an
+important thing, as you will see later. Don't forget to head back to Grenoble
+to cash in your last prize.
+
+71. Marse Cave
+Level: 32
+Enemies: Green Magi, Red Wolf, Troll, Demon Mace, Manticore
+Items: Power Potion
+
+Well, it seems that Brant's in Marse. You have to sail to Marse, right? Well,
+you can, but there's a much better (as well as treasure-filled) way to get
+there, and that's through the cave northeast of the Tower of Light. So, warp
+back to Linze, go back across the ToL, and then swing into the cave. At this
+point in the game, I ceased with the purchasing of Hi Potions. Lufia had more
+MP than she did HP, and Hero and Jerin also had Stronger, so I didn't really
+feel a need for them anymore, because I always finished a dungeon and went back
+and rested before I ever ran out of MP or MP-replenishing items. You'll also
+notice that the enemies in here are a big change from those on the seventh
+level of the Old Cave! Hehe! For some reason, the Trolls in here, to me, look
+like Freddy Krueger. Eh, maybe I've just seen one too many horror movies.
+Anyway, there is a Power Potion to the right of the north hallway. That's how
+short this cave is.
+
+72. Marse
+Level: 32
+Enemies: None
+Items: None
+
+Marse is on the northern tip of the new continent. This place is cool, you
+navigate through it by little underwater tunnels. Neato. Anyway, if you talk to
+the girl in the church, you'll find that Brant is at Loire Island! Argh! Just
+missed him. Buy the girls each a Silver Rod. Buy a Silver Armor, Silver Plate,
+and Silver Helm for Hero, a Silver Armor, Silver Plate, and Silver Helm for
+Aguro, a Silver Wrist for Lufia, and a Silver Robe and Silver Wrist for Jerin.
+Phew. I'm sure that put a hole in your wallet, even with the 10,000 bonus from
+the Crown Jewels. Anyway, in the north house, there is a fun little 'cruise'
+thing going on. Go on it, it shows you all of the Fargo Islands. Great. . .now
+where were we supposed to go? Oh yeah! Loire Island.
+
+73. Loire Cave
+Level: 32
+Enemies: Troll, Redcore, Zaurus, Demon Mace, Werefrog, Blue Skull, Vampire,
+Manticore
+Items: Miraclex2, Hi Magicx2, Mach Ring, Revivex4, Gloom Arrowx3, Power
+Potionx2, Mind Potion, Great Potion, Ex Potionx2, Hi Bombx3, Aluminax2, Foul
+Water, 1000 Gold, Spell Potion, Escape, Ex Magicx2, Float, Sweet Water
+
+For some reason, your ship doesn't appear in front of Marse like it does
+everywhere else. Ah well. Warp to Bakku, and take it from there. Sail north,
+north, WAY north. Fight tons of monsters. Man, I don't know why they put
+monsters on the sea. It's not like we're going to freaking Ithaca or anything,
+it's supposed to be a better way than traveling on land. Geez. Anyway, once you
+pass through a little mountain river, you'll be almost there. When you get to
+Loire Island, park your ship next to the big one and enter the cave. You have
+another EXP-healthy enemy here called the Redcore, but if you thought the
+Mimickers fleed alot, just take a look at these guys. They have alot of HP, and
+are very quick to run away. It becomes potentially annoying when you have about
+four other enemies in the battle with them, while they're hacking away at you,
+while you're trying to land a hit on the little bugger. Still, there's a big
+payoff if you can kill one of them. Unfortunately, the ever-annoying Werefrogs
+inhabit this cave, so make sure you have access to healing resources, whatever
+yours may be. Once in the cave, go way right and take the Miracle. Go down the
+ladder and take the Hi Magic. Now on the lower level, go around and back up
+onto a plateau to claim the Mach Ring. Let me explain something about rings,
+since you've been getting so many of them lately. Rings are GOOD. In Lufia,
+rings play a vital role in how your characters do in combat. Usually, I equip a
+ring that gives Hero more attack and defense power, since he's pretty much
+all-around good in all his stats. I give Aguro something that ups his Defense,
+more importantly, his pathetically low Magic Resistance. Lufia usually takes
+the ring that ups her defense and Magic Power, and then Jerin just gets the
+leftovers ^_^;. Try out different combinations that suit you better! Climb down
+from the plateau, and go left to get a Revive. Head down the upper ladder to
+get to the lowest level, and go right and take the Gloom Arrow. Go left and
+then in a little corner to get a Power Potion. Now go down and up the ladder,
+and back left to be back at the beginning. I know it seems like I'm leading you
+on a haphazard search, but it's just easier to clear out that side, that way
+you can go straight to the next level from here. Down on the lower level, there
+is a Mind Potion three steps into the center of the small muck puddle. Take the
+Great Potion above it. Climb up the ladder onto the plateau and take the Ex
+Potion. Go across the bridge and left and get another Revive and another Power
+Potion. Go up the ladder on the right, but don't go down the steps just yet. Go
+right and down to get a Hi Bomb. In the upper room you'll find a piece of
+Alumina. Now you have two choices. You can go down the high steps or the low
+steps under the bridge. I went down the high steps, because I like doing stuff
+in systematic order =P. On the first plateau is a Foul Water. To the left is a
+Gloom Arrow. In the lower right there is another freakin' Power Potion! I don't
+know why they are giving you so many of these. I used them all on Aguro, since
+he usually takes the most damage. Go down across the big bridge and take the
+Miracle. I have 25 Miracles at this point! Go right across the small bridge and
+take the four treasures there. The steps lead downwards to the lower level. Go
+all the way left and into the room to get an Ex Potion. Take this opportunity
+to walk around to the back of the cavern and grab the Hi and Ex Magics stashed
+back there. Then, head down on the right side, taking the Hi Bomb. Go to the
+center of the cavern, and take the Revive before heading in the center room.
+The hallway leads you to another little hallway. Now you'll have a treasure in
+front of you. DON'T approach it head-on just yet. Go around and get it from the
+left side. Around, as in walk waaay around it. Then, after you get the Hi Bomb,
+just walk up and fall down the hole down to the third floor. Now MAKE SURE YOU
+DON'T TALK TO THAT GUY UNTIL YOU'RE READY! It's not a battle, it's something
+even worse. There is an Ex Magic five steps up from the Float to the left.
+Then, go into the room and take your final treasure, a fourth Revive. Now you
+can talk to the guy, who is in fact Brant. What's stupid here, is that it
+automatically warps you out when you talk to him! >.< Imagine how pissed I was
+to miss the treasure in the room, and then even more pissed to find out it was
+only a stupid Revive when I went all the way back down the cave. Brant gives
+you a piece of Alumina and then leaves. Phew. Time to head to Elba Island.
+
+74. Ullup Cave
+Level: 35
+Enemies: Red Wolf, Zaurus, Mud Ghoul, Nail Man, Green Magi, Werefrog, Redcore,
+Eye Curse
+Items: Dragon Egg, Speed Potion, Ex Potion, HiPower Ring
+
+Before heading to Ullup Island, you might wanna go back to Marse and rest.
+Ullup Cave is the red and purple cave on the island south of Loire. The
+teleporter next to you leads to Elba. . .we'll go there later. This place is
+basically the same as Loire, except much smaller. Head down and grab the Dragon
+Egg. You'll come across a switch that opens a door above you. w00t. Continuing
+on, there is a Speed and Ex Potion up in the right corner of the left end. Now
+head up, and in the north center you'll get the HiPower Ring, an upgrade for
+the Power Ring, which I had equipped on Hero. Rock, this'll push his power a
+bit over 400. That'll complete your first circuit of Ullup Cave, and you can
+head into the portal.
+
+75. Elba Cave
+Level: 35
+Enemies: Nail Man, Vampire, Cave Rok, Blue Skull, Mud Ghoul, Sabrespook
+Items: Mind Potionx2, Smoke Ball, Hi Daze Ring, Spell Potionx2, Ex Potionx2,
+Miracle, Ex Magic, Hi Bomb, Alumina, Silver Rod, Silver Armor
+
+Now you'll be in a rather drab-colored cave, which is Elba cave. The door to
+your left leads to a Mind Potion. Continuing down, you'll gain a Smoke Ball and
+a Hi Daze Ring before hitting a new level with new rooms. This ring strongly
+ups defense and magic resistance. Hmmm. . .did someone say Aguro? The first
+door on the left will award you with a Spell Potion. The door on the right
+gives you access to another door switch, as well as an Ex Potion. Continue out
+the left side, then enter the third left door. This lets you walk through the
+lower level. Take the Miracle and Ex Magic, then pass under the bridge to get a
+Hi Bomb. The door on the far right sends you through a portal and gives you
+another piece of Alumina. Exit back to the main cave, and head down the left
+ladder and take the Mind Potion. In the next room, there is a crazy guy running
+an inn! Take advantage of it if you really need it. Back outside, take the
+Silver Rod. Inside the room before the long latter, you'll get an Ex Potion and
+a set of Silver Armor. Now, the switch here changes the direction of the portal
+up the ladder. Urk? Well, what should we do first? Hit the switch. At the top
+of the ladder, take the Spell Potion. The portal will take you back to Ullup
+Cave.
+
+76. Ullup Cave
+Level: 36
+Enemies: Red Wolf, Zaurus, Mud Ghoul, Nail Man, Green Magi, Werefrog, Redcore,
+Eye Curse
+Items: Ex Potion, Aluminax2, Silver Wrist, Silver Plate, Miracle
+
+There are only a few items on the middle level of Ullup Cave, an Ex Potion on
+the far right, and a piece of Alumina inside the door that you opened earlier.
+Once you clean that level, go back and flick the switch in Elba Cave, and head
+to the top layer. On top, take the Silver Wrist, another piece of Alumina in
+the top right corner, and then the Silver Plate and a Miracle on the bottom.
+Alright! You're done! Warp out. Ok. . .you have six pieces of Alumina. .
+.weren't you supposed to have seven? Warp back to Marse and ask Brant. He'll
+tell you that King Herat has been hoarding the stuff lately. We're there!
+
+77. Herat
+Level: 37
+Enemies: None
+Items: Rod, Apron, Plum Cider, Hi Potion, Great Potion, Mind Potion, Ex Bomb,
+Power Potion,
+
+There's a small river that runs through the large continent Marse is on. Brant
+says it's 'up' the river, but it's actually 'down' it. At the end, actually,
+surrounded by mountains. There's a tiny cave in here, it's actually the armor
+shop. Buy a Carbo Plate and a Tower Shield for Hero, a Carbo Plate, Tower
+Shield, and Knife Shoes for Aguro, a Sakret for Lufia, and then a Clear Silk,
+Silver Wrist, Sakret, and Needle Heels for Jerin. Also, don't forget to pick up
+a Buster Sword for Aguro at the weapons shop. There is a Great Potion and Mind
+Potion, probably the only two worthy items in this place, hidden behind the
+shop's back wall in the flowers. Conversing with the people in the town, you'll
+find that the king is a lover of food, but he's wanted a new recipe. There was
+also a cook from Lyden here, but he went back. There's also a guy in the
+basement who tells you about the Dragon, finally clearing up the questions
+about the Dragon Eggs! There's three sets of these suckers, and you can't get
+the second or third until you turn in the first. The shrine is on the western
+side of the continent, but you don't need to go there until much later? Why?
+Well, when you turn in the eight eggs, the Dragon sends them back out along in
+tons of treasure boxes you've already gotten. Some of the treasure boxes that
+the second eggs are going into you haven't even got to yet, and contain some
+good items. So, patience, grasshopper. You shall get your reward soon enough!
+Enter straight into the castle and go up to the second floor, where you can
+grab an Ex Bomb in the upper left room. There's a Power Potion in the old man's
+room on the third floor. There's not much else going on here, though. The king
+says he'd give his jewels for some great food. Well, I hope he's talking about
+the jewels in his basement. . .o_O. Errr, I mean the basement of the castle,
+geez, that sounded even worse. You know what I mean. Now, I'm sure it's obvious
+that you need to head to Lyden.
+
+78. Lyden
+Level: 37
+Enemies: None
+Items: None
+
+Head to the basement of the cook's house here. The Wizard of Taste has
+returned, and it seems as if he has the answer to your problems. . .almost. The
+last ingredient he needs for his concoction is the purple newt. Man, the stuff
+we do for some people. . .
+
+79. Herat Cave
+Level: 37
+Enemies: Manticore, Basilisk, Salamander, Troll, Lizard, Demon Mace
+Items: Revivex2, Chain Mail, Miraclex2, Great Potion, Swing Wing, Ex Potion, Hi
+Bomb, Gloom Arrow, Engage Ring, Stone Cure, Grilled Newtx3, Stun Arrow, Power
+Gourd, Purple Newt, Magic Flavor
+
+The Herat cave is waaay out of the way. First, sail the ship up out of the
+mountain valley, and then go left, around, and down a desert. Cross a bridge
+down, and then hook up and cross a bridge up. The cave is hidden in the top
+left corner of the small section you're on now. Geez. This cave has all sorts
+of nasty little creatures in it, but none of them are too hard. What's bad, is
+that they cast alot of status-altering magic, such as stone and poison. Jerin
+has magic to aid that, but should she get turned to stone, you're stuck. I'd
+suggest having at least five Stone Cures just in case. Step in, and take the
+Revive. Head down and across the bridge and claim the Chain Mail. It's crappy
+armor, I have no idea what it's doing in this cave. Now go halfway back up the
+path and then turn right, and go down the ladder. Continue left, under the
+bridge, and then into the room and take the Great Potion and Miracle. Go back
+out, and then go down the left ladder and take the Swing Wing, Ex Potion, and
+Hi Bomb. Now, go back to where you began, and head right. Take the Gloom Arrow
+and go down the ladder.  Now, the first long corridor seems to end at stones.
+But, there has to be light coming in from a crack somewhere, since the tile is
+lighter than the others. Walk up to it, and you'll find a hidden room where you
+recieve the Engage Ring, which you can sell for a large amount of cash. Go into
+the next room and hit the switch, which redirects a portal which was otherise
+useless below. Go all the way down, head right, go up, take the Stun Arrow. Go
+all the way left to get a Stone Cure. The bottom row in the muck contains three
+Grilled Newts and then a Miracle. Enter the left room and go up the stairs to
+get a Revive. Now, remember that room up at the top of the cave? The right door
+is linked with that through a portal. Wow! I don't think there could be
+anything more useless than that. Luckilly, since we hit the switch, we
+redirected it. Jump in the portal, and take the Power Gourd and. . .Purple
+Newt! I guess the Wizard of Taste just wasn't a good treasure hunter like us
+=). Warp back to Lyden, get the Magic Flavor from the Wizard o' Taste, and then
+warp back to Herat.
+
+80. Herat
+Level: 38
+Enemies: None
+Items: Gloom Voice, Ex Potion, Plum Cider, Royal Statue, Fry Pan, Pot,
+Miraclex2, Carbo Sword, Silver Plate, Tower Shield, Carbo Helm, Mach Heels,
+Alumina
+
+Give the Magic Flavor not to the king, but to the cook on the second floor. Now
+talk to the king, and he gives you the OK to take his jewels. HA! SUCKER! We're
+gonna take more than his jewels! (Too bad we can't steal his flags. . .) The
+only really useful items in here, besides the Alumina, is the Carbo Helm and
+the Carbo Sword, a better weapon for Hero. Once you're done ripping the king
+off, you can warp back to Carbis.
+
+81. Carbis
+Level: 38
+Enemies: None
+Items: None
+
+It seems that Raine went AWOL again, this time to a tower full of pirates! Take
+this oppurtunity to heal up downstairs, and then warp back to Marse and get on
+your ship.
+
+82. Aisen Tower
+Level: 38
+Enemies: Dark Spook, Vampire, Berserker, Fire Plate, Blue Skull, Steel Lord,
+Pirate, Pirates, Bosun
+Items: Sour Cider, 750 Gold, Hi Potion, Power Gourd, Speed Potion, Hi Bomb,
+Revive, Big Arrow, Ex Potion, Swing Wing, Smoke Ball, Silver Tarot, Pirate Key,
+Heavy Ring
+
+Sail north of Marse and then west of Elba Island to finally reach Aisen Island,
+a desert island. The monsters in here are pretty much the same as usual, except
+for the Fire Plate. These guys drop, rarely, but they do drop Might Armor,
+which is the best armor Aguro and Hero can ever have. In addition to that, the
+Steel Lords randomly drop a Grand Blade, a better sword. Inside the tower, take
+the Sour Cider in front of you. Go into the left room, take the gold, and then
+continue on. Take the Hi Potion and proceed through the door in front of you.
+On the second floor, head through the left door, take the Power Gourd, and go
+up to the third floor. Raile is up there, caught, and he tells you that there
+is a four-switch puzzle you need to solve to proceed, and that he is pretty
+sure the upper left is the first. Ok then. Take the Speed Potion and Hi Bomb in
+the rooms next to him. Below is another Revive. Now go back and then down the
+right hallway. Take the Big Arrow and Ex Potion in the small rooms on the side
+of this new hallway. In the center, head up to the next floor. Go up to get a
+Swing Wing and a Smoke Ball. On the fifth floor is the switch puzzle. If you
+mess up, you have to fight really annoying pirates, which I won't cover, since
+you shouldn't have to fight them. Why not? Because I'm telling you the answer
+right here! It's 1) Upper Left, 2) Lower Right, 3) Lower Left, 4) Upper Right.
+Then hit the top switch, and the doors should open. Inside are the pirates.
+These guys are almost as sad as their speech impediment. I took out the Bosun
+in the first three rounds, dealing a combined 500-some damage to him each turn
+from Hero, Lufia, and Aguro, since he's horribly weak against physical attacks.
+The Pirates is (or are, if you think about it, but it only looks like a single
+guy) very weak versus magic, and while he has some strong items like Ex Bombs
+and can cast a sleeping spell once every two blue moons, he's not much to worry
+about either. He casts a Stun spell on himself, but sadly, that still doesn't
+make him strong enough to pose a real threat. Just have Lufia use Blast and
+Jerin occasionally heal, and you'll have these guys done in no time. No one
+died in this battle, and Hero was even asleep for a few rounds of it. Lou,
+Raile's son, is up there, and he joins you. Take the two items and then go back
+and free Raile, don't talk to him yet, and take the Heavy Ring. It's your
+choice whether you want to equip this. It ups your attack by 40, except it
+makes you sinfully slow. (Hence the name 'Heavy'. . .) Go talk to Raile ater
+you take the ring, and father and son will have a little reunion. Aww, how
+sweet. Now where's our freakin' submarine!?
+
+83. Carbis
+Level: 40
+Enemies: None
+Items: None
+
+Now that you have the seven pieces of Alumina as well as Raile properly
+secured, you can get the Falcon, and go to Doom Island, right? Well, we'll see.
+. .warp back to Shaia Lab 3, heal in the basement, and then watch Raile and
+Cooper tinker around with the Falcon. It's done! Now we can go to Doom Island!
+Head up north to the Ring Island, where Doom Island supposedly sunk.
+
+84. Soshette
+Level: 40
+Enemies: None
+Items: Miracle, Straw Doll, Gloom Arrow
+
+Soshette is a small island on the north tip of Ring Island. They have a pretty
+good armory, though. For weapons, hook the girls up with Catwhips. Buy a Carbo
+Shield for Hero, a Carbo Shield and Carbo Helm for Aguro, and two Carbo Caps
+for the girls. There is a cave in this town that has a few good items in it.
+The inn, which sports tons of shelves, doesn't even have one! =( You probably
+have tons of Gold by now, so if you're really paranoid, you can buy some Hi
+Potions.
+
+85. Underwater Cave
+Level: 40
+Enemies: Fire Plate, Steel Lord, Evil Clam, Magura, Sea Snake
+Items: Empty Bottle, Miraclex2, Hi Potionx3, Magic Guard, Opal, Hi Magic, Foul
+Water, Gloom Arrow, Zircon Wrist, 800 Gold, Potion, Mystery Pin, Ex Potion,
+Spell Potion, Arrows, Power Potion
+
+There are three portals around Ring Island, a north, a south, and an east, but
+they all lead to the same place, the Underwater Cave, just different sides of
+the beginning room. This looks like you're still on the world map, but you're
+in a dungeon filled with monsters and treasure. I really hate the Magura
+monsters in here. They have about 270 HP, and they deal around 100 damage every
+time they attack. Very annoying. The Fire Plates also inhabit this place, so if
+you didn't get a chance to snag the Might Armor back at the Aisen Tower, you
+might wanna do so now. Enter the south portal, unless you're closer to another,
+then just move down to the south. There's two large cave openings in front of
+you, but don't go in either of them yet. There are three pathways on the
+outside, that lead to mazes inside, and come out at three exits that open to
+the Fortress of Doom. Go around and start at the top cave. Go down the nifty
+waterway, and take the Empty Bottle before jumping in the portal. On the right,
+go along the super-long waterway and take the Miracle at the end. Head down,
+and take the long waterway that rides you to the end. Don't jump in the portal,
+but go back and get the Hi Potion. Take the waterway directly next to that, and
+then head down and collect the Magic Guard. Now, head back to the portal that
+was on your right. Don't go along the waterway from the beginning, head down
+and get to it from the downwards way, allowing you access to the Opal on your
+way. In this next hallway, don't be tempted to use the waterway, because you'll
+miss out on the Miracle and Hi Potion in the side-room. At the end of the
+hallway jump into the portal. You'll now be in the bottom right cave passage.
+w00t. Head right, up, and take the Hi Magic. Take the waterway to the left, and
+you'll come out on the south side of the center rock structure. Keep right a
+bit, and you'll get a Foul Water and a Gloom Arrow. Now, go back to where you
+came in, and head all the way left you can, not taking the waterway, and
+recieve the Zircon Wrist, armor exclusively for Jerin. Jump on the waterway to
+get to the other side. Before jumping in the portal, head up, on the left side
+of the top waterway, to get 800 Gold. Coming out from the portal, you'll see a
+looming castle in front of you *Dun dun dun*. . .before entering, though, it's
+best to clean out the left passage. Enter it, and go down to get a Potion. Head
+down and left to get a Mystery Pin. Go right, and then up and down the waterway
+to get an Ex and Spell Potion. Hop on the lower waterway, and then continue
+down and go back to where you see two downwards waterways going left and right.
+Head right and take the Arrows. Keep going (the waterway only leads to a dead
+end) to reach a Power Potion. Down the left hallway, using the waterway, you'll
+find a Hi Potion. Now you can exit this cave through the north portal, and
+enter the FORTRESS OF DOOM! *Dun dun dun*
+
+86. Fortress of Doom
+Level: 42
+Enemies: Mega Frog, Megaturtle, Griffon, Mad Wolf
+Items: Dual Blade
+
+Hmmmm. . .look familiar? You shouldn't be hurting too much from the Underwater
+Cave, even if you are out of Hi Potions, you have a stock of Stronger spells
+left. Our friends from the seventh level of the Old Cave make an appeareance
+here, but you should be able to handle them now. Grrr! I don't like this
+castle, for the sole fact that ALL THE TREASURE CHESTS IN THIS PLACE ARE EMPTY!
+This place is worthless, the Fortress o' Doom was never very doom-esque or
+challenging. Head up to the second floor, then go around the balcony and head
+straight down and up to the throne room. The Dual Blade is lying right where
+the ancient battle with the Sinistrals took place. Upon picking it up, a cinema
+scene will occur, and you'll result back in Soshette. Gack! Lufia's a
+Sinistral?! Crazy. And now the Fortress of Doom is airborne. Greaaat. Looks
+like our plans just got screwed. Time to go whine to Raine!
+
+87. Carbis
+Level: 42
+Enemies: None
+Items: None
+
+Upon returning, Raile will tell you that you need Power Oil, a rare and
+dangerous substance that you can buy in Epro. He says he's heading to Shaia Lab
+4. . .which is south. It's not really just south. It's FAR, FAR south. It's so
+far south that the first time I went there, I was beginning to think I had
+missed it, and then I saw it, way down there. Don't bother exploring the town,
+we can save that for later, simply pop in and pop out so that Jerin can add it
+to her warp list. Now, warp to Marse and set sail for Epro.
+
+88. Epro
+Level: 42
+Enemies: None
+Items: Ex Magic, Ex Bomb
+
+Epro is on a medium-sized continent a little bit north of Marse. The armor shop
+says they sell the latest things. Actually, the don't, and they are the
+crappiest armor shop I have ever laid eyes on. Well, maybe I am being a bit too
+harsh. They have good shoes, so pick up two Sword Shoes and Cat Heels. The
+weapon shop is just as bad, selling the cream of the crap such as the "Carbo
+Sword" and "Catwhip". Feh. What a waste of sprites. Head up to the item shop in
+the northeast to find out information about "Hedge", who was looking for Power
+Oil. Alrighty then.
+
+89. Underwater Tunnel
+Level: 43
+Enemies: Fire Plate, Hydra, Magura, Manta Ray, Sea Dragon
+Items: Oil Key, Ex Bomb, Ex Potion, Power Potion, Big Arrow, Mystery Pin,
+Miracle, Hi Magic, Power Gourd, Magic Guard, Grand Sword
+
+Hedge is north, but you have to go northwest to get to him, and then head right
+into a little valley and speak to him. He'll hand you the Oil Key. Talk to him
+again and he'll actually tell you something useful. Now, go back to Epro, hop
+on your ship, and sail up east until you enter the mountain-surrounded lagoon.
+There is a little strait up north that will take you to a whirlpool. What is up
+with all these underwater levels?! I just don't like them. First of all, you
+have to fight crappy sea creatures, second of all, it just sucks! =P. Upon
+entering, you'll see a cave entrance opposite you. Go around and enter it. Head
+all the way left, across the waterways, and enter the cave for Ex Bomb and Ex
+Potion. Go back the beginning now. Head up the right part and get a Power
+Potion and Big Arrow. Head up the left side and take the Mystery Pin. Go into
+the north room to get a Miracle. Head down, using the waterway, and then grab
+the Hi Magic and get out of there, and head back to the left passageway. Go
+across the left waterway, take the Power Gourd. Unfortunately, you have to go
+all the way back and around to get the Magic Guard. Head up, take the
+ever-useless Grand Sword, and then jump in the portal. Just head left and into
+the next portal to be back above water.
+
+90. Epro Cave
+Level: 44
+Enemies: Efreet, Rock Golem, Mad Knight, Mad Wolf, Hydra, Oil Dragon
+Items: 850 Gold, Dragon Arrow, Hi Bomb, Dragon Toothx3, Big Arrow, Miraclex2,
+Hi Magicx3, Dragon Ring, Hi Potion, Swing Wing, Ex Bomb, Great Potion, Power
+Oil
+
+Unlock the door with the Oil Key, and then proceed in, taking the 850 Gold.
+Take the Dragon Arrow in the next room, and then loop around and through the
+muck to get the Hi Bomb. The enemies in this cave are reminiscent of the
+enemies from the beginning. What really pisses me off is the abundance of Rock
+Golems in here, who with their skill 'Stone Arm' (which they use quite often)
+can automatically turn your characters to stone. And, did I mention that only
+Hero and Aguro can do sufficient damage to them? Bah. The Mad Knights also make
+me, well, mad. They have well over 400 HP, yet they all use boost on each
+other. It's not hard, just freakin' annoying! It should be a rule that basic
+enemies are NOT ALOUD TO CURE. Bahx2. Head down the ladder, take the Dragon
+Tooth, then head down the next ladder, and go all the way right. Take the Big
+Arrow, and then head up the ladder to get a Miracle. Down the last right
+ladder, there is a Hi Magic hidden in the second row of muck from the right,
+two steps down. Take the Dragon Ring, and then go down the ladder on the other
+side to get to the second floor. Go forward, and down the ladder. North is a
+Dragon Tooth. Continue under the bridge, and go up for a Hi Potion.  Head
+straight down, and below is a Swing Wing. Now, don't go down the steps. Go back
+up to where you began. Go along the path, go across the bridge, and continue
+right to get an Ex Bomb. Go down, take the Hi Magic, and then head down the
+stairs. On the second floor, head straight down the ladder, and around you'll
+get a Miracle. Head right and then go around and down the ladder to get a third
+Dragon Tooth. Now head down the right ladder, and go right to get a third Hi
+Magic. On your way, you'll see a freakin' huge dragon! Crap. Go down the north
+ladder, take the Great Potion, heal your characters' HP and MP, and then
+'inspect' the dragon. Gwah! Boss! This dragon seems to be the strong silent
+type, and immediantly attacks you! The dragon only has one major attack, and
+it's a weak spell called 'fire air'. Have Hero and Aguro attack as usual, have
+Lufia use her newfound 'Sunder' spell, which takes a big chunk off of the
+dragon's HP, and have Jerin use Glacier, occasionally using Boost to heal. Doot
+doot doo. . .whoah, this guy's starting to get hard! When you start to be
+dwindling down his HP, he'll use Dash, which takes down about 120-140 from a
+single character, and an upgraded Fire Air, which does around 90-140 damage to
+everyone. He also has a nasty habit of using Magic Mirror, especially right
+after you cast Sunder on him ~_~. Yee-ikes. Time to devote Jerin to full-time
+healing. This battle totally wiped away my stash of Revives =(. I usually had
+Lufia and Jerin scrambling to heal everyone while Hero and Aguro attacked
+(Depending if they were alive. . o_o;) After the battle, you can take the Power
+Oil and escape. Warp to Frederia.
+
+91. Frederia
+Level: 45
+Enemies: None
+Items: Grilled Newt, Miracle, Revive, Stone Cure
+
+There's Grilled Newt in the flower bed on the left, and a Miracle in the right
+one. Ok, so I was wrong. The Epro armory wasn't the worst ever. THIS ONE IS.
+They have *nothing* new to offer you at all. Pathetic. Head up to the northeast
+house, Shaia Lab 4, and then enter the basement. Check for a much-need Revive,
+and then a Stone Cure in the cabinents. Talk to Raile, and you'll get your
+final fixin's on the ship. YES! Now, you can finally travel the world map
+WITHOUT BEING ATTACKED BY MONSTERS! The gods have shined upon thee! Time to go
+to Doom Island! Errr. . .not. Unfortunately, it then moves, and positions
+itself in an unreachable spot high above Glasadar Tower. Gwar. Using your
+newfound FLYING ABILITY, you can now sail towards Epro, and then even farther
+north across the continent, and then east to find an unaccessable Glasadar
+Tower, and then Arubus on a little island connected by bridges.
+
+92. Arubus
+Level: 45
+Enemies: None
+Items: Spell Potion, Pear Cider, Plum Cider
+
+w00t, you've made it to the last town in the game, fully equipped with a good
+weapons/armor shop, as well as your all-knowing old man. At the weapons shop,
+buy a Zircon Axe for Aguro and Zircon Rod for Jerin. Now. . .onto the armor
+shop! This place has a full set of Zircon armors just awaiting your every
+desire! Muwahahahaha! Buy two Zircon Armors, a Zircon Robe, two Zircon Plates,
+two Zircon Helms, and then a Zircon Beret. Wah! Why can't Lufia use any of the
+armor here? Ehh. . .she's not 133+ enough. Let's just say that for now. After
+you're done buffing up, go talk to the guy near the left cave. He wants some
+apple cider from the crazy old man in the basement. Alrighty then, if you say
+so. Proceed down to the basement. There's a crazy old LADY here who tells you
+"only the smart ones get this far". Wow, don't *you* feel special. Especially
+since you're using this walkthrough. . .=P. In the back room, the old man tells
+you about his great 'plum cider'. Errr. . .what he sells you instead is Apple
+Cider. Right. The crazy old men of Lufia never cease to amaze me. Now feed the
+guy his god-forsaken apple cider. (Or is it plum? Who knows. . .) He'll tell
+you the whereabouts of the key, which you could have figured out on your own
+anyway!
+
+93. Dragon Shrine
+Level: 45
+Enemies: Assorted
+Items: Might Bow, Dragon Eggx8
+
+Before heading into the Arubus cave, there's a side-quest you can take part in.
+Since you finished the Oil cave, which had the last 2nd chest in it, you can
+head back to the dragon shrine west of Herat. Go up to the dragon and cash in
+the set of Dragon Eggs you've found so far. MAKE SURE YOU'VE COMPLETED PAST THE
+OIL CAVE BEFORE DOING SO. Now, the Dragon will send them all out again, in
+different treasure boxes this time. We'll now collect them, but don't cash them
+in yet, because two of the third set of eggs go into the Glasadar Cave and
+Glasadar Tower. So, when you cash in the first set, what exactly should you
+get? Your first choice is 2 levels for everyone. That is kinda worthless,
+because you gain about 2 levels everytime you complete a dungeon. Pretty
+worthless. The second is three of each '~ Potion'. What he means by that are
+the Great Potions, Power Potions, etc. While that may sound enticing, it's not
+worth passing up the next two choices, Might Bows and Might Armors, items you
+can't find anywhere else in the game. The first time, I took a Might Bow for
+Jerin. While it's ten points weaker than the Zircon Rod, it allows Jerin to
+attack all enemies, which outdoes the Zircon Rod's coolness factor. Now it's
+time to go find the eight eggs again. Your first stop is Alekia. The Dragon Egg
+there is in the 'secret' treasure room on the first floor, in the chest where
+the Revive was. If you need extra help any time, just refer back to the section
+that details the town/dungeon. Next, warp to Belgen. The egg there is in the
+back cave. Alright. Now it gets tedious. Fly to the Northwest Tower, the tower
+by Grenoble and the Old Cave. The Dragon Egg is on the top floor, behind the
+man's room in a group of two chests. Talk about annoying. Now, head to the
+Southwest Cave, the cave southwest of Belgen. The Dragon Egg is down the middle
+staircase of the first room, and then up in a group of two chests, thankfully
+early in the dungeon. The fifth Dragon Egg is in the Marse Cave's only treasure
+chest. (Remember that cave south of Linze, with only a Power Potion in it?) The
+sixth egg is in Elba Cave, down all the ladders in the lowest left corner.
+Bwar. The seventh egg of the 2nd set is by far the most annoying, it being
+buried beneath the sea in the Underwater Cave by Soshette. It's near the north
+exit of the left cave, by the pair of boxes the Ex Potion and Spell Potion were
+in. The last egg is in the Epro Cave. It's on the second floor, where you got
+the Ex Bomb. Alright. You have the 2nd set of Dragon Eggs. But keep them. There
+are still unopened chests that the 3rd set appears in. Patience comes to those
+who wait. . .
+
+94. Arubus Cave
+Level: 45
+Enemies: Rock Golem, Gorgon, Mad Knight, Efreet, Barient, Hydra, Zaurus Rex
+Items: Hi Potion, Hi Bomb, Gloom Arrow, Smoke Ball, Magic Guard, Mystery Pin,
+Great Potion, Zircon Sword, White Ring, Mind Potion, Miraclex3, Spell Potion,
+Gloom Guard, Power Potion, Glasadar Key
+
+Gah. Another worthless cave. Don't worry, we are coming to the end of these.
+Arubus Cave is the northernmost cave on the continent. Ultimate irritation.
+That is all I can say to describe this cave. If you thought the Epro Cave was
+bad, honey, you ain't seen nothing yet. This cave not only harbors Rock Golems,
+but Gorgons, monsters even WORSE (and in more abundance) than the golems. With
+their skill Iron Air, which they use over 75% of the time, they can easily turn
+your characters to stone. And they are FRIGGIN' FAST. I suggest bringing a
+large pack of Stone Cures with you. The Barients in here randomly drop Might
+Helmets, the ultimate helmets for your warriors. Enter the cave, and follow
+along, taking the Hi Potion, and go back up to the first level. Head down the
+right ladder, and take the Hi Bomb over to the left. Go straight down, take the
+Gloom Arrow, and then down to the right corner for a Smoke Ball. In the lower
+right corner is a Magic Guard. Continue up and up the right ladder, take the
+Mystery Pin directly below you, and then head all the way north to get a Great
+Potion. All the way south is a Zircon Sword. A bit in the middle, you'll find a
+door, containing a White Ring. Now you're done with the first floor, so go back
+and then go down the steps. On the second floor, enter the right room and take
+the portal at the end to get a Mind Potion. In the left room, follow the
+ladders and take the Miracle. There's another Miracle on the lower left side,
+and a third on the lower lower left side. Hit the switch down. Go back to the
+right door, and then jump into the portal. You'll know be on the small island
+in the little lake. Take the Spell Potion and head down to the third floor,
+where you'll get the final three treasures in this cave. The Glasadar Key does
+two things, one being unlocking the Glasadar Tower, and the other unlocks the
+fourth warp shrine, which creates a full curcuit from the Tower of Grief to
+Alekia. I don't know why they gave you access to this so late in the game,
+because it's pretty much worthless. But that top door of the shrine still won't
+open. Is there a way to open it? That remains a mystery, even to me.
+
+95. Glasadar Cave
+Level: 48
+Enemies: Humungus, Mad Knight, Efreet, Zaurus Rex, Barient, Gorgon, Dragon, Mad
+Cleric, Red Skull, Gloom
+Items: Ex Bombx2, Ex Arrowsx2, Power Potion, Black Ring, Antidote, Smoke Ball,
+Hi Potion, Sonic Heels, Hi Magic, Stone Cure, Great Potion, Miraclex4, Gloom
+Arrow, Mind Gourd, Dragon Arrow, Ex Potion, Big Arrow,
+
+Warp out, heal/stock up at Arubus, and now head to the south cave, which shall
+lead you to the Glasadar Tower, and hopefully to Doom Island. This dungeon is
+pretty easy. Descend the ladders, grabbing the Ex Bomb and Arrows. There is a
+Power Potion in the second row of the muck from the left, two steps down. Enter
+the left room and take the Black Ring. The lower right room contains HP/MP
+restorers. Enter the right room and head to the second floor. Head all the way
+left and take the Antidote. Go up the long ladder and take the Smoke Ball. The
+left room contains a Hi Potion. In the right room, take the Sonic Heels,
+continue on, take the Hi Magic in the center room, and then exit back to the
+second floor. Go up in the right corner and take the Stone Cure. Now, head to
+the really high ladder to the left of the place you came out of. Head up, and
+then into the room to the right to get a Great Potion. Back out, keep right,
+taking the Miracle and Gloom Arrow. On the left side, take the Mind Gourd and
+Dragon Arrow. Climb up to the right room, and go to the back of the room. (Take
+either door, it doesn't make a difference.) You'll find an Ex Potion and Big
+Arrow waiting for you. Exit out, and head up the left ladder to get a second Ex
+Bomb. Bypass the next door for now, and continue all the way right to get a
+second set of Ex Arrows. Climb up the ladder and enter the final room. In the
+muck, there is a Miracle in between the two pillars, one step into the muck.
+The other two chests contain two more Miracles. Now, head back into that room
+we skipped a bit earlier, use your Glasadar Key on the door, and then proceed
+through the portal and out of the cave.
+
+96. Glasadar Tower
+Level: 50
+Enemies: Dragon, Wing Lion, Gloom, Mad Cleric, Red Skull, Humungus, Firewave,
+Waterspout, Whirlwind, Electromaz
+Items: Hi Potion, Ex Bombx2, Big Arrow, Ex Arrows, Power Gourd, Mind Gourd,
+Revivex2, Gloom Arrow, Gloom Ring, Miraclex7, Antidote, Stun Arrow, Power
+Potion, Great Potion, Speed Potion, Mind Potion, Spell Potion
+
+Glasadar Tower. Alright. Now we're one step closer to Doom Island. Let's hope
+we can nab the Sinistrals this time. You shouldn't really be hurting from the
+Glasadar Cave, as it was pretty short. If your magic is low, use Hi/Ex Magics
+to refill it so that you can cure yourselves once more. Gwar. The Glooms in
+here are much more active than they were in the Glasadar Cave. They use a spell
+called "Succumb", which is basically Death with a flashy name. It seems to
+always hit Lufia and Jerin, and our Revive stock is already running low, so I
+wouldn't advise to take on these guys in large numbers. Inside the tower, the
+rooms on the left and right contain a Hi Potion and Ex Bomb. Proceed to the
+second floor. Enter the center room and take the Big Arrow, then head up to the
+hallway. Go right, and into the first room. Head down and right to get Ex
+Arrows. Go down, and up to the third floor. Cool layout of the tower, eh? Very
+space-age. Head left and get the Hi Magic. Right is a Power Gourd and Mind
+Gourd. Now, head up and into the hallway. Head right, and then in the next
+room, head right and down to get a Revive. In the lower left corner is a room,
+head up to get to the fourth floor. Continue through the small room, and take
+the Ex Bomb. Head down and out, and then take the Gloom Arrow. Keep going down,
+eventually to the end, where you'll recieve a Gloom Ring and a Miracle. Now go
+back to the main room on the fourth floor, and enter the upper right room to
+get to the fourth floor hallway. Keep going into the next room, and then head
+down, take the Antidote, and then continue up to the fifth floor. Go straight
+up into the fifth floor hallway, and then you'll be faced with two rooms to
+enter. Hop in the portal in the right one, giving you access to handy-dandy
+HP/MP restorers. The left room contains a stairway to the sixth floor. Up on
+the sixth floor are four switches. The switch alone turn the three back to
+normal. The three switches determine where the portal leads to. Here are the
+combinations that lead somewhere worth going to.
+Right: Stun Arrow. You'll have to drop down from here and go back through the
+castle, though. . .so unless you really want it, it's not that worth it.
+None: Miracle. As the Stun Arrow, you'll have to drop down and go all the way
+back through the castle. At this point in the game I had over 50 Miracles, so I
+didn't feel the need to get this one and go through such a pain as walking back
+through the castle.
+Middle-Right: Miracle. After taking it, leave the room, but DON'T drop in the
+hole yet. Go through the room and you'll come across a secret room filled with
+treasure! Drop down the hole, then make your way back up to the sixth floor.
+Now *THAT* was worth it.
+Middle: Seventh Floor. Continue through the hallways, (don't fall in the hole.
+. .) and make your way to the seventh floor, where you will encounter Nazeby,
+the Sinistral who just wasn't good enough. Why didn't he become a Sinistral?
+Well, fight him and find out. His 'special magic attack', Spark, does friggin'
+30 damage to each character. Have Lufia use Thunder if needed. In fact, all his
+magic basically does nil. The only remotely dangerous attack he uses is Mace,
+which is doom with a crappier name. Oh no! I only have three Revives! Have no
+fear. Mace hardly ever works. Pshaw. Besides, even if you do run out of
+Revives, do you know what Miracles do? They revive your characters to full HP/.
+Rockin' like a hurricane. Nazeby *rarely*, and I mean *rarely* uses Sunder, but
+if he does, just use your Revives. Magic attacks don't do much against him, but
+physical attacks sure do! Use your hard-earned Power Gourds to boost up Hero to
+an unblockable powerhouse. Near the end, you'll know you'll be whittling down
+his HP, because he'll start to use Vulcan, which brings down 70-100 HP. You'll
+have to commit the girls to healing then, but not for long, because you should
+have this Dark-Servant-Meets-Zorak dead in no time. Afterwards, you'll be
+treated to a very long cinema scene involving Lufia and her connections with
+the Sinistrals. Eventually, she's gone with the Dual Blade, and you're left
+with three characters. Weird enough, you can't warp out of Glasadar Tower, so
+simply drop down to the bottom.
+
+97. Dragon Shrine
+Level: 50
+Enemies: Assorted
+Items: Dragon Eggx8, Might Shieldx2
+
+Now that you've completed Glasadar Tower, you can head back here and finish the
+Dragon Eggs sidequest. Now, turn in your 2nd set of eggs, and take a Might
+Armor. The third and final set will now be sent out. The first egg is in Sheran
+Castle, in the chest in the throne room. The second egg is in the East Cave, by
+Guy's House, east of Treck. The third egg is down in the 7th floor of the Old
+Cave. Head up the first ladder, go all the way north in the next room, up the
+steps, and then up and around and down. Not too hard to find. (Shyeah right.)
+The next Dragon Egg is a bit easier, in the Wizard of Cookery's basement in
+Lyden. The fifth egg is in the Herat Cave, in the chest where the Stun Arrow
+was on the first floor. Arubus Cave houses the sixth egg. It's in the portal on
+the second floor (make sure the switch is in the 'up' position.) The seventh
+egg is in Glasadar Cave, on the left side of the plateaus on the second floor.
+But don't stop there, because what sucks is that you must journey through the
+Glasadar Cave to get the eighth egg, which lies in the hidden treasure room of
+Glasadar Tower. Once you have all three of these, take them back to the Dragon
+to get your well-deserved second Might Shield. What is crazy, is after you
+'give' the eggs to the dragon and it flies away, there are still eight eggs in
+your inventory! Wacky.
+
+98. Warp Shrine
+Level: 50
+Enemies: None
+Items: None
+
+So where to now? Lufia is MIA, the Dual Blade is in pieces, and Doom Island has
+fled the scene. It looks like we're back to square one, minus a character and
+catastrophic weapon. Not quite. It seems that Mt. Doom has positioned itself
+above the Tower of Grief. Warp to Arus, and then fly a bit north of the ToG,
+and you'll see Mt. Doom. Land on the island, and then continue upwards until
+you're in the Warp Shrine! Hey! Finally. The doors are all opened. The crazy
+warp guy heals you for free, as well as lets you save. Now, when you're ready,
+open the doors in front of you. First some notes: You shouldn't need to 'stock
+up', with all the material you already have. I had over 40 Ex Magics, 50
+Miracles, so I was set. Equip the Zircon Sword you found in the Epro Cave on
+Hero. If you sold it, warp to Forfeit and buy it back. Up to here, I had a full
+set of Might equipment. I had the Might Armor, which Flame Plates drop, Might
+Shields from the Dragon, and then Might Helmets that Bariuses drop. It's very
+helpful equipment. I was also way past Level 50. It's not necessary, but it
+helps so that all your characters have all of their magic mastered for the
+final battle. Finally, when you're ready, head through the final door. You have
+to climb up the mountain, but simply head straight until you see. . .
+
+99. Fortress of Doom
+Level: 50
+Enemies: Whirlwind, Mega Atlas, Fire Wave, Waterspout, Gold Golem, Electromaz,
+Act Hydra, Act Dragon, Gades, Amon, Daos, Guard Daos
+Items: Power Potionx2, Mind Potion, Great Potion, Speed Potion, Spell Potionx2,
+Miraclex5
+
+This is it, baby! The big showdown. Man, how long have we waited for this
+moment! Time to restore peace to the world. . .and all that good stuff. I just
+want treasure! This castle is basically identical to the first one. In fact,
+the treasure is still in tact. Take the Power Potion, then make a circuit of
+the basement, coming back up on the right side. Head up to reach the second
+floor. Check the right room for a Power Potion. Go around, take the Spell
+Potion in the room on the other side, and then ascend to the third floor. There
+are two Miracles at the back of the third floor. The steps on the third floor
+lead to an HP/MP restorer, although it's pretty worthless. Head up to the
+fourth floor, where there are three Miracles placed around the edges. On the
+fifth floor, heal, and then examine the Dual Blade. After a short cinema scene,
+Molo regains the Dual Blade. Make last minute modifications, and then proceed
+to enter combat with Gades! Gades is pure brute strength. . .at its worst. When
+my friend watched me beat these guys, here was his comment: "Man, these guys
+are the Sinistrals? They should be called the PATHETICstrals!" I slapped him
+for making such a crappy joke. But, seriously now--a crappy joke is what Gades
+does. He casts "Destroy", which does around 200-300 damage, but only to one
+character at a time, and since Jerin's spells are basically worthless in this
+battle, have her constantly cast Boost, Champion, or Valor. Things start to get
+crazy when Gades uses "Undead", which strongly boosts his ATP. Still not much
+to worry about. And he doesn't even have too high HP. They let you heal in
+between battles, making this end even MORE easy than it already is. The next
+enemy you fight, of course, is Amos. Amos casts Dread alot, but since he hardly
+ever uses physical attacks, I don't see the real significance of it. He casts
+Sunder, which is okay, dealing around 100 damage. . .but he still isn't a real
+big step up from Gades. Jerin's Vulcan spell does pretty good damage to Amos in
+this battle, so have her use that and heal time to time. Amos can muck you up a
+bit with Chaos, which can confuse all your characters, especially when Hero and
+Aguro start dueling. Try to steer clear of that, I didn't have a real problem
+avoiding it. Amos, like Gades, has really low HP, so it should be a moderately
+quick battle. Afterwards, you skip Erim and go straight to Mr. Big, Daos. I'll
+give one thing to him -- he has decently powerful magic. He throws stuff like
+Flood and Vulcan at you that deals around 100 HP damage. An annoyance he does
+is 'Amnesia', which constantly paralyzes your characters, and can sometimes put
+you in tough situations. But, as the saying goes: "If you've seen one
+Sinistral, you've seen them all!" Daos has strong magic, but never uses it to
+his advantage. Bah. Destroy him and let's be done with it! Afterwards, the four
+Sinistrals try to fuse together to make a Super Sinistral, but Lufia ducks out
+just in time, and they are left with a retarded deformed waste called "Guard
+Daos", a name that totally reflects this final battle. Actually, this guy is
+challenging. He can confuse all your characters in a round, and has the
+strongest magic attacks in the game. What's cool here, is that Lufia joins you
+for the final fiasco. Her Thunder attack can rock Daos's socks and then some.
+But seriously, though, that's how totally crappy Guard Daos is. He has to use
+your own characters against you to actually have a chance of winning, so his
+favorite attack is the confusion one. Greaaat. Guard Daos has a TON of HP, so
+prepared for a lengthy battle. After beating, you get a bittersweet ending that
+I won't spoil for you, a ending truly fitting for this interesting little game.
+A good play, eh? Definitely up there in the library of SNES classics. I'd like
+to thank Taito for making a great game, SNES9X for making a great emulator,
+Mike Fuller for reminding me I had this game on my hard drive, and then Red Hot
+Chili Peppers, Alice in Chains, Black Label Society, Nirvana, The Cure, A
+Perfect Circle, Stone Temple Pilots, Pearl Jam, A Perfect Circle, Radiohead,
+Garbage, Foo Fighters, Green Day, The Offspring, Union Underground, Rob Zombie,
+Rancid, and Sheryl Crow for making rockin' music for me to listen to while I
+waste my life playing games on my computer =P. Hope you had fun. Wait through
+the credits at the end of the game to get your Player Stats. See if you can
+beat mine!
+
+Play Time: 22:19
+Dead Count: 0
+Hero Dead Count: 14
+Lufia Dead Count: 9
+Aguro Dead Count: 13
+Jerin Dead Count: 14
+Rest Count: 55
+Battle Count: 1141
+Runaway Count: 72
+Boss Lose Count: 0
+Opened Box: 655/655
+Got Item: 136/136
+
+Copyright Molokidan 2001. Copryight Notices: You're free to use this on any
+website, as long as no text is omitted from the document, and proper credit is
+given. Also, a nice thing to do would be to send me a little e-mail so that I
+could see my FAQ on the site =).

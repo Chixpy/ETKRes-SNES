@@ -1,0 +1,3673 @@
+********************************************************************************
+********************************************************************************
+**                                                                            **
+**                                                                            **
+**                                                                            **
+**                     B R E A T H  O F  F I R E  I I I                       **
+**                                                                            **
+**                                                                            **
+**                                                                            **
+********************************************************************************
+********************************************************************************
+
+Breath Of Fire III - Walktrough With Ultimate Playing Hints
+Version 2.000
+Done By: Tricrokra    (Tricrokra@hotmail.com)
+
+Data of Breath Of Fire III version I played.
+System: PlayStation
+Region: PAL (Europe)
+
+Legal Notics.
+You're free to download and copy this FAQ to anyone you know as long as it's
+unprofitable and this FAQ is unmodified.
+When uploading this FAQ to please let me know. In most cases it won't be a
+problem if you do.
+(C) Copyright JBC-Soft, Jeroen Broks (Tricrorka), 2001, All rights reserved
+
+Updates
+1.000 06-13-2001 This whole FAQ
+1.001 06-14-2001 Revision on Berserker, added faerie guide, added masters
+                 Bais, Wynn, Lee and Lang and added hidden weapon powers
+1.002 06-15-2001 Added Gene guide and added secret dragons Trygon and
+                 Wildfire (which I forgot first, oops)
+1.010 06-17-2001 Added Toxic Man. Exact route for Workbot and Ryu's mind has
+                 been added. Added statistics changes for masters. Black Ship
+                 bonusses added. Inn prices added
+2.000 09-19-2001 Total FAQ revision
+
+Tricrokra's
+
+**** BREATH OF FIRE III WALKTROUGH AND PLAYING HINTS ****
+
+NOTE!!!
+Not only the file tells you how to solve all the puzzles. It also tells you
+the ULTIMATE strategy you should use. And before you think that I'm bluffing...
+I think after playing this game for over 50 times or maybe even much more times
+from the beginning till the end may have provided me a very good look at the
+situation. I've even managed to defeat the final boss without using the
+powerfull dragon skills for example.
+
+NOTE!!
+I played the PAL version since I am from Europe. I suppose this file will also
+work of the NTSC version. I only heard that a few names are diffrent.
+
+NOTE!!!
+North in BOF3 is the upper left corner of the screen!!!!
+
+NOTE!!
+Maybe some parts need a revision. Be sure you got the latest version
+of this FAQ. You can always find it on http://www.geocities.com/tric_faq
+
+NOTE!!
+If you want to print this FAQ, DON'T EVER USE WORD or WORDPAD!!!
+The FAQ will fuck up, trust me... The best way to do it is to use
+the DOS prompt and type: COPY FAQ.TXT PRN (this is when you saved this
+FAQ as FAQ.TXT). You can use the CD command to get into the right
+directory (oh microsoft wants me to call it a folder. Don't count on
+that Bill).
+
+*** Index ***
+- The Hero's
+- Walktrough
+- Masters
+- Gene guide
+- Secret Dragon Forms
+- Hybrids
+- Fearie guide
+- Hidden powers from weapons
+- Secret treasures on black ship
+- Inn prices
+- Where to catch the best fish?
+- Manillo list
+
+*** HERO'S ***
+
+Ryu (No matter which name you give him. I'll just call him Ryu)
+Description:      The Hero
+Place of joining: Dauna Mines
+Advantage:        Ryu is a powerfull healer and assistor.
+                  Not only that. Ryu also takes advantage in his skill to
+                  transform into a dragon.
+Disadvantage:     Using dragon skills blocks your healing magic and cost AP
+                  each turn.
+Starting level:   1
+Remark:           During the game you have to choose 3 party members out of 6
+                  to take with you. You are always obligated to take Ryu with
+                  you
+Action:           Cut*
+
+Teepo
+Discription:	Friend of Rei's who feels a strange connection with Ryu
+Place of joining: McNeil village
+Advantage:	      Powerfull fighter and good attacking magic
+Disadvantage:	No really annoying disadvantages
+Starting level:   1
+Remark:           Will leave the party forever very early in the game
+Action:	      Kick*
+
+Rei
+Discription:	Thief who finds Ryu somewhere in the forest
+Place of joining: McNeil Villlage
+Advantage:        Very fast and much later in the game he'll turn out to be a
+                  powerfull weretiger
+Disadvantage:	Rather weak and in weretiger form he's out of control.
+                  You can control his movements (in weretiger form) with the
+Starting level:   5, after coming back he starts at level 20
+                  "influence" ability wich can be learned by examaning
+                  "Boss Goblins" (Pink ones)
+Remark:           Rei will leave together with Teepo, but will come back much
+                  later in the game
+Action:           Pick Locks
+
+Nina
+Description:	Princess of Wyndia.
+Place of joining: Dungeon under Castle Wyndia
+Advantage:        Powerfull attacking magic
+Disadvantage:	Very weak
+Starting level:   5
+Action:           Enchant*
+
+Momo
+Description:	Scatterbrained engineer
+Place of joining: Strange tower
+Advantage:        Healer and assistor. Can take over the healing when Ryu is
+                  in dragon form
+Disadvantage:	Her bazooka is a very strong weapon but it misses easily.
+                  Momo is the one with the lowest accuracy. And also not very
+                  high defense.
+Starting level:   10
+Remark:           Momo will live longer when placing her under master Fahl
+Action:           Shoot*
+
+Peco
+Description:	Mutant onion
+Place of joining: Dump
+Advantage:        None (His low level is nice to use for masters)
+Disadvantage:	Weak weak weak. Attacking sucks. Defending sucks. No really
+                  handy spells. He's just worthless.
+Starting level:   1
+Action:           Kick*
+
+Garr
+Description:     Guardian. Winner of contest of champions. He knows something
+                 about the dragons.
+Place of joining:Maekyss Gorge
+Advantage:       Strong.
+Disadvantage:    Strong but not as strong as he appears to be. And Garr's magic
+                 is too weak to use.
+Starting level:  13
+Action:          Push
+
+
+(Actions marked with "*" are accesible by using the action button. /_\ =
+default).
+
+===========
+Walktrough:
+===========
+About the markings:
+## Means it's not nescesarily required to get further, but it could be
+## a hint for ULTIMATE gameplay
+
+$$$$ Marks Boss enemies
+
+**** Marks samples (near the end of the game)
+
+
+Here goes:
+
+## First thing of all.... My advise is to keep always the armor and shields
+## with the highest defense, no matter how much they slow you down.
+## "Be slow or be dead" is the motto of this game. I say it here and I won't
+## say again all the time.
+## Same goes for using the "Camp" feature any time you need a rest. Just
+## do it when you feel the need. When somebody's max hitpoints have dropped
+## you'll need an inn to heal that back.
+## I'll give you my party + the respective levels in that party.
+## The levels are not recommended levels, just mine.
+## If you are not really experienced in playing RPG games it may be
+## recommended to use higher levels than I. Since I consider myself
+## a pro when it comes to BOF3, I'm willing to take risks, and I know
+## what will come. See?
+
+**** Dauna Mines I ****
+Gary and Mogu let a crystal explode and a dragon comes out of it. This dragon
+is YOU (Ryu). Out of fear Gary and Mogu will try to fight. Whelp breath solves
+the problem. This goes for all the miners who'll try to attack you.
+In the end you'll meet a strong fella. Use dragon breath and the engineer will
+use his crane to knock you out.
+
+**** Rei and Teepo ****
+You'll be transported in a train. Giggle the controller until you fall off.
+Rei will find you in the forest and take you home. When you wake up Rei and
+Teepo are gone. You can use the diary here to save. Search all the closets in
+this house. They contain some items. Leave the house and find your way out of
+the forest. Go to McNeil Village. Rei and Teepo are trying to break in a house
+but they are kicked out. Follow them and talk to Teepo. You'll get some
+equipment now. Leave this place.
+
+### Okay... Now head for a battlefield. That are spots on the worldmap where an
+### exclamation mark will appear above Ryu's head. Now train here with the
+### enemies here. Recommended is to try to get level 5 with Ryu. When you're
+### getting out of AP leave the field camp to rest and re-enter the battlefield
+###
+### Now some enemy hints
+### Eye Goo	 Try to use Rei to steal "Healing Herb" from them. Since Ryu's AP
+###	       is pretty low here you may need them
+### Mage Goo They can use "Burn" twice. Let Ryu (ONLY RYU) examine for "Burn"
+###          You need it very badly. When you learned "Burn" Rei may pilfer
+###          for "Healing Herb"
+### Mantrap	 You can "Pilfer" for "Pointed Stick". You need two of them.
+###          but beware, "Pilfer" will wake him up. And he's rather strong
+###          His weakness is "Flame" magic.
+### Boss Goblin Let Rei use "Pilfer" to get a "WaistCloth". The best armor for
+###             for now. It may be handy to let the others examine for
+###             influence. The boss goblin can only use that skill to command
+###             his allies. When he has no more allies he'll run away.
+### Goblin Try to "Pilfer" for "Bent Sword". You'll need 4 of those things
+###        When they are without a Boss Goblin, try to examine for
+###        "Unmotivate". It saves you a lot of time later when you have it.
+### Gooey  Always paralyzed. Only if you are at extreme high levels (60+ or
+###        so they can become dangerous, break out of their paralysis and
+###        use the spell "Ebonfire").
+
+Now go to Yraall road.
+### New enemies here
+### Ripper	Can blind you and is fast. Not really a thread but annoying
+### Gonghead	You can try "Pilfer" for "Vitamin". Not really a thread.
+Walk to the south until Rei and Teepo begin to talk. Now hide behind a big tree
+as Rei says. After meeting Bunyan you may want to take the bag here which
+contains some money.
+
+Go to the chedar woods and look for Bunyan's house. Rei can open the door.
+Walk to the ladder down and search the cabinet downstairs. It contains a
+"Beef Jerky". Now Bunyan will get home. When Rei and Teepo investigate it they
+get caught. Leave the house, and Bunyan will knock you out.
+Bunyan will sent Rei to Mount Glaus and have you and Teepo to chop wood.
+The pricipal is easy. Teepo sets the log. As soon as he removes his hands use
+the action button (default = Triangle) to cut the log. After chopping wood you
+can go to Mount Glaus.
+
+**** The Monster On Mount Glaus ****
+My party: Ryu 5, Teepo 5
+Near the Chedar Woods is a spot marked as "?". Enter it.
+You may see a large rock here. It's blocked by a small stone. When Teepo kicks
+that stone away the rock will fall and block the water in the little river.
+You can go trough it and obtain a "Weather Vane". There are more small rocks
+here. Some cover a hole containing an item.
+## There's also a "coin" hidden under one of those rocks. Try to find it.
+## You'll need it.
+
+When you made it through you'll get on Mount Glaus.
+## There are three handy treasures here. An "Antidote", a "Heavy Caro" and a
+## "Cloth Shield". You may want to get them
+## New enemies:
+## Curr     Their "Clorine" may really stress you since it poisons you.
+##          Rei could "Pilfer" for "Antidote", but when you first meet
+##	      them he isn't around, but he'll be back and then you can do
+##          it. But don't push yourself getting these Antidotes. Chances
+##          are little that you get it and it increases the chance to get
+##          poisoned
+## Puff Goo	First round they'll always defend. After that always attack.
+##          They can also counter your attacks
+When you reach the top of Mount Glaus you'll meet Rei in a small hut. You'll
+automaticly take a rest and the next day you meet the Nue.
+
+$$$$ Boss #1a:   Nue I
+$$$$ Difficulty: Easy
+$$$$ My party:   Ryu 5, Teepo 5, Rei 6
+$$$$ If you use "Pilfer" with Rei you may get a "Power Food". For the rest you
+$$$$ must be aware of the fact that he can poison you and that he counters
+$$$$ easily. When he gets weak he'll run away.
+
+After the Nue leaves it may be wise to rest in the hut first. The dragon statue
+here can be use to save the game.
+
+## Around this spot is a "Vitamins". It can be used to heal all partymembers in
+## once. But beware. That item is very rare.
+
+Enter the cave here. Follow the trail of Blood.
+## If you search the whole cave you can find handy weapons. The pile of dragon
+## bones hide a "Bent Sword". There are also some dead fellows here who got nice
+## stuff.
+## New enemies:
+## Bat      Defense first round then attack. Rather fast. Can be "Influenced"
+## Zombie   Starts confused. Weak. Can be hurt with healing, but don't do it
+##          since you magic is little
+When the trail of blood stops near a waterfall you may turn back. Teepo will
+have a theory about how the Nue escaped.
+Follow the main path of the cave till the end and then you may turn left.
+There's a water flow. Teepo will suggest to jump in the water.
+Rei will ask you if Teepo's right. Your answer doesn't matter but when you say
+that Teepo's wrong it's funny to see how pissed he gets. Jump in the water and
+here you'll find the Nue again
+
+
+$$$$ Boss #1b:   Nue II
+$$$$ Difficulty: Easy
+$$$$ My party:   Ryu 7, Teepo 7, Rei 7
+$$$$ Same story as the first time. (And "Pilfer" may again result in obtaining
+$$$$ a "Power Food". Even when you got it the first time).
+$$$$ When the Nue howls with the Fury, he may use "Jolt". So beware. After
+$$$$ using that spell once he can't do it again, so that makes one problem less
+$$$$ to worry about.
+
+You can try to enter the cave behind the Nue to see its dead cubs, but you don't
+need to. Leave the cave and you'll end up at home.
+
+**** And now you're hero's ****
+
+Leave the house and head for McNeil. They're gratefull for killing the Nue.
+
+## Okay... Now listen closely. DON'T and I repeat DON'T sell any weapons until
+## you have met Master D'lonzo. She wants you to have 15 diffrent kind of
+## weapons to become her apprentice, and you can take advantage when you can
+## manage that the first time you meet her you'll have a great advantage. But
+## the only way to do that is to handle as I say. Buy all the weapons you can
+## buy here and DON'T sell any of them. No matter how little money you have.
+
+## Now buy a "Wooden Rod" and some kinds of fishing baits. And spend all your
+## money on all kind of stuff. Try to get your ammount of money as little as
+## possible. Now leave McNeil and at the spot with the cut tree you'll meet
+## Mygass. In exchange for all your money you can become his apprentice
+## (even 0 zenny will work). Let Ryu apprentice under him.
+## now go for the fishing spots and try to catch two Trouts and two
+## Rainbowtrouts (they are both on another fishing spot). When you got that
+## you need to try to catch a Manillo. A human shaped fish. Use the coin as lure
+## and lure him as closely to you as possible. But beware, the coin is heavy and
+## may get lost easlity against the ground and coins are RARE!!!
+## when you managed to catch the Manillo you can trade some fish for a "Silver
+## Knife". Handy in the next mission and needed for D'lonzo.
+## when you got everything go back to McNeil.
+
+**** McNeil's Mansion ****
+My party: Ryu 7, Teepo 7, Rei 8
+In McNeil talk to a mysterious fellow (Loki).
+Loki wants you to do something. Accept his request and meet him again in the
+barn in the "Farm". Loki wants you to break into McNeils house. You'll end up
+outside McNeils garden. There's a spot a little diffrent than others here.
+Click on it and Rei will accidently open a path. There's a thief around here
+hidden behind a big wall. Talking to him will get you 50 zenny. Go to the guard.
+he wants 50 zenny. Pay it. Go up the stairs. There a wallet here. Get it and
+give it to the guard here. Now watch out for guard with searching lights. When
+you step in their light you'll be kicked out!!! Search for a big bell.
+Ryu or Teepo can ring it and one of the guards will leave opening a path for
+you. Now you'll meet a lazy guard who'll ask you to fight the dog.
+
+$$$$ Boss #2:    Pooch
+$$$$ Difficulty: Very easy
+$$$$ My party:   Ryu 7, Teepo 7, Rei 8
+$$$$ The only thing to watch out for is that he uses "Snap"  (which can be
+$$$$ learned in you want to) to lower you defense. For the rest this one is too
+$$$$ easy to even talk about
+
+Now the guard will let you pass. There's a barn here with a guard who wonders
+about a woman named Mina. Search Mina and talk to the man by her and Mina
+herself. Go back to the barn and talk to the guard and he'll leave.
+Enter the bard and it appears to be a chicken coop. Here you meet Rocky!
+
+$$$$ Boss #3:    Rocky
+$$$$ Difficulty: Medium
+$$$$ My party:   Ryu 7, Teepo 7, Rei 8
+$$$$ His "Ovum" and "Jump" are his biggest weapons.
+$$$$ Jump (which can be learned) is unpredictable with its damage
+$$$$ Ovum transforms you into an egg dropping your defense and paralysing you
+$$$$ for 5 rounds. When you wake from it all you HP and AP is restored.
+$$$$ "Pilfer" him to get a "Life Shard".
+$$$$ Teepo's Simoon (he should have it by now) is his ultimate weakness
+
+Now all the chickens will get mad and run all over the place. and some guards
+will leave. Don't go directly to the front door, but find the stairs up. Then
+you can reach the door from aside. Rei will leave to distract the guards and
+Ryu and Teepo will get in.
+
+## Enemies:
+## Roach    Beware for their "Jump". Easy to kill with "Simoon", but your
+##          magic is limmited!!!
+## Volt     Electric enemy. You can try to learn their "Charge". It's all they
+##          do. Not really dangerous. Eelectic attack will heal them make them
+##          able to cast "Jolt" once and granting you MUCH more experience.
+## Guard	Annoying assholes. With their "Healing Herbs" they can make a
+##          fight take forever! A way to do it is to do only one attack in
+##          a round and do two attacks in the next round.
+##          another way is to use "Simoon", but your magic is limmited
+
+The big door to the east will lead to a resting point where you can also save.
+It's a servant standing next to a bed! Handy to remember as long as your in this
+mansion. Now find your way and you'll find four ghosts
+
+(All the McNeils are vulnerable for healing magic. But I don't recommend to use
+it on them. Your magic points are too valuable for that)
+
+$$$$ Boss #4:    Thorast McNeil
+$$$$ Difficulty: Easy
+$$$$ My party:   Ryu 7, Teepo 7
+$$$$ He uses "Sleep" a lot, but he's not really a thread.
+$$$$ Let Ryu carry the "Silver Knife"... That'll hurt him.
+
+$$$$ Boss #5:    Kassen McNeil
+$$$$ Difficulty: Easy
+$$$$ My party:   Ryu 8, Teepo 8
+$$$$ He tries to steal you HP and AP
+
+$$$$ Boss #6:    Galtel McNeil
+$$$$ Difficulty: Very very very EXTREEEMLY easy!!!
+$$$$ My party:   Ryu 8, Teepo 8
+$$$$ All he does is using power down moves. He seldom attack which makes him too
+$$$$ easy.
+
+$$$$ Boss #7:     Doksen McNeil
+$$$$ Difficultly: Tricky
+$$$$ My party:    Ryu 8, Teepo 8
+$$$$ Dokson counters easily and reflects your magic, and that makes him annoying
+$$$$ BUT, when you use "Heal" (which will hurt him) once on him or when you
+$$$$ attack him with the "Silver Knife" he'll heal you each round.
+
+Now you'll get on the roof. Somewhere here is a rope with a grappling hook. Pick
+it up and you'll meet Rei again. He'll make a way to the other roof.
+
+## A broad sword is hidden here. Pick it up. Another weapon to please D'lonzo.
+## You can also find a "Swallow Eye" around here.
+
+Now go into the house here. There are two entrances. When you picked the right
+one you'll see McNeil chasing a young woman, when you took the wrong way, you'll
+just see an empty room. When that the case go back and take the other way.
+McNeil will fear your and the ghosts will appear again and join into the
+"Amalgam"
+
+$$$$ Boss #8:    Amalgam
+$$$$ Difficulty: Medium
+$$$$ My party:   Ryu 9, Teepo 9, Rei 8
+$$$$ Not a really big thread. Having the silver knife will hurt him badly and
+$$$$ he is also vulnerable by healing spells. But I recommend not to use them
+$$$$ for that.
+$$$$ His "Sleep" and "Astral Warp" can be dangerous. For the rest not really
+$$$$ difficult
+
+**** Time for trouble ****
+After the fight you'll end up home again. Go to the farm and meet Loki. He'll
+be scared and ask to go to the barn. Enter the barn and meet Bunyan how tells
+you on a rude way that McNeil is a member of some kind of maffia. TROUBLE!!!
+Go back home and your house will be on fire. You'll also meet two guys Balio
+and Sunder (Somebody called them the "Frustration Foundation". Good name for
+them).
+
+## Before you go back home after Bunyan spoke to you remove all armor from Rei
+## and Teepo. If you were so clever to collect 4 Bent Swords give them both
+## a "Bent Sword". Keep Ryu's equipment as it is however.
+
+$$$$ Boss #9a:   Balio and Sunder I
+$$$$ Difficulty: Impossible
+$$$$ My party:   Ryu 9, Teepo 9, Rei 9
+$$$$ There's no way to win this fight and you're not even supposed to. Just let
+$$$$ them kill you. The game won't be over.
+
+After you lost the fight, you'll wake up in a bed in Bunyan's house. When you
+leave Bunyan will say that all he found was you. He doesn't know where Rei and
+Teepo are. He thinks they are dead. Ryu wants to look for them and he wants to
+go to Wyndia, since it was Teepo's dream to go there some day.
+
+## Okay... For an easier gameplay later this part will require a little patience
+## It'll give much advantage later.
+## Go to Mygass. He'll teach you "Frost". If he doesn't train Ryu up a level
+## and visit Mygass again.
+## Go near the Mount Myrnegg and go to a battle field. Train Ryu here and visit
+## Mygass every time you gained two levels. He'll teach you "Meditation",
+## "Magic Ball" (important later) and "Typhoon". "Typhoon" is the last spell.
+## When you got that spell let Ryu quit using Mygass services and go over the
+## the Mount Myrnegg
+## Enemies:
+## Thunder  Watch out. Causes Jolt over Volts to power them up. Gives more
+##          EXP but it makes them rather deadly
+## Tar Man  Too high defense, but very slow. Use "Frost" on them and they'll
+##          get frozen. They cannot move any more and their defense drop
+##          significantly
+## Nut Trooper Dodges nearly all attacks. Kill them with "Burn". Let Ryu examine
+##             to learn "Double Blow"
+## Nut Archer  Dangerous and fast. Kill him with "Burn"
+## Nut Mage	   If you kill him before he casts "Flare" you obtain a Molotov
+##             Kill him with "Burn"
+
+Go to the top of Mount Myrnegg
+## If you find the "Bat Amulet here" have Ryu to equip it
+
+On the top Balio and Sunder will be there and try to kill you. When they
+discover that Ryu is really a dragon
+
+!! FROM NOW ON YOU CAN LET RYU TRANSFORM INTO A DRAGON! YOU CAN DO THAT BY !!
+!! USING "ACCESSION" IN RYU'S ABILITY LIST                                 !!
+
+Balio and Sunder bring you to the king who'll lock you up. Nina will appear and
+she's so foolish to release Balio and Sunder. Balio and Sunder will try to
+kidnap her. Let Ryu try to break the cell door (You must do this twice)
+
+Go downstairs and meet Balio and Sunder
+
+$$$$ Boss 9b:    Balio and Sunder II
+$$$$ Difficulty: VERY VERY HARD
+$$$$ My party:   Ryu 15
+$$$$
+$$$$ Okay, as a matter of fact, it doesn't matter if you win or loose this fight
+$$$$ winning gives some EXP, but when you loose the game won't be over. Real
+$$$$ gamers go for winning, right?
+$$$$ Gotta tell you, this fight is tough!!!
+$$$$
+$$$$ First of all, look out for Nina. She may not get hurt!!
+$$$$ Now I hope you get "EX"-turns, or else you're in BIG trouble
+$$$$
+$$$$ Keep on repeating these things:
+$$$$ Turn into a fire whelp (Fire Gene, Hey it's the only one you have now) :)
+$$$$ Turn into a human in the EX-Turn
+$$$$ And so all over again...
+$$$$ After some turns Nina will wake up, attack Sunder and run away.
+$$$$ Now it can be wise to use some breath attacks. Balio and Sunder will both
+$$$$ run away....
+
+
+If you lost the fight, Nina, will pep you up with some medicines. If you win,
+Nina will come back and be impressed by your strength.
+
+**** Dungeon under Wyndia ****
+My party: Ryu 15, Nina 5
+If you go down you get into an underground graveyard.
+Look for all the gravestones (there are 8 of them), except for the one on the
+right on top of the hill. Push all the green words and write down the red.
+Then find the big gravestone and push the "7". If nothing happens you didn't
+push all the green words on all the stones. Of you got them all you'll fall
+into a hole and you can get a Light Bangle. Now make your way to the ladder
+up and go for the tombstone op the top of the hill facing south. On it push
+all the words which were red on the other stones. Now you can make your way
+out.
+Oh for my big 2.000 FAQ revision I noted the words to push on the final
+stone for you: Red, Climbing, I, Is, Look, Beneath, This
+## New Enemy:
+## Ghoul	No big deal. His bone darts can be dangerous since it confuses
+##          you
+
+**** Wyndia ****
+In Wyndia you need to find some kids near a fountain. Talk to the standing
+boy and he'll challenge for a game of hide-and-seek. Here are the locations
+the kids will hide.
+1 - In the corner near the iniculation centre
+2 - Behind the city wall near the gate
+3 - Behind the weapon store
+4 - Behind the big tree on the main square
+Now the boy will tell you about a kid who robbed someone near. Maybe it was
+Teepo. Now you can leave the city
+
+## Now do the next things. In a hut between the walls of Wyndia lives
+## Durandel. A master. Make Nina his pupil. Go out to the battlefields and
+## train Nina until he teaches Nina the skill "Backhand". That move will be
+## of terrible importance later. It can save you HOURS of playing a boring
+## part when you have it.
+##
+## Also a good idea is to collect enough money to buy all the weapons they
+## have for sale in Wyndia. Remember I mentioned D'lonzo. You need them for
+## her. If you want you can also buy a "Midas Stone". I admit it is expensive,
+## but it can increase your money. That slowing down is something which is
+## easily dealt with.
+
+Now go for the road and enter the hut. You'll hear Nina scream. When you leave
+you be captured by Balio and Sunder and they'll put you in Fahl's pub at
+Genmel (On the worldmap shown as "Arena"). But you'll get out easily. (Fahl is
+too drunk to notice what's really happening. Garr is here too, but you're not
+of his interest, yet. That comes later).
+
+## You may have guessed that this place contains some merchants. And yep go for
+## all the weapons. Can take a little time, but it's worth it.
+
+**** Mount Glaus ****
+My party:  Ryu 16, Nina 10
+Now go up the Mount Bouwmore, and talk to the guy in front of the hut
+## DON'T and I repeat DON'T do that if you're not sure to have all weapons.
+## There is no way back, after you spoke to him
+## New Enemies:
+## Gonger ANNOYING!!! First round is always "Venom Breath" to poison
+##        all party members. After that he mostly defends and then
+##        he runs away!
+The man will let you rest in the back room. The next morning it will seem
+that the guys brought Sunder. Time to make a run for it. In the next room
+is a cable lift. Nina can activate it (You can also try to access it with
+Ryu. Nina will automaticly take it over).
+After some dangerous stunts you're on the other side.
+## Nice to know that somewhere on this part of the mountains a "Life Shard"
+## is hidden.
+## New Enemies:
+## Orc STRONG!!! Best way to fight them is having Ryu as leader
+##	 of the "Attack Form" wearing a "Claymore". He's easy to
+##     counterattack so watch out.
+##     In the first round he uses "Last Resort" very much. It'll
+##     make his power stronger and his defense weaker. You can
+##     try to examine for it. There's one mission where it can be
+##     handy, but you can live without it.
+On a dead end you will meet Sunder. Nina would rather die then to get
+caught again and so she and Ryu will jump of the high mountain. Ryu's
+strong will to protect Nina turns him into a dragon awakening his
+"Defender" power. Now you can leave this place.
+
+Now you can leave.
+
+## Now near here is a place marked as "?". Enter it and you'll find
+## the "Reverse" Gene.
+
+Now go for the place marked as "Tower".
+
+**** Momo's tower ****
+My party: Ryu 16, Nina 11
+
+## The first thing you'll see here is a giant bassin filled with water with
+## a treasure chest on the bottom. As you may have guessed, the meaning is
+## pretty simple. Remove the water to receive the treasure. What the chest
+## contains is a mystery. It can be diffrent each time you play the game.
+## it can be valuable. It can be worthless. But how to remove the water.
+## Enter the tower at the one of the entrances beside the bassin. Have Nina
+## in the lead. There's a giant crystal here. Nina can enchant it by using
+## her magic rod, when you press the action button. Now the entrance will
+## be blocked by a laser beam and a timer of 30 seconds will be activated
+## Go up the stairs North. There's an exit to the west go through it and
+## you're outside again. Go downstairs and your at the bassin again.
+## Let Nina enchant all the crystals and the water will be gone. Now to go
+## for the mysterious treasure.
+
+When you make your way through this tower you'll once meet a very small
+robot who seems to seek cover for an explosion. That robot is Honey. She'll
+enter the room she escaped after the explosion. Enter the room too and
+you'll meet Momo. Momo IS a rather strange one. She's a scatterbrained
+woman who acts first and thinks later, and she's addicted to machines. But
+she's a very good and friendly woman will help you to find the way back to
+Wyndia. So she'll join you.
+
+## Time for another interesting puzzle. When solving this one you'll get
+## the final 2 weapons you'll need to please D'lonzo. Next to Momo's room
+## is a room where you see some slabs. The meaning is to make them all
+## grey. When stepping on brown one it'll turn grey, when stepping on a
+## grey one it'll turn brown. You may not step on the same slab twice
+## without stepping on another one first. Got it? No? Okay, Here goes.
+##  A B C D    Okay... Here's a simple map of the slabs. G indicate
+## 1 . . . .   the ones that are already grey. Read the sign here
+## 2 . G . G   first to activate the puzzle. Then walk this way on
+## 3 . . G .   he slabs.:
+## 4 . . . .   D3 - D4 - C4 - B4 - A4 - A3 - B3 - B2 - A2 - A1 - B1
+##             B2 - C2 - C1 - D1 - Step off the puzzle and voila!
+##
+## The door will now open. The flame crysm and the ice crysm are
+## the items you need here to please D'lonzo. There's also a
+## third bonus
+## Could be nice too :)
+
+There's also a cube puzzle here. That puzzle is NOT optional but no
+difficult at all. The cubes are switches. Press the 2nd (from west) and
+4th and you can cross this room.
+
+## Somewhere in the tower is a bamboo rod. Used as a fishing
+## pole.
+## That thing sucks. So save yourself the frustration from using
+## it.
+
+After going on for awhile you'll see two platforms and two switches.
+It doesn't really matter which one you use
+
+## But the switches do not only open the path to continue the
+## game
+## both of them hide their own bonus. Which are both VERY nice. I
+## only should tell you, you need to deactivate one first before
+## you can use the other.
+
+The next puzzle is the Edritch platform. This is a job for Nina. Nina
+must enchant the crystal serveral times. About 16 times will lead the
+platform far enough to continue your way.
+
+## 2 times and 6 times lead to a bonus
+
+The last puzzle is also for Nina. You see three lasers of which 2
+activated and a crystal in the middle. Letting Nina Enchant the
+crystal will active the deactivated laster and deactivate the
+activated lasers. That sounds easy. Well... It IS easy. Just look
+out not to hurt your party members when changing the lasers. They
+may get poisoned.
+
+Now you'll get in Repsol's working room (Repsol = Momo's father).
+There's a hidden switch behind his desk. That will bring a rocket
+and you'll escape with that.... Well...? You'll escape... :)
+
+# Outside have Ryu to pick up the "Thorn" gene.
+
+
+**** Coffee Shop ****
+
+Back on the world map go to the coffee shop. Here you'll hear
+that Balio and Sunder blocked the road in other to find you.
+That's get's you stuck here for awhile. An old man named Palet will
+talk to Momo. He's the current director of the Plant that Repsol,
+Momo's father built. Repsol will ask for Momo's help. And since the
+road is blocked there's no way to go, so our young heroes will
+accept to help Palet out.
+
+## Okay, now what we've been waiting for. Master D'lonzo. She's
+## up the hill here. If Ryu has a weapon of which you got only
+## one copy give him a bent sword (if you were clever enough to
+## keep at least two of them). For Nina goes the same but now
+## for the pointed stick. Now you should have 15 diffrent kind
+## of weapons and D'lonzo should make you her apprentice. If
+## she's not happy, you must have forgotten a weapon. No way to
+## get it any more.... OOPS...
+## Anyway... Make Ryu and Momo her apprentice.
+## Ryu will speed up a little (Have patience. Later we'll speed
+## him up even more), and it makes him more accurate, since Ryu
+## seems to be missing a lot on critical moments.
+## Momo misses nearly always and her hitting chance can be a
+## little bit increased. I admit it's a little bit, but it IS
+## significant.
+
+Okay, leave the coffee shop and head for the plant. I really don't
+think I need to tell you how the conveyors work. It's too easy to
+discuss here. It's rather annoying though, 'cause you'll have to go
+that way later in the game more times.
+
+After going over some conveyor's you'll meet Palet. Let Momo talk to
+him. Palet will tell you about a dangerous Mutant at the dump. He
+wants you to take care of the problem. Leave the plant (You don't need
+the conveyor's go get out of here. There's a shortcut to the Northwest).
+
+**** Dump ****
+My Party: Ryu 17, Momo 11, Nina 13
+## The bonusses are nice here. Placing the crates right by using
+## the swiches and conveyors will allow you to acces them.
+## They are: - 12000 zenny (I tought)
+##           - High Boots  (Raises defense)
+##           - Artimis Cap (Raises accuracy)
+##           - Magic Shard (Raises AP)
+##
+## New enemies:
+## Rank Weed   Counters easily. Easily killed with Simoon.
+## Pain Weed   Magic will only make him stronger. Attack form
+##             with Ryu in the lead wearing a Claymore will be the
+##             best way to kill him
+## Bomber      Their "Air Raid" is not only painfull, it can also
+##             cancel your moves. You can try to learn that ability
+##             but personally I never use it.
+##             Having Ryu in the lead (attack form) wearing a Claymore
+##             is the best you can do. Save your magic on this one!
+## Slug        Cowards. Escape easily, also poisonous. But also
+##             very very weak.
+## Fireslug    As you might expect these creatures use fire attacks.
+##	         But their "Firebreath" will get weaker when their
+##             ammount of HP decreases. They're vulnerable for cold attacks,
+##             but don't waste your AP on that.
+## ??          I forgot the name of this one. Little kind of weed
+##             with a big eye that's what I'm talking about. They
+##             easily use "Silence" but since since I use "Save
+##             Magic" technique it never bothers me. What may
+##             bother is their "Regeneration". No big deal,
+##             however.
+
+Find your way and you'll meet the Mutant
+
+$$$$ Boss 10:     Mutant
+$$$$ Difficulty:  Easy
+$$$$ My party:    Ryu 17, Nina 13, Momo 12
+$$$$ His move to watch out for is Dream Breath and Venom Breath. For the rest
+this
+$$$$ plant is not a thread at all.
+$$$$ His regeneration of 250 is pretty high. Two fire attacks will make him lose
+it.
+$$$$ Dragons are absolutly not needed on this one. They just cost magic.
+$$$$ If you really want to use one I suggest the "Flame Dragon". (Flame +
+Defender)
+
+After the fight the Mutant wants to be destroyed. You'll place him on
+a conveyor. Flip the left switch and the mutant will be dropped in
+the magma. Peco will come out of it and join the party. You may now
+choose three party members. Any wise person will choose Ryu, Nina
+and Momo.
+
+*** The Contest Of Champions ****
+My party:   Ryu 17, Nina 14, Momo 13
+
+Now you can leave the dump now and go back to the plant. Palet will allow you to
+rest. The next morning he'll say that he'll smuggle you to Wyndia, but he really
+wants Balio and Sunder to get you. Which actually happens. Nina will challenge
+Balio and Sunder to enter the contest. They'll allow you to, but one must stay
+behind as a hostage
+## You may choose Peco or Momo. I STRONGLY recommend to keep Peco as
+hostage!!!!!
+Now you can enter the arena to fight. The first round is in the hall of fire
+## In your room is a coin in the closet.
+
+$$$$ Boss 11:    The First Arena Matches
+$$$$ Difficulty: Easy, Medium & Hard
+$$$$ My party:   Ryu 17 (fought all the battles by me), Nina 14, Momo 13
+$$$$
+$$$$ You can try to beat you opponent in these three fights, but then you must
+$$$$ find a second and third opponent. You can also go straight for your
+$$$$ opponents dodai, which will make you win instantly. But when you do you
+$$$$ opponents will go for YOUR dodai as well.
+$$$$
+$$$$ I suggest to keep the form order Ryu, Nina, Momo. When Ryu looses a battle
+$$$$ Nina will take it over and when Nina looses Momo will take it over.
+$$$$ if you loose your dodai, the game is over.
+$$$$
+$$$$ First Match:Claw
+$$$$ Difficulty: Easy
+$$$$ Ryu         I suggest to let Ryu wear the "Bat Amulet" since Claw will
+$$$$             try very much times to blind you. Save your magic and heal
+$$$$             with items is recommended.
+$$$$ Nina        Beating Claw with Nina is much tougher, but she should be
+$$$$             able to make it. Nina should be able to beat Claw, but I
+$$$$             think going for the Dodai is a very good idea
+$$$$ Momo        Go for the Dodai and hope for the best!
+$$$$
+$$$$ Second Match: Cawer
+$$$$ Difficulty:   Medium
+$$$$ Ryu           Save your magic since Patrio (the next one) is very strong
+$$$$               Cawer will fist protect himself and speed himself up. Attack
+$$$$               his Dodai will make him cast those spells over your dodai,
+but
+$$$$               it does not make so much sense. Healing with items is
+recommended
+$$$$ Nina          I suggest to go for the Dodai, because Nina is no match for
+Patrio
+$$$$               still you can try to beat Cawer, but save your magic or
+you'll
+$$$$               loose against Patrio
+$$$$ Momo          Go for the Dodai and hope for the best!
+$$$$
+$$$$ Third Match: Patrio
+$$$$ Difficulty:  Hard
+$$$$ Ryu          If you go for Patrio himself, then protecting yourself could
+be
+$$$$              a wise idea, since Patrio is VERY strong. Patrio is also
+pretty
+$$$$              fast, so be sure to heal in time. Going for the dodai could be
+$$$$              better idea, since it also provides much more EXP
+$$$$ Nina         Pray that Nina has enough AP to kill Patrio's Dodai
+$$$$ Momo         Congratulations, you're in an impossible position. Forget it
+to win!
+$$$$
+$$$$ Dodai
+$$$$ Reasons to kill the dodai... 3000 exp and next rounds are not needed
+$$$$ Best ways
+$$$$ Ryu         Turn into an ice whelp (Fire + Reverse gene) and use "Frost
+Claw"
+$$$$             on the opponent's dodai. Never use "Frost Breath" since that
+also
+$$$$             hurts you own dodai!!!!!
+$$$$ Nina        Pray you got enough AP and cast "Ice Blast" on the opponent's
+$$$$             dodai until it's gone
+$$$$ Momo        Shooting is the only way. Since Momo misses easily you can only
+$$$$             pray she'll hit.
+
+Okay. Now go to the Null Magic Hall. Emetai will enter and tell you about his
+sick daughter and wants you to let him win. He's just a liar so don't believe
+him and try to win the next battle!!!
+
+$$$$ Boss 12:             Emitai and his Golems
+$$$$ Difficulty:          Easy
+$$$$ Recommended Dragons: None
+$$$$ Recommended Form:    Attack form with Ryu in the front rank
+$$$$ Recommended Party:   Ryu, Nina, Momo
+$$$$ My party:            Ryu 19, Nina 14, Momo 13
+$$$$
+$$$$ The difficulty is that you magic is blocked in this fight, since you're
+$$$$ fighting in the Null Magic Hall. Emitai himself won't do a thing, but the
+$$$$ Golems are under his control. Try to strike down Emitai first and the
+golems
+$$$$ will get out of control and kill each other.
+$$$$ Needless to say to to check if you got enough healing items before entering
+$$$$ the arena, cause you healing magic is also blocked
+
+After the fight Sunder will come to bother you again. After he leaves he'll
+discuss
+the business with Balio. After this chat you must go to the Hall Of The Kings.
+WHen you enter Balio and Sunder will tell you opponent, Garr, that Ryu is a
+dragon.
+When you enter the arena Garr will tell Ryu not to hold back or he'll kill you!
+
+
+$$$$ Boss 13:    Garr
+$$$$ Difficulty: Impossible
+$$$$ My party:   Ryu 19
+$$$$
+$$$$ There's no way to win so don't try it. Just put it on Charge Attack and
+wait
+$$$$ Until Garr has struck you down.
+
+As a reward Garr wants Ryu and his friends. After Ryu awakes go to the office to
+release the hostage. Garr will take care of Balio and Sunder for you. After
+leaving
+Garr will explain that there's an ancient race with very great powers called the
+Brood
+and that Ryu is one of them. Garr tells you to come to Angel Tower.
+
+Leave the Arena
+
+**** Getting rid of Balio and Sunder ****
+
+## Have Peco in your party go a place marked as "?" near a tree (hard to spot)
+## enter it and let Peco kick the tree to get the Flower Jewel. Handy thing
+## you'll need it later.... DON'T EVER SELL IT, NO MATTER HOW MUCH YOU NEED THE
+## MONEY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Go to Maekyss Gorge and you'll meet Balio and Sunder who'll send some Bullies
+after
+you
+
+$$$$ Boss 14:             Bullies
+$$$$ Difficulty:          Easy
+$$$$ Recommended Dragons: None!!!
+$$$$ Recommended Party:   Ryu, Nina, Momo
+$$$$ My party:            Ryu 19, Nina 14, Momo 13
+$$$$
+$$$$ Maybe you can let Momo cast "Silence" the bully with the cigarette will be
+$$$$ almost harmless when you do. For the rest, no special techniques required
+$$$$ Save your magic since there's a MUCH stronger boss right next
+
+Garr will come to help and Balio and Sunder will transform into their super form
+
+$$$$ Boss 15:             Stallion
+$$$$ Difficulty:          Hard
+$$$$ Recommended Dragons: None or the Fire Dragon (Fire+Defender)
+$$$$ Recommended Party:   As long as Peco isn't there
+$$$$ My party:            Ryu 19, Momo 13, Garr 13
+$$$$ Recommended Form:    Attack Form with Ryu in the lead
+$$$$ Remark:              You're obligated to have Garr in the party
+$$$$
+$$$$ First round Stallion will always use "Barrier", You can have Ryu to shield
+$$$$ the party. If you took Momo with you she can act as a healer, especially
+$$$$ when you want Ryu to be a dragon. If you took Nina be sure that you got
+$$$$ enough healing items when you want Ryu to be a dragon. Nina can also use
+$$$$ "Iceblast" to do much damage. Ryu can attack in Human form and especially
+$$$$ when he has a Claymore he can do much damage. In Dragon Form "Flame Claw"
+$$$$ is nice, but don't use Breath Attacks, especially not when you got little
+HP
+$$$$ Garr can use "Pyrokenisis" or normal attacks. Doesn't really matter.
+$$$$ What you really need to watch out for is "UtmostAttack". It can hurt you
+$$$$ very bad so keep you HP as high as possible.
+
+Okay, you got a new ally now: Garr. Garr is pretty strong, alas not as strong as
+the game says he is... Pity, but we can live with that!
+
+## Now a very great advise. Go back to the arena and enter Fahl's pub. Talk
+## with Fahl and allow him to teach you how to fight. He'll tell you to win
+## thirty fights without resting. Ok... Go to the Yraal region and go to the
+## battle fields and make sure you win 30 fights WITHOUT RESTING, but that's
+## easy since the monsters here are to weak to even talk about. After 30 fights
+## (It's advisable to go for a few more to be absolutly sure) go back to Fahl
+## and allow him to teach you fighting. Make Momo and Garr his apprentices.
+## Especially Momo is important. Momo's agility (with will go down) will be
+## taken care off later, and her intelligence drop is no big deal. Garr, no
+## big deal either, but since I don't train him much it's advisable to get
+## the points here.
+
+Go to Wyndia.
+
+**** Wyndia ****
+Required Characters: Nina
+
+Go to the castle and let Nina talk to the guard. He'll let you in. When the
+party leaves the castle Nina will stay behind. She's sad about it. Then she
+hears a scream. Leave Nina's bedroom and go to the dining room. Talk to the
+female servant with the broken dish on the ground. She'll mention a small
+creature. That "creature" appears to be Honey and she'll walk away.
+Go to Nina's mother's bedroom and talk to Nina's Mother (Sheila). Go to the
+basement and enter the kitchen. Near the frog man is a way down. Go down
+there and behind the second row of big barrels you'll find Honey. When Nina
+tries to talk to her, she'll run away again.
+## There's also a rat hidden here. He'll ask "Squeak?". Say "Yes" and you'll
+## get a piece of cheese
+Go back to Nina's bedroom and go to the balcony. Honey will try to run and
+Nina and Honey will fall off...
+
+Nina will now make her way to the party automaticly and have Momo to fix
+Honey.
+Garr will tell that Ryu will learn everything about the Brood once you get
+in Angel Tower, but there's a possibility that he may die soon afterwards.
+This will upset Nina and she decides to go with you. She doesn't want Ryu
+to die somewhere while she isn't around.
+
+**** Eastern Lands *****
+Automatic Party Change: Ryu, Nina, Garr
+
+Garr will smuggle Nina trough the checkpoint, after it you'll be in the
+Eastern Lands
+
+## Okay... You were so clever to give Peco Master Yggdrasil, right?
+## Peco was level 1 when you gave him that master? Great!!
+## train Peco to level 10 and go back to Yggdrasil until he teaches
+## you "Shield"
+##
+## For the rest I take it that Nina had Master Durandel to get
+## "Backhand". Okay... Time for a skill change.
+##
+## Let Momo have: "Shield", "Last Resort"* and "Influence"
+## Let Ryu  have: "Backhand"
+## * = "Last Resort" is not blood needed, but handy. When you don't
+##     have it, you don't need to go for it.
+
+## New enemies
+## Tricker          Very fast and pretty annoying. You can try to learn
+##                  "Flying Kick", but it's more trouble than it's worth
+##                  Be sure to kill them quickly, because when they're
+##                  wounded badly, they'll always run away which means
+##                  that you miss the EXP and the cash. Trickers have
+##                  pretty much cash and you'll need it!
+## Lizard Man       First round they'll mostly cast "Shield", they are
+##                  also there to heal their wounded allies. They'll also
+##                  counter your attacks pretty easily and they are pretty
+##                  strong. I recommend "attack form" with Ryu in the lead
+##                  wearing at least a "Claymore". A "Barbarossa" which can
+##                  be obtained later is even better, but you don't have
+##                  that now. Thunder is their ultimate weakness, so having
+##                  Nina around is a wise thing
+## Blood Bat        They dogde nearly everything. "Typhoon" is the best way
+##                  to kill them. But when you meet them in the Lighthouse
+##                  later in the game I suggest not to waste your magic on
+##                  that. On the battlefields it doesn't matter.
+##                  First round is always "Syphon" which drains some HP.
+##                  Second round they'll always run away.
+
+**** Training Beyd ****
+
+Go to Rhapala and visit the Inn. Downstairs there's a man sitting on a table.
+(There's a Manillo on the other side of his table). Talk to him and he'll
+say that his daughter (Shadis) is in charge of the ships. Go to the warf and
+talk to Shadis. She seems upset about the big fellow Zig. After this talk
+it's clear that the boat isn't coming. When you leave the warf you'll meet
+Shadis. She'll tell you to talk to her father. He should allow you to use a
+road. Alas, when you talk to her father (at the Inn) it seems that the road
+is out, because of a volcano eruption. Leave Rhapala.
+Nina will say that Beyd's in love with Shadis and that she wants to talk to him
+about it.
+## Go to Wyndia and get an extra Claymore and go to Rhapala and buy the
+## best armor Ryu can wear. This is the equipment that Beyd will need.
+
+Automatic Party Change: Ryu, Nina, Momo
+Recommended Party:      Ryu, Nina, Momo (So it's no big deal)
+My Party:               Ryu 20, Nina 15, Momo 14
+
+Go to the Wharf. Let Nina talk to Beyd. Beyd likes Shadis a lot, but he
+thinks he's too weak for her. Nina will suggest Beyd to train and she
+wants to help with that. Beyd refuses and will walk away. Follow him
+and Beyd is shocked by the way Zig is acting now. Beyd will accept now.
+He'll give you 1000 zenny for equipment. Talk to him again and let the
+training begin.
+
+## TRAINING BEYD!!!! THE BEST POSSIBLE METHOD!!!! NO BETTER METHOD POSSIBLE!!!
+## SHORTEST WAY TO TRAIN HIM TOO!!! FIGURED OUT BY THE ALMIGHTY TRICROKRA!!!!!
+## Sorry, but, my training program for Beyd will tune him out in only ONE
+## training session!
+## Let Beyd have a "Claymore" as weapon and the best armor you got, in
+## this region that should be the "Scalemale"
+##
+## When the training starts be sure that Ryu has "Backhand"!!!!!
+## Recommended form: Attack form with Momo in the lead. Especially not Ryu.
+## Ryu will counter-attack easily and that will ruin the training program!!!
+## I prefer Momo and Nina in the party since they NEVER counter-attack!
+##
+## Okay, now you got 20 rounds to train
+##
+## If Momo has "Last Resort" let her cast it.
+## Let Nina examine (then her defense is lower. When Beyd does more damage
+## he'll get more power). Let Ryu cast "Backhand"
+## Beyd will defend in the next round. Let Momo heal him and Ryu use
+## "Backhand" again.
+## Repeat this for serveral turns and after 5 or 6 turns quit the backhand
+## and let Ryu cast "Rejuvenate" over him and let Momo heal party members
+## if needed.
+## Now Beyd will attack again. Continue with "BackHand" and start the same
+## cycle all over again.
+## In the last round I'll mostly knock him out (for fun), but I only do that
+## in the last round.
+## Now watch the training results. If you did this well, Beyd will gain about
+## 25 defense points. That'll almost make him invulnerable!!!
+
+When you think Beyd is strong enough, talk to him and say he has to go to
+the Lighthouse (When you think he's still too weak you can always do a second
+training session).
+Zig will get angry and challenge Beyd to a duel
+
+$$$$ Boss 16:             Zig
+$$$$ Difficulty:          If you took my training program seriously then
+$$$$                      he's too easy
+$$$$ Recommended party:   Ryu, Momo, Nina
+$$$$ My party:            Ryu 20, Nina 15, Momo 14
+$$$$ Recommended Dragons: NONE!!!! N! O! N! E! NONE!!!!
+$$$$
+$$$$ This is not a regular boss. Beyd must do the fighting here, and when
+$$$$ you interfere, Beyd will get disqualified. When that happens or when
+$$$$ Beyd looses you can always try it again or train more.
+$$$$
+$$$$ When you used my training program, Zig will hardly hurt Beyd. It is
+$$$$ possible that Zig will hit a "Lucky strike" which will hurt him.
+$$$$ No worries. After that he'll always wave to Shadis and be distracted
+$$$$ that's the time you can heal Beyd (But never hurt Zig!!!!)
+
+Beyd will ask Shadis to take care of the guild together. The next day
+go to the warf and you'll see Beyd in so such a good condition. That's
+why he'll ask you to fix the lighthouse. He'll give you a badge. The
+guard at the end of the warf should now let you in.
+
+**** Lighthouse ****
+Recommended Party: Ryu, Momo, Garr
+My party:          Ryu 20, Momo 14, Garr 13
+
+## New enemies:
+## Ghost          Masters of magic. Their magic is powerfull and their
+##                "Sleep" spells is f*#^$^%ing annoying. There's a dream
+##                ring hidden around here. Let Ryu have it and these
+##                fellows are a much easier. Oh, they may be undead
+##                but they are NOT vulnerable by healing spells
+## Spectre        All they do is cut your AP and drain you AP. Get rid
+##                of them ASAP before you run out of AP.
+##                You can kill them with healing, but don't do it.
+##                you'll loose more AP then when you allow them to
+##                drain you.
+
+After going a long way (there's a shortcut Momo can create going through
+a path blocked by barrels Momo can destroy) you can enter the lighthouse
+## There's a dream ring around here. Let Ryu have it!!
+There are a few things to do here. First there are two levers. They both
+need to be switch ONCE!!!!! (IF you did it twice you may do it a third time
+as long as it's a odd ammount of times)
+THere's also a reactor. Open it and put a Fire Crysm in it (If you haven't
+some you can get three ones somewhere in this tower and the shop at Rhapala
+sells them too). Activate the lever. Now you must handle 100% precisely or
+you'll mess up. This puzzle is hell, but practise makes perfect. You'll see
+a line moving on a screen, at a certain moment you'll see it light up,
+indicating the reactor is good. You must hit the "X" button EXACTLY on this
+moment on the centisecond exactly or you'll mess up. It's better to miss
+the first time this happens and wait for the next time which will be after
+4 cycles. If you succeed the main valve will be open.
+
+Now that the reactor is open a new unpleasant surprise appeared. A
+head-less body. When you continue you way, its head will appear and turn
+into a boss
+
+$$$$ Boss 17:            Gazer
+$$$$ Difficulty:         Medium
+$$$$ Recommended Party:  Ryu, Momo, Garr
+$$$$ Recommended Form:   Attack with Ryu in the lead
+$$$$ Recommended Dragon: Fire Dragon!!!! (Flame + Defender)
+$$$$
+$$$$ Gazer's normal attacks will always hurt the whole party, but is not
+$$$$ really a big deal. What you need to watch out for is his "Eye Beam"
+$$$$ which will hurt one party member REALLY bad! He is also able to
+$$$$ to confuse you with his "Hypnotize" move.
+$$$$
+$$$$ First let Ryu and Momo cast "Shield" so that at least his normal
+$$$$ attacks are less painfull. Then turn Ryu into a Fire Dragon and use
+$$$$ Flame Claw all the time. If Garr is able to he should use "Pyrokenisis"
+$$$$ You may have guessed it... Fire is his Ultimate weakness!!!
+
+After defeating Gazer you can get on the roof
+## Let Ryu get the "Eldritch" Gene here.
+When you flip the lever, the lighthouse will be turned on. An angry faerie
+will appear an in her attempt to turn the lighthouse off she destroys the
+lever. The Lighthouse can't be turned off any more and the faerie will call
+you names and command you to visit the faerie world. She'll give you a
+
+"faerie tiara" and leave.
+
+Leave the lighthouse and search for a flower ring and use the faerie tiara.
+
+**** The Faerie World ****
+Automatic Party Change: Ryu, Nina, Momo
+My party:               Ryu 21, Nina 15 (16 recommended), Momo ? (forgot to
+                        check, silly me)
+
+Enter the hut and the faeries will tell you about a monster that bullies
+them about the lighthouse. Momo offers to kill that monster.
+Leave the hut and go down to the beach. The computer will ask you to wait
+for nightfall. Say "yes".
+At night they'll encounter a friendly dolphin, but soon it'll turn out
+to be the monster. After some talk he'll get mad and attack you.
+
+$$$$ Boss 18:            Dolphin
+$$$$ Difficulty:         Easy
+$$$$ Recommended Party:  Ryu, Momo and Nina. The only possibility
+$$$$                     have anyway.
+$$$$ Recommended Form:   Attack form with Ryu in the lead
+$$$$ Recommended Dragon: Thunder Dragon (Thunder + Defender)
+$$$$
+$$$$ First of all let Momo and Ryu shield the party and try to
+$$$$ examine to learn "Initimate" (Saves some time for D'lonzo)
+$$$$ ## You can also try to learn "Tsunami". Not a really needed
+$$$$ ## spell but it's just fun to have it.
+$$$$ When you learned "intimidate" let Ryu turn into a Thunder Dragon
+$$$$ and let Nina cast "Lightning" all the time.
+$$$$ Oh yeah, Ryu should attack with "Thunder Claw"
+$$$$ Thunder is this beast's weakness. Basically, all you need to
+$$$$ watch out for is "Tsunami" which could halve your HP
+
+After the battle, the faeries will offer you a place to rest.
+## Later in the game you'll be able to build up a faerie civilazation
+## You need to do it to live MUCH longer in the game. Once you'll
+## be able to go for that I'll tell you more.
+
+Leave the faerie world and go back to the wharf. Talk to Beyd and he'll
+say that the ship won't come a little longer. Go to Sinkar (Shadis' Father
+who's still at the inn). He'll tell you that the road is still blocked, but
+that there's a shortcut THROUGH the volcano. He'll give you a letter that
+allows you to use the shortcut.
+
+## First thing to do. Visit D'lonzo to get "Monopolize" and "Steal"
+## (Ryu should still be her pupil), go to a spot near the bridge
+## that Sunder blocked earlier in the game. Peco is required here.
+## Cut the bushes the free the path to a little source. Let Peco
+## kick the rock in the middle of the spring and Meryleep will
+## appear. She wants you to get her flower jewel. (You can get that
+## thing by kicking at the tree at the spot near the bridge where you
+## fought Stallion). Give her the flower jewel and she'll become a master.
+## Let Ryu be her apprentice. He'll get much faster as he gains levels
+## and later in the  game I'll give you an other hint that will even give
+## you more advantage from that.
+
+**** Mount Zublo ****
+Recommended Party: Ryu, Nina, Momo
+My party:          Ryu 21, Nina 16, Momo 15
+
+## Rest first and then go to Rhapala and take Momo and Nina with you and go
+## to the inniculation centre (Marked with a green cross). And give all the
+## party members a "Flame Block". That will make you live longer and go to
+## the Mount Zublo without resting
+
+Enter the Mount Zublo. Watch out here for lava lying around and for the
+gasses here. White gasses will hurt you. Yellow gasses will confuse you.
+
+## New enemies:
+## Lava Man  Flame attacks will only heal them and ice attack will hurt them
+##           still my recommendation is not to waste your magic on them.
+##           They can use the spells "Flare", "Burn" and "FireBlast" on you.
+## Vulcan    In normal situations they're almost invulnerable and do nothing
+##           at all. Running away or using iceblast seem to be the best options
+##           BUT, if you want to earn much EXP there's a special treadment for
+##           them. Cast "Burn" or "Simoon" over them and they'll start to move
+##           and they're no longer invicible. Now you can just kill them and
+##           you'll earn much more EXP. WARNING! Their "Lavaburst" can be really
+##           deadly. I hope you took my iniculation advise! By the way
+##           "Lavaburst" can be learned by using "Examine"
+
+## Another two hints.
+## 1st.
+## A "ring of fire" is hidden down at the first road with yellow gasses.
+## find it and give the ring to Nina.
+## 2nd.
+## Near the end the "Miracle" gene is hidden. Don't leave this place
+## without it, or you'll get in BIG TROUBLE!!!
+
+At the end of this cave you'll meet an old crazy man. He'll summon two
+monsters and attack you.
+
+$$$$ Boss 19:            Gisshan, Scylla and Charibdis
+$$$$ Difficulty:         Medium
+$$$$ Recommended Party:  Ryu, Nina, Momo
+$$$$ My party:           Ryu 22, Nina 17, Momo 16
+$$$$ Recommended Form:   Attack Form with Ryu in the lead
+$$$$ Recommended Dragon: Ice Dragon   (Frost + Defender / Flame + Defender +
+Reverse)
+$$$$
+$$$$ I recommend to go for Scylla and Charibdis first. The quickest way
+$$$$ to kill them is to turn Ryu into an Ice Dragon and to use Flame Claw
+$$$$ all the time on them. Nina can help with "Ice Blast", Momo should act
+$$$$ as the healer of the bunch. Once Scylla and Charibdis are gone
+$$$$ turn Ryu back into a human and use normal attacks to get rid
+$$$$ of the old man Gisshan.
+$$$$ Beware that Gisshan has "Sleep" and "Confuse"... He also has
+$$$$ "Vitalize", but that's no big deal.
+
+## The battlefields on the new location you'll get has one new enemy:
+## Cerebus     Ultimate weakness is Thunder. They're not really strong
+##             but their "Howling" confuses everybody and that make them
+##             a serious tread. Get rid of them ASAP!!!
+
+**** Urkan Region ****
+Required Characters: Garr
+
+## Try to get the best weapons you can get in the two cities here
+## "Urkan" and "Junk Town". That may require some patience cause they
+## are VERY expensive. But it will pay-off. Especially tuning out Ryu
+## and Garr is good since you'll be stuck with them for quite awhile.
+## Giving Nina the Thunder Rod now is also recommended, since it's her
+## best weapon for a VERY long time, and for the next couple of hours
+## this is you ONLY chance to get one. When you miss it, it'll take
+## VERY LONG before you get a new one.
+##
+## Oh yeah, give the Ring of Fire now to Ryu.
+
+Go to Urkan Tapa. Above Hondara's churce is a passage blocked by a
+large rock. Garr can move it. Enter the passage and meet Sudama. The
+Urkan Chief. Garr and Sudama will mention some kind of "Evil". Sudama
+will make arrangements for Garr to visit Angel Tower.
+Go to Angel Tower now.
+
+**** Angel Tower ****
+Required Characters: Garr
+Recommended Party:   Ryu, Momo, Garr
+My party:            Ryu 22, Momo 17, Garr 22
+
+## Leave the healing to Momo. The next boss is for Ryu alone so
+## it my be wise to save his magic a little.
+
+The way through Angel Tower is easy to find, but at the end is an
+interesting puzzle. Garr needs to move them to create a path.
+(If Garr keeps pushin when a block is against a wall he'll destroy
+it, so watch out. If this happens you must leave and come back. The
+puzzle will be reset).
+
+Exact route pushing blocks:
+- From the entrance go left (DON'T GO DOWNT HE STAIRS)
+- When you come by a block let Garr push it till it touches the higher
+  area
+- Keep following the road you were originally on and go around the corner.
+- Take the way north (west road leads to skill ink)
+- Push the block, but leave space big enough to let Garr fit in it.
+- From here you can go to the block you pushed earlier. Push that one
+  into the corner.
+- From here go to the starting point (DON'T GO UPSTAIRS OR YOU'LL HAVE
+  TO START ALL OVER AGAIN).
+- Take stairs down.
+- Follow road till block. push block as far as you could WITHOUT
+  destroying it.
+- Push this block to the north with 2 short pushes.
+- Push the other block next to it and the road to the stairs in the
+  middle will be accesible.
+
+At the centre of the tower Garr will request you third party member (in my
+case that was Momo) to leave. When you look at the tablets Garr will start
+to talk when to read the one farest away stairs. He'll say that the Brood
+tried to conquer the world. God bestowed her holy powers upon the people
+of Urkan to become Guardians to fight and exterminate the Brood. Ryu is the
+last of the Brood. To furfill his destiny Garr is supposed to kill you,
+which he'll try to do.
+
+$$$$ Boss 20:             Garr
+$$$$ Difficulty:          EEEEEEAAAAAASSSSSSSSYYYYYY!!!
+$$$$ Recommended Party:   Ryu, Ryu and Ryu :-)
+$$$$ My party:            Ryu 23
+$$$$ Recommended Form:    -
+$$$$ Recommended Dragons: None
+$$$$
+$$$$ Unlike his party-member actions Garr will counter-attack very easily.
+$$$$ If you were so wise to give Ryu the Ring Of Fire, Then Garr's Fire
+$$$$ attacks won't hurt you at all, but heal you. Protecting Ryu is a
+$$$$ nice opening. For the rest, go for it and heal when needed. Chances
+$$$$ are high that you get EX-turns on him.
+
+After the fight, Ryu's power will go berserk and in the end Ryu will
+disappear. Nobody knows what actually happened to him. Years later he'll
+wake up (in adult form) in the Dauna Mines where he meets Garr.
+
+**** Dauna Mines ****
+
+Garr is doubting his actions now. His battle with you made him realize
+that he and his allies were no match for the dragons. But if they were so
+evil, why did they allow the guardians to kill them. Garr has now only one
+desire. To know the truth. He says that you got the power and the right to
+kill him, but he asks you to let him live until he found out the truth.
+
+Go to the elevator and go to B2
+## B1 leads to a manillo merchant. Handy when you're out of items.
+## on B2 is a room where you can rest and save
+##
+## New enemies:
+## Giant Roach       Same as Roaches. Only stronger and they'll use
+##                   "Douse" (can be learned) when there are fire enemies
+##                   to make you more vulnerable to their fire attacks
+## Zombie Doctor     Same as "Ghoul" but stronger. When he or his allies
+##                   are wounded he'll use vitalize which will result in
+##                   suicide.
+There's a chart with explosives here. Garr can push it, but just pushing
+will get you nowhere. Setting the points is needed first..
+The objective is to blow up the giant rock.
+
+Block
+ |
+ |
+ \\
+  |
+  |
+  |-------------\     *
+  |4            |     |
+  |             |3    |
+  |          *--------|2
+  *                   |
+                     1|
+      *--------------------*
+
+## Only one chance to get the feather sword here.
+## Switch level 1 and 2 and let Garr push the cart
+## Now you can reach the feather sword
+## Let Garr push it back and flip level 2
+
+Flip lever 1 (if you didn't do it for the feather sword)
+Flip lever 3
+Push the cart
+Go the cart and push it again.
+
+As soon as you did, the Dragon Zombie will appear and command Ryu to kill
+Garr to avenge the Brood. Ryu refuses and the Dragon Zombie will attack you
+for that.
+
+$$$$ Boss 21:             Dragon Zombie
+$$$$ Difficulty:          Bloody Hard!
+$$$$ Recommended Party:   Only Ryu and Garr are availble now.
+$$$$ Recommended Form:    Attack. Ryu in the lead
+$$$$ Recommended Dragons: Fire Behemoth  (Flame + Miracle)
+$$$$
+$$$$ I recommend Fire Behemoth because it'll transform Garr and Ryu in
+$$$$ one big dragon. "Bone Dance" will confuse you all that's why.
+$$$$ The quickest way to kill him is to use "Flame Claw" now.
+
+After defeating the Dragon Zombie, Ryu will get two extra dragon genes.
+"Shadow" and "Fusion".
+You can now leave the mine freely. Only one puzzle near the end.
+A lower part in the ground blocks the passage. Go to the room
+beside it and flip the lever three times and you can leave.
+
+Outside you'll meet a man who'll tell what the dragon has done in the
+mine which will frighten Ryu. Garr will say not to judge yourself too
+harshly because you can be out of control in dragon form.
+
+Go to the hut of the chief to get a reward (for getting rid of the
+dragon), and they'll tell you about a monster on Ogre Road.
+
+Leave this area. Go to Ogre Road
+
+## Oh yeah... Now it's the time to build up a faerie civilization.
+## A few things are required to have at least.
+## Culture level 7 and a shop Items-Ability. Go for that
+## This will make you able to buy "Balance Rings". You won't finish
+## the game without them.
+
+**** Ogre Road ****
+My party:  Ryu 24, Garr 17
+
+## New enemies:
+## Vagabond     Strong but slow.
+## Goo Titan    You let Ryu have the Ring of Fire? Good!
+##              Goo Titans got a strong Burn. They also
+##              have plenty of HP. When they get weak or
+##              when you got extreemly much EXP (About
+##              level 55 or higher), they run away or use
+##              "Timed Blow"
+## Blue Goblin  Responds randomly to "Influence". Pretty
+##              slow, easy to kill, but their "Jolt" can
+##              be annoying.
+
+The way through Ogre Road is easy. You may find some strange plants here.
+Let Ryu cut them and you'll get "Horseraddish". You'll need that later!
+At the end you'll meet a weretiger
+
+$$$$ Boss 22:             Weretiger
+$$$$ Difficulty:          Easy
+$$$$ Recommended Party:   You only have Ryu and Garr now
+$$$$ My party:            Ryu 24, Garr 18
+$$$$ Recommended Form:    Attack! Ryu in the lead
+$$$$ Recommended Dragons: None
+$$$$
+$$$$ The weretiger's only thrumpcard is that he's FAST! You should
+$$$$ never forget that and heal in time. For the rest, just use
+$$$$ normal attacks. In the end he'll run away.
+
+**** Mount Levett ****
+My party: Ryu 24, Garr 18
+
+The way is easy here. Pity is that you can't skip it when you need
+to go back :-(
+There is a trap hole at the top of the mountain. Once you fell in it
+
+you'll find the way around very easily.
+## Down the traphole is a "Gold Hairpin". Handy to give to Nina once
+## she's come back.
+##
+## New Enemy:
+## Slasher    Will try to drop your intelligence with "Mind Flay"
+##            They are VERY fast and they only attack the one
+##            with the lowest ammount of HP
+
+**** Back in McNeil ****
+
+Go to the Yraall Road and you'll see it's blocked by guards from
+Wyndia. The only option is to go to McNeil. Once you get there Garr
+will suggest to go to the inn. Go to the inn and talk to the
+innkeeper. The innkeeper is stressed about a wild tiger who seems to be
+in the nearby forest. Garr offers to take care of that. As thanks the
+innkeeper will let you rest for free.
+
+**** The Wild Tiger ****
+
+After the free rest, leave McNeil and head for the Chedar Woods. Go
+to the house were Ryu used to live with Rei and Teepo. Once there
+Ryu will request Garr to let him go alone. Garr respects Ryu's wish
+and he'll stay behind. When Ryu continues he'll meet Rei. Rei is
+surprised to see that you're still alive. Rei explains that from the
+moment he lost Ryu and Teepo he was out for revenge and kept an eye
+on the organization that Balio and Sunder belonged to. He's relieved
+to see you alive, but he still wants to teach that organization a
+thing or two and leaves. The sounds you hear when he left, makes
+you think he's turned into a weretiger again.
+
+Now go to the Farm and go to McNeils Mansion. You'll see that the
+mayor is under arrest and that the leader of the arresting team
+is...... NINA.... Nina is surprised to see you again. After she's
+sent the mayor to jail Garr will explain what happened in Angel
+Tower. Nina doesn't know exactly what to say. It seems to be to
+big for her.
+But first more important matters and she'll suggest to go to
+Syn City first.
+
+**** Syn City ****
+
+When you get in Syn City, it'll be absolutly clear that Rei has
+been here in Weretiger form and that he left some traces. Everybody
+is heavily wounded. One of them is even dead. At the far end of the
+city is the hall of the organization Balio and Sunder belonged to.
+The man sitting against the wall here will tell you that the tiger
+who came here wanted the boss, and that the boss left to go to the
+checkpoint up north. Leave Syn City and head for the Checkpoint to
+the North. Here we'll meet the boss of the oranization Mikba who
+has a little argument with Rei. When Rei gets distracted by your
+presence Mikba will turn into a monster and knock out Rei.
+## You may now choose party members: You must take Ryu and Rei
+## and as 3rd I recommend Garr.
+## Form: Attack with Ryu in the lead
+
+$$$$ Boss 23:             Mikba
+$$$$ Difficulty:          Hard
+$$$$ Recommended Party:   Ryu, Rei, Garr
+$$$$ My party:            Ryu 25, Rei 20, Garr 19
+$$$$ Recommended Form:    Attack. Garr in the lead
+$$$$ Recommended Dragons: None. Maybe the Trygon (Flame + Frost + Thunder)
+$$$$
+$$$$ First problem. Rei starts at 0 HP. Whether you want to revive him
+$$$$ or not is up to you. If you do Rei will always turn himself into
+$$$$ the Weretiger, if you want it or not. Problem is that Rei is
+$$$$ not only out of control (which means he can attack you too). Mikba
+$$$$ counters so easily that it's a real problem to keep Rei alive.
+$$$$ Turning into a dragon is for this reason not always a wise thing
+$$$$ to do since Ryu is the only healer (You can't access Momo here)
+$$$$ Letting Ryu shield up up a few times doesn't hurt.
+$$$$ Mikba counters easily, can hit "Lucky Strike" and is poisonous.
+$$$$ Garr is the one with the highest defense especially when you trained
+$$$$ him under Fahl, like I did. If Garr is in the lead of the attack form
+$$$$ Mikba will mostly attack him, and that can really give you some
+$$$$ advantage.
+$$$$ If you are crazy enough you can learn "Multi-Strikes", but you should
+$$$$ only do that if you are so crazy that people should protect you against
+$$$$ yourself. :)
+
+## After the fight Rei will join you in your quest. At this checkpoint
+## (In the building) is a little house. In it is a locked door Rei can open
+## there is a Deluxe Rod. If you like fishing, this is the best rod until
+## you crossed the ocean, later in the game.
+
+## Near here lives Emitai (in a hut to the east on the world map)
+## for 10,000 zenny he'll be you master. Let Nina apprentice under him.
+## She'll get weaker, but I've a special defense method for that :)
+## Will be discussed later, when things will really get dangerous for her.
+
+Now head for Wyndia. Near it Nina will say that you need a passport
+to cross the bridge to the Eastern Lands. But she knows that the king won't
+help. He blames Ryu for it that Nina ran away as a child. But Nina thinks
+things will work out if Ryu can proove himself a good man. So she thinks
+that when he helps with an operation at the plant the king must believe that
+Ryu is not evil. So the plant it'll be!
+
+**** Plant - Meet some old friends ****
+
+Go to the plant go over all the conveyors again and you meet you old friend
+Momo (Not changed at all. Not in looks not in behavior). Nina will tell
+Momo what happened so far. Momo has gone to the plant hoping she could study
+Peco some more. She says that Peco likes to hang out near the big tree
+Yggdrasil. Go to Yggdrasil and you'll meet Peco who'll also join again.
+
+**** Plant - Poison in the greenhouses ****
+Required Characters: Peco
+
+Don't worry. Peco is required, but there are no battles here so he won't mess
+things up.
+
+There are two greenhouses filled with poison gas. To get the gas out of there
+Peco will need to break the roofs of it. How to do that. The first one is easy.
+Let Peco kick on the X take some distance and let Peco run to the rock (he'll
+kick automaticly). When you took enough distance the rock will go through the
+roof. That's one.
+
+The second one is a bit trickier. Practise makes perfect I suppose. Move one of
+the rocks on the X again. Peco needs to walk 'n push like this
+
+               Greenhouse
+            ============|    R = Rock
+                      R |    * = Way Peco should walk
+                      * |
+                      * |
+            *********** |
+            ============|
+Tricky, but once you got the trick it's too easy. Now you'll see the chimneys
+spew green smoke which appears to be crysm gas
+
+**** Plant - The secret halls ****
+Required Characters: Momo
+Recommended Party:   Ryu, Momo, Nina
+My party:            Ryu 25, Nina 19, Momo 18
+
+Go to the furnace and let Momo shoot the door of the oven open. After entering
+Momo is impressed by the machinery.
+
+## New enemies:
+## Toxic Fly          Poisonous and annoying. Easy to kill, and "Typhoon" will
+##                    do a great deal, but be sure to have enough AP since this
+##                    dungeon is BIG and there are TWO bosses. But there's a
+##                    place where you can rest, where you'll get much.
+## Fly Man            I use Ryu for "BackHand" to weaken his "Firebreath". I
+##                    mostly let Nina examine him to get "Flame Strike". That
+##                    ability allows Nina to kill Giant Roaches easily.
+##                    Once you got that ability kill the moth***cker as soon
+##                    as possible.
+## Big Bulb           Very high regeneration and they like to use "Pollen" to
+##                    blind you all. Letting Ryu have a "Bat Amulet" is
+##                    recommended.
+
+You'll get in a room with some terminals. Let Momo access terminal one and
+she'll accidently enter the correct password to open door 1. Now to search
+for the second password
+## The room behind the terminals contains two beds. Here you can rest and save.
+
+You may find a room filled with Crysm Radiation. Gaint kind of containers with
+sand in it. In the last one there's a plant that looks like Peco (You have to
+use R1 with the arrows to see it). Read it and you'll see the message:
+"Experimental Sample: "Repsol" Seed". Well, "Repsol" is the password. Go back
+to the terminal room and let Momo access the second terminal and she'll try
+"Repsol" as password. She'll tell you that Repsol was her father's name. She
+wonders if he had something to do with it.
+
+Anyway the second door is open now. Directly after door 2 is a passage that
+leads to a switch. Flip it. Search the area behind door 2 further.
+A note here tells about the "AA" project. That's the second password
+
+## ATTENTION!! ATTENTION!! THE MOST IMPORTANT DRAGON GENE IS HERE!!!!!
+## At the note telling about the "AA" project is a way up (Not the conveyor!!)
+## There you'll find the "Force" Gene.
+
+Okay take the conveyor and you'll get back to the terminal room soon. Go to
+terminal 3 and Momo will try "AA" as password. It turns out to be the correct
+password.
+
+
+Okay now for the third part. There's a boss here so take a rest. Behind door 3
+you should find some small flashing screens. If not go through door 2. A door
+directly after it leads to a switch that turns the screens on. Go back through
+door 3. WHen you get deep in this area you see gas leaking out of a door. Enter
+it.
+
+$$$$ Boss 24:             Huge Slug
+$$$$ Difficulty:          Easy
+$$$$ Recommended Party:   Ryu, Nina, Momo
+$$$$ My party:            Ryu 25, Nina 20, Momo 19
+$$$$ Recommended Form:    Attack with Ryu!!! in the lead
+$$$$ Recommended Dragons: Warrior (Force)
+$$$$
+$$$$ Okay shielding up could be a wise start. Turn Ryu into the warrior and
+$$$$ let Nina cast "Simoon" over him. Fire hurts him nice, but there are
+$$$$ better ways to get him, however for that you must destroy his protective
+$$$$ coating which can be done with fire magic. The Warrior is so strong that
+$$$$ you win this fight in no time at all.
+
+Now that this boss is beaten the way is free to continue. Leave this room and
+go upstairs where you find a folder containing the final password hint. Go back
+to the terminal room and let Momo access terminal 4. For the password, go to
+the second list of passwords. If I remember it right, they all start with a 2
+except for one that starts with a 1 any way one has a diffrent first number and
+that's the right password.
+NOTE! IF you leave the plant this door will be locked again. This is to make
+      sure that you only continue with Momo.
+
+Behind this door we'll meet Palet who tries to ressurrect his dead mother. Momo
+doesn't approove his plans. Palet will get mad. He'll drink a potion and he'll
+mutate into a giant mushroom
+
+$$$$ Boss 25:            Shroom
+$$$$ Difficulty:         Much easier than you think he is. (Medium)
+$$$$ Recommended Party:  Ryu, Momo, Garr
+$$$$ My party:           Ryu 25, Nina 20, Momo 19
+$$$$ Recommended Form:   Attack with Ryu in the lead.
+$$$$ Recommended Dragon: I prefer no dragons. If you really want to use one then
+$$$$                     the warrior (Force) is the best choice.
+$$$$
+$$$$ The first time I had a hard time beating him, but I found out that the
+$$$$ trick is so simple. For example, his "Ragnarok" is very powerful. Cast
+$$$$ "Barrier" over everybody and "Ragnarok" won't hurt you at all. Shielding is
+$$$$ also a good idea. Especially for his "Head Cracker".
+$$$$ When he gets weak he may try to heal with "Restore" or to use "Blitz"
+$$$$ I prefer no dragons in this fight. If you want to use them please don't be
+$$$$ to hasty on using them, since "Barrier" can only be cast by Ryu (Except
+$$$$ when you trained enough under Emitai to learn it).
+$$$$
+$$$$ If you want to know why I picked Nina, while I recommend Garr, I'll tell
+$$$$ you. I prefer to take Nina for the rest of the dungeon and I'm too lazy
+$$$$ to leave the plant to replace her and come all the way back. And since
+$$$$ I know exactly which dangers it brings to bring Nina, I know how I can
+$$$$ do this safely.
+
+After the fight, turn off the machine Palet wanted to use to revive his mother.
+And leave the plant.
+
+## You were so wise to let Ryu train under Meryleep? Great, I think by now you
+## must be able to get "Charm" and maybe even "ShadowWalk" from her.
+
+**** Back in Wyndia ****
+Automatic Party Change: Nina, Rei
+
+As soon as you are in Wyndia, Ryu will leave the party for awhile.
+
+## At the fountain where you played hide-and-seek as a child are two young guys
+## and two young women. Bais, Lang, Lee and Wynn. Talk to Bais and he'll
+## challenge you to a difficult version of hide-and-seek. Accept his challenge
+## these four will hide over the whole BOF3 world. The first one is easy to find
+## he's hidden at the royal cemetery under the Wyndia castle behind a giant
+## tombstone. The rest can't be found now, but I'll tell you when you'll find
+them.
+## It's really worth the trouble to find them. Trust me. The game will be MUCH
+## easier when you do.
+
+Enter castle Wyndia. After talking to the king go to Nina's mother and let Nina
+talk to her. Now go to the basement, and honey will catch up with you. Go back
+to the throne room. Rei will now receive the passport, but all hell breaks loose
+when Rei appears to be a friend of Ryu's. Honey will lead the way out. Just
+follow her. At the end she'll bang a door. Rei will open it and Honey will
+activate the teleporter located here. After talking to her mother, Nina will
+leave with Rei.
+
+Outside of Wyndia Nina and Rei will catch up with the others. Now go to the
+the Checkpoints to the Eastern Lands and the guards will let you pass.
+
+## HIDE-AND-SEEK ALERT!!! Behind the wall you'll find Lee!!!!!!
+
+Now that you are in the Eastern Lands head for Angel Tower (The road at Mount
+Zublo is clear now)
+
+**** Angel Tower II ****
+Required party members: Garr
+
+!!! YOU CAN ONLY ENTER WITH GARR IN THE LEAD
+!!! WITHOUT HIM, THE GUARDS WILL REFUSE THE PASSAGE
+
+Garr will explain that after the victory over the dragons the Guardians were
+allowed to meet God. After meeting God, most Guardians will enter the stone
+sleep which means that the Guardian will enter an eternal sleep and that his
+body will turn to stone. But before Garr wants to enter the stone sleep he wants
+to find the truth about the dragon war.
+Now a naked girl (Deis) will appear and say that God will not come. She tells
+Garr to release her first and the key to that is Guardian Gaist.
+Leave Angel Tower
+
+## HIDE-AND-SEEK ALERT!!! Go to Junk Town and meet Wynn who's hidden behind a
+##                        small building.
+
+Go to Urkan Tapa and let Garr talk to Sudama (the Patriarch). He'll say Gaist
+has gone to a village to the west coast.
+
+## HIDE-AND-SEEK ALERT!!! Out of direction I know, but very important. Go to
+##                        the Dauna Mines. In the room with the giant crysm
+##                        dragon, Bais is hidden behind a pillar.
+##
+## And now that you go to the mines, take Momo with you. In a room near
+## the location of the Dragon Zombie is a room with a wall only Momo can
+## destroy. Here you can get coupons. Wearing that will reduce the prices
+## in shops.
+##
+## Now that you found all four go back to Wyndia. The reward is that all four
+## will be masters. Bais is a very important Master. Let Rei apprentice
+## under him. After Rei has gained 3 levels you should go back and Bais will
+## teach you a new battle form. Chain Form. Nicest form of the game.
+## Make sure you got the new form before crossing the ocean later in the game.
+
+**** Tidal Caves ****
+Recommended Party: Ryu, Nina, Rei
+My party:          Ryu 26, Nina (approx) 21, Rei 20
+                   Basically, this dungeon is better with Ryu only, but
+                   Nina and Rei have lightning that can somethimes become
+                   handy.
+Preparations:      Let Ryu carry a "Barbarossa" and have the skill "Double Blow"
+
+The annoying thing here is the tides. When the tide is high half of the dungeon
+is blocked. After having a few encounters inside the caves the tide may rise or
+drop.
+
+## New enemies:
+## Spiker          Easily killed with Barbarossa. When not in a normal attack
+##                 then at least with "Double Blow" (Can be learned from a
+##                 Nut Trooper). Let Ryu handle this and the others defend.
+## Bar Bulb        They use "Steroids" to become stronger and for the rest
+##                 they await to counter your attacks. Let Ryu kill them with
+##                 Double Blow if a normal attack is not enough, but mostly
+##                 it will be if you have Barbarossa and Ryu in lead of the
+##                 attack form.
+## Sleepy          Easily killed with Barbarossa, else with "Lightnig" Nina AND
+##                 Rei can cast.
+##                 Beware for their Hypnotize. Their "Snooze" is very nice :)
+## Bomb Seed       They won't do anything at all, until they're heavily wounded
+##                 then they'll get angered and Sacrifice themselves to hurt you
+##                 very badly (1 HP left on whole party if it has maximal
+##                 effect)
+
+## When the tide has dropped you can as soon as you come in the area that is
+## normally covered with water you can go to a chest that contains a "Thunder
+## Ring". Treasure that ring cause it can be of GREAT USE.
+
+## At the end of this dungeon you'll find the "Gross" gene.
+
+**** Cliff ****
+Required Party Member: Garr
+
+Go to Gaist. His hut is the one at the end of the village.
+Garr will explain everything to Gaist. Gaist wants to talk to Ryu alone.
+After the talk Gaist wants you to discuss it with Garr.
+Talk to Garr. What you say to Garr is not important but saying: "Is it that
+important" and "Yeah, who cares!" is kinda funny. After talking with Garr talk
+to Gaist and say that you want the truth. Gaist will now say that he needs you
+to fight him.
+
+$$$$ Boss 26:            Gaist
+$$$$ Difficulty:         Easy
+$$$$ Recommended Party:  Ryu, Ryu and Ryu :-D
+$$$$ My party:           Ryu 27
+$$$$ Recommended Form:   ¿Huh?
+$$$$ Recommended Dragon: Ice Warrior (Frost + Force)
+$$$$
+$$$$ This one is EASY!!! You just gotta know the trick. Turn into an Ice Warrior
+$$$$ immediatly and use "Frost Claw" to turn of his torches first. Now use
+$$$$ "Frost Claw" all the time on him and he's history.
+$$$$ If he happens to kill you in dragon form, just turn into an ice warrior
+$$$$ again and continue.
+
+Gaist will get killed, but that will allow you to free Deis
+
+## Oh I got an e-mail about the beast spear hidden in Gaist's remains. You may
+take
+## it if you want, but DON'T equip Garr with it, in spite of the high strength
+Garr
+## will have with it. Garr's HP will drop very fastly when you do and that'll
+require
+## tons of AP... Selling it may provide a good refund, and that's what I
+recommend to
+## do with it
+
+**** Deis ****
+Required Characters: Garr
+
+Go to Angel Tower. (If you want a joke in the end, take Nina with you). In face
+of the door into the tower, is a cellar where Deis is captured. Enter it and
+Deis will be free. After wacking Garr, she wants you to come a "The Volcano To
+The West".
+Re
+Go to Mount Zublo and enter the temple like building. Ryu will be able to access
+the mystic door and you'll meet Deis. Deis will tell you to cross the ocean and
+gives Garr the mission to protect Ryu during his quest.
+
+Deis will mention the word "Sister" after Ryu and Garr are gone. You know who
+that is? (I know, but I don't say it) }:)
+
+**** Fixing the ship *****
+Required Characters: Momo
+
+Go to Junk Town. Beyd will be here asking permission to pass. Follow him.
+## In a hut you can reach now the "????" gene is hidden.
+Go to the dock and you'll encounter Beyd again. The guild ship is broken
+(again). Momo can help you out. Let Momo talk to Beyd Momo will examine
+the engine and she'll say it'll be easy to fix it, but she needs parts.
+She'll give Ryu a memo containing the parts she needs.
+
+**** Steel Beach ****
+Required Characters: Garr
+Recommended Party:   Everything without Peco
+
+Before going to Steel Beach you must first go back to Junktown. In one of the
+houses you'll find the guildmaster of the machine guilt who'll grant you
+permission to go to Steel Beach. Now go to Steel Beach. The guard will let you
+through now.
+
+## Have Ryu to pick up the Mutant gene here.
+
+Put Garr in the lead and talk to the big fellow. He wants you to proove
+yourself. Garr must help to pull out a machine. Just follow the instructions the
+game gives you. In the end it seems you were pulling up a monster.
+
+$$$$ Boss 27:             Angler
+$$$$ Difficulty:          Not really that hard
+$$$$ Recommended Party:   Anything without Peco
+$$$$ My party:            Ryu 28, Nina 24, Garr 20
+$$$$                      (if you want to know, Rei was 23)
+$$$$ Recommended Form:    Chain Form or Attack form with Ryu in the lead
+$$$$ Recommended Dragons: Warrior (Force) or none if you want more fun.
+$$$$
+$$$$ One thing to remember. If you turn Ryu into a dragon you must rely on your
+$$$$ items for healing, since Momo is not accessible right now. If you have Nina
+$$$$ in your party I strongly recommend to use "Shield" at least two times or
+$$$$ else she won't live long. One of the most risky things to do is to turn Rei
+$$$$ in the "Weretiger". Rei is out of control and if Ryu is in dragon form Garr
+$$$$ (who is required here) is the only one to heal and he is much too slow.
+$$$$ The Angler has pretty strong attacks, but if you keep everything in mind
+$$$$ that I told you here you must get trough. Using the Warrior is definatly
+$$$$ the quickest way to kill him.
+
+You will now be allowed to search Steel Beach and the freighter to find the
+parts Momo needs. The parts are lying all around the beach and the freigther so
+you'll need to search.
+
+## In the freither is a "Robe Of Wind". Right now the best armor for Nina, and
+## once you found better, never sell it. You can use it to speed up partymembers
+## and you can do that unlimmited times.
+##
+## New enemies
+## Bolt            Irritating. Always attacks the one with the lest HP.
+##                 Sometimes they use "Frost Strike" (which can be learned) to
+##                 you asleep. "Magic Ball" is the best way to kill them.
+## Bolt Archer     AAAAAAAAARGH!!! Their lucky strike is very strong and it can
+##                 happen that Nina is killed in one blow by that. Their "Blind"
+##                 is just a laugh since they dodge everything. "Magic Ball" is
+##                 recommended to kill them.
+## Bolt Mage       Get rid of them ASAP before they silence you. "Magic Ball" is
+##                 the best way to ice them.
+
+
+Once you got everything go back to Momo who's waiting for you in the boat and
+give her all the parts. If you got them all the game will continue else Momo
+will mark which parts you already have delivered and which not.
+
+**** On the boat ****
+Go to the deck and talk to Nina. The rest will go automaticly and you'll end up
+in Rhapala, where Zig will offer to pilot the ship for you.
+Enter the ship and talk to Zig and the ship will leave. When Zig says you must
+talk things over with you party members, talk to all party members and talk to
+Zig after that. Now try to sail to the Outer Sea but it will turn out to be too
+rough to sail through. Go to Parch which can be reached by boat.
+
+**** Parch ****
+Search the house of the mayor and ask him about the "Legendary Mariner". He'll
+refuse to help affraid you'll give him fish and he hates fish.
+
+## If you want you can now go to Deis to let her be your master.
+## She can teach "Blizzard". I use Peco to go for that spell and give it to
+## Momo using "Skill Ink". Don't release Momo from master Fahl!!!!!
+
+**** Shisu ****
+Required Party Members: Ryu, Garr and Peco
+
+Go to Maekyss Gorge. Enter the hut and talk to the woman. She'll explain how to
+make Shisu. Leave the hut and let Peco bump the tree to retreive Shaly Seeds.
+You'll need at least 8 of them.
+Maybe you'll already got horseraddish. You need 4 of them. You can get them on
+Orge Road. There are some plants Ryu can cut with his sword which will give you
+horseraddish. You'll also need one Mackerel. Ryu should fish for that. The
+fishing spot where they can be found is near Maekyss Gorge.
+And the last ingredient is vinegar. You'll need to go to the coffee shop. A
+cloaked man is standing by a well. Let Garr talk to him and help him to get some
+water. The cloaked man will explain how that works. If you succeed you'll get
+vinegar. Go back to the woman and she'll give you the final instructions.
+Go to Parch and talk to the mayor's servant and have to make Shisu. Use one
+mackerel, 8x shaly seeds, 4x horseraddish, 2x vinegar and kneed twince.
+THe mayor will like the shisu and as a reward he'll tell you where to find the
+legendary mariner and he'll give you a sea chart.
+
+## If the Faeries sell "Balance Rings" already it's advisable to buy one for
+## all the party members before continuing. If they don't you can better
+## skip it for now, and come back for that later in the game, unless you
+## want to wait an eternity.
+
+**** Legendary Mariner ****
+The crags that separate the inner and the outer sea is where to look. It's near
+the east. You'll have to do a little arcade sailing to get to the hut and when
+you succeed you'll meet the legendary mariner. He'll advise you to get aboard
+the Black Ship
+
+After all the events find Momo and she'll suggest to ram the black ship. Go to
+Zig and tell him to ram the ship.
+
+You'll now need to ram the ship. Pretty tricky. Wait for the right moment and
+ram it from behind.
+
+**** The Black Ship ****
+Recommended Party: Momo and Nina (Not very big help but Momo is required and
+                   I like Nina to have "Blizzard" which she learns when she has
+                   enough EXP, so I mostly take her for training here. As a
+                   matter of fact, nobody is of big help here)
+Required Characters: Momo
+My party:            Ryu 28, Nina 25, Momo 21
+
+## New enemies:
+## King Toad    Often use icebreath. When they are together with Sleepies,
+##              they'll let the Sleepies confuse you and he'll use influence to
+##              command the confused party members. THe only way to prevent this
+##              is equipping everybody with Balance Rings.
+## Bolt Lord    Seldom encountered. Don't know much about him. Magic ball does
+##              the trick.
+##
+## If you have chain form, it's recommended not to use it here, but to wait
+## for it, until you need to fight the boss. Chain form drops you defense a
+## little, and almost ALL of the work needs to be done here by Ryu.
+
+Enter the ship and go downstairs. Follow the hallway and you'll find a platform.
+Program the console to program 3 and ride the platform, and do all you can do
+on the spots you'll get and do the same with platform program 4. In the end you
+should have and ID card and the crane must be turned on.
+Go back to the entrance and take the door in face of it. You'll see the crane.
+The crane can be operated according to the instructions the game gives you.
+When you moved three crates there will be a path acros the room, if you move a
+fourth crate you can get a bonus item depending on which crate is the last one.
+Leave this room. If you flip the lever you can activate a shortcut to the
+entrance. Go upstairs.
+## The door in the corner will lead to a "Skill Ink". You can only get it now.
+## Later the chest will be gone.
+Go to the elevator which can be used with the ID card. Now you reach the bridge.
+Have Momo to examine the console in the middle of this and Momo will explain
+about the Boost Counter.
+
+Go downstairs take the elevator down and go to the room Momo pointed. Examine
+the console and you'll see a counter. Wait until it's about 50 or 60 and then
+leave the room and go back to Momo. The counter will continue but you don't see
+it anymore. Count the bleeps to know how far the counter is.
+## Look somewhere else but the screen when activating the elevator. The dirty
+## Bastards at Capcom show some numbers on the screen to mess up your counting
+## Bad boys and girls there... :)
+When the counter is exactyly 100  you must talk to Momo and not a moment sooner
+or later and she'll activate the ship.
+If you mess up, you'll have to do it all over again :( If you succeed watch the
+sequence until you end up talking with Rei in a cabin.
+
+An alarm will sound. Go to the bridge and Momo will deactivate the alarm. She'll
+explain that something hits the ship. Choose 3 party members to investigate:
+
+Recommended Party: Momo(!) and I personally take Nina, else Garr is the best
+                   choise.
+
+Go to the door Momo pointed you. The road here is easy.
+
+## New enemies:
+## Giant Crab     Pretty high defense cababities and pretty strong. They can
+##                cause instant kill with their "Death" spell.
+##
+## Try to save your magic. You may have guessed it but there's a boss coming
+
+When you reach the prow of the ship two ammonites will come out, you can back
+out according to the game's instructions. this is very tricky and you'll seldom
+succeed. If you succeed the main cannon will be activated.
+
+$$$$ Boss 28:             Ammonites
+$$$$ Difficulty:          Very hard
+$$$$ Recommended Party:   Ryu, Momo, Nina/Garr
+$$$$ My party:            Ryu 29, Nina 25, Momo 23
+$$$$ Recommended Form:    Chain Form with Ryu in the lead
+$$$$ Recommended Dragons: Warrior (Force) or thunder warrior (Force+Thunder)
+$$$$                      If Ryu is not equipped witht the Barbarossa.
+$$$$
+$$$$ Before doing anything else have Ryu to shield the party. I mostly have
+$$$$ given Momo "Shield" too and she can also cast it to save Ryu some turns.
+$$$$ When Ryu is equipped with the Barbarossa you should turn into the warrior
+$$$$ if he isn't you should use the Thunder Warrior. Ryu should do normal
+attacks
+$$$$ in the first situation else he should use "Thunder Claw" all the time. Momo
+$$$$ should take over the healing when needed. If you have Nina use "Lightning"
+$$$$ all the time if you have Garr you can better keep it to normal attacks.
+$$$$ What you need to watch out for is the fact that there are two of them and
+$$$$ Their attacks are pretty strong. They can also half you HP with "Tsunami"
+$$$$ ## Which can be learned
+$$$$ They also have "Blizzard", but they don't use it that much. Multi-Strike
+$$$$ can also be a serious thread.
+$$$$ Thunder is as you may have guessed from my description their ultimate
+$$$$ weakness.
+$$$$ If you succeeded in activating the main cannon than sometimes it'll shoot
+$$$$ and that will be counted as a turn of one of the ammonites and that could
+$$$$ make the fight a lot easier.
+
+After the fight, go down the ladder and you'll reach the other side of the
+ocean.
+
+**** The other side ****
+You'll end up in a town. Leave the town and watch the sequence until you get on
+the world map.
+
+My party: Ryu 29, Momo 23, Garr 20
+
+## Go to the Yggdrasill tree here and pick up the "Trance" Gene.
+##
+## New enemies:
+## Assassin     Quick! Their moves "Disembowel" and "Target" can be a dangerous
+##              combination. Disembowel can reduce you to 1 HP. Both moves can
+##              be learned. If you were smart enough to have Ryu under Meryleep
+##              all the time and when you are in Chain Form with stronger party
+##              members, then they're a lot easier.
+## Audrey       Not that strong but their "Pollen" can blind you all causing a
+##              little problem.
+## Thrasher     "Typhoon" does the trick. Their "Timed Blow" can be learned.
+## Tankbot      Mostly uses "Transfer" all the time. When needed they use
+##              "Vitalize". When alone or after being confused by electric
+##              attacks they'll do "Sacrifice" killing themselves but hurting
+##              you fatally.
+## MultiBot     They work like reflectors. They return what you give them.
+##              Is usually cast Burn on them and let Momo examine for "Wall Of
+##              Fire" which you'll need later in the game very badly. Another
+##              nice thing is that healing on them or holy attacks will result
+##              that they heal you. Using Steal may result in getting a silver
+##              armor which is nice to sell. I recommend the Warrior to kill
+##              them.
+
+Go to Steel Grave and find your way here. After completing this you can get to
+the Colony.
+## If you have Momo around you can shoot at a blocked door. Behind it is a
+## spanner. The best fishing rod of the game.
+
+**** Colony ****
+Required Party Members: Momo
+My party:               Ryu 30, Momo 24, Garr 22
+
+First of all you need to go straight ahead until you see a portal. Yep the same
+as under castle Wyndia. Pick up the bag. It contains a key.
+Now you need to find your way until you can jump through some glass.
+
+## On your way you can find the failure gene. A pretty worthless gene, but
+## you can pick it up anyway. You can use it to prevent the Kaiser from being
+## berserk.
+##
+## New enemies:
+## Codger    They mostly use "Magic Shuffle" which casts a spell at random.
+##           some of them are really dangerous. A nice thing to do is to
+##           use intimidate and try to steal. You can get a "Rare Book" which
+##           can get you a lot of money when you sell it to the "Antiques" at
+##           the faeries (if you have one)
+##           To increase the chance of stealing the book, use "Charm" (Can
+##           be learned from Meryleep).
+## Toxic Man There are a few versions of these fellows with diffrent HP and
+##           defense. They start the battle poisoned and will try to poison
+##           you too.
+
+Once you're trough the glass you see a console and some giant reflectors. Have
+Momo to examine the console. She'll explain the workings of the reflectors.
+They're set like this.
+
+            3
+ N       2
+ ^         1
+ |
+         Reactor
+
+Turn reflector 1 once, ignore reflector 2 and turn reflector 3 three times and
+activate the console. That should activate it.
+
+Now you can enter the portal. One warning! If you're trough it, there's no way
+back until you finished the next dungeon completly. be sure you got everything
+you need.
+
+**** Relay Point A ****
+Follow Honey and you'll see that you're back at steel beach.
+
+Recommended Party: Ryu, Momo, Garr
+My party:          Ryu 30, Momo 24, Garr 22
+
+Go back and go the the other path than Honey took.
+
+## New enemies:
+## Dragon fly    Pretty fast. If Ryu has "Typhoon" (learned by Mygass) you can
+##               use it on them, but beware. Magic runs out very quick here.
+##               well, good thing is that you dragon forms are NOT required
+here.
+## Insector      Master with wind. Uses "Wind Strike", "Typhoon" and "Tornado"
+##               rather frequently. He's very vulnerable to status changes. Not
+##               a very big help, though.
+
+You reach the jack puzzle in the end. If you do this wrong you can reset it by
+reading the tablet to the north of the brown handle.
+There are four of these handles.
+
+                       Brown
+                   Red       Blue
+                       Cyan
+
+Flip the blue first, then the cyan then the brown and you can go through the
+stairs to the north.
+## First the brown then the blue then the cyan will lead to a bonus item.
+
+A bit later you'll see a puzzle with three platforms in it. Like this
+
+   +---------+
+   | 2      1| <-
+   |         |
+   |    M    |
+   |         |
+   | 3       |
+   +---------+
+
+Start by stepping platform 1 let let it go to the west. You'll automaticly step
+over to platform 2. Use platform 2 to go south and you'll end up beside
+platform 3. Step on platform 2 to go east and the party will take over to
+platform 3. Go north with platform 3 and go west with platform 3. Go south with
+platform 3 and you'll end up in the middle. This will open the locked door.
+
+At the top of the tower you'll see a giant antenna. Use the console to ajust it
+using the directional buttons. When you hear a clear beep without noise through
+it, it should be good. The game will say so if it's right when you stop aligning
+it.
+
+Go back to the portal.
+
+## When you go to the container yard you can get the "Radiance" Gene to be able
+## to get holy dragons.
+
+**** Dragnier ****
+Go to dragnier. When you leave the area it seems you've found the Brood. Watch
+the sequence and after that Ryu is sleeping and wakes up. When you leave the
+tent Rei will come with you and say that Garr is depressed. Find Garr and talk
+to him. After the talk Griol will say that the elder wishes to speak with you.
+Go down in the pit in the centre of town.
+
+At the end of the pit, the elder, Jono, is waiting for you. He'll tell you about
+the history of the Brood and the goddess Myria. The god you are seeking. When he
+says he wants to talk to the guardian let him talk to Garr. After that he wants
+a pretty girl.
+(Everyone knows he means Nina. Bringing Momo won't get you anywhere, but it's a
+little bit funny if you do)
+Let Nina talk to the Elder after that you can leave town to change party members
+Garr and Momo are recommended and let Ryu talk to the Elder.
+
+You have to pass a test to get the ultimate Brood power (Ultimate Brood power
+my ass, but it's what the game says). You'll have to fight the Elder
+
+$$$$ Boss 29:             Elder
+$$$$ Difficulty:          Medium
+$$$$ Recommended Party:   Ryu, Momo, Garr
+$$$$ My party:            Ryu 31, Momo 25, Garr 23
+$$$$ Recommended Form:    Chain form with Ryu in the lead
+$$$$ Recommended Dragons: Not accessible. You've have to beat him in human form.
+$$$$
+$$$$ You can't count on your dragon powers here since they are blocked. HAHAHA!!
+$$$$ Well, this boss is really more fun this way. Cast "Barrier" over everyone
+$$$$ and a few shields are also very welcome. My choice for Momo is simply to
+$$$$ have a second healer ready for action and that's what Momo has to do most
+$$$$ of the time, since her attacks misses easily. Ryu and Garr are when the
+$$$$ prepartions are done my offense team. When Ryu has been under Meryleep all
+$$$$ the time then only one "Speed" over everybody (or using the "Robe of Wind")
+$$$$ will be enough to gain EX-turns.
+
+After you beat the Elder he'll give you the power of infinity and after that he
+dies.
+
+## NEVER USE THE INFINITY GENE! THE "KAISER" SUMMONED BY IT, IS PRETTY WORTHLESS
+## AND TAKES TOO MUCH AP. IF YOU WANT TO USE IT (TO SEE WHAT IT DOES) YOU MUST
+## ALWAYS COMBINE IT WITH THE "FAILURE" GENE OR ELSE HE'LL GO BERSERK.
+## "INFLUENCE" WON'T HELP YA, SO DON'T TRY IT!!!!
+
+When you leave Dragnier, Horris will go with you as a guide (not as a party
+member).
+
+## BEFORE DOING ANYTHING! MAKE SURE THAT!
+## - You got enough balance rings for all party members (Faeries sell them)
+## - Nina has enough levels to cast "Blizzard"
+## - If Momo or Garr have leaved "Resist" from Fahl give it to Nina using
+##   skill ink
+## - That Deis have taught you "Blizzard". I do that by training Peco under
+##   Deis. Give it to Momo using Skill Inks.
+## - Give Nina the Wisdom Ring
+
+## By now Ryu should have all dragon genes. If you don't it doesn't really
+## matter. The only gene, you'll really need from now on is the Force gene
+## which can be found in plant.
+
+Go to the factory
+
+**** The Factory ****
+Recommended Party: Ryu, Momo, Garr
+My party:          Ryu 32, Momo 26, Garr 25
+
+## New enemies:
+## Hobgoblin       Pretty strong, but pretty slow. Stealing result into getting
+##                 a power food. When together with a Boss Goblin it'll kill the
+##                 boss goblin first.
+## Egg Gang        Their Ovums can by annoying. On the other hand when winning
+##                 a fight in ovum form or after being 5 turns in ovum form all
+##                 your HP and AP will be restored. I personally get ovumed on
+##                 purpose to restore these things. Of course, only recommended
+##                 if there's only one egg gang and nothing more. Maybe having
+##                 only one party member ovumed at once is also a bright idea
+##                 (Oh in dragon or weretiger form you've
+##                 invulnerable for "Ovum").
+## Gold Egg        Best way (but a rather expensive way) to do it. Turn Ryu into
+##                 the Warrior and use "Aura" to knock them out. Lot's of cash!!
+## Giant Orc       Normal attacks from the Warrior are the best way. Thrust me!
+## Pipe Bomb       Strong and protective. When wounded heavily they can use
+##                 sacrifce.
+
+A few puzzles are here. An annoying one is the one with the two platforms and
+the electricity fields.
+Switch the first lever and the first platform will come down. However there's
+also an electricity field active. Go over the platform and wait by the second
+switch until the first platfrom raises again. Now act quickly. Switch the lever
+go to the first lever ASAP and switch it and go over both platforms as quickly
+as you can. This may require some practise.
+
+The second puzzle with the workbot, is not really hard at all. (NOTE! Garr can't
+operate the workbot because he's too large).
+Operate it this way:
+N = Step North
+E = Step East
+W = Step West
+S = Step South
+A = Press Action button (Triangle is default)
+
+W-S-S-E-E-N-N-N-A
+S-W-W-N-A
+S-S-S-W-S-E-E-N-N-W-W-N-A
+
+This should do the trick.
+
+Near the exit is a door that's locked electronically. There are three ways to
+open it.
+1 - Let Momo shoot at the panel near it.
+2 - Take a little distance with Ryu and let him break the panel with his sword
+3 - Peco can also break the panel. It's not really recommended to let him in
+    your party here, though.
+
+After leaving the you'll get in the desert.
+
+**** The Desert Of Death ****
+Recommended Party: Ryu, Nina & Momo
+My party:          Ryu 32, Nina 28(!), Momo 27
+Preperations:      See my note before you entered the factory!!!!
+                   And give Nina the wisdom rin
+
+You can talk to Horris to find out about the North Star the Evening Star and
+the False North Star. This is really important because you won't get out of the
+desert if you don't know which star is which.
+
+Go to the water jar and take some water. You'll get 16 servings. You can't
+refill during your trip trough the desert!!!!
+During your trip the computer may say that your troat is dry. If you don't drink
+then you'll first receive normal damge, later a temporary max hp down and if you
+wait too long your max HP will go down permanently! SO BE SURE TO DRINK IN TIME!
+
+You must also know not to travel through the day. After walking for a fixed
+ammount of time it'll become day. Keep on walking until the computer says it's
+time to make camp.
+
+During your trip you'll end up on battlefields to fight a few battles. After
+leaving the battle field or after breaking up from camp Ryu's face will be
+set into a random direction. You should check the stars before continueing.
+
+One final note before you leave. When you got lost of when you out of water you
+can use the rakda, the animal Horris will send with you to go back to your
+starting point. Alas you'll have to start over again if you do this.
+
+## The enemies for the desert:
+## Magmaite        Let Nina use "Resist" because she's dead when she gets
+##                 attacked and Ryu can best use his Warrior form to kill these
+## Scorpion        Strong and poisonous. Ice attacks like "Iceblast" and
+##                 "Blizzard" are very deadly for them.
+## Cacti           Counter easily. Double blow could do the trick. Watch out for
+##                 their "Pollen" which blinds you all
+## Drak            Interesting fellow. Always paralyzed, so an easy win. However
+##                 when he's alone and at full HP cast "Remedy" over him. Let
+##                 Momo examine in the next turn and she'll learn "Cure". The
+##                 ultimate healing spell on one person. It recovers all HP and
+##                 status changes (except death).
+##
+## It may be nice to know that you don't really need to save your AP. There are
+## so many times that you must rest, whether you want it or not.
+
+And the trip begins.
+- First night is only following the North Star (Pretty boring, eh)
+- Second night follow the North Star and check the Evening every once in a while
+  when it's directly west of you (That's about after the second battlefield)
+  turn to the east and keep walking there.
+- Keep on going east and keep checking the Evening Star in the west. Do this
+  until the Evening Star has vanished behind the horizon.
+- Follow the North Star
+
+Important note. If when camping during the day (like you should), Momo is lying
+on the ground saying "Why... Why do we have to go all through this", it's time
+to be alert. Go into the desert following the North star until the battle field
+After the battlefield make camp and switch Nina for Garr and continue following
+the North Star. Very soon you'll reach the end and....
+
+$$$$ Boss 30:             Manmo
+$$$$ Difficulty:          Medium
+$$$$ Recommended Party:   Ryu, Momo & Garr
+$$$$ My party:            Ryu 35, Momo 31, Garr 26
+$$$$ Recommended Form:    Chain with Ryu in the lead
+$$$$ Recommended Dragons: Warrior (Force)
+$$$$
+$$$$ Manmo is about to counter nearly everything. Two shields or so is a very
+$$$$ good preperation. If somebody has "War Shout" (I mostly have this spell
+$$$$ with Ryu) now it's a good time to cast it. Then let Ryu transform into the
+$$$$ Warrior. Momo should act as a healer and Garr should attack. To save magic
+$$$$ I never heal Ryu in dragon form. When Ryu runs out of HP he only becomes
+$$$$ human again. Just transform again and you got full HP. Easy, huh.
+
+After the fight, Nina will get awfully sick. Leave the tent and kill the Rakda
+by using Ryu's sword. Go back into the tent. After the sequence you'll get into
+the oasis where Fa'ah takes care of you.
+
+After you're ready here leave the oasis.
+
+## **** Container Yard ****
+## This very little dungeon provides a way back to Dragnier, Wyndia and the
+## other spots with a portal. You'll need Garr to blow up the crate here to make
+## use of this. Mostly you'll only encounter Tankbots here, but sometimes you
+## may meet the hardest enemies of the game. Even the final boss is easier.
+##
+## Enemy 01:            Berserker
+## Recommended Party:   Ryu, Momo, Garr
+## Recommended Form:    Chain Form, Ryu in the lead
+## Recommended Dragons: Fire Warrior (Fire+Force)
+## Reward:              Possible you get a Rufad's spear. Nice weapon for Garr.
+## Preperations:        Let everybody have a "Ring Of Fire". They can be stolen
+##                      from "Red Drakes" in Caer Xhan. Let Garr or have
+##                      "Resist" and the other have "Influence". In case you
+##                      could take some soul gems (Faeries sell them), but
+##                      if you are lucky you won't need them.
+##
+## Turn Ryu into the Fire Warrior immediatly. Let Garr hit him so he's out of
+## his confusion. Now he'll mostly use "Fire Whip". The ultimate Fire spell.
+## in Fire Warrior Form Ryu is invulnerable to this and with Ring Of Fire the
+## others will only heal from it. His problem are his normal attacks. Defending
+## may help you survive it. Speeding up Momo and Garr (or who else you might
+have
+## in your party. Ryu doesn't need to speeded up in Warrior Form) can be nice
+## especially Momo so she can heal if you need to.
+## When the Berserker is nearly out of HP he'll
+## use Berserk. There's a nice trick for this if you are in Chain Form. Let the
+## one with Resist use it now, and let the other use "Influence" on the one that
+## has used "Resist" and keep on repeating this every turn and let Ryu do the
+## attack. THe one who used "resist" can't be hurt so you'll have an easy win
+## after the beserker has used "berserk". :)
+##
+## Enemy 02:            Archmage
+## Recommended Party:   Everything with Ryu in it. Heh, he's required anyway :)
+##                      Momo could also do a good job here.
+## Recommended Form:    Attack Form with Ryu in the lead is best :(, but mostly
+##                      I'm in chain form. Oh well.
+## Recommended Dragons: Thunder Warrior (Thunder + Force)
+## Reward:              Holy Avenger. Best weapon for Rei and also very good for
+##                      Ryu.
+## Preperations:        Let Momo have a Thunder Ring. Being at level 40 or
+##                      higher is a minimum.
+##
+## Turn Ryu in the Thunder Warrior immediatly. Cast a few times might over him
+## after  that and after that let Ryu use "Focus" and "Aura" in the next turn.
+## And ## after that another Aura. If this doesn't beat the regeneration of
+## 1500 you are too low in level.
+## Of course, the archmage could mess things up with his "Mind Sword". His
+## "Myollnir" shouldn't be a problem when you have Ryu in Thunder Warrior Form
+## and Momo equipped with the "Thunder Ring".
+
+**** Caer Xhan, Part 1: The city ****
+Recommended Party: Ryu, Momo & Garr
+My party:          Ryu 35, Momo 31, Garr 26
+
+At the beginning are two shops. Buy what you need there. Be sure to buy some
+Mind Shields. Never dispose or sell them!!! Find a building. When
+you see a little robot looking like Honey on the ground you got the right one.
+In the next room you might get hurt for a mysterious reason. It's because there
+are invisible security lasers. In the room below here (Easy to spot) there's a
+panel. Set it to "Test Mode" and the lasers will become visible. Go through the
+laser fields (Garr may easily get hurt here) :( and activate the panel you'll
+see. The computer should say that you got acces to Station Myria. At the end of
+the city is the building that leads to the elevator. Open the security door by
+using the panel near it and enter the giant elevator.
+
+**** Caer Xhan, Part 2: Entrance Myria Station ****
+## New enemies:
+## Adept           Uses "Meditation" to have stronger spells and use
+##                 Magic Shuffle to cast a spell at random. But they are easily
+##                 killed
+## Nightmare       Dream rings recommended because he has sleep. Easy to kill
+##                 with healing spells. Will run away when you are too strong.
+## Death Bot       Big laugh. Will first barrier, then protect and then might
+##                 after that, they are mostly already killed.
+## Armor           High defense but two physical attacks will crack their
+##                 armor dropping their defense. Warrior is nice for quick kill.
+
+The entrance is locked. To the right is a stairway down.
+You'll find an elevator not functioning. Go upstairs flip the lever and it'll
+get working. Go to the maintenance deck and continue your way. When you find
+a hallway turn right and you see two panels. Examine them both the disable to
+security system. Then go into the other way (one of the doors here leads to a
+room where you can rest and save). Once you get in the big hall go to the door
+with the orange path.
+
+**** Caer Xhan, Part 3: Drake Section ****
+My party:  Ryu 36, Momo 32, Garr 27
+## New enemies:
+## Red drake       Got some time, great. Use "BackHand" (Master Durandel) to
+##                 make his "Flame Breath" weaker. Use "Charm" (Master Meryleep)
+##                 on them and after that use "Steal" (Master D'lonzo) or
+##                 "Pilfer" to get a "Ring Of Fire". Make sure you got enough
+##                 for all party members.
+## Ice Drake       Same as Red Drake but now you'll get a "Ring Of Ice"
+## Hopper          "Ragnarok" hurts them bad. They are awfully strong. If you
+##                 were clever enough to let everyone have a Balance ring you
+##                 have one problem less to worry about.
+## Newt            Normal attacks are pretty strong. But that's really all
+##                 that's strong
+## Clone           Always attacks the one with the lowest ammount of HP.
+##                 Ragnarok kills them all.
+
+At the end you see a sleeping monster (Chimera). Deactivate the sleep gas. The
+electricity puzzles contains three panels. They are set like this:
+
+              |Panel 1|Panel 2|Wall|Panel 3|
+
+I always leave the first three spaces on the top line of panel 1 and 2 on
+neutral and the first two on panel 3. (Comprenez-vous?) and a road will be
+created. (Activate with X. Triangle will save the way you leave the panel but
+won't change the field itself).
+Well find your way to the boss.
+
+$$$$ Boss 31:             Chimera
+$$$$ Difficulty:          Pretty Hard
+$$$$ Recommended Party:   Ryu, Momo & Garr
+$$$$ My party:            Ryu 36, Momo 33, Garr 29
+$$$$ Recommended Form:    Chain with Ryu in the lead
+$$$$ Recommended Dragons: Warrior (Force)
+$$$$ Preperations:        Rings of Fire :)
+$$$$
+$$$$ FIST OF ALL! NEVER AND I MEAN NEVER USE "BEHEMOTH", "TIAMAT" OR "MAMOTH"!!!
+$$$$ You'll be in big trouble if you do.
+$$$$
+$$$$ Letting everyone wear a ring of fire will protect you against "Inferno" and
+$$$$ "Sirocco". His "Paralyzer" is very annoying and the reason why not to use
+$$$$ Behemoth, Tiamat or Mamoth. It even paralyses the Tiamat which is basically
+$$$$ invulnerable for such moves. Once you've taken this all in mind you should
+$$$$ be able to win. When in chain form it's nice to speed everyone (on Ryu it
+$$$$ won't make sense) up once to get EX-turns (if you were so clever with
+$$$$ Meryleep)
+
+After Chimera you'll get a keycard. It's junk so don't worry about that thing.
+The lift here takes you to HE shells. Bad weapon for Momo but you'll need it to
+complete the game.
+
+## Now come back here with Rei to take all the equipment here. It'll pay off!!
+
+Leave this section and the from the main hall the door with the green path will
+lead to the next part
+
+**** Caer Xhan, part 4: Artificial World Section ****
+Required party: Ryu, Momo and Rei
+My party:       Ryu 37, Momo 34, Rei 25
+
+## New enemies:
+## Foul Weed         Starts sleeping. Nice to steal "Power Foods". Vulnerable
+##                   to fire
+## Plant 42          Strong. If together with "Foul Weed" it'll bite it first to
+##                   wake it up
+## Goo King          Will mostly run away. If you steal from him he may want his
+##                   his item back and become extreemly dangerous. Dragons like
+##                   Behemoth or Warrior are recommended to kill him then.
+##                   Fastest way is "Aura" from the Warrior.
+
+To destroy the plant at the entrance equip Momo with HE shells and shoot at the
+plant. (Equip Momo with her Atomic Bomb again. I suppose you got that weapon) :)
+
+Afer find your way here you'll find a locked door. Have Rei to pick it.
+
+## Somewhere here a "Dragon Spear" is hidden. Good weapon for Garr against
+## boss #33.
+
+In the end you'll meet Teepo. He'll tell you something about the Brood and that
+he's Brood as well. After the talk he takes you into a dream world
+
+**** Caer Xhan, part 5: Ryu's dream ****
+Recommended Party: Only Ryu is available here.
+My party:          Ryu 37
+
+## New enemies:
+## Mad Gong        If low in level their Charge can be deadly.
+## ??? Weed (forgot the exact name)
+##                 Knows a lot of spells but they simple are too low in AP.
+##                 They throw much turns away with that.
+## Thanothos       Deadly spells and try to drain HP and AP.
+
+After you've heard Nina's story examine the dragon statue which'll say to turn
+back. Do so and you'll hear Rei's story.
+
+## The dragon statue here is a save and recovery spot
+
+The next statue says to bow down and pray before him. Don't touch any keys for
+awhile and the way will open.
+
+Then you'll hear Momo's story
+
+Step in the transporter and you'll get in a maze. Here's the shortest way.
+Follow the way to the West.
+Once you find a way to the South follow that one.
+When you see a way to the West go in there and step on the transporter
+Follow the way to the East and you'll meet Garr telling you his story.
+
+Step on the transporter and take the way to the East and when there's a way to
+the North take that one. Step on the transporter and hear Peco's story.
+Follow the way North and meet yourself.
+Follow once again the way to the North and then you'll meet Teepo again.
+Ryu disagrees with him and Teepo will say he's got to leave you
+in this dream.
+
+$$$$ Boss 31:             Arwan
+$$$$ Difficulty:          Pretty easy
+$$$$ Recommended Party:   Do we have much of a choice?
+$$$$ My party:            Ryu 38
+$$$$ Recommended Form:    -
+$$$$ Recommended Dragons: Warrior (Force)
+$$$$
+$$$$ Just turn into the warrior and keep on using normal attacks. The battle
+$$$$ will be over soon.
+
+You'll end up in the real world. Teepo will give you one more chance to give up
+your powes to Myria. Ryu refuses and Teepo sees no other choice but to kill you
+and he'll use his Brood powers.
+
+$$$$ Boss 32:             Dragon Lord (Teepo)
+$$$$ Difficulty:          Meant to be hard... Oh well.
+$$$$ Recommended Party:   Ryu, Momo and Garr
+$$$$ My party:            Ryu 38, Momo 35, Garr 30
+$$$$ Recommended Form:    Chain from with Ryu in the lead
+$$$$ Recommended Dragons: None (that's a surprise, now, is it)
+$$$$ Preperations:        Let everyone wear Ring Of Fire and Balance Ring.
+$$$$                      Especially, the balance ring is important.
+$$$$                      Also have some Mind Shields ready
+$$$$
+$$$$ Use shield about four times or so and some barriers and War Shout
+$$$$ (Or might). Speed everybody up (if you followed, blah blah you should get
+$$$$ EX-Turns) and this fight will be awfully easy. Only chickens use dragon
+$$$$ forms here (with these preperations).
+$$$$ Oh, you are a chicken? Then use Warrior.
+$$$$ A nice way to refill your AP is by using Mind Shields on him.
+
+Teepo will die and you'll get a security card. Go back to the main hall. The
+door with the blue path (you may want to go back to the rest-and-save-room to
+rest and save first) will lead to the next section
+
+**** Caer Xhan, Part 6: Sample Section ****
+Recommended Party: Ryu, Momo, Garr
+My party:          Ryu 39, Momo 36, Garr 30
+
+## New enemies:
+## Mist man        Much stronger than Armors. Use Warriors on them. Watch out
+##                 for "Thunder Strike" (Can be learned)
+## Revenant        "Pyrokenisis" is nice. Also vulnerable for healing spells.
+## Night Bat       Their Gloom will make that healing spells will kill you
+##                 in stead of healing you.
+## Vampire         Most interesting one. Two ways to kill him.
+##                 Eliminate his Night Bats and he'll get flustered. That'll
+##                 stop his regeneration of 500 HP, but he'll continue the fight
+##                 with more dangerous spells. Another way is the Warrior's
+##                 Aura, which will kill him instantly. This way is recommended
+##                 cause it provides much more experience.
+
+You'll reach an area with all kind of samples (Forgive me if I've mistaken the
+numbers, please)
+
+Recommended party is on all: Ryu, Momo and Garr and Form is Chain.
+
+**** Sample 1:     Nue 3x
+**** Difficulty:   EEEEEAAAASY
+**** Rec. Dragons: NONE!!!!!
+****
+**** Steal to get "Power Foods". Pyrokenisis is strong enough for instant kill.
+****
+****
+**** Sample 2:     Huge Slug 2x
+**** Difficulty:   Easy
+**** Rec. Dragons: None
+****
+**** Same as Huge slug. Right now so weak that dragons are no longer required.
+**** Have Garr to use Inferno in the first turn and the rest will be easy.
+**** Steal to get "Vitamins"
+****
+****
+**** Sample 3:     Mikba 2x
+**** Difficulty:   Medium
+**** Rec. Dragons: None / Warrior
+****
+****
+**** Counter nearly everything and use Venom breath in the first turn. A few
+**** Shields and it'll be much easier.
+****
+**** Sample 4:     Dodo 1x (Not met before)
+**** Difficulty:   Medium
+**** Rec. Dragons: None / Warrior
+****
+**** Few shields, and a war shout/might will do a great job here. Watch out for
+**** his "Evil Eye" that paralyses you
+****
+****
+
+**** Sample 5:     Angler 1x
+**** Difficulty:   Pretty easy
+**** Rec. Dragons: None
+****
+**** Maybe a few shields, a might and a a speed for EX-turns and that'll be all
+**** you need.
+****
+****
+**** Sample 6:     Ammonite 2x
+**** Difficulty:   Rather easy
+**** Rec. Dragons: None
+****
+**** Same as before, but you don't need dragon forms now. They are still as
+**** strong as before while you are now much stronger. Beware their "Tsunami"
+**** though.
+****
+****
+**** Sample 7:     Manmo 1x
+**** Difficulty:   Medium
+**** Rec. Dragons: Warrior / None
+****
+**** Same as Manmo before
+****
+****
+**** Sample 8:     Rocky 5x
+**** Diffculty:    Yawn
+**** Rec. Dragons: Waste of AP
+****
+**** Let Momo put them to sleep. Using the steal move (I have that on Ryu) gets
+**** you life shards. Pyrokenesis will kill them instantly
+****
+****
+**** Sample 9:     Gaist 1x
+**** Difficulty:   ¿Huh?
+**** Rec. Dragons: Waste of time
+**** Preperations: Ring of fire on everyone and balance ring on everyone
+****
+**** Only a few turns and he's dead
+****
+****
+**** Sample 10/11/12: Stallion 3x
+**** Difficulty:      Not hard if you took the right preperations
+**** Rec. Dragons:    I prefer none. You might want the warrior
+**** Preperations:    Ryu equiped with Dragon Armor, Dragon Shield, Ring of ice
+****                  Thunder ring
+****                  Garr and Momo: Ring of Ice and Ring Of Fire
+****
+**** You can steal from them to obtain Life Shards (Charm and Steal are
+**** recommeded for that).
+**** First turn they'll all use Barrier on the weakest. If all undamaged then
+**** all on the white one.
+**** Next turns the black one will only cast "Lightning", the red one
+**** "Fireblast" and the white one "Iceblast". If you took the right
+**** preperations, it's one big laugh. When they get weak they might do a normal
+**** attack, resist or Utmost Attack. Not really scary, after all...
+
+After being through some of these samples (you don't need to beat them all) you
+get in a room where you can rest and save. IT'S THE LAST SPOT IN THE GAME WHERE
+YOU CAN DO THAT!!!
+
+**** The Grand Finale ****
+Recommended Party: Ryu, Momo, Garr
+My party:          Ryu 40, Momo 37, Garr 37
+
+Go down the stairs and Honey will run away again. When you follow her you'll
+see that she'll open a huge door. Go down with the elevator and you'll see some
+holographic ladies telling you things. Not really important. At the end of this
+road you'll finally meet the goddess Myria.
+
+After hearing 15 minutes of crap have Ryu to talk to all his party members and
+then talk to Myria.
+
+She'll give you a choice:
+When you choose to give up your powers the game will end with Ryu in the room
+where Teepo was being locked up there forever
+
+When you choose to choose your own path Myria will get mad and try to kill you!
+
+$$$$ Boss 33:             The Goddess Myria   ** FINAL BOSS **
+$$$$ Difficulty:          Meant to be hard...... HA!!!!
+$$$$ Recommended Party:   Ryu, Momo and Garr
+$$$$ My party:            Ryu 40, Momo 38, Garr 38
+$$$$ Recommended Form:    Chain from with Ryu in the lead
+$$$$ Recommended Dragons: None for a challenge
+$$$$                      Warrior for a quick kill
+$$$$ Preperations:        Ryu  Weapon: Seeking Sword, Holy avenger or a Goo King
+$$$$                                   Sword.
+$$$$                           Armor:  Dragon Armor + Dragon Shield
+$$$$                           Rings:  Ring Of Ice and Balance Ring(!)
+$$$$                      Momo Weapon: Atomic Bomb
+$$$$                           Shield  Mind Shield
+$$$$                           Rings:  Ring of Fire + Balance Ring(!)
+$$$$                      Garr Shield: Giant Shield
+$$$$                           Rings:  Ring of Fire + Balance Ring(!)
+$$$$                      Balance rings are extreemly important
+$$$$                      Also have at least three minds shields ready and the
+$$$$                      Robe of Wind.
+$$$$                      I hope you had Ryu under master Meryleep all the time!
+$$$$                      I'm mostly around level 43 here.
+$$$$
+$$$$ 50 times of playing provided me knowlegde to get an easy win here without
+$$$$ using dragon forms. How about that!? The secret just lies in the right
+$$$$ preperations.
+$$$$
+$$$$ The only assist spell you should use is "Speed" over Momo (can be done with
+$$$$ a Robe Of Wind), since Myria has Sanctuary.
+$$$$
+$$$$ Ryu and Garr as used here as the offense. Turning Ryu into the Warrior will
+$$$$ shorten this fight much, but if you want to put it on your name toe have
+$$$$ beaten Myria without dragon forms, like me, the fight is not that hard
+$$$$ without dragon forms if you took my ultimate playing hints seriously.
+$$$$
+$$$$ I took Momo as a healer and when Momo starts to run out of AP I let Ryu
+$$$$ take it over and let Momo use a Mind Shield to drain some AP from Myria and
+$$$$ to have a refill this way. Ryu should do so too if he's running out (Can't
+$$$$ be done in dragon form, HAHAHA). If you chose not to use dragons you should
+$$$$ watch out with that, because using this too much will make Myria run out of
+$$$$ AP making you unable to refill again.
+$$$$
+$$$$ Myria's spells are easily broken with the right equipment. Her move Venom
+$$$$ can be easily cured. If you don't have Balance Rings, this move will cause
+$$$$ trouble because it confuses you all. If you have balance rings, this move
+$$$$ is a laugh.
+$$$$
+$$$$ When Myria gets weaker she'll start using Holocaust, which is her most
+$$$$ powerfull move. That move doesn't cost any AP so she can use it
+$$$$ unlimmetedly. But if you took my preperations seriously and use Mind Shield
+$$$$ when needed it's rather easy to get through.
+$$$$
+$$$$ And that's really it!
+
+After the fight Garr will enter the Stone Sleep and Ryu and friends escape Caer
+Xhan. Deis will tell Myria her opinion about what happened and Ryu and friends
+have an unknown destiny awaiting them....
+
+CONGRATULATIONS!!! YOU WON THE GAME!!!
+
+
+
+A few additions to this FAQ:
+=======
+MASTERS
+=======
+Master:         Mygass
+Location:       Near McNeil
+Accessible:     After beating the Nue
+Requirement:    All your money (0 zenny is also accepted)
+Stat. Change:   AP+1, Int+2, Pwr-1, Def-1
+Abilities:      Frost, Meditation, Magic Ball, Typhoon
+Recommendation: Let Ryu study under him as soon as you can. Release him from his
+                service as soon as he learned "Typhoon". Be sure you got that
+                spell before crossing Mt. Myrnegg
+
+Master:         Bunyan
+Location:       Chedar Woods
+Accessible:     After Balio and Sunder tried to kill you the first time
+Requirement:    None (I think, I think he wants you to have at least one master)
+Stat. Change:   HP+2, Pwr+2, Def+1, AP-2, Int-3
+Abilities:      Focus, Super Combo, Disembowel
+Recommendation: Ignore
+
+Master:         Durandel
+Location:       Hut near Wyndia
+Accessible:     After you've been in Wyndia
+Requirement:    None
+Stat. Change:   ?????, ????? (That's really what the game says)
+Abilities:      Unmotivate, Feign Swing, Backhand
+Recommendation: Train Nina under him to learn "BackHand" and use a skill ink to
+                give it to Ryu (Quickest way)
+
+Master:         D'lonzo
+Location:       Coffee Shop
+Accessible:     When you get there
+Requirement:    15 diffrent kind of weapons (equipped ones not included)
+Stat. Change:   Pwr+1, Agl+1, Accuracy up, HP-1, AP-2
+Abilities:      Monopolize, Intimidate, Steal
+Recommendation: Have Ryu under her to speed him up a little and Momo to make
+                her a little more accurate
+
+Master:         Yggdrasil
+Location:       Near Plant
+Accessible:     When you have Peco (only he can talk to him)
+Requirement:    Wisdom Fruit
+Stat. Change:   AP+1, Def+1, Int+2,HP-1, Pwr-2, Weaker vs Fire attacks
+Abilities:      Sanctuary, Recall, Shield
+Recommendation: I use Peco (still level 1 then) to learn "Shield" and give it
+                to Momo
+
+Master:         Fahl
+Location:       Genmel (Arena)
+Accessible:     After beating Stallion
+Requirement:    Win 30 fights without resting
+Stat. Change:   HP+4, Def+3, Pwr+1, Agl-3, Int-3
+Abilities:      Charge, Counter, Resist
+Recommendation  PUT MOMO UNDER HIM ASAP!!! She'll live much longer then!
+                NEVER RELEASE MOMO FROM HIM!!!!
+                His Resist move is also nice in some situations!
+
+Master:         Meryleep
+Location:       Mysterious Forest near Wyndia
+Accessible:     After beating Dolphin
+Requirement:    She wants her flower jewel
+Stat. Change:   Agl+2, HP-1, PWR-1, Def-1
+Abilities:      Charm, ShadowWalk, War Shout
+Recommendation: Have Ryu under her ASAP!!! You'll speed up extreemly much!
+
+Master:         Hondara
+Location:       Urkan Tapa
+Accessible:     When you get there
+Requirement:    Have Durandel in you master list
+Stat. Change:   AP+1, Int+1, Holy Properties Up, Pwr-2
+Abilities:      Purify, Kyrie, Bennediction
+Recommendation: He sucks
+
+Master:         Emitai
+Location:       Dauna Region
+Accessible:     When Ryu is an adult
+Requirements:   1000 Zenny
+Stat. Change:   AP+4, Int+4, Pwr-2, Def-2
+Abilties:       Barrier, Mind Sword, Enlighten
+Recommendation: I personally train Nina under him. Her magic will be very
+                powerfull :-).... She'll only get weaker that she already is...
+                but there are some ways to cover that. His only usefull move is
+                Barrier. I use a skill ink to give that to Momo.
+
+Master:         Hatchio
+Location:       Kitchen of Castle Wyndia
+Accessible:     After Nina ran away from home for the second time
+Requirements:   Swallow Eye, Martian Squid, Angler
+Stat. Change:   Don't know and I don't really want to check them
+Abilties:       Demon Bane (he got more, but I forgot them)
+Recommendation: Waste of time
+
+Master:         Bais
+Location:       Wyndia
+Accessible:     When Ryu becomes an adult
+Requirement:    Play hide-and-seek
+Stat. Change:   Pwr+1
+Abilities:      None, be he'll teach a new form. Chain form
+Recommendation: Have someone under him to learn chain form. I personally
+                prefer Rei
+
+Master:         Wynn
+Location:       Wyndia
+Accessible:     When Ryu becomes an adult
+Requirement:    Play hide-and-seek
+Stat. Change:   HP+1
+Abilities:      None. Teaches you new form. Refuge form.
+Recommendation: Nah....
+
+Master:         Lee
+Location:       Wyndia
+Accessible:     When Ryu becomes and adult
+Requirement:    Play hide-and-seek
+Stat. Change:   Int+1 (Need to check it)
+Abilities:      None. Teaches you new form. Magic form
+Recommendation: Not my preference
+
+MasterL         Lang
+Location:       Wyndia
+Accessible:     When Ryu becomes an adult
+Requirement:    Play hide-and-seek
+Stat. Change:   Don't know... I'll look it up for my updates
+Abilities:      Nobe. Gives you a cupid's lyre
+Recommendation: Yawn... No....
+
+Master:         Deis
+Location:       Mt. Zublo
+Accessible:     When you've spoken to the mayor of Parch about the Legendary
+                Mariner
+Requirements:   You have to call her "Ma'am"
+Stat. Change:   AP+3, Pwr+1, Agl+1,Int+3, HP-3, Def-3
+Abilities:      Inferno, Blizzard, Sirrocco, Myollnir, Celerity
+Recommendation: I use Peco (lowest in level) to train for Blizzard and give it
+                to Momo
+
+Master:         Giotto
+Location:       Beach near Rhapala
+Accessibe:      When you get there
+Requirements:   Fish... Don't know how much, but you must fish
+Stat. Change:   HP+4, AP+3, Prr-1, Def-1, Int-1
+Abilities:      Trump, Berserk, SuddenDeath
+Recommendation: Ignore, this guy is dangerous (I mean his abilities)
+
+Master:         Ladon
+Location:       Dragnier
+Accessible:     When you get there
+Requirements:   Ryu must have all dragon genes
+Stat. Change:   Pwr+3, Def+2, Agl+1, Int+2, AP-6, HP-6
+Abilities:      Mind's eye, Warth Of Light, Holy Strike, Aura
+Recommendation: HP -6, and AP -6 is too much of a price.
+
+==========
+GENE GUIDE
+==========
+As you may have discovered, Ryu has the power to transform into a dragon.
+But that is no real diffrence from the other Breath Of Fire episodes.
+However, BOF3 has the most complicated dragon system of the four parts that
+exist now.
+
+You have to pick a gene, and the you'll get the dragon that belongs to the
+gene. However you can also combine genes to get dragons that are more
+powerfull or dragons that can do more things.
+(By the way: The ability "Accession" in Ryu's attack magic menu will
+enable you to transform into a dragon).
+
+In this section I'll discuss the genes. Their basic functions and most
+logical combinations.
+
+** Flame
+Found where:       First gene. Will be activated when Balio and Sunder
+                   try to kidnap Nina and from that moment you can
+                   use "Accession" to transform into a dragon.
+Function:          Gives dragon form Flame properties.
+Nice combinations: - Nice to combine with other property gene however
+                     when combined with frost it'll be neutralized
+                   - With Defender or Torn it'll become a flame dragon
+                   - With Reverse you'll get frost properties instead
+                     of flame
+                   - Also nice to combine with Miracle and Force
+                   - Eldritch gives "Inferno" spell
+                   - Together with Frost and Thunder you'll become
+                     a Trygon. A gold dragon with thunder/flame/
+                     frost and dragon breath
+
+** Frost
+Found where:       Near the hut in Meakyss gorge. You can get there
+                   after beating Stallion
+Function:          Gives dragon form frost properties.
+Nice combinations: - Nice to combine with other property gene however
+                     when combined with flame it'll be neutralized
+                   - With Defender or Torn it'll become a frost dragon
+                   - With Reverse you'll get flame properties instead
+                     of flame
+                   - Also nice to combine with Miracle and Force
+                   - Eldritch gives "Blizzard" spell
+                   - Together with Flame and Thunder you'll become
+                     a Trygon. A gold dragon with thunder/flame/
+                     frost and dragon breath
+
+** Thunder
+Found where:       Hidden on the beach by a hut near Rhapala
+Function:          Gives dragon form thunder properties.
+Nice combinations: - Nice to combine with other property gene
+                   - With Defender or Thorn it'll become a thunder dragon
+                   - With Reverse the gene will be neutralized
+                   - Also nice to combine with Miracle and Force
+                   - Eldritch gives "Myollnir" spell
+                   - Together with Flame and frost you'll become
+                     a Trygon. A gold dragon with thunder/flame/
+                     frost and dragon breath
+
+** Shadow
+Found where:       Automaticly received when defeating Dragon Zombie
+Function:          Give dragon form powers of death
+Nice combinations: - Nice to combine with other property gene however
+                     radiance will neutralize this gene.
+                   - With Defender or Thorn it'll become a shadow dragon
+                   - With Reverse you'll get holy properties
+                   - Also nice to combine with Miracle and Force
+                   - Eldritch gives "Death" spell
+                   - Can be used to enhance Peco's Hybrid
+                     (See Hybrid section)
+                   - In combination with Trance it'll become
+                     a Tiamat
+
+
+** Radiance
+Found where:       Near the portal at the container yard
+Function:          Give dragon form holy powers
+Nice combinations: - Nice to combine with other property gene however
+                     shadow will neutralize this gene.
+                   - With Defender or Thorn it'll become a holy dragon
+                   - With Reverse you'll get holy properties
+                   - Also nice to combine with Miracle and Force
+                   - Eldritch gives "Resurrect" spell
+
+** Force
+Found where:       Hidden on the tubes in the secret lab under the plant
+Function:          Become a Warrior. Dragon that is superfast and with
+                   very much power. My favorite dragon
+Nice combinations: - Nice to combine with Flame, Frost, Thunder, Radiance
+                     and shadow. Your warrior can use their properties
+                   - With Trance you'll get the Myrmidon. Advanced version
+                     of the warrior
+                   - Can be used to enhance Rei's Hybrid (See Hybrid section)
+
+** Defender
+Found where:       Will be granted when Ryu and Nina jump of a mountain in
+                   order to escape Sunder
+Function:          Raises defence and give "counter" ability
+Nice combinations: - Flame, Frost, Thunder, Radiance and Shadow
+
+** Gross
+Found where:       On the field where Momo's rocked "landed"
+Function:          Junk
+Nice combinations: None
+
+** Thorn
+Found where:       Near the exit of the Tidal Caves
+Function:          Seems to enhance some statistics.
+Nice Combinations: - Nice with property genes
+                   - Combine with Miracle and Reverse to get
+                     "Wildfire". Golden whelp with little HP
+                     but extreemly high defense.
+
+** Miracle
+Found where:       In the volcano Mt. Zublo
+Function:          Become Behemoth. Very big dragon.
+Nice combinations: - Can be granted a property with property genes
+                   - Combined with ???? it'll become a Mammoth
+                   - Combined with Reverse and Thorn it'll become
+                     "Wildfire"
+
+** Eldritch
+Found Where:       At the top of the lighthouse
+Function:          Have some magic abilities to your dragon
+Nice combinations: - Reverse will neutralize this :(
+                   - Combine with property genes to get a
+                     related spell
+                   - Enhances Nina's Hybrid (See hybrid section)
+
+** Reverse
+Found where:       Hard to spot. There's a spot marked as a "?"
+                   near the place where you get after using the
+                   cable lift. It's located there.
+Function:          Reverse properties
+Nice combinations: - Flame will become Frost
+                   - Frost will become Flame
+                   - Thunder & Eldritch will be neutralized
+                   - Radiance will become shadow
+                   - Shadow will become radiance
+                   - With Miracle and Thorn it'll be Wildfire
+
+** Mutant
+Found where:       On steel beach
+Function:          Random dragon form
+Nice combinations: With ???? it'll become Pygmy. A funny but
+                   not really functional dragon from
+
+** ????
+Found where:       Near the fishing spot near Steel Beach
+Function:          None. Nice to get some secret dragons forms
+Nice combinations: - Enhances Momo's Hybrid
+                   - In combination with Miracle you get Mammoth
+
+** Trance
+Found where:       By Yggdrasil at the other side of the ocean
+Function:          None. Nice to get some secret dragon forms
+Nice Combinations: - With Shadow you'll get Tiamat
+                   - With Force you'll get Myrmidon
+
+** Failure
+Found where:       At the Colony. Can't miss it.
+Function:          Neutralizes all other genes and gain control
+                   over the Kaiser
+Nice combinations: Use it with Infinity. See Infinity for details
+
+** Fusion
+Found where:       You'll get it after defeating dragon zombie
+Function:          Become a hybrid by combining Brood powers with
+                   your friends powers.
+Nice combinations: See Hybrid section
+
+** Infinity
+Found where:       When defeating the Elder
+Function:          Become a Kaiser
+Nice combinations: The Kaiser is out of control. With Failure you
+                   can gain control over him.
+
+===================
+SECRET DRAGON FORMS
+===================
+Most of the dragon form are easily taken (The needed ones are also described in
+the walktrough).
+
+There are some secret ones:
+
+Myrmidon - Force   + Trance
+Tiamat   - Shadow  + Trance
+Mammoth  - Miracle + ????
+Pygmy    - Mutant  + ????
+Wildfire - Miracle + Thorn + Reverse
+Trygon   - Flame   + Frost + Thunder
+
+=======
+HYBRIDS
+=======
+A form I never use accesible with the fusion gene. This form depends on your
+party and Ryu will take the powers of one of his allies. With an extra gene
+you can also take an advanced form (depending on the kind of hybrid). One
+note, there is no hybrid of Garr (as far as I know).... Another note, dead
+party members will be counted as not in the party.
+
+Hybrid from:        Nina
+With parties:       Nina / Nina + Garr / Nina + Peco
+Advanced with gene: Eldritch
+
+Hybrid from:        Momo
+With parties:       Momo / Momo + Nina / Momo + Peco
+Advanced with gene: ????? (That's really the gene's name)
+
+Hybrid from:        Rei
+With parties:       Rei / Rei + Momo / Rei + Nina
+Advanced with gene: Force
+
+Hybrid from:        Peco
+With parties:       Peco / Peco + Rei / Peco + Garr
+Advanced with gene: Shadow
+
+No hybrid but:      Whelp (No hybrid from Garr)
+With parties:       Garr / Garr + Rei / Garr + Momo
+Advanced with gene: N/A
+
+============
+FAERIE GUIDE
+============
+Index:   Part 1: What does everything do?
+         Part 2: Recommendation for best results
+
+*** Faeries part 1: What does everything do?
+
+Below I described what everything does
+
+* Scholar - Job
+The faeries assigned on this skill will try to find new jobs.
+Without these students you'll never have any jobs, so this is a very important
+one.
+
+* Scholar - Culture
+This will make your culture level higher after a period of time.
+When it's high enough the "scholar - job"'s will learn about new
+jobs sooner and your merchants will get new merchandise quicker.
+
+* Merchant
+Easy these fellows will sell you something.
+They start with one item, but as their
+merchandise increases they can offer you more stuff.
+What I tell you about them is what I got from them so far.
+
+** Weapons - Speed
+Pointed Stick      10 zenny
+Waistcloth        210 zenny
+Bronze Sword      240 zenny
+Buckler          1100 zenny
+Wind Cutter      2200 zenny
+Crepe Cape       1300 zenny
+Flame Talons     3300 zenny
+Laurel           1800 zenny
+Royal Dagger     6200 zenny
+Spiked Gauntlets 6800 zenny
+Ice Halberd     12500 zenny
+
+** Weapons - Ability
+Pointed Stick      10 zenny
+Waistcloth        210 zenny
+Bronze Sword      240 zenny
+Crepe Cape       1300 zenny
+Flame Talons     3300 zenny
+Amber B-Plate    6100 zenny
+Piercing Pike    7400 zenny
+Katzbalger       9200 zenny
+Protectors      11000 zenny
+Tiger's Cap      5300 zenny
+Ouroboros       22000 zenny
+
+** Items - Speed
+Green Apple         5 zenny
+Vitamin            50 zenny
+Panacea           100 zenny
+MultiVitamin      300 zenny
+Ammonia           200 zenny
+Talisman          500 zenny
+Life Sandals      500 zenny
+High Boots       3000 zenny
+Titan Belt       3000 zenny
+Dream Ring       1000 zenny
+Balance Ring     1000 zenny
+
+** Items - Ability
+Green Apple         5 zenny
+Vitamin            50 zenny
+Panacea           100 zenny
+Ammonia           200 zenny
+High Boots       3000 zenny
+Lion's Belt      3000 zenny
+Napalm            800 zenny
+Dream Ring       1000 zenny
+Balance Ring     1000 zenny
+Barrier Ring     3000 zenny
+Diamond Ring     3000 zenny
+
+** Handyman - Speed
+Berries             5 zenny
+Beef Jerky         50 zenny
+Clothing           50 zenny
+Flame Crysm       500 zenny
+Napalm            800 zenny
+Bell Collar     10000 zenny
+Angling Rod      2000 zenny
+Belladonna        200 zenny
+Royal Dagger     6200 zenny
+Holy Mantle     10000 zenny
+
+** Handyman - Ability
+Berries             5 zenny
+Beef Jerky         50 zenny
+Taser             200 zenny
+Tiger Claws      3800 zenny
+Agling Rod       2000 zenny
+Lion's Belt      3000 zenny
+Bell Collar     10000 zenny
+Soul Gem         3000 zenny
+Holy Mantle     10000 zenny
+Molotov            10 zenny
+Hidden Dagger    7000 zenny
+
+* Inn
+The first fearie assigned to this one will run an
+inn for only 10 zenny for a rest. The second faerie
+on this skill (same room) will tell you how long
+you've been playing the game, how many monsters
+you defeated and how much money you made so far.
+
+* Gift
+Will give away items. It's always a surprise what
+you get but sometimes the items are really cool!
+Items I received so far: Icicle, Firecracker,
+Life Shard, Magic Shard, Fish-Head, Protein,
+Power Food, Coupons, Panacea, Vitamin, Wisdom Fruit.
+
+* Explorer
+Will explore the world to find items. Whatever he finds
+will be given to you. This is a dangerous one. Faeries
+could get killed by this one.
+
+* Antiques
+Will buy strange items. When you got items which the game describes
+as "Appears valuable" you can sell them here. The faerie assigned on
+this skill will give you more for it!
+
+* Music
+The faerie assigned on this skill will let you enjoy some music.
+Not very usefull, is it?
+
+* Casino
+Allows you to gamble. Just as in
+reality: Only stupid guys use this one!
+
+* Copy
+This is a very dangerous feature. Not for the faeries but for you.
+The faeries assigned on this skill will try to copy an item. When
+you gave them an item, never close the shop or assign other
+faeries to it. You'll loose the item. Copy could fail, in most
+cases you'll get your item back, but sometimes they will screw
+it up and that they'll (accidently) destroy the original item!
+
+*** Faeries Part 2: Recommendation
+As soon as Ryu becomes an adult (after defeating Garr in Angel Tower)
+you can start the civilization. It's really advisable to start a
+civilization. Especially when you want an easy win on the final boss.
+
+First have a few hunters and a student for Culture. As soon as you can
+start building (you need to clear to get room to build)
+
+As soon as you can have a student for "Work". One of the first jobs
+they'll discover is "Merchant".
+
+As soon as you can have a Merchant "Items Ability". They sell
+"Balance Rings" which you will need most of in the last parts of the
+game. This is most important.
+
+Having a "Handyman - Ability" can be handy if you want to defeat the
+"Berserker" to have some soul gems in case. If your lucky you won't
+need them there, but just in case. If you don't want to beat the
+berserker, then forget this one.
+
+Having an Inn is recommended too. This is the cheapest Inn possible
+and inns are one of the few ways to restore lost max HP.
+
+The last very recommended thing to get a lot of money is to open
+an antiques. Sell items that "Appear Valuable".
+
+The other rooms are by used as "Gift" and I let myself surprise me
+if they give good items.... :)
+
+========================
+Hidden Powers of Weapons
+========================
+Some weapons have hidden powers which can be released by using
+them like an item during combat. The good point is that you can do
+this unlimmited times per items but you can only use each
+weapon (or armor) once per turn.
+
+Here are the spells casted when using the weapon/armor as an item:
+Dragon Blade ...................... Fireblast
+Holy Avenger ...................... Might
+Laquer Staff ...................... Silence
+Mind Shield ....................... Steals some % of the enemy's AP. Much
+                                    more power full than Leech Power :-)
+Piercing Edge ..................... Weaken
+Robe Of Wind ...................... Speed
+Royal Sword ....................... Lightning
+Thunder Rod ....................... Jolt
+
+==========
+Inn prices
+==========
+Arena        100 zenny
+Coffee Shop  100 zenny (Better go to the plant! It's cheaper there).
+Faerie World  10 zenny
+Genmel       100 zenny
+Junk Town    100 zenny
+Kombinat     200 zenny
+Parch        100 zenny
+Plant         30 zenny
+Rhapala       50 zenny
+Urkan Tapa    100 zenny
+Wyndia        50 zenny
+
+
+========================
+Big chests on Black Ship
+========================
+You know the puzzle where you have three big wooden crates
+you must move with the crane to create a path. WHen you pick the
+fouth one you'll receive a bonus.
+It depens on which crate you pick.
+1. Protectors
+2. Ascension
+3. Light Bangle
+4. Wisdom Fruit
+
+=============================
+Where to catch the best fish?
+=============================
+There are serveral fishing spots around the world. What can you catch there?
+
+Central Wyndia - Near Maekyss Gorge
+NOTE!!!!!! This fishing spot will be available when you spoke to the woman at
+the house in Maekyss Gorge in order to make Shisu for the mayor of Parch.
+The best ingredients for that Maekyss specialty, shisu, can be found here.
+Puffer
+Martian Squid
+Mackerel
+
+Central Wyndia - South West Meakyss
+Hangout of the fishing gang
+Puffer
+Rainbowtrout
+Bass
+
+Central Wyndia - Past Myrnegg
+Something bizarre is wimming with the fish here
+Jellyfish
+Bass
+Martian Squid
+
+Dauna Region - Near Emitai
+They say that some unusual fish live in the colder areas upstream.
+Red Catfish
+Bass
+Martian Squid
+
+Dauna Region - Near Checkpoint North
+The silence is almost tangible in this husband place
+Pirana
+Trout
+Rainbowtrout
+Barandy
+Manillo
+
+Eastern Wyndia - Near Momo's Tower
+A famous spot where everyone catches the "big ones".
+Flying fish
+Blowfish
+Black Porgy
+Octopus
+Manillo
+
+Eastern Wyndia - Near bridge that was once guarded by Sunder
+There are lots of different fish gathered here.
+Pirana
+Trout
+Rainbowtrout
+Bass
+Black Bass
+
+Lost Shore
+Man-o-War
+Flying Fish
+Spearfish
+Whale
+Manillo
+
+Rhapala Region - Between Cliff and the Tidal Caves (Accessible one you became an
+adult)
+Famous octopus fishing bed
+Octopus
+Angler
+Devilfish
+Manillo
+
+Raphala Region - Beach near master Giotto
+A beach famous for good fishing
+Man-o'-war
+Flying fish
+Sea Bass
+Octopus
+
+Raphala Region - North of Big Bridge
+This is the best place to get fresh river fish
+Man-o'-War
+Flying Fish
+Sea Bream
+
+Urkan Region - Near crags of Legenday Mariner
+Tide pool formed by Outer Sea and the Middle Sea
+Man-o'-War
+FLying Fish
+Blowfish
+Sea Bream
+Sea Bass
+Black Porgy
+Octopus
+Angler
+Devilfish
+Spearfish
+Manillo
+
+Urkan Region - Past Steel Beach
+The best fish in the world are said to be here in this bed
+Sea Bream
+Devilfish
+Spearfish
+
+Urkan Region - On the way to the Tidal Caves
+Area famous for the "big ones"
+Sea Bream
+Black Porgy
+Angler
+Manillo
+
+Yraall Region - Behind Farm
+You can see a familiar shape amogst the fish
+Pirana
+Puffer
+Trout
+Manillo
+
+Yraall Region - Near Mygass
+There are lots of small fish swimming in the stream
+Jellyfish
+Pirana
+RainbowTrout
+
+Yraall Region - Between Mount Levett and Ogre Road (accisible one you became an
+adult)
+One of the most popular fishing spots, just full of big fish
+Puffer
+Trout
+Black Bass
+
+==========================
+Mannillo trading shop list
+==========================
+In many fishing spots (not by all) you may see some traders in the water, known
+as "Manillo". You can catch them by using a coin as bait. Try to lead them as
+shortly
+to you as possible and let them grab the coin at 1m or 0m. That's the best way
+to catch them.
+
+Manillo's trade items, weapons, armor and more shit and you must pay them with
+fishes. This list will show of all Manillo's what they got and what they want.
+
+
+Near Syn City  (Dauna Region)
+Wisdom Ring            1 x Black Bass    5 x RainbowTrout    5 x Trout
+Lion's Belt            1 x Angler        9 x RainbowTrout    9 x Trout
+Ginseng                2 x Bass          5 x RainbowTrout    5 x Trout
+Caro                   2 x RainbowTrout  3 x Trout
+Frong                  2 x RainbowTrout  3 x Trout
+Top                    3 x RainbowTrout  2 x Trout
+Hanger                 3 x RainbowTrout  2 x Trout
+Skill Ink              2 x Mart. Squid   1 x RainbowTrout    1 x Trout
+Katzbalger             1 x Barandy       2 x Black Bass      1 x Red Catfish
+Laurel                 1 x Barandy       2 x Black Bass      1 x Bass
+
+Behind the Farm  (Yraal Region)
+Silver Knife           2 x RainbowTrout  2 x Trout
+Iron Helm              1 x Trout         1 x Pirana
+Waistcloth             1 x Trout         1 x Puffer
+Spirit                 3 x Pirana
+Baby Frog              3 x Pirana
+Popper                 2 x Puffer
+Float                  2 x Puffer
+Skill Ink              1 x RainbowTrout  1 x Trout
+Bell Collar            3 x Angler        3 x Mart. Squid     5 x Sea Bream
+Holy Mantle            3 x Black Bass    9 x Bass            9 x Sea Bass
+
+Near Momo's Tower        (Eastern Wyndia)
+Chain Cap              1 x Bass          3 x Blowfish
+Crepe Cape             1 x Black Porgy   4 x Flying Fish
+Spirit                 3 x Blowfish
+Baby Frog              3 x Blowfish
+Popper                 2 x Flying Fish
+Float                  2 x Flying Fish
+Skill Ink              2 x Octopus
+
+Before the Tidal Caves    (Urkan Region)
+Wisdom Ring            1 x Angler        2 x Black Porgy    2 x Sea Bream
+Lion's Belt            2 x Mart. Squid   2 x Bass           4 x Sea Bass
+Ginseng                1 x Mart. Squid   2 x Octopus        3 x Sea Bass
+Caro                   3 x Sea Bream
+Frog                   3 x Sea Bream
+Top                    2 x Octopus
+Hanger                 2 x Octopus
+Skill Ink              1 x Angler        1 x Black Porgy
+
+After the Tidal Caves     (Rhapala Region)
+Hawk's Ring            3 x Black Bass    5 x Bass
+Artmis' Cap            2 x Black Bass    2 x Angler         5 x Sea Bream
+Speed Boots            1 x Barandy       1 x Black Bass     2 x Devilfish
+Soul Gem               1 x Barandy       2 x Sea Bass
+Bell Collar            2 x Devilfish     3 x Angler         9 x Sea Bream
+Holy Mantle            3 x Black bass    9 x Bass           9 x Sea Bass
+Skill Ink              2 x Octopus       1 x Devilfish
+
+Between Inner Sea and Outer Sea. Near Steel Beach  (Urkan Region)
+Demonsbane             1 x Spearfish     2 x Black Bass
+Aries Spear            1 x Spearfish     9 x Sea Bass       9 x Sea Bream
+Heavy Caro             1 x Devilfish     1 x Mart. Squid    2 x Octopus
+Fat Frog               1 x Devilfish     1 x Mart. Squid    2 x Octopus
+Dogwalker              1 x Devilfish     1 x Mart. Squid    2 x Octopus
+Deep Diver             1 x Devilfish     1 x Mart. Squid    2 x Octopus
+Skill Ink              2 x Octopus       1 x Devilfish
+
+Near Kombinat   (Lost shore)
+Royal Sword            1 x Whale         3 x Spearfish      1 x Barandy
+Life Armor             1 x Whale         1 x Spearfish      3 x Barandy
+Cupid's Lyre           1 x Whale         2 x Barandy        5 x Red Catfish
+Shaman's Ring          1 x Whale         3 x Spearfish      5 x Red Catfish
+Ivory Dice             1 x Spearfish     1 x Red Catfish    5 x Mackerel
+Skill Ink              1 x Spearfish     1 x Devilfish
+
+=========================
+Other FAQ's by Tricrokra:
+=========================
+Breath Of Fire III - Walktrough with Ultimate Playing Hints
+Breath Of Fire III - Fishing list
+Breath Of Fire III - Manillo Tranding Shops
+Breath Of Fire IV  - Boss Guide
+Breath Of Fire IV  - Combo Guide
+Grandia            - Boss Guide with recommended spells
+Granstream Saga    - Boss Guide
+Wild Arms          - Boss Guide
+Wild Arms 2        - Boss Guide
+
+Go to be sure you got the latest of my FAQs or to ask me anything to:
+www.geocities.com/tric_faq
+
+You could find my FAQs on:
+www.gamefaqs.com
+www.neoseeker.com
+www.gamester.com
+www.psxcodez.com
+
+If you like RPGs, maybe you'll like my production "Power Of The Rings".
+It's a simple RPG game, but surely it's fun. You can download it from
+the site: http://members.nbci.com/tricrokra
+
+If any of these addresses causes a 404, please e-mail me about it.

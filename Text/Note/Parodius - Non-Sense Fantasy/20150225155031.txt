@@ -1,0 +1,9 @@
+European version
+==========
+There are a few changes in the European SNES version:
+
+* During the intro, a cigarette was removed
+* In the Japanese version, the clown enemies in stage two have a Christian cross. This was changed to a wind-up key.
+* A background picture of a naked woman in level three, a parody of The Birth of Venus, was removed.
+* The licking animations of the stage three bosses were removed.
+* The bunny costumes and ears of female enemies in stage seven were removed.

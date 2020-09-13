@@ -1,0 +1,410 @@
+
+                     エストポリス 伝記
+                       Estpolis Denki
+                             vs
+               Lufia &  the Fortress of Doom
+                        Changes FAQ
+              -------------------------------
+                   Revision 4 - 03/30/03
+
+             Document and Translations by D-BOY
+             http://www.oakland.edu/~dcsoboda/
+
+-------------------------------------------------------------
+CHANGE LOG:
+-------------------------------------------------------------
+Revision 4: No real content changes, just update my contact
+            information. Suggestions for the FAQ would be
+            nice.
+Revision 3: Added a translation of the introduction of the
+            game (just for anyone who feels like comparing).
+Revision 2: Cleaned up all spelling errors. Removed a useless
+            entry from the monsters table. Temporarily
+            removed "Green Orb". While that name is known to
+            be incorrect I still haven't decided on a proper
+            translation for the real name.
+Revision 1: Initial release
+
+-------------------------------------------------------------
+TABLE OF CONTENTS:
+-------------------------------------------------------------
+I.   Agreement
+II.  Why write this?
+III. Change Lists (includes Japanese S-JIS text)
+IV.  Intro Translation
+V.   Other Changes
+VI.  Credits & Notes
+
+-------------------------------------------------------------
+I. AGREEMENT
+-------------------------------------------------------------
+Suggestions for improvement are quite welcome. You can
+e-Mail them to me at dcsoboda@oakland.edu. I would hope
+that this document does generate some input.
+
+If you would like to use my changes list in a text hack of
+Lufia & the Fortress of Doom or a fan remake of the game,
+feel free. I'd appreciate it if you credited me though. If
+you do use this list in something like that, e-Mail me and
+let me know! I'm always interested in projects like that.
+
+Lastly, do not redistribute this document without my
+permission. Currently the only websites with permission
+to house this documents are my website and GameFAQS
+(located at http://www.gamefaqs.com/). If you see this
+document at any other site, please e-Mail me and let me
+know.
+
+-------------------------------------------------------------
+II. WHY WRITE THIS?
+-------------------------------------------------------------
+A while ago I was toying with the idea of translating this
+classic (my favorite RPG of all time). But I thought it best
+to play through the Japanese title, Estpolis Denki, once
+more to see if this was really warranted.
+
+Let me say now Lufia & the Fortress of Doom has one of the
+best English translations of ANY game I have ever seen.
+Almost every single dialogue box is exactly the way I would
+have written it. There were some minor name changes but to
+be honest, in most all instances the made-up English name
+was BETTER than the Japanese name (more meaningful while
+conveying the same message). Whomever translated this game
+should be hired to work on every English game release because
+they are just awesome.
+
+I honestly wouldn't change a thing about the English version
+of this game. It's a masterpiece work (a shame the later
+games could never come close to matching it's quality).
+However for the curious I have complied a list of name
+changes in the game. It is mostly complete but there's still
+a chance of things missing here and there. If there's
+anything you'd like to suggest that i may be missing, you
+can e-Mail me at dboy@jumpstation.org.
+
+Most of these changes were done using script dumps of the
+item/monster/etc lists from both the English and Japanese
+games. Special thanks to Heythere for donating the English
+lists for me.
+
+-------------------------------------------------------------
+III. CHANGE LISTS
+-------------------------------------------------------------
+Rather than pick out every single changed instance in the
+game, I decided it would be better to present a complete list
+of the tems so you can see which ones were not changed as
+well as which ones were. There are several sections to this
+listing.
+
+ +---------------------------------------------------------+
+ | Japanese          | Translation       | English         |
+ +---------------------------------------------------------+
+ | Character Names:                                        |
+ +---------------------------------------------------------+
+ | 主人公            | Protagonist       | Hero            |
+ | 四狂神            | Four Mad Gods     | Sinistrals      |
+ | アグロス          | Aguros            | Aguro           |
+ | ジュリナ          | Jerina            | Jerin           |
+ | アーティ          | Arty              | Artea           |
+ | エリーヌ          | Erin              | Erim            |
+ +---------------------------------------------------------+
+ | Town Names (few changes):                               |
+ +---------------------------------------------------------+
+ | シャイアだい１    | Shaia Lab 1       | Platina         |
+ | シャイアだい３    | Shaia Lab 3       | Carbis          |
+ | しちながれとう    | Pawning Place     | Forfeit Island  |
+ +---------------------------------------------------------+
+ | Item Names:                                             |
+ +---------------------------------------------------------+
+ | ブロンズソード    | Bronze Sword      | Brone Sword     |
+ | カッターウイップ  | Cutter Whip       | Cat Whip        |
+ | デスピック        | Death Pick        | Gloom Pick      |
+ | ワンピース        | One-Piece         | Dress           |
+ | レザーアーマー    | Leather Armor     | Tan Armor       |
+ | レザーローブ      | Leather Robe      | Tan Robe        |
+ | ブロンズアーマー  | Bronze Armor      | Brone Armor     |
+ | ブロンズローブ    | Bronze Robe       | Brone Robe      |
+ | シースルーシルク  | See-Through Silk  | Clear Silk      |
+ | レザーシールド    | Leather Shield    | Tan Shield      |
+ | ブロンズシールド  | Bronze Shield     | Brone Shield    |
+ | シルバーシールド  | Silver Shield     | Silver Plate    |
+ | ジルコンシールド  | Zircon Shield     | Zircon Plate    |
+ | レザーヘルム      | Leather Helm      | Tan Helm        |
+ | ブロンズヘルム    | Bronze Helm       | Brone Helm      |
+ | サークレット      | Circlet           | Sakret          |
+ | レザーシューズ    | Leather Shoes     | Tan Shoes       |
+ | ハイヒール        | High Heels        | Heeled Shoes    |
+ | カッターヒール    | Cutter Heels      | Cat Heels       |
+ | インテリリング    | Intelligence Ring | Mind Ring       |
+ | レギ・リング      | Raygi Ring        | Flash Ring      |
+ | フレイ・リング    | Fray Ring         | Flame Ring      |
+ | ウオム・リング    | Wom Ring          | Water Ring      |
+ | ラギ・リング      | Lagi Ring         | Blast Ring      |
+ | リア・リング      | Lia Ring          | Frost Ring      |
+ | たいこのよろい    | Ancient Armor     | Might Armor     |
+ | たいこのたて      | Ancient Shield    | Might Shield    |
+ | たいこのかぶと    | Ancient Helmet    | Might Helmet    |
+ | デス・リング      | Death Ring        | Gloom Ring      |
+ | しにがみのこえ    | Death's Voice     | Gloom Voice     |
+ | ブロンズブレスト  | Bronze Breast     | Brone Breast    |
+ | ホーリーソード    | Holy Sword        | Carbo Sword     |
+ | ホーリープレート  | Holy Plate        | Carbo Plate     |
+ | ホーリーシールド  | Holy Shield       | Carbo Shield    |
+ | ホーリーヘルム    | Holy Helm         | Carbo Helm      |
+ | ホーリーキャップ  | Holy Cap          | Carbo Cap       |
+ | デス・ガード      | Death Guard       | Gloom Guard     |
+ | エンゲージリング  | Engagement Ring   | Engage Ring     |
+ | エクスポーション  | X-Potion          | Ex Potion       |
+ | エクスマジック    | X-Magic           | Ex Magic        |
+ | せいすい          | Pure Water        | Sweet Water     |
+ | じゃあくのみず    | Evil Water        | Foul Water      |
+ | いしのきもち      | Stone Sense       | Stone Cure      |
+ | パワードラッグ    | Power Drug        | Power Gourd     |
+ | インテリドラッグ  | Intelligence Drug | Mind Gourd      |
+ | いのちのみなもと  | Life Source       | Power Potion    |
+ | まほうのみなもと  | Magic Source      | Spell Potion    |
+ | はやさのみなもと  | Speed Source      | Speed Potion    |
+ | ちしきのみなもと  | Knowledge Source  | Mind Potion     |
+ | ちからのみなもと  | Strength Source   | Great Potion    |
+ | フライソール      | Fly Soar          | Float           |
+ | エクスアローズ    | X-Arrows          | Ex Arrows       |
+ | コンフアロー      | Confuse Arrow     | Puzzle Arrow    |
+ | パラライズアロー  | Paralyze Arrow    | Stun Arrow      |
+ | デスアロー        | Death Arrow       | Gloom Arrow     |
+ | エクスボム        | X-Bomb            | Ex Bomb         |
+ | ミラクロース      | Miraculous        | Miracle         |
+ | デルデル          | Call Back         | Revive          |
+ | ラム              | Rum               | Pear Cider      |
+ | ウオッカ          | Vodka             | Sour Cider      |
+ | ジン              | Gin               | Lime Cider      |
+ | リキュール        | Liqueur           | Plum Cider      |
+ | タプローズ        | Whiskey           | Apple Cider     |
+ | サルのぬいぐるみ  | Stuffed Monkey    | Stuffed Pig     |
+ | ワイングラス      | Wine Glass        | Goblet          |
+ | みみかき          | Earpick           | Ear Tip         |
+ | バニーのふく      | Bunny Clothes     | Gown            |
+ | バニーのみみ      | Bunny Ears        | Ribbon          | 
+ | ほうちょう        | Carving Knife     | Small Knife     |
+ | なべ              | Saucepan          | Pot             |
+ | まないた          | Chopping Board    | Chop Block      |
+ | きせきのいし      | Miracle Stone     | Miracle Gem     |
+ | ぎんのしょくだい  | Gold Candlestick  | Silver Wick     |
+ | おうのちょうぞう  | King's Sculpture  | Royal Statue    |
+ | おうごんのチェス  | Golden Chess Set  | Golden Pawn     |
+ | ダイヤおうかん    | Diamond Crown     | Crown Jewels    |
+ | テザール          | Desert            | Escape          |
+ | まほうのつぼ      | Magic Vase        | Magic Jar       |
+ | ドラゴンのキバ    | Dragon Fang       | Dragon Tooth    |
+ | イモリのくろやき  | Charred Newt      | Grilled Newt    |
+ | たいこのつるぎ    | Ancient Sword     | Might Sword     |
+ | ごすんくぎ        | Spike             | Long Nail       |
+ | アーティのゆみ    | Arty's Bow        | Artea's Bow     |
+ | たいこのゆみ      | Ancient Sword     | Might Sword     |
+ | ろうじんのてがみ  | Old Man's Letter  | Letter          |
+ | さいだんへのカギ  | Key to the Altar  | Dais Key        |
+ | みどりサファイア  | Green Sapphire    | Green Jade      |
+ | あおサファイア    | Blue Sapphire     | Blue Jade       |
+ | ムラサキトカゲ    | Lizard Soy Sauce  | Purple Newt     |
+ | まほうのあじつけ  | Magic Seasoning   | Magic Flavor    |
+ +---------------------------------------------------------+
+ | Spell Names:                                            |
+ +---------------------------------------------------------+
+ | レ・ギ            | Ray-Gi            | Flash           |
+ | レ・ギオ          | Ray-Gio           | Bolt            |
+ | レ・ギオン        | Ray-Gion          | Thunder         |
+ | フ・レイ          | Fu-Rei            | Spark           |
+ | フ・レア          | Fu-Rea            | Flame           |
+ | フ・レイア        | Fu-Reia           | Vulcan          |
+ | ウオ・ム          | Wo-Mu             | Dew             |
+ | ウオ・ルム        | Wo-Rum            | Water           |
+ | ウオ・ルド        | Wo-Rud            | Flood           |
+ | ラ・ギ            | Rah-Gi            | Bang            |
+ | ラ・ギル          | Rah-Gil           | Blast           |
+ | ラ・ギアン        | Rah-Gian          | Sunder          |
+ | リ・ア            | Ree-Ah            | Frost           |
+ | リ・デト          | Ree-Det           | Blizzard        |
+ | リ・デルト        | Ree-Delt          | Glacier         |
+ | デ・ス            | Death             | Perish          |
+ | デ・バイル        | De-Pilu           | Succumb         |
+ | スレイ            | Slay              | Drowsy          |
+ | スクレイ          | Skrey             | Fright          |
+ | ムール            | Muur              | Deflect         |
+ | ムージル          | Muujir            | Bounce          |
+ | フィグ            | Feeg              | Confuse         |
+ | ディフ            | Dif               | Bravery         |
+ | ディレクト        | Direct            | Courage         |
+ | プロト            | Prote             | Shield          |
+ | プロテク          | Protek            | Protect         |
+ | ハーデン          | Harden            | Statue          |
+ | エスト            | Est               | Strong          |
+ | エスリト          | Estori            | Stronger        |
+ | エスリート        | Esreet            | Champion        |
+ | エストナ          | Estona            | Boost           |
+ | エスティア        | Esdia             | Valor           |
+ | パライズ          | Paraize           | Stun            |
+ | デルデ            | Deld              | Dead            |
+ | デルアル          | Delar             | Rally           |
+ | アンスト          | Unstone           | Stone           |
+ | ウエイク          | Wake              | Waken           |
+ | スイング          | Swing             | Warp            |
+ | テザー            | Desert            | Escape          |
+ | ソール            | Soar              | Float           |
+ | アテレート        | Aterut            | Elf             |
+ | フィガル          | Figal             | Figual          |
+ | エレ・ギ          | Ele-Gi            | Elegi           |
+ | エレ・ギオ        | Ele-Gio           | Elegio          |
+ +---------------------------------------------------------+
+ | Monster Names:                                          |
+ +---------------------------------------------------------+
+ | ジェリー          | Jelly             | Jellyfish       |
+ | ラットモビル      | Rat Mobile        | Rat             |
+ | うつぼかずら      | Nepenthes         | Nettles         |
+ | マッシュル        | Mushroom          | Madshroom       |
+ | はりトカゲ        | Needle Lizard     | Spike Newt      |
+ | ミニデビル        | Mini Devil        | Mini Demon      |
+ | グール            | Gel               | Ghoul           |
+ | パグ              | Bug               | Flamefreak      |
+ | オオトカゲ        | Big Lizard        | Giant Newt      |
+ | わらうつぼ        | Laughing Vase     | Crazy Jar       |
+ | グレートバット    | Great Bat         | Giant Bat       |
+ | マディボール      | Muddy Ball        | Red Orb         |
+ | スモールクラブ    | Small Crab        | Mini Crab       |
+ | アースウオーム    | Earthworm         | Land Worm       |
+ | モジャモジャ      | Shaggy            | Big Meany       |
+ | ピエロのピエール  | Pierrot           | Horrorquin      |
+ | ストローフィギア  | Straw Figure      | Staw Man        |
+ | アーチャー        | Archer            | Yeoman          |
+ | おおぐちそう      | Big Mouth         | Chomp Weed      |
+ | ヌーボー          | Nouveau           | Mud Man         |
+ | まほうつかい      | Wizard            | Red Mage        |
+ | ニードルリザード  | Needle Lizard     | Pin Lizard      |
+ | キラーソード      | Killer Sword      | Swordspook      |
+ | パンプキンボーイ  | Pumpkin Boy       | Nightmare       |
+ | ブルードッグ      | Blue Dog          | Blue Wolf       |
+ | ダークデビル      | Dark Devil        | Dark Demon      |
+ | モコモコ          | Shaggier          | Blue Meany      |
+ | のろいのにんぎょう| Cursed Doll       | Nail Man        |
+ | トレント          | Trent             | Giant Oak       |
+ | おにび            | Jack-o-Lantern    | Flamespook      |
+ | マイマイ          | Snail             | Spellsnail      |
+ | ラミア            | Lamia             | Gargoyle        |
+ | まほうのつぼ      | Magic Vase        | Crazy Pot       |
+ | ウオリアー        | Warrior           | Fight           |
+ | オオカミ          | Wolf              | Werewolf        |
+ | リリパット        | Lilliputian       | Archer          |
+ | ピエロのダニエル  | Daniel the Clown  | Terrorquin      |
+ | メイスファイター  | Mace Fighter      | Mace Man        |
+ | コカトリス        | Cockatrice        | Zooster         |
+ | スピリッツボール  | Spirit Ball       | Blue Wisp       |
+ | ゴーストアーマー  | Ghost Armor       | Ghost Mail      |
+ | バンパイアローズ  | Vampire Rose      | Dracu Rose      |
+ | ソードスピリッツ  | Sword Spirit      | Sabrespook      |
+ | イボガエル        | Wart Toad         | Frogula         |
+ | サンドボーイ      | Sand Boy          | Sand Man        |
+ | メタルナイト      | Metal Knight      | Axe Knight      |
+ | マディグール      | Muddy Ghoul       | Mud Ghoul       |
+ | クイナクイナ      | Water Rail        | Rok             |
+ | スカルヘッド      | Skull Head        | Blue Skull      |
+ | ソーサラー        | Sorcerer          | Green Magi      |
+ | ビッグラビット    | Big Rabbit        | Huge Bunny      |
+ | コリドラス        | Corydoras         | Ice Snake       |
+ | エビルシェル      | Evil Shell        | Evil Clam       |
+ | レッドロブスター  | Red Lobster       | Lobsteron       |
+ | ジーラ            | Jira              | Mangura         |
+ | ディープフィッシュ| Deep Fish         | Kiler Eel       |
+ | ヘルハウンド      | Hell Hound        | Red Wolf        |
+ | トラップハーブ    | Trap Herb         | Trap Harp       |
+ | マッドピッグ      | Mad Pig           | Gold Orc        |
+ | だいおうガエル    | Great King Frog   | Mega Frog       |
+ | ビーグ            | Beak              | Cave Rok        |
+ | アーマーナイト    | Armor Knight      | Armor Lord      |
+ | しにがみ          | Death             | Dark Spook      |
+ | マッドエント      | Mad Ent           | Crazy Pine      |
+ | ヘルナイト        | Hell Knight       | Steel Lord      |
+ | クックドール      | Coc-a-doodle-doo  | Roozard         |
+ | さまようよろい    | Roaming Armor     | Fire Plate      |
+ | デザートローズ    | Desert Rose       | Sand Rose       |
+ | ひとくいかずら    | Cannibal Plant    | Mad Lily        |
+ | デンゲキクラゲ    | Shock Jellyfish   | Jelly Bolt      |
+ | オニヒトデ        | Demon Starfish    | Red Star        |
+ | オオシャコガイ    | Giant Clam        | Psychoclam      |
+ | ウオムエレメント  | Wo-Mu Elemental   | Waterspout      |
+ | しこガエル        | Ugly Frog         | Werefrog        |
+ | ストーンゴーレム  | Stone Golem       | Rock Golem      |
+ | だいちのまじん    | Earth Spirit      | Atlas           |
+ | カオスヘッド      | Chaos Head        | Red Skull       |
+ | マウンテンタートル| Mountain Turtle   | Megaturtle      |
+ | だいまどうし      | Great Sage        | Mad Cleric      |
+ | ウオームアイ      | Warm Eye          | Eye Curse       |
+ | ブロキオン        | Brachiosaur       | Zaurus Rex      |
+ | デス              | Death             | Gloom           |
+ | バリアント        | Variant           | Barient         |
+ | アークデーモン    | Arch Demon        | Act Demon       |
+ | アースエレメント  | Earth Elemental   | Electromaz      |
+ | ウィンドエレメント| Wind Elemental    | Whirlwind       |
+ | ファイアエレメント| Fire Elemental    | Fire Wave       |
+ | アースガーディアン| Earth Guardian    | Humungus        |
+ | ごずりゅう        | 5-Headed Dragon   | Act Hydra       |
+ | アークドラゴン    | Arch Dragon       | Act Dragon      |
+ | ゴールドミミック  | Gold Mimic        | Mimicker        |
+ | エリーヌ          | Erin              | Erim            |
+ | ガルディオス      | Gar Dios          | Guard Dios      |
+ | デビルゴースト    | Devil Ghost       | Phantasm        |
+ | アモンのてした    | Amon's Underling  | Follower        |
+ | ダークスピリット  | Dark Spirit       | Dark Ghost      |
+ | かみのまどうし    | God's Sage        | Guardian        |
+ | ミニデビルぶたい  | Mini-Devil Corps  | Demon Lord      |
+ | ゴブリンギャング  | Goblin Gang       | Goblins         |
+ | アーティのでし    | Arty's Pupil      | Apprentice      |
+ | いちばんでし      | Number 1 Follower | Bosun           |
+ +---------------------------------------------------------+
+
+-------------------------------------------------------------
+IV. INTRO TRANSLATION
+-------------------------------------------------------------
+           An island suddenly appeared in the sky.
+                 Four gods descended upon it.
+  The gods were the four gods of terror, destruction, chaos,
+                          and death.
+     The people on the ground feared them and called them
+                        Four Mad Gods.
+                The reign of terror continued.
+    Soldiers gathered from around the world to resist the
+                        Four Mad Gods.
+       But the power of the Four Mad Gods was absolute.
+          The people's last hope were four warriors,
+                 Maxim, Selan, Guy, and Arty.
+             And now, the final strike has begun...
+
+-------------------------------------------------------------
+V. OTHER CHANGES
+-------------------------------------------------------------
+There was Nintendo of America censorship acting in several
+places in this game.
+ - The Houses of Healing had their religious imagery removed.
+   Their rear wall had three crosses and the person running
+   them was a priest dressed in red with a cross on his
+   shirt. This was replaced by what appears to be a woman or
+   very old man in an apron.
+ - All the bars in the game used to sell lots and lots of
+   booze. The USA release replaced this with "cider". The
+   spoken text is still accurate however. Just replace the
+   word "cider" with "booze" whenever you see it :)
+
+-------------------------------------------------------------
+VI. CREDITS AND NOTES
+-------------------------------------------------------------
+These lists were translated off direct dumps from the game
+so I know nothing at all is missing. For those who would like
+to point out the dummy items in the English game, they exist
+in the Japanese game was well. Sorry, you didn't get screwed
+like in Final Fantasy IV :-P
+
+Special thanks to Heythere for giving me the English dumps.
+Also a thanks to s911kippy for helping with a few monsters.
+Other than that this was all my work on a quick run through
+the game.
+
+-----------------------------------------------------------
+Copyright 2002
+

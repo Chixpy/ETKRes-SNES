@@ -1,0 +1,249 @@
+LUFIA AND THE FORTRESS OF DOOM
+
+----------------------------------------------
+Character Maximum Guide - Date/Version 1.06.27
+----------------------------------------------
+
+By Apostrophe (apostrophe@myrealbox.com)
+
+------------------------ Introduction ------------------------
+
+After a grueling couple of hours of experimentation, I created
+these three Pro Action Replay codes which will pretty much max
+out your characters in the first LUFIA game for the SNES.
+
+Why make a guide simply for three codes?  Well, when I started
+playing the game, I looked around for codes that would help me
+skip all the annoying leveling-up in the game.
+
+I play RPGs for the stories, not the battles.  There's nothing
+that I hate more than to really get into the game, and then be
+forced to put that aside just to level myself up enough to get
+past some enemy to continue the game.
+
+Unfortunately, all the codes I found were ones that gave you a
+"false high" (so to speak.)  For example, try one of the codes
+in the other guides that sets one of your attributes to 999.
+
+Save your game after making sure the code works.  Now turn off
+the game and remove the Pro Action Replay (or disable "cheats"
+if you're using an emulator.)  Now turn the game back on.  Are
+you still at 999?  Nope, it's been set back to whatever number
+you had before using the code.
+
+And how about items?  The only codes I could find that'll help
+you get a desired item were ones that "might" give you an item
+after a battle (with a 70% chance of success.)  What does this
+mean?  More battles...
+
+------------- The Codes: Maximize Your Character -------------
+
+Use the following three codes, and you'll need to win just one
+battle to level up your character all the way.  Be prepared to
+press the "B" button quite a lot though, as it details all the
+spells and attribute you've acquired with the experience.
+
+7E141AFF + 7E141BFF + 7E141CFF
+
+
+--------------- The Codes: Maximize Your Money ---------------
+
+This code will give you the most gold that you can acquire per
+battle (65,535 Gold Pieces.)  In just a few battles, you'll be
+set for life.
+
+7E141DFF + 7E141EFF
+
+
+------------- The Codes: Maximize Your Inventory -------------
+
+Here's my pride and joy.  By using this code, it will give you
+any item in the game (and even some that were removed from the
+game - Note the "Dummy" items.)
+
+7E16C0??
+
+How it works:
+
+Look at the charts below and find the hex code that represents
+the item you want to obtain.  Let's say you'd like to have the
+Might Sword right now.  That's represented by the code: E2
+
+Take the above code and replace the ?? with the item hex code,
+which in this case is E2.  That makes the code: 7E16C0E2
+
+Enable this code and when you go into the Hero's equip screen,
+you'll see that the item you chose is now in your weapon slot.
+(This will even work with non-weapon items.  Ha ha!)  Now just
+unequip the item, and you'll find that instead of removing the
+item, you simply placed a duplicate of it into your item list.
+
+Now just keep unequipping the item until you have your desired
+amount of that item.  Then, once you're done with that, change
+codes to a different item and repeat the process.
+
+I found this method really easy, since I was using an emulator
+to find these codes (they didn't sell Pro Action Replays where
+I lived, I own a Game Genie.)  And Snes9x has a great debugger
+for making codes.
+
+Though, I can imagine that this method would be rather tedious
+in a real Pro Action Replay device, because then you'd have to
+keep turning on and off the game to change the item.
+
+(Note:  You may want to unequip the Hero's weapon before using
+this code since it would replace whatever he's holding.)
+
+
+------------------- The Codes: Items Chart -------------------
+
+00 -    Nothing                 80 -    Dummy (?)
+01 -    Knife                   81 -    Brone Breast
+02 -    Club                    82 -    Carbo Sword
+03 -    Mace                    83 -    Carbo Plate
+04 -    Dagger                  84 -    Carbo Shield
+05 -    Long Knife              85 -    Carbo Helm
+06 -    Short Sword             86 -    Carbo Cap
+07 -    Rod                     87 -    Gloom Guard
+08 -    Gladius                 88 -    Diamond Ring
+09 -    Glass Robe              89 -    Engage Ring
+0A -    Brone Sword             8A -    Monster Ring
+0B -    Staff                   8B -    Blue Ring
+0C -    Scimitar                8C -    Yellow Ring
+0D -    Rapier                  8D -    Red Ring
+0E -    Long Sword              8E -    Purple Ring
+0F -    Long Staff              8F -    Green Ring
+10 -    Axe                     90 -    White Ring
+11 -    Spear                   91 -    Black Ring
+12 -    Morning Star            92 -    Heavy Ring
+13 -    Catwhip                 93 -    Wave Ring
+14 -    Battle Axe              94 -    Potion
+15 -    Hammer Rod              95 -    Hi Potion
+16 -    Trident                 96 -    Ex Potion
+17 -    Silver Rod              97 -    Hi Magic
+18 -    Silver Sword            98 -    Ex Magic
+19 -    Buster Sword            99 -    Antidote
+1A -    Zircon Rod              9A -    Sweet Water
+1B -    Great Axe               9B -    Foul Water
+1C -    Great Blade             9C -    Awaken
+1D -    Zircon Axe              9D -    Stone Cure
+1E -    Zircon Sword            9E -    Mystery Pin
+1F -    Broad Sword             9F -    Shriek
+20 -    Broad Rod               A0 -    Swing Wing
+21 -    Luck Blade              A1 -    Magic Guard
+22 -    Gloom Pick              A2 -    Power Gourd
+23 -    Dual Blade              A3 -    Mind Gourd
+24 -    Dress                   A4 -    Power Potion
+25 -    Cloth                   A5 -    Spell Potion
+26 -    Cloth Armor             A6 -    Speed Potion
+27 -    Robe                    A7 -    Mind Potion
+28 -    Tan Armor               A8 -    Great Potion
+29 -    Tan Robe                A9 -    Float
+2A -    Light Armor             AA -    Smoke Ball
+2B -    Light Robe              AB -    Arrow
+2C -    Chain Mail              AC -    Mid Arrow
+2D -    Chain Cloth             AD -    Big Arrow
+2E -    Plate Cloth             AE -    Arrows
+2F -    Brone Armor             AF -    Hi Arrows
+30 -    Quilted Silk            B0 -    Ex Arrows
+31 -    Half Mail               B1 -    Dragon Arrow
+32 -    Brone Robe              B2 -    Sleep Arrow
+33 -    Silver Armor            B3 -    Puzzle Arrow
+34 -    Silver Robe             B4 -    Stun Arrow
+35 -    Plate Mail              B5 -    Gloom Arrow
+36 -    Zircon Robe             B6 -    Bomb
+37 -    Zircon Armor            B7 -    Hi Bomb
+38 -    Clear Silk              B8 -    Ex Bomb
+39 -    Bracelet                B9 -    Miracle
+3A -    Tan Shield              BA -    Revive
+3B -    Wood Shield             BB -    Pear Cider
+3C -    Buckler                 BC -    Sour Cider
+3D -    Wood Wrist              BD -    Lime Cider
+3E -    Kite Shield             BE -    Plum Cider
+3F -    Round Shield            BF -    Apple Cider
+40 -    Round Wrist             C0 -    Hair Band
+41 -    Brone Shield            C1 -    Brooch
+42 -    Tower Shield            C2 -    Earring
+43 -    Large Shield            C3 -    Necklace
+44 -    Silver Wrist            C4 -    Stuffed Bear
+45 -    Silver Plate            C5 -    Stuffed Dog
+46 -    Zircon Wrist            C6 -    Stuffed Pig
+47 -    Zircon Plate            C7 -    Emerald
+48 -    Cloth Helm              C8 -    Opal
+49 -    Tan Helm                C9 -    Goblet
+4A -    Hair Band               CA -    Ear Tip
+4B -    Wood Helm               CB -    Empty Bottle
+4C -    Glass Cap               CC -    Gown
+4D -    Brone Helm              CD -    Ribbon
+4E -    Red Beret               CE -    Fry Pan
+4F -    Iron Helm               CF -    Small Knife
+50 -    Plate Cap               D0 -    Pot
+51 -    Plate Helm              D1 -    Chop Block
+52 -    Glass Beret             D2 -    Apron
+53 -    Silver Helm             D3 -    Dragon Egg
+54 -    Sakret                  D4 -    Crown
+55 -    Zircon Beret            D5 -    Secret Map
+56 -    Zircon Helm             D6 -    Miracle Gem
+57 -    Sandal                  D7 -    Silver Wick
+58 -    Cloth Shoes             D8 -    Royal Statue
+59 -    Tan Shoes               D9 -    Silver Tarot
+5A -    Spike Shoes             DA -    Golden Pawn
+5B -    Heeled Shoes            DB -    Crown Jewels
+5C -    Wind Shoes              DC -    Wind Flute
+5D -    Wind Heels              DD -    Escape
+5E -    Knife Shoes             DE -    Magic Jar
+5F -    Needle Heels            DF -    Dragon Tooth
+60 -    Sonic Shoes             E0 -    Grilled Newt
+61 -    Sonic Heels             E1 -    Poison Pin
+62 -    Sword Shoes             E2 -    Might Sword
+63 -    Cat Heels               E3 -    Straw Doll
+64 -    Mach Shoes              E4 -    Long Nail
+65 -    Mach Heels              E5 -    Bomb
+66 -    Power Ring              E6 -    Alumina
+67 -    HiPower Ring            E7 -    Power Oil
+68 -    Daze Ring               E8 -    Elven Bow
+69 -    Hi Daze Ring            E9 -    Artea's Bow
+6A -    Mind Ring               EA -    Might Bow
+6B -    Sonic Ring              EB -    Dummy (?)
+6C -    Mach Ring               EC -    Dummy (?)
+6D -    Undead Ring             ED -    Dummy (?)
+6E -    Ghost Ring              EE -    Dummy (?)
+6F -    Dragon Ring             EF -    Free Door
+70 -    Sea Ring                F0 -    Sheran Key
+71 -    Fly Ring                F1 -    Letter
+72 -    Water Ring              F2 -    Dais Key
+73 -    Fire Ring               F3 -    Shrine Key
+74 -    Ice Ring                F4 -    Pirate Key
+75 -    Electro Ring            F5 -    Light Key
+76 -    Flash Ring              F6 -    Oil Key
+77 -    Flame Ring              F7 -    Green Jade
+78 -    Water Ring              F8 -    Red Sapphire
+79 -    Blast Ring              F9 -    Blue Jade
+7A -    Frost Ring              FA -    Purple Newt
+7B -    Might Armor             FB -    Glasdar Key
+7C -    Might Shield            FC -    Magic Flavor
+7D -    Might Helmet            FD -    Fairy Kiss
+7E -    Gloom Ring              FE -    Not Used
+7F -    Gloom Voice             FF -    Not Used
+
+------------------------ Next Version ------------------------
+
+Will there be another version?  I doubt it.  I originally made
+this FAQ back in January 2001, but I was planning on releasing
+it once I completed the game again.  Due to several unforeseen
+events, I haven't had the time to, so I'm releasing it now.
+
+----------------------- Special Thanks -----------------------
+
+Special thanks go out to my good friend, Kailin, who suggested
+this game to me.  I miss you.  May she rest in peace...
+
+------------------------ Copyrighting ------------------------
+
+(c) 2001 Apostrophe.  All rights reserved.
+
+I own this FAQ, and I'm giving you permission to distribute it
+as long as you keep this document intact and exactly the same.
+This permission only applies to this version of the FAQ.  If a
+never version comes out with different copyrighting, then this
+copyright still only applies to this file and not the new one.

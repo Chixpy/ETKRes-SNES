@@ -1,0 +1,766 @@
+ _                                                                   ____
+| `\  -.   __      _____ _   _                      ____ _____ ,--.  | 
+|  / |  \ |  ` /^\   |   |   |           .--.      |    '  |   |   \ |
+/~'\ |  / |   |   |  |   |   |      .---.|_        |       |   |  ./ |___
+|   ||-{  |-- |---|  |   |---|      |   ||         |--/    |   |-/   |
+|   ||  \ |   |   |  |   |   |      `---'|         |       |   | `\  |
+| ./ |   ||__.|   |  |   |   |          /          |     __|__ |   | |___
+/'                                                                
+                          SAVE STATE HACKING GUIDE
+			  
+           /\                                                 /\
+ _         )( ______________________   ______________________ )(         _
+(_)///////(**)______________________> <______________________(**)\\\\\\\(_)
+           )(                                                 )(
+           \/                                                 \/
+
+
+Version 1.1
+(c) 2002
+Written by Harrison Chagolla
+Agent@uomail.com
+
+--------
+Contents
+--------
+1.Player offsets
+  I.Position One
+   II.Position Two
+    III.Position Three
+     IV.Position Four 
+      V.Position Five
+       VI.Position Six
+        VII.Position Seven
+         VIII.Position Eight
+2. Items
+3. Legal stuff
+4. Thanks
+5. Updates
+
+--------------------------
+Player offsets
+**NOTE:DO NOT EQUIP A SHIELD
+TO CHARACTERS THAT ARE USING
+TWO HANDED WEAPONS!!!IT WILL
+SCREW UP YOUR SAVE STATE.
+--------------------------
+Here are the positions on the menu:
+[1-------5]
+[2-------6]
+[3-------7]
+[4-------8]
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+I.Position One
+Note: These offsets is for 
+the character that is in the first
+position in the menu.
+
+Level 1C5D
+Exp 1C67,1C68,1C69
+Max HP 1C5F,1C60   *Max HP is 999 (E7 03)
+Current HP 1C61,1C62
+Max AP 1C63,1C64   *Max AP is 999 (E7 03)
+Current AP 1C65,1C66
+
+Str 1C6A
+Vigor 1C6B
+Wisdom 1C6C
+Agility 1C6D
+Mag 1C6E
+Luck 1C6F
+Attack 1C70,1C71
+Defense 1C62,1C63
+Int 1C74
+Fate 1C75
+Act 1C76
+
+Equipment offsets
+Weapon 1C7B,1C7C 
+Shield 1C7D,1C7E
+Armor 1C7F,1C80
+Helmet\Hat 1C81,1C82
+Etc 1C57,1C58
+Etc 2 1C59,1C5A
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+Here are the positions on the menu:
+[1-------5]
+[2-------6]
+[3-------7]
+[4-------8]
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+II.Position Two
+Note: These offsets is for 
+the character that is in the Second
+position on the menu.
+
+Level 1CFD
+Exp 1D07,1D08,1D09
+Max HP 1CFF,1D00
+Current HP 1D01,1D02
+Max AP 1D03,1D04
+Current AP 1D05,1D06
+
+Str 1D0A
+Vigor 1D0B
+Wisdom 1D0C
+Agility 1D0D
+Mag 1D0E
+Luck 1D0F
+Attack 1D10,1D11
+Defense 1D12,1D13
+Int 1D14
+Fate 1D15
+Act 1D16
+
+Equipment offsets
+Weapon 1D1B,1D1C
+Shield 1D1D,1D1E
+Armor 1D1F,1D20
+Helmet\Hat 1D21,1D22
+Etc 1CF7,1CF8
+Etc 2 1CF9,1CFA
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+Here are the positions on the menu:
+[1-------5]
+[2-------6]
+[3-------7]
+[4-------8]
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+III.Position Three
+Note: These offsets is for 
+the character that is in the third
+position on the menu.
+
+Level 1D9D
+Exp 1DA7,1DA8,1DA9
+Max HP 1D9F,1DA0
+Current HP 1DA1,1DA2
+Max AP 1D93,1D94
+Current AP 1995,1D96
+
+Str 1DAA
+Vigor 1DAB
+Wisdom 1DAC
+Agility 1DAD
+Mag 1DAE
+Luck 1DAF
+Attack 1DAO,1DB1
+Defense 1DB2,1DB3
+Int 1DB4
+Fate 1DB5
+Act 1DB6
+
+Equipment offsets
+Weapon 1DBB,1DBC
+Shield 1DBD,1DBE
+Armor 1DBF,1DB0
+Helmet\Hat 1DC1,1DC2
+Etc 1D97,1D98
+Etc 2 1D99,1D9A
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+Here are the positions on the menu:
+[1-------5]
+[2-------6]
+[3-------7]
+[4-------8]
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+IV.Position Four
+Note: These offsets is for 
+the character that is in the fourth
+position on the menu.
+
+Level 1E3D
+Exp 1E47,1E48,1E49
+Max HP 1E3F,1E40
+Current HP 1E41,1E42
+Max AP 1E43,1E44
+Current AP 1E45,1E46
+
+Str 1E4A
+Vigor 1E4B
+Wisdom 1E4C
+Agility 1E4D
+Mag 1E4E
+Luck 1E4F
+Attack 1E50,1E51
+Defense 1E52,1E53
+Int 1E54
+Fate 1E55
+Act 1E56
+
+Equipment offsets
+Weapon 1E5B,1E5C
+Shield 1E5D,1E5E
+Armor 1E5F,1E5O
+Helmet\Hat 1E61,1E62
+Etc 1E37,1E38
+Etc 2 1E39,1E3A
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+Here are the positions on the menu:
+[1-------5]
+[2-------6]
+[3-------7]
+[4-------8]
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+V.Position Five
+Note: These offsets is for 
+the character that is in the fifth
+position on the menu.
+
+Level 1EDD
+Exp 1EF7,1EF8,1EF9
+Max HP 1EDF,1EF0
+Current HP 1EE1,1EE2
+Max AP 1EE3,1EE4
+Current AP 1EE5,1EE6
+
+Str 1EEA
+Vigor 1EEB
+Wisdom 1EEC
+Agility 1EED
+Mag 1EEE
+Luck 1EEF
+Attack 1EF0,1EF1
+Defense 1EF2,1EF3
+Int 1EF4
+Fate 1EF5
+Act 1EF6
+
+Equipment offsets
+Weapon 1EFB,1EFC 
+Shield 1EFD,1EFE
+Armor 1EFF,1F00
+Helmet\Hat 1F01,1F02
+Etc 1ED7,1ED8
+Etc 2 1ED9,1EDA
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+Here are the positions on the menu:
+[1-------5]
+[2-------6]
+[3-------7]
+[4-------8]
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+VI.Position Six
+Note: These offsets is for 
+the character that is in the sixth
+position on the menu.
+
+Level 1F7D
+Exp 1F87,1F88,1F89
+Max HP 1F7F,1F80
+Current HP 1F81,1F82
+Max AP 1F82,1F84
+Current AP 1F85,1F86
+
+Str 1F8A
+Vigor 1F8B
+Wisdom 1F8C
+Agility 1F8D
+Mag 1F8E
+Luck 1F8F
+Attack 1F90,1F91
+Defense 1F92,1F93
+Int 1F94
+Fate 1F95
+Act 1F96
+
+Equipment offsets
+Weapon 1F9B,1F9C
+Shield 1F9D,1F9E
+Armor 1F9F,1FA0
+Helmet\Hat 1FA1,1FA2
+Etc 1F77,1F78
+Etc 2 1F79,1F7A
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+Here are the positions on the menu:
+[1-------5]
+[2-------6]
+[3-------7]
+[4-------8]
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+VII.Position seven
+Note: These offsets is for 
+the character that is in the seventh
+position on the menu.
+
+Level 201D
+Exp 
+Max HP 201F,2020
+Current HP 2021,2022
+Max AP 2023,2024
+Current AP 2025,2026
+
+Str 202A
+Vigor 202B
+Wisdom 202C
+Agility 202D
+Mag 202E
+Luck 202F
+Attack 2030,2031
+Defense 2032,2033
+Int 2034
+Fate 2035
+Act 2036
+
+Equipment offsets
+Weapon 203B,202C
+Shield 203D,203E
+Armor 203F,2040
+Helmet\Hat 2041,2042
+Etc 2017,2018
+Etc 2 2019,201A
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+Here are the positions on the menu:
+[1-------5]
+[2-------6]
+[3-------7]
+[4-------8]
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+VIII.Position Eight
+Note: These offsets is for 
+the character that is in the Eighth
+position on the menu.
+
+Level 20BD
+Exp 
+Max HP 20BF,20C0
+Current HP 20C1,20C2
+Max AP 20C3,20C4
+Current AP 20C5,20C6
+
+Str 20CA
+Vigor 20CB
+Wisdom 20CC
+Agility 20CD
+Mag 20CE
+Luck 20CF
+Attack 20D0,20D1
+Defense 20D2,20D3
+Int 20D4
+Fate 20D5
+Act 20D6
+
+Equipment offsets
+Weapon 20DB,20DC
+Shield 20DD,20DE
+Armor 20DF,20E0
+Helmet\Hat 20E1,20E2
+Etc 20B7,20B8
+Etc 2 20B9,20BA
+-=+=-=+=-=+=-=+=-=+=-=+=-=+=-
+----------------------------------
+Item slots 5D53-5DB2
+NOTE: You also put the weapons,armors
+helmets,rings,shields and etc. in the 
+item slots.
+Gold:5C33,5C34,5C35 Max is 999,999 (3F 42 0F)
+----------------------------------
+
+
+
+-Digits for Items:
+NOTE: You put in the item offset
+then you put in how many you want
+Example 3 Cures Would look like
+09 03.
+                  
+08 Herb           
+09 Cure           
+0a Antdt          
+0b Acorn          
+0c M.Drop         
+0d T.Drop         
+0e Charm          
+0f Life2          
+10 Mrbl1          
+11 Mrbl2          
+12 Mrbl3          
+13 Whskrs         
+14 Worm           
+15 Worm2          
+16 Shrimp         
+17 Urchin         
+18 Shell          
+19 Apple          
+1a ProtnA         
+1b Antler         
+1c W.Meat         
+1d Life           
+1e Nails          
+1f Meat           
+20 B.stn          
+21 F.stn          
+22 C.stn          
+23 Smoke          
+24 DKkiss         
+25 Cure2          
+26 ProtnB         
+27 Sash           
+28 W.ptn          
+29 S.ptn          
+2a HrGlass        
+2b ExpBug         
+2c Slab           
+2d Lifter         
+2e E.key          
+2f ClnWtr         
+30 Coach          
+31 Clog           
+32 A.ptn          
+33 L.ptn          
+34 V.ptn          
+35 Dr.Soul        
+36 DrWarp         
+37 PlceBo         
+38 Remedy         
+39 WtrJr         
+3a Saw           
+3b Tablet        
+3c Ring          
+3d WtrJr'        
+3e KngKey         
+3f Paper          
+40 Oath           
+41 Pouch          
+42 GnPwdr         
+43 LtKey          
+44 Dkkey          
+45 Mirror         
+46 Book                
+47 Srdine         
+48 Mackrl         
+49 Sole           
+4a Trout          
+4b C.fsh          
+4c Snapr          
+4d Tuna           
+4e Puffer         
+4f Rod1          
+50 Rod2          
+51 Rod3          
+52 Rod4          
+53 Rod5          
+54 I.Ore         
+55 Key           
+56 Vitamn         
+57 Statue         
+58 OldEgg         
+59 Goods                    
+5b Sphere         
+5c Gills          
+5d G.Bar          
+5e Icicle         
+5f Fife           
+60 Pass           
+61 B.Part         
+62 Parts          
+63 D.Hrt          
+64 Map            
+65 List           
+66 Wtzit          
+67 Note1          
+68 Note2          
+69 I.Claw         
+6a TmKey          
+6b B.Rang         
+6c SkyKey         
+6d Cowl           
+6e Bolster      
+6f Maestro        
+70 G.Fly          
+71 Oil            
+72 M.cura         
+73 Melon          
+74 Fruit          
+75 P.Fish         
+76 Root           
+77 C.Nut         
+78 W.Ant          
+79 Tonic          
+7a Herb         
+7b Antd   
+7c Drop       
+7d Chrm           
+7e Cure         
+7f Acrn         
+
+
+-Digits for Weapons:
+
+    Weapons        Defense Power    Weight     Who can equip/use it
+00 11 Dirk                 5             1        Ryu (One Handed)
+01 11 BronzSD             12             3        Ryu (One Handed)
+02 11 Sabre                8             2        Ryu (One Handed)
+03 11 Scythe              20             3        Ryu (One Handed)
+04 11 LongSD              26             4        Ryu (One Handed)
+05 11 DragonSD           110            20        Ryu (One Handed)
+06 11 PowerSD             62             8        Ryu (One Handed)
+07 11 WingSD              96             8        Ryu (One Handed)
+08 11 EmporSD            255             1        Ryu (One Handed)
+09 11 BrokenSd            42            15        Ryu (One Handed)
+0a 11 None               110             8        Ryu (One Handed)
+0b 11 FlameSD            122            10        Ryu (One Handed)
+0c 11 Sicle               50             6        Ryu (One Handed)
+0d 11 BroadSD             34             5        Ryu (One Handed)
+0e 11 MystSD             100             3        Ryu (One Handed)
+0f 11 Dummy               70             3        Ryu (One Handed)
+10 11 hortRP               5             1        Nina (One Handed)
+11 11 Rapier              10             4        Nina (One Handed)
+12 11 IronRP              14             5        Nina (One Handed)
+13 11 PoisonRP            20             5        Nina (One Handed)
+14 11 LightRP             10             2        Nina (One Handed)
+15 11 Nothing
+16 11 FlameRP             28             5        Nina (One Handed)
+17 11 WingRP              34             2        Nina (One Handed)
+18 11 BronzRP              7             2        Nina (One Handed)
+19 11 EvilRP              55             7        Nina (One Handed)
+1a 11 ThundrRP            46             6        Nina (One Handed)
+1b 11 nothing
+1c 11 LoyalRP             64             6        Nina (One Handed)
+1d 11 PowerRP             82             0        Nina,Ryu (One Handed)
+1e 11 IronHR              45             8        OX (One Handed)
+1f 11 SpineHR            120            15        Ox (One Handed)
+20 11 Club                30             6        Ox (One Handed)
+21 11 GiantHR             60            12        Ox (Two Handed)
+22 11 FlameHR            120             8        Ox (Two Handed)
+23 11 Nothing               
+24 11 RageHR              75             8        Ox (One Handed)
+25 11 Nothing               
+26 11 Mallet             255             1        Ox (One Handed)
+27 11 StarHR             210             8        Ox (one Handed)
+28 11 Stick                5             1        Bleu (One Handed)
+29 11 Cane                 8             2        Bleu (One Handed)
+2a 11 BoneCN              14             4        Bleu (One Handed)
+2b 11 EvilCN              20             6        Bleu (One Handed)
+2c 11 Nothing               
+2d 11 IcyCN               30            10        Bleu (One Handed)
+2e 11 Nothing             
+2f 11 GlownCN            100             8        Bleu (One Handed)
+30 11 Nothing
+31 11 Pole                12             2        Gobi (One Handed)
+32 11 Pike                24             4        Gobi (One Handed)
+33 11 Javelin             34             3        Gobi (One Handed)
+34 11 OldSP               42             5        Gobi (One Handed)
+35 11 HeroSP              56             4        Gobi (One Handed)
+36 11 Trident             74             6        Gobi (One Handed)
+37 11 Nothing
+38 11 Sleeper            100             8        Gobi (One HAnded)
+39 11 Nothing
+3a 11 DigCW               42             2        Mogu (Two Handed)
+3b 11 RustCW              60             4        Mogu (Two Handed)
+3c 11 IronCW              74             3        Mogu (Two Handed)
+3d 11 IcyCW               88             3        Mogu (Two Handed)
+3e 11 Nothing 
+3f 11 MystCW             120             1        Mogu (One Handed)
+40 11 Nothing
+41 11 ThrowDR             20             1        Karn (One Handed)
+42 11 Dagger              32             2        Karn (One Handed)
+43 11 Dart                46             2        Karn (One Handed)
+44 11 Tri-DR              54             6        Karn (One Handed)
+45 11 PowerDR             66             7        Karn (One Handed)
+46 11 FlameDR             74             7        Karn (One Handed)
+47 11 SilverDR            10             6        Karn (One Handed)
+48 11 Nothing               
+49 11 Nothing              
+4a 11 IcyDR               75             9        Karn (One Handed)
+4b 11 Nothing        
+4c 11 DarkDR             140             1        Ryu,Karn (One Handed)
+4d 11 Nothing
+4e 11 BronzBW             14             2        Bo (Two Handed)
+4f 11 ShortBW             20             4        Bo (Two Handed)
+50 11 Long BW             28             5        Bo (Two Handed)
+51 11 SteelBW             35             5        Bo (Two Handed)
+52 11 PoisonBW            42             6        Bo (Two Handed)
+53 11 SharpBW             54             7        Bo (Two Handed)
+54 11 MoonBW              66             1        Bo (Two Handed)
+55 11 JadeBW              80             8        Bo (Two Handed)
+56 11 Tri-BW              96            12        Bo (Two Handed)
+57 11 Nothing
+58 11 Nothing
+59 11 Nothing
+5a 11 DwarfBW            150             1        Bo (One Handed)
+5b 11 HeroBW             220             8        Bo (Two Handed)
+5c 11 Nothing
+5d 11 B.Rang              60             2        Ryu (One Handed)
+5e 11 Rang                18             2        Ryu (One Handed)
+5f 11 Tri-Rang           150             2        Ryu (One Handed)
+
+
+
+-Digits for Armor,Shield,Helmet,Ring,etc:
+
+   Armor          Defense Power    Weight      Who can equip/use it
+00 21 Robe                 2             1        Ryu,Bleu
+01 21 SuedeCP              5            14        Ryu,Bleu
+02 21 Dress                8            25        Nina,Bleu
+03 21 MetalAR             39            10        Ryu,Bo,Ox,Mogu
+04 21 SilkGN              15             4        Nina,Bleu
+05 21 Cloth                1             1        All
+06 21 LightCloth          68             1        Nina,Bleu
+07 21 Gown                18             1        Nina,Bleu
+08 21 ArmPad               8            12        Ryu,Bo,Gobi
+09 21 WolfSkin            80            11        Bo
+0a 21 RangerVT            40             4        Ryu,Bo,Gobi
+0b 21 BronzAR             25             9        Ryu,Bo,Ox,Gobi,Karn,Mogu,Bleu
+0c 21 PlateAR             24             4        Ryu,Bo,Ox,Gobi,Karn,Mogu
+0d 21 Nothing
+0e 21 FlameAR             82            10        Ryu,Mogu
+0f 21 PrisnCL             10             2        All
+10 21 Nothing
+11 21 IcyAR               80            10        Ryu,Bo,Ox
+12 21 worldML             75            11        Ryu,Bo,Ox,Mogu
+13 21 Nothing
+14 21 SpineCL             60            10        Gobi
+15 21 ThiefCL             30             4        Ryu,Karn
+16 21 EvilRB              90             1        Nina,Bleu
+17 21 SuedeGN             10             6        All
+18 21 SuedeAR             14             7        Ryu,Bo,Ox,Gobi,Karn,Mogu
+19 21 ChainML             20             2        Ryu,Bo,Ox
+1a 21 IronML              27             9        Ryu,Bo,Ox
+1b 21 WoolRB              25             2        Nina,Bleu
+1c 21 SuedeRB             35             2        Nina,Bleu
+1d 21 LifeAR             115             8        Nina,Bleu
+1e 21 PowerAR             84             8        Nina,Bleu
+1f 21 QuartzAR            50             9        All
+20 21 AngleAR             76             3        Nina,Bleu
+21 21 Nothing
+22 21 GuruCT              70             0        Bleu
+23 21 Nothing
+24 21 Nothing
+25 21 WorldAR             80             9        Ox,Mogu
+26 21 SageML              25            14        Ryu,Bo,Ox,Gobi,Karn,Mogu
+27 21 Nothing
+28 21 MystRB              60             8        Ryu,Nina,Bleu
+29 21 EarthRB             88            18        Ryu,Bo,Ox,Gobi,Karn,Mogu
+2a 21 Nothing
+2b 21 AgileAR             92            10        Nina,Bleu
+2c 21 Nothing
+2d 21 HuntCL              16             4        Ryu,Bo,Karn
+2e 21 ClearCL            100             0        Nina,Bleu
+2f 21 Nothing
+30 21 WoodSH               5             2        Ryu,Bo,Karn
+31 21 Gauntlet             8             1        All
+32 21 SuedeSH              2             1        All
+33 21 GuardSH             32            10        Ryu,Bo,Ox,Gobi,Karn,Mogu,Nina
+34 21 Bracelet            12             3        Nina,Bleu
+35 21 IronSH              12             4        Ryu,Bo,Ox,Gobi,Karn,Mogu
+36 21 BronzSH              8             3        Ryu,Bo,Ox,Gobi,Karn,Mogu
+37 21 MetalSH             16             5        Ryu,Bo,Ox,Gobi,Karn,Mogu
+38 21 FlameSH             38             8        Ryu,Ox,Mogu
+39 21 Nothing
+3a 21 Nothing
+3b 21 IronSH              22            15        Gobi
+3c 21 MetalSH             25             5        Gobi
+3e 21 Wrist               10            12        All
+3f 21 IcySH               30             5        All
+40 21 ProSH               32             5        Ryu,Bo,Ox,Gobi,Karn,Mogu
+41 21 LoveBR   Etc         0             0        Nina,Bleu
+42 21 WindBR   Etc         0             0        Nina,Bleu
+43 21 RubyBR   Etc         0             0        Nina,Bleu,Mogu
+44 21 Nothing
+45 21 DarkBR   Etc         0             0        Karn
+46 21 Nothing
+47 21 MystSH              48             5        Ryu,Bo,Ox,Mogu
+48 21 Glove               20             6        Bo
+4a 21 TrapGrd             40            14        Karn
+4b 21 LightSH             36            10        Nina,Bleu
+4c 21 MagicRG  Etc Ring    0             0        Nina,Bleu
+4d 21 Bandage              5             1        All
+4e 21 Nothing
+4f 21 SilverBR etc         0             0        All
+50 21 Nothing
+51 21 ColdSH              50            15        Ryu,Bo,Ox
+52 21 HuntGL              30             8        Bo
+53 21 MaskSH              65             8        All
+54 21 DragonSH           128             5        Ryu
+55 21 Nothing
+56 21 FlameSH             52             5        Ryu,Bo,Ox,Gobi,Karn,Mogu
+58 21 SuedeHT              3             6        All
+59 21 Visor                6             2        Ryu,Bo,Ox,Gobi,Karn,Mogu
+5a 21 HairBand             8             2        Nina,Bleu
+5b 21 Tiara               10             2        Nina,Bleu
+5c 21 ChainHT             25             8        All
+5d 21 G.tiara              2             5        Nina,Bleu
+5e 21 EchoHT              28             3        All
+5f 21 IronMask            30             7        Ox
+60 21 Nothing
+61 21 Nothing
+62 21 StoneHT             48            16        Mogu
+63 21 GoldHT              14             6        All
+64 21 FaceMAsk            35             5        Ryu,Karn,Mogu
+65 21 AgileHT             42             1        All
+66 21 NiceHT               6             3        All
+67 21 MystSF etc           0             0        Nina,Bleu
+68 21 DivingHT            32             6        Gobi
+69 21 GaiaMask            36             4        Ryu,Ox,Mogu
+6a 21 Headgear            16             5        All
+6b 21 CursedHT            62            20        All
+6c 21 ShellHT             25             1        Gobi
+6d 21 StrawHT              2             1        All
+6e 21 IronHT              32             6        Ryu,Bo,Ox,Gpbi,Karn,Mogu
+6f 21 Nothing
+70 21 TideHT               0             0        All
+71 21 SkullHT             25            10        All
+72 21 PowerHT             44             3        Gobi,Karn
+73 21 Domino              42             7        Nina,Bleu
+74 21 HornHT              37             6        Ryu,Bo,Ox,Gobi,Karn,Mogu
+75 21 Bandana              5             1        All
+76 21 Turban              11             1        All
+77 21 Nothing
+78 21 LoveHT              64            10        Nina
+79 21 Nothing
+7a 21 Nothing
+7b 21 Nothing
+7c 21 BronzHT             10             4        Ryu,Bo,Ox,Gobi,Karn,Mogu
+7d 21 Nothing
+7e 21 SunHT               12             8        Ryu,Bo,Ox,Gobi,Karn,Mogu
+7f 21 WolfHT              12             4        Bo
+80 21 IcyHT               16             6        Ryu,Bo,Ox
+81 21 Nothing
+82 21 Nothing
+83 21 Nothing
+84 21 StarSH     Shield   70             2        Ryu,Bo,Ox,Gobi,Karn,Mogu
+85 21 HeroRG   Etc Ring    0             0        Ryu
+86 21 SkullRG  Etc Ring   10             0        All
+87 21 SkySH      Shield   15             1        Nina
+88 21 Nothing
+89 21 Nothing
+8a 21 DragonHT            80             1        Ryu
+8b 21 DragonAR   Armor   110             0        Ryu
+8c 21 SmartRG  Etc Ring    0             0        All
+8d 21 DreamRG  Etc Ring    0             0        All
+
+-------------
+3 LEGAL STUFF
+-------------
+Breath of Fire is property of Capcom
+This Save State Hacking guide 
+is (c) Harrison Chagolla
+This faq is for your personal use only
+You may NOT put this on your web site
+unless you give me credit for writing it.
+
+--------
+4 Thanks
+--------
+Gamefaqs the best site for game information
+Capcom for making the game
+Myself for making the Hacking Guide
+
+If you have any questions or if you find a bug
+in the items or in any other of the offsets
+then e-mail me at Agent@uomail.com
+
+---------
+Updates
+---------
+Last update:
+7/30/2002
+There were a few
+bugs i had to work out.
+And also i added some 
+stuff on what not to do.
+
+
+
+                                   

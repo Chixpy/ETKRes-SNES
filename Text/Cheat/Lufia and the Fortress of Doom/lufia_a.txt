@@ -1,0 +1,2048 @@
+          
+                                    FATAL EXCEPTION'S
+
+                                        GUIDE  TO
+
+                           _      _   _   _____   ____    ___
+                          | |    | | | | |  ___| |_  _|  /   \
+                          | |    | | | | | |__     ||   |  _  |
+                          | |    | | | | |  __|    ||   | |_| |
+                          | |__  | | | | | |      _||_  |  _  |
+                          |____|  \___/  |_|     |____| |_| |_|
+
+                              AND  THE  FORTRESS  OF  DOOM
+
+                                       VERSION  0.4
+                           Last updated: Friday, 11 June, 1999
+
+                              AN RPG FOR THE SUPER NINTENDO
+                               Email: comleyd@arcom.com.au
+
+                                   ===================
+                                   CHECK OUT THIS FAQ!
+                                   ===================
+                          FINAL FANTASY VIII (playstation rpg)
+                             by Scott Ong (www.gamefaqs.com)
+
+
+
+========
+WELCOME
+========
+Welcome to my guide for Lufia! I've played this game through quite a few
+times and have really enjoyed it, so I thought I'd write a guide for it!
+There are a couple of other Lufia guides available on the Net, but I plan
+to make this guide the best Lufia guide out there! I hope you enjoy it as
+much as I enjoyed writing it! Lufia is a SNES RPG made by Taito in 1993.
+It has only been available where I live (Australia) for a couple of years
+though. If you don't have this game, go out and get the emulated version
+somewhere because this game should not be missed. The sequel Lufia 2 is
+really great also, it's actually a prequel to the first Lufia. This is my
+first attempt at writing a guide. Hopefully it will meet all of your
+expectations out there. If you want to know how long it takes to finish,
+it will end up taking the average player about 30 hours to finish. Okay
+now on to the guide! Have fun!
+
+
+==============
+GUIDE HISTORY
+==============
+version 0.1
+   Began the guide :)
+
+version 0.2
+   Began the actual Walkthrough
+   Updated all lists
+   Added extra info for Characters
+   Spell and grammar checked and fixed errors
+   Added extra weapon info
+   Started List of Bosses
+   Began Learning Spells section
+   Began Locations Of Weapons section
+
+version 0.3
+   Made the guide look more presentable
+   Placed on Gamefaqs ready for download
+
+version 0.4
+   Updated spell lists
+   Fixed up some errors in the Walkthrough   
+   Updated the Walkthrough
+   Updated Weapon List
+   Added a Thanks section
+   Updated Armour List
+   Made walkthrough look better
+   Added a Monster List
+   Added In-Game Menus Section
+   Removed the location of weapons section
+
+
+======================
+WHAT'S IN THIS GUIDE?
+======================
+   Level Guide
+   Brief Storyline
+   The Main Characters
+   In-Game Menus
+   Items
+   Learning Spells
+   List of Weapons
+   List of Armour
+   List of Accessories
+   Magic List
+   The Walkthrough
+   List of Monsters
+   List Of Bosses
+   Feedback
+   My Thoughts
+   Thanks
+   Links
+   Disclaimer
+
+
+============
+LEVEL GUIDE
+============
+To go alongside of this guide, I will be creating another document which
+will show each point in the game, and what your characters statistics should
+be. This is very handy, mainly because if you are having trouble with the
+enemies or bosses at a certain section of the game, you can check your
+statistics against the ones laid out in my document. If your statistics are
+lower, you should consider powering up your statistics to be close to the
+ones in my level guide, which will make things a hell of a lot easier for you.
+If you have this guide, but don't know where to find the Level Guide and are
+looking for it, head on over to GAMEFAQS (www.gamefaqs.com) and you are sure
+to find it there in addition to a lot of other great guides!
+
+
+================
+BRIEF STORYLINE
+================
+Below is the introduction to the game, which you see when you start a new game.
+
+"Without warning, the island suddenly appeared in the sky. Four foul and wicked
+beings claimed it for themselves. They possessed the frightening powers of
+Chaos, Destruction, Terror, and Death. The people were horrified. They called
+the evil ones "Sinistrals". The reign of Terror continued. The world masses
+its warriors to battle their dark foes. But the Sinistrals were all powerful.
+In desperation, the people called on their bravest fighters: Artea, Guy, Maxim,
+and Selan. And so began the final battle..."
+
+
+====================
+THE MAIN CHARACTERS
+====================
+
+Hero (female) - You are a young Alekian knight, who has the blood of Maxim
+running through your veins. You will become the greatest knight ever, perhaps
+even surpassing the great Maxim yourself.
+
+CAN HE USE MAGIC?: YES, he can use Healing Magic and Defensive Magic.
+
+BEGINNING STATS
+----------------
+
+ATP   DFP   STR   INT   AGL   MGR
+---   ---   ---   ---   ---   ---
+ 19    12     6     4     4     2
+
+
+Lufia (female) - Lufia seemed to come out of nowhere nine years ago to Alekia, and
+she immediately became friend with the Hero. Today, Lufia has an intense love for
+the Hero and doesn't want to be parted from him.
+
+CAN SHE USE MAGIC?: YES, she can use Offensive, Defensive and Healing
+                    Magic.
+
+ATP   DFP   STR   INT   AGL   MGR
+---   ---   ---   ---   ---   ---
+ 14     8     4     9     7     5
+
+
+Aguro (male) - The commander of the army of Lorbenia. He joins your party in Treck
+and provides great physical power.
+
+CAN HE USE MAGIC?: NO
+
+ATP   DEF   STR   INT   AGL   MGR
+---   ---   ---   ---   ---   ---
+ 66    23    20     5     7     6
+
+
+==============
+IN-GAME MENUS
+==============
+The in-game menus can be accessed by pressing the B Button. It is an important
+aspect of the game, as it allows you to use items, equip new weapons and armour,
+lets you view the statistics of your characters, lets you view each character's
+magic skills, and lets you customize the game settings.
+
+ITEMS - Lets you use your items
+EQUIP - Lets you change your weapons and armour
+MAGIC - Lets you view and use magic
+MENU - Lets you alter game settings
+
+
+ITEMS
+------
+>From within this menu, you can some of your items by moving the hand icon to the
+item you want to use, and pressing the A Button once to select that item, moving
+the hand icon to the character you want to use it on (depending on the item),
+and then pressing A again to use it on that character.
+
+EQUIP
+------
+When you click into this menu you will then have to select whose character's
+equipment you want to view or change. Select the character by pressing A. You can
+view each of your characters statistics (i.e. Attack Power (ATP), Defensive Power
+(DFP), Strength (STR), Intelligence (INT), Agility (AGL) and Magic Resistance
+(MGR). If you want to alter the character's equipment, move the hand icon to the
+piece of equipment you want to change. Once selected, you must choose whether you
+want to change the current equipment (EQUIP) or simply remove that equipment
+(LIFT). If you select EQUIP, you will be shown a menu of the other pieces of
+equipment that the character can also equip. Note that items in green cannot be
+equipped by that character. Before you choose the new equipment, you can leave
+the icon next to the new equipment to check against the statistics of that
+character to see how he/she will change if you equip that character with the
+new weapon/armour. The green number next to the equipment shows how many of
+that equipment you own.
+
+MAGIC
+------
+Once in this menu, you must select whose character's magic you want to use
+or view. Once you have chosen a character, you will see that character's
+magic listed. If you want to check what a certain spell does, move the
+hand cursor next to the spell, then press X to see a description. Or if you
+want to use a spell, move the hand cursor to that spell, then press A,
+then select the character that you want to use it on. Spells that in the
+colour gold cannot be used now. Just under each spell is two numbers. The
+first number shows how many magic points (MP) this spell will use, and the
+number in the brackets shows how many times you can use it, depending on
+the amount of MP your character has.
+
+MENU
+-----
+SCENARIO - This menu lists the important items you own (e.g. important
+ keys, etc.)
+COMBAT ORDER - This lets you change the order in which your characters will
+ be placed in when in battle.
+ITEM SORT - This lets you manually alter the positions of all of your items.
+ An automatic sorter will have been helpful here :)
+MAGIC SORT - ???
+MESSAGE - This lets you toggle between different text speeds (SLOW, NORMAL,
+ FAST)
+MUSIC - This lets you toggle between STEREO and MONO sound
+PLAYING TIME - This shows you how many hours and minutes you have been
+ playing through this game
+
+
+======
+ITEMS
+======
+This is a list of all of the items in the game. Not all of the items can
+be bought in stores.
+
+
+ITEM           EFFECTS                                     BUYABLE?   PRICE
+----------------------------------------------------------------------------
+
+Antidote       Cures poison status                            Y         6G
+Arrow          Attacks an enemy with an arrow                 Y         2G
+Arrows         Attack a group of enemies with an arrow        Y        10G
+Awaken         Awakens a sleeping character                   Y        10G
+Bomb           Attacks all enemies with a bomb                Y       100G
+Escape         Allows you to escape a dungeon once            N        N/A
+Ex Arrows      Arrows attack all enemies of that type         N        N/A
+Ex Bomb        Bomb attack against all enemies of that type   N        N/A
+Ex Magic       Restores all MP                                N        N/A
+Ex Potion      Restores all HP                                N        N/A
+Foul Water     Attracts enemies towards you                   N        N/A
+Float          Levitates your party for a while               N        N/A
+Great Potion   One character gains up to 3 STR points         N        N/A
+Grilled Newt   Restores a few HP                              N        N/A
+Hi Arrows      Attack enemies with arrows                     N        N/A
+Hi Magic       Restores some MP to one character              N        N/A
+Hi Potion      Restores some HP to one character              N        N/A
+Lime Cider     Restores some HP to one character              Y        20G
+Magic Guard    Increases magic ability during battle          Y        50G
+Mid Arrow      Attacks enemies with a stronger Arrow          Y        50G
+Mind Gourd     Increases INT during battle                    Y       100G
+Mind Potion    One character gains up to 3 INT points         N        N/A
+Miracle        Restores all HP and MP                         N        N/A
+Mystery Pin    Causes a mystery effect                        Y        30G
+Pear Cider     Restores a few HP to one character             Y        10G
+Plum Cider     Restores some HP to one character              Y        30G
+Poison Pin     Can poison an enemy if used                    N        N/A
+Potion         Restores some HP to one character              Y         8G
+Power Gourd    Increase ATP in battle                         Y       100G
+Power Potion   Increases MAX HP by 4                          N        N/A
+Revive         Revives a dead character                       N        N/A
+Shriek         ???                                            Y         5G
+Sleep Arrow    Attack enemies that may put them to sleep      N        N/A
+Smoke Ball     Allows you to escape from battle               Y        80G
+Sour Cider     Restores some HP to one character              Y        20G
+Speed Potion   One character gains up to 3 agility points     N        N/A
+Spell Potion   One character gains up to 5 more MAX MP        N        N/A
+Stone Cure     Cures stone status                             Y       100G
+Stuffed Bear   Item used to throw at enemies. Useless         Y        50G
+Stuffed Dog    Item used to throw at enemies. Useless         Y        10G
+Stuffed Pig    Item used to throw at enemies. Useless         Y        10G
+Sweet Water    Makes monsters stay away                       Y        10G
+Swing Wing     Warps you to a town that you've been to        Y        80G
+
+
+================
+LEARNING SPELLS
+================
+During the course of the game, your characters will learn certain magic.
+Below is a list of the spells that your characters will learn and what level
+they will learn them on.
+
+HERO
+-----
+
+SPELL      LEVEL
+-----------------
+Strong         4
+Float          7
+Drain         11
+Poison        13
+
+
+LUFIA
+------
+
+SPELL     LEVEL
+----------------
+Flash         1
+Waken         1
+Shield        3
+Dew           5
+Strong        7
+Drain         9
+Deflect      11
+Bang         13
+
+
+================
+LIST OF WEAPONS
+================
+This is a list of all of the weapons that are found in the game. Next to the
+name of each weapon is the weight of that particular weapon as well is its
+attack rating.
+
+SWORDS: The Hero and Aguro can equip swords in the game.
+
+WEAPON          WEIGHT     ATTACK RATING
+-----------------------------------------
+1. Knife            10           13
+2. Dagger            5           19
+3. Small Knife       1           10
+4. Long Knife       25           24
+5. Short Sword      30           39
+6. Broad Sword      75 (cursed)  81
+
+
+RODS: The Hero and Lufia can equip some Rods through the game.
+
+WEAPON          WEIGHT     ATTACK RATING
+-----------------------------------------
+1. Club              5           28
+2. Staff            35           37
+3. Mace             20           45
+
+
+SPEARS: The Hero and Aguro can equip spears throughout the game.
+
+WEAPON       WEIGHT     ATTACK RATING
+--------------------------------------
+1. Spear         45           53
+
+
+===============
+LIST OF ARMOUR
+===============
+This is a list of all the armour in the game. Next to the name of the armour
+is the defence rating, and then comes the cost (if cost is N/A, then the
+armour can't be bought at a store), and then comes who can equip it.
+
+BODY ARMOUR     DEFENCE RATING     COST     EQUIPPED BY
+---------------------------------------------------------
+Dress                 4             120     Lufia
+Cloth                 8             140     Hero, Lufia
+Robe                 11             260     Lufia
+Cloth Armour         12             240     Hero
+Tan Robe             15             540     Lufia
+Tan Armour           16             480     Hero, Aguro
+Chain Cloth          18            1100     Lufia
+Chain Mail           20             960     Hero, Aguro
+
+
+SHIELD         DEFENCE RATING     COST     EQUIPPED BY
+--------------------------------------------------------
+Bracelet             2              90     Lufia
+Tan Shield           5             180     Hero, Aguro
+Wood Shield          7             360     Hero, Aguro
+Wood Wrist           8             480     Lufia
+Brone Breast        10             N/A     Lufia
+
+
+HELMET         DEFENCE RATING     COST     EQUIPPED BY
+--------------------------------------------------------
+Brooch               1              50     Lufia
+Earring              1              80     Lufia
+Necklace             1             100     Lufia
+Cloth Helm           2             120     Hero, Aguro
+Hair Band            2             210     Lufia
+Glass Cap            4             460     Lufia
+Tan Helm             5             240     Hero, Aguro
+Wood Helm            8             540     Hero, Aguro
+Brone Helm          11             N/A     Hero
+
+
+====================
+LIST OF ACCESSORIES
+====================
+Here is a list of all of the accessories that you find in the game. The
+accessories comprise of all the shoes and rings that are in the game, which
+come up in the Equip menu. All accessories can be equipped by anyone in the
+game.
+
+(DFP = defence rating, ATP = attack rating)
+SHOES           RATINGS             COST
+-----------------------------------------
+Sandal          +2 DFP                50
+Cloth Shoes     +4 DFP               300
+Heeled Shoes    +2 DFP, +5 ATP       N/A
+Spike Shoes     +4 DFP, +5 ATP       N/A
+
+
+(DFP=defence rating, ATP=attack rating, MGR=magic resistance rating,
+ AGL=agility rating)
+RING           RATINGS           COST
+--------------------------------------
+Sonic Ring     +1 DFP, +5 AGL     N/A
+Power Ring     +10 ATP            N/A
+Daze Ring      +8 DFP, +4 MGR     N/A
+
+
+==========
+MAGIC LIST
+===========
+
+HERO'S MAGIC
+-------------
+
+MAGIC     MP COST     DESCRIPTION
+---------------------------------------------------------------
+
+Strong        3MP     Restores a few HP to one character
+Float         2MP     Allows your party to cross toxic marshes
+Drain         3MP     Lowers an enemy's DFP
+Poison        2MP     An antidote for poison for one character
+
+
+LUFIA'S MAGIC
+--------------
+
+MAGIC     MP COST     DESCRIPTION
+------------------------------------------------------------------------
+Flash         2MP     Bolt of lightning that hits one enemy
+Waken         4MP     Wakes up your party from sleeping
+Shield        2MP     A shield against spells affecting the whole party
+Dew           5MP     A column of water that hits groups of enemies
+Strong        3MP     Restores a few HP to one character
+Drain         3MP     Lowers an enemy's DFP
+Deflect       3MP     Prevents monster magic for a group of monsters
+Bang         10MP     A small explosion that hits all enemies
+
+
+================
+THE WALKTHROUGH
+================
+Throughout the entire guide, I will be revealing as little of the storyline
+as possible so that you can get maximum enjoyment out of playing this game.
+In addition to the essential quests during the game, I will also walk you
+through the optional stuff which benefits your party. In buying weapons and
+armour, I will display the cost price of that weapon/armour and by how much
+it will benefit your party. Also, remember that as soon as you buy a weapon
+or armour, make sure you equip it, so you can use it. Also when you equip
+new stuff, make sure you sell your old stuff that you don't want anymore,
+which will not only lighten your inventory, but also bring in more money.
+One last thing: you will notice that the walkthrough is currently not
+finished. This is because in addition to forwarding the release date of the
+guide, it also gives me the opportunity to receive feedback from you so I
+know what you think of the guide, which will give me ideas on how to improve
+the guide for you.
+
+===========================================================================
+                           THE FORTRESS OF DOOM
+===========================================================================
+ENEMIES IN THIS AREA: Mad Wolf, Mega Frog, Rock Golem, Mad Knight, Hydra,
+                   Efreet, BOSS: Gades, BOSS: Amon, BOSS: Erim, BOSS: Daos
+---------------------------------------------------------------------------
+For this section of the game, do not open ANY treasure chests, because you
+will be coming back to this place later on in the game and you will need
+the items then much more. There are two signs in this first room. You can
+read them if you want. They just talk about pressing the X button in the
+menu against a spell to see what it does. It really doesn't matter if you
+read it or not. Head up the path in the middle of the room. It leads to a
+set of stairs going up. Go up these stairs which leads you to the next
+floor. From here, go up the path and through the door. This next room is
+very long and has a reflective floor. Go through this room and through the
+door at the other end. Go down the path and go up the stairs. This next
+room also has a reflective floor. Go up the FIRST set of stairs, not the
+SECOND set yet, and go left and up the path until you reach a set of
+stairs going down. Go down these stairs and go down and to the right until
+you see a flashing blue pod. Step on this pod and everyone in your party
+will have fully restored MP. Now go to the left of the room and up and
+step on the blue flashing pod there and your party's HP will be restored.
+Now exit the room the same way you entered. Continue down the path you
+here and go up the SECOND set of stairs now and walk up along the blue
+carpet. You will pass some pillars and four statues and come to a set of
+stairs going up. Go up these stairs and up through the door that you come
+to. You will come to a room with a path to the left and to the right and
+a path going up which has a few glass steps next to two round structures.
+Now start to go up the glass path and Daos will speak to you.
+The characters try not to show fear and cross the path. Now step on the
+flashing blue portal. In this next room, the first thing you should do is
+heal all of your characters HP and MP. Just go into the menu and give a
+Miracle to anybody who doesn't already have full HP and MP. Don't worry
+you won't run out of Miracles! :) Now step up the steps ahead of you and
+you will be challenged by each of the Sinistrals.
+-------------------------------------------------------------------------
+
+
+=========================================================================
+                              BOSS: Gades
+=========================================================================
+WEAK AGAINST: Thunder
+-------------------------------------------------------------------------
+This guy is extremely easy. It would be very difficult to die from him I
+would imagine. The easiest and quickest way to beat this guy is simply
+to have Selan using her Thunder magic against Gades, and for everybody
+else to use physical attacks. It couldn't be simpler. If for some reason
+you become low on HP, just use a Miracle on yourself and you'll be back
+in business.
+-------------------------------------------------------------------------
+
+After this easy fight, before you take even one more step, use Miracles
+on anybody who doesn't have full HP and MP. Believe me, it is easier to
+start a fight against another boss will full HP and MP than it is with
+half energy. Now just step up to the next boss.
+-------------------------------------------------------------------------
+
+
+=========================================================================
+                              BOSS: Amon
+=========================================================================
+WEAK AGAINST: Thunder
+-------------------------------------------------------------------------
+This guy is a bit tougher than Gades, but he is still very easy. You will
+probably not need to heal yourself during this fight again, but if your
+HP goes below, say 200, then use a Miracle on yourself. The quickest
+strategy is just to get Selan using her Thunder magic, and to get
+everybody else simply to use their physical attacks. I severely doubt
+that you will die from this fight.
+-------------------------------------------------------------------------
+
+After this fight, just heal everybody in your party again using Miracles
+who hasn't already got full HP and MP. I doubt that anybody will have
+full HP and MP at this stage though. Just step up to the next boss.
+-------------------------------------------------------------------------
+
+
+=========================================================================
+                              BOSS: Erim
+=========================================================================
+WEAK AGAINST: Nothing
+-------------------------------------------------------------------------
+Once again this boss is extremely easy. This chick deals more damage than
+the other bosses so far, but it's nothing to get stressed about. If your
+HP get below 300 then just heal using a Miracle. I suggest just using
+physical attacks from all your characters against her, because she is
+very strong against magic. However, if you do use magic against her, make
+sure you stop when she casts Mirror, because if you keep using magic, her
+Mirror will reflect that spell back on to you.
+-------------------------------------------------------------------------
+
+For the last time, before facing the next boss, heal all of your members
+using a Miracle before facing the next boss. You've nearly defeated all
+the Sinistrals! Now just step up to the last boss for the final fight.
+-------------------------------------------------------------------------
+
+
+=========================================================================
+                             BOSS: Daos
+=========================================================================
+WEAK AGAINST: Thunder
+-------------------------------------------------------------------------
+Daos is the toughest of the bunch, but he's still a walk in the park. But
+I am almost certain that you will need to heal yourself during the course
+of this fight. If anybody's HP gets below 350, get Maxim to cast Valor,
+and you'll be set. Now, otherwise get Selan to cast Thunder, and everyone
+else to use physical attacks, and Daos will be defeated in no time at
+all! Easy stuff!
+-------------------------------------------------------------------------
+
+You will now watch a lengthy cut-scene showing what happened after you
+defeated the Sinistrals. After this, it will tell you that this actually
+happened 90 years ago, and since then there were no troubles in the
+world, until now ... The next scene shows the hero walk into the store
+and talk with Roman (owner of the store) and then a young girl walks in
+and calls herself Lufia. She then plays with the Hero, and now we go
+another nine years in the future ...
+-------------------------------------------------------------------------
+
+
+=========================================================================
+                                ALEKIA
+=========================================================================
+ENEMIES IN THIS AREA: None
+-------------------------------------------------------------------------
+You will have a long talk with Lufia out in the flower garden and then
+she agrees to make you some cinnamon pie and you walk back to the Inn so
+she can cook it. You will overhear some knights talking about monsters
+are starting to attack Sheran. You will run off when you hear this. When
+you get control of your character again, go back to the inn and talk to
+everyone in here, and then go up the stairs. In the room with one bed in
+it, examine the cabinet here and you will get a Dress. Other stuff to do
+in this town is to go to the weapons store and buy a Dagger (50G, +6 ATP).
+Go to the Item shop next to the weapons store and buy 2 Potions (8G x 2),
+2 Antidotes (6G x 2), 2 Sweet Waters (10G x 2) and an Arrow (2G). Now go
+to the left to the Church and save your game. Next, go two houses to the
+left of the church and examine the cabinet for a Revive item. Now go
+down the stairs in the house. Follow the path and you'll see it leads to
+the church. Open the treasure chest here for a Sweet Water item. Next,
+go to the training room that you saw during the cut-scene which is in
+the top left part of the town. Examine the cabinet in here for a Cloth
+Helm (+2 DFP). Make sure you equip it. Now exit this house and walk
+around to the other side of the house and examine the flower patch here
+for a Power Potion. Use the Power Potion on yourself. After talking to
+everybody here in the town, proceed up to the northern part of the town
+and go into the Castle.
+-------------------------------------------------------------------------
+
+
+=========================================================================
+                            ALEKIA CASTLE
+=========================================================================
+ENEMIES IN THIS AREA: None
+-------------------------------------------------------------------------
+Talk to everyone here on the first floor of the castle. There are quite a
+few items on this floor of the castle. Go to the top left room here with
+the knight sitting down. After talking to him, open the treasure chest to
+get an Arrow. Examine the right-most cabinet in the room to receive a
+Revive item. Now go to the next room to the right with the woman in a
+blue dress. Examine the second cabinet from the left to get a Swing Wing,
+and examine the cabinet on the right to get an Escape. Now go up the
+stairs to the next floor. There's not much to do on the second floor,
+except talk to the couple of people here, and go to the top right room
+with the 3 cabinets next to each other. Examine the middle one for a
+Potion. Go to the room to the left of it and examine the dresser for
+another Potion. No go up the stairs to the next floor. When you get to
+this floor speak to the Princess (the closest person to you) and she
+will give you 100G. Now go into the Princess' room at the top left of
+this floor and examine the dresser at the left for a Stuffed Bear.
+Now examine the right-hand cabinet for a Bracelet. Don't sell the
+Bracelet because you will need to equip it later on. Now talk to the
+King in the Throne room. After that, go to the top right hand side of
+this floor and go down the stairs. Keep doing down the stairs until
+you reach a room with 3 treasure chest. Open them and you will get a
+Revive, an Antidote and a Sweet Water. Now go back up all the flights
+of stairs again. Once you reach the top floor again, go back down
+the stairs that you entered first to get to this floor. Keep going
+down the stairs and out of the castle. Now leave Alekia. Soon you
+should head to Chatam before going to Sheran.
+-----------------------------------------------------------------------
+
+
+=======================================================================
+                        ON YOUR WAY TO CHATAM
+=======================================================================
+ENEMIES IN THIS AREA: Madshroom, Big Newt, Jellyfish
+-----------------------------------------------------------------------
+At the start of walking around on the world map, you will find yourself
+constantly having to restore your HP. But don't waste Potions on it.
+Just keep powering up on all the enemies in this area until you reach
+Level 3. But make sure you fight the enemies that are close to Alekia
+because you will need to go to the shrine to the left of Alekia a few
+times so don't go to far away. When you become low on HP, walk to the
+small shrine area to the left of Alekia. In this shrine area, make your
+way to an old man. After telling you what you should do next, he will
+instantly restores all of your HP and MP. Keep coming to this old man
+when you come to have low HP, because it saves using your precious
+Items. But you will probably have to use the occasional Potion during
+a fight because if you don't you will probably die. But just make sure
+you keep a couple. When you feel you are readily powered up enough,
+walk up the map, and you will soon see a small hut to the left. Enter
+the town of Chatam.
+-----------------------------------------------------------------------
+
+
+=======================================================================
+                               CHATAM
+=======================================================================
+ENEMIES IN THIS AREA: None
+-----------------------------------------------------------------------
+When you first enter Chatam, examine the first flower patch just under
+you, and one of the flowers will give you a Great Potion. Use this
+Potion on yourself. This is an Item store here that sells Potions,
+Antidotes and Arrows. Buy some of these if you need them. If you have
+any unwanted items here you should sell them. If you don't have enough
+money to buy all the items you may want, then just return to the world
+map and keep killing more enemies until you have enough money. In the
+house in the top right corner of the town, if you examine the bookcase
+you will get a Smoke Ball. Also if you want to, you can rest at the
+inn. Now leave Chatam and head up the world map.
+-----------------------------------------------------------------------
+
+
+============================================================================
+                        BEFORE GOING TO SHERAN
+============================================================================
+ENEMIES IN THIS AREA: Madshroom, Jellyfish, Big Newt, Spider
+----------------------------------------------------------------------------
+You should power up to at least Level 5 by the time you reach Sheran. Go up
+the map past the cave entrance to your left, and you will come to a 2nd cave
+entrance. Enter here. Follow the path and enter the door that you come to.
+
+Inside this room open the 2 treasure chests to get a Potion and 200G. Now
+exit the cave and go down the map and enter the cave entrance that you saw
+first. Inside this cave take the right path and keep following it until you
+can go no further. Examine the rough patch at the end of the path to get a
+Revive. Go back to the start of the cave and follow the left path out of the
+cave and enter the castle when you get back on to the world map.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                  SHERAN
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+You will see that monsters have basically destroyed the whole village of
+Sheran. Just talk to everyone and enter the castle at the north end of town.
+When you enter the castle, go into the room just up a bit and to the left.
+Open the four treasure chests to receive four Potions. Now enter the room to
+the right. Open the four treasure chests to receive an Antidote, Foul Water,
+Sweet Water and Awaken. Now go up the stairs near the start of the room. On
+this floor enter the room to the left. Examine the bookcase at the left for
+Sweet Water, and the one in the middle for Foul Water. Enter the room to the
+right. Open the chests to receive 2 Arrows and a Mid Arrow. The dresser
+contains a Revive. There is nothing left to do in Sheran Castle, so if you
+want to you can go back down all the stairs and leave Sheran and head out
+towards Alekia again. Otherwise you can go up the stairs and see some
+treasure chests in the throne room that you can't get to yet, because the
+doors are locked. So if you looked at the chests you can't open, go back
+down all the stairs and head for Alekia.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                 ALEKIA
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+Once in Alekia head to the inn, and speak to Roman. After taking a break, go
+up the stairs and talk to Lufia. Now go up to the part of town and into
+Alekia Castle. In the top left room, speak to the Commander. He agrees to
+organize a meeting about sending troops to Sheran next week! This really
+annoys the Hero. Now go up the stairs to the next floor. There is nothing to
+do on this floor so go up the stairs again to the next floor. On this floor,
+speak to the Princess and she will ask her father to gather up troops right
+away. Now leave the town of Alekia. As soon as you arrive on the world map,
+Lufia comes out and stops you. She will talk herself into coming along with
+you on your quest to Sheran. After Lufia joins your party equip her with the
+Bracelet. If you already sold it don't worry, but she's better with it.
+Return to Alekia and go the Armour store. Buy a Cloth (140G, +8 DFP) and
+equip Lufia with it. Go to the weapons store and buy a Dagger (50G, +6 ATP)
+and equip it to Lufia. Now go to the church and save your game. There's
+nothing much else to do here in Alekia, except that some of the people in
+the town and the castle will tell you something different now that you are
+back with Lufia. Head out back to Sheran ....
+
+---------------------------------------------------------------------------
+
+
+============================================================================
+                                 SHERAN
+============================================================================
+ENEMIES IN THIS AREA: BOSS-Gades
+----------------------------------------------------------------------------
+On your way to Sheran, you can stop in at Chatam and speak to everyone here
+and they will tell you that Lilah has gone into the Northwest cave. When you
+go in the cave on your way to Sheran, you will see a man lying face down
+along the left path. Speak to him and he will tell you that his sister Lilah
+has gone to Sheran Castle. He also gives you the key to Sheran Castle so
+that you can save her from the monsters. Continue going to Sheran. Once you
+arrive at Sheran, go straight ahead to Sheran Castle. Head up and the stairs
+and into the Throne Room. Unlock the doors to the left and right in this
+room. In the room to the left, examine the switch at the top of the room and
+the switch will lower. In the room at the right, open up the treasure chest
+and you will receive 100 gold pieces. Now exit the throne room. Go around to
+the left or to the right and enter the room that you come to. Go down the
+two sets of stairs in the rooms that you come to. Now you will be in a room
+that merges with the other path that you could have taken. In the middle of
+this room is a set of stairs going down. Go down the stairs. You will then
+come to another room with a set of stairs going down to the right. Go down
+these stairs as well. You will come to a room with two cells. Walk up to
+the cell on the left and you will find the people you were looking for. Go
+into this cell room and examine the bookcase at the top of the room and
+you will receive a Great Potion. Give the Great Potion to Lufia which will
+increase her Strength. Now leave the cell room and go up the stairs the
+way you came. Now keep going up the stairs that you just came down, and
+eventually make your way out of Sheran Castle. As you leave Sheran Castle,
+you will be confronted by none other than Gades the Evil Sinistral!
+
+
+============================================================================
+                                 BOSS: Gades
+============================================================================
+WEAK AGAINST: Nothing
+----------------------------------------------------------------------------
+This is a one on one battle between the Hero and Gades. Don't worry you
+can't win, because this guy does you like 500 damage per hit. It really
+doesn't matter what you do, but don't waste items on him.
+----------------------------------------------------------------------------
+
+After Gades defeats you, Lufia will run on screen. After her talk with you,
+you will be in Alekia again. Roman will take you into the inn for a talk
+with you both. He asks what the hero plans to do now, and after finding out
+he wants to speak with Lufia alone. He then tells Lufia that he thinks she
+should go with the hero whenever he may go. She decides to go with him.
+Immediately go back with Lufia to the inn and speak to Roman. He will let
+you rest for free. Now head up back into Alekia Castle. Talk to everybody
+in the castle. Go up to the second floor and go to the back rooms. Speak to
+Lilah and she will go with you back to Chatam. Go up to the next floor and
+speak to the Princess. She will talk to you about Gades. You can also speak
+to the King for some praise :) There's nothing else for you to do here in
+Alekia Castle, so make your way back out. There's nothing else to do in
+Alekia either, so proceed to Chatam ...
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                 CHATAM
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+As you try and cross the stream to get the right side of the town, Lilah
+will see Danil her brother, and they will be reunited. They tell you about a
+town called Treck which is to the southwest of Sheran. Finally the thank you
+for all the help you've given them. There's nothing else to do but head for
+Treck.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                           ON THE WAY TO TRECK
+============================================================================
+ENEMIES IN THIS AREA: Anemone, Big Newt, Earwig, Nettles, Baby Crab, Spider,
+                      Green Orb  
+----------------------------------------------------------------------------
+>From the moment you leave Chatam, you should start powering your characters
+as much as you can. By the time I entered Treck, my main character was at
+Level 8 and Lufia was at Level 7. Powering up to this level does take a fair
+while however. The best place to power up is in the area around Treck. If
+you can't find Treck, after Sheran head left and keep going and you will see
+a whole hilly section of map. Go down and to the left from here and you will
+probably walk over a desert-like place. Keep going down and left and you
+will see a small port town right at the bottom. To power up quickly use Foul
+Water. Once your characters are powered up enough, enter Treck.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                  TRECK
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+Once in Treck, enter the house just to the left of the entrance. In here,
+examine the bookshelf to receive a Hair Band(+2 DFP). Equip it to Lufia. Now
+go upstairs and open the chest for a Dress. Go and rest at the Inn. Now go
+to the weapon shop and buy a Club (120G, +9 ATP) and a Long Knife(180G,
++5 ATP). Equip the Club to the Hero and the Long Knife to Lufia. Now go next
+door to the armour store, buy the Cloth Armour(240G, +4 DFP) and a Robe
+(260G, +3 DFP). Equip the Cloth Armour to the Hero and the Robe to Lufia.
+Examine the left bookshelf in between the weapon and armour shops for a
+Power Gourd. Now enter the cave at the lower left hand side of Treck. Follow
+the left path and open the two chests for a Smoke Ball and Arrows. Now go up
+the forward path you will a stack of crates. Walk towards the bottom crate
+on the second row of crates from the left. It is still more forward than the
+crates to the left and right of it. Try to walk in between these two crates
+and you see you can't. Examine and you will get a Swing Wing. Now try and
+go left and you won't be able to. Examine and you will get an Escape. Talk
+to the old man in here and buy one of each of the ciders. If you don't have
+enough money go back out onto the world map and earn money by killing
+enemies. Leave the cave and go back to the top left part of Treck and enter
+the pub. Buy a Pear Cider from the man selling cider. Go to item store and
+buy a few Antidotes, a couple of Arrows and about two Shrieks. If you have
+any more money left I recommend spending it all on Potions. If you rather
+saving your money you can, but when I play games, I usually like to have
+as many Potions as possible. Save your game at the Church. Go down to the
+port part of Treck and you will see an old man standing still at the bottom.
+After speaking to him, you be asked to come to the East Cave. So leave Treck
+and head east and enter the cave that you come to.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                             EAST OF TRECK CAVE
+============================================================================
+ENEMIES IN THIS AREA: Baby Crab, Giant Bat, Nettles, Spider, Green Orb,
+ Kobold, Bore Worm
+
+----------------------------------------------------------------------------
+
+his cave is very straightforward. The chest in the lower-right hand corner
+of the first room contains Cloth Shoes(+4 DFP). Equip these to the Hero. Go
+down the stairs. In this room, walk to the locked red door at the end and
+Ainea (the second girl) will unlock it for you. Go through the now open
+door. In this room, open the treasure chest to receive a Swing Wing. Finally
+exit at the top of the room. When you come out to the world map, enter the
+house right next to you.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                 GUY'S HOUSE
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+When you enter this area, walk ahead and enter the house that you come to.
+It turns out that this is Guy's house. He is over 100 years old now and
+certainly looks it. After you talk to him about Gades, he feels that he must
+also do something about it, and dies of a heart attack. But he says that you
+should head for Grenoble to meet someone who knows Artea, who can help you.
+When you get control of your character, walk back over to where you buried
+Guy and examine the sword sticking out of the ground and you will receive a
+Short Sword. Equip it to the Hero. Now talk to Ainea again and she will tell
+you where to find Grenoble. Now leave this area and head back to Treck.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                  TRECK
+============================================================================
+ENEMIES IN THIS AREA: BOSS-Demon Lords
+----------------------------------------------------------------------------
+The first thing you should do in Treck is stay at the Inn and save your game
+at the Church. Now walk down to the ports and you will see a ship and two
+men standing next to it. Talk to them and you will meet Aguro, commander of
+the army at Lorbenia. Suddenly a ship comes and a bunch of Demon Lords
+attack you!
+----------------------------------------------------------------------------
+
+
+============================================================================
+                           BOSS: Demon Lords
+============================================================================
+WEAK AGAINST: Nothing
+----------------------------------------------------------------------------
+There are four of these guys to contend with. These guys are generally
+pretty easy, but they can be annoying when they want to be. The addition of
+Aguro into your party is a big help for this fight. The Demon Lord attack
+very frequently and mostly use Magic Mirror to reflect your magic attacks,
+so I suggest just getting everyone to use physical attacks. You will
+
+robably end up healing your characters a lot, and should get the Hero or
+Lufia to cast Strong on one of your characters when their HP hits, say,
+below 40. Aguro is particularly weak against their attacks, so make sure his
+HP stays right up. It doesn't take long to kill them, and it's not too tough
+so you should win without many problems.
+----------------------------------------------------------------------------
+After beating them, go to the armour store and buy a Cloth Helm(120G,
++2 DFP) and equip it on Aguro. You may want to rest at the Inn, save at the
+Church and stock up on items. When you're ready to leave, exit Treck and
+head north to a cave. Enter it.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                           NORTH OF TRECK CAVE  
+============================================================================
+ENEMIES IN THIS AREA: Nettles, Baby Crab, Giant Bat, Kobold, Bore Worm,
+ Green Orb, BOSS-Goblins
+----------------------------------------------------------------------------
+If you look to your right you will see a ladder. Climb this ladder and
+follow the path. You will come to a treasure chest. Open it and receive a
+Potion. Keep following the path and you will come to a set of stairs going
+down, next to a large hole. Don't fall down the large hole, but go down the
+stairs. Follow the path and open the two treasure chests that you come to.
+You will get a Potion and a Power Potion. Give the Power Potion to Lufia and
+head up the stairs you just came down. Now drop down the large hole to your
+right. You will see two animated blue pods. Step on the upper one and you be
+transported to a new area. Follow the path, go down the ladder and through
+the door. This room contains two blue pods. Step on both of them to refill
+your HP and MP. Now go back to the room with the two blue animated pods.
+Step on the bottom pod this time and you will be transported back to the
+starting room. Go to the right and up (under the bridge) and you will see
+a set of stairs going down. Go down the stairs. In this room, you will see
+a pool of green guck just below you. Get the Hero to cast Float and examine
+the pool area. Somewhere in the pool is an invisible chest which contains a
+Miracle. You have to cast Float over the green pool because if you dont,
+each character will lose 1 HP per step that you take in the pool. Now keep
+going down the path a bit, and you will an open door above you. Go in this
+room and open the chest in here for a Daze Ring. Equip it to Lufia. Leave
+this room and follow the path to left. Go up the ladder and up the stairs.
+You will now be on the other side of the large hole you were at before.
+Follow the path to the left and go up the stairs to leave the cave. As soon
+as you get back to the world map, restores your whole party's HP and MP.
+Walk towards the ship and Lufia will notice that you are about to be
+attacked!
+----------------------------------------------------------------------------
+
+
+============================================================================
+                              BOSS: Goblins
+============================================================================
+WEAK AGAINST: Arrows
+----------------------------------------------------------------------------
+These three Goblins are extremely easy. Just keep using physical attack and
+you can also use Arrows and Mid Arrows if you want, because the Goblins are
+very weak against them. You probably won't have to heal yourself, but if you
+do just use Strong, and you should beat them in no time.
+----------------------------------------------------------------------------
+You now have access to the Maberia ship! You realise it is a good idea to go
+back to Treck, and you will automatically shipped there.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                  TRECK
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+Once in Treck, you may want to rest at the Inn and save your game at the
+Church. Now go into the lodge (the building at the top left part of town
+with the mug on the wall) and go upstairs. Speak to the captain and he will
+go with you to see the Maberia. He offers you a free trip to Lorbenia. Talk
+to him again and select Yes when questioned and you will be sailing straight
+to Lorbenia.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                 LORBENIA
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+Once here, Aguro will go to the Army Headquarters and agrees to meet you at
+the Inn later. Lufia wants to shop for dresses (surprise, surprise!). Head
+down to the shops here. You will see a weapon/armour store sign amongst the
+shops. Walk one row behind it and examine for a Mind Potion. Give it to the
+Hero. Now enter the weapon shop just to the left, and examine the bookshelf
+for a Mid Arrow. Now enter the shops here and stock up on items at the two
+stores to the left and right here. Go up the stairs at the north part of
+this floor. This next floor is pretty large. There is a woman selling
+accessories in a stall here. It's not worth buying any accessories, because
+they all suck. There is also a man selling stuffed animals here. You don't
+have to buy any of them, but I usually buy all of them when I'm here. At
+the bottom right corner of this floor is a treasure chest containing a
+Sweet Water. Now go up the stairs at the bottom left corner of this floor.
+When you go into the clothing shop, Lufia gets all excited and starts
+looking at dresses. Talk to everyone here. One of the salespeople tells
+Lufia that there is a sale at the moment. Lufia get excited again and runs
+to look at the dresses. A young boy then steals some gold from Lufia and
+runs from the store. The Hero catches him and Lufia comes out as well, but
+lets the boy keep the gold if he promises not to steal again. Now go to the
+right, and into the Inn. Talk to the Inn keeper here and he will tell you
+about Lou, the kid who stole from you. You can also rest here if you want
+to. Next, go to the armour shop to the left of the store where Lou stole
+from you. Buy two Tan Armours(480G x 2, +16 DFP), two Tan Helms(240G x 2,
++5 DFP), Cloth Shoes(300G, +4 DFP), a Glass Cap(460G, +4 DFP) and a Tan
+Shield (180G, +5 DFP). Equip a Tan Armour, Tan Shield and a Tan Helm to the
+Hero. Equip the other Tan Armour and the other Tan Helm to Aguro. Equip the
+Glass Cap and the Cloth Shoes to Lufia. Now go to the weapon store and buy
+a Staff(360G, +37 ATP). Equip it to Lufia. To buy all of this, you will
+probably have to go out to the World Map, and fight enemies to get the
+required money. This will also give you important experience which you will
+be thankful for in later areas. Now leave Lorbenia and head down the world
+map and to the left and enter the town that you come to, Grenoble.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                 GRENOBLE
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+Once you get to Grenoble, you may rest at the Inn for 40G if you want to.
+You should probably also save your game at the Church. Now, go to the
+weapons shop and examine the left shelf to receive a Potion. There's no use
+buying any of the weapons here because they are no better than what you
+already have equipped. It's the same with the armour shop here so don't buy
+any armour either. Go to the Item shop and buy some Potions and Antidotes
+if required. I also recommend buying some Awakens, some Stone Cures and some
+Smoke Balls, but you don't have to if you don't have the cash. As long as
+you keep at least 50G on you. Talk to everyone in town and they will
+tell you about the Old Cave near Grenoble that has many treasures within it.
+I find the Old Cave one of my favourite parts of the game. It's really fun.
+Now go to the house to the left of the Item Shop at the top left part of
+town. Talk to the people here and a man will let you pass for 50G. Give him
+the money and go down the stairs. Before you do anything else, head back up
+the stairs that you came down and immediately look up and examine the shelf
+for a Speed Potion. You had to go down the stairs first because that is the
+only way that you can access the shelf. Give the Speed Potion to Aguro to
+increase his agility. Now go back down the stairs and follow the path. Go up
+the stairs at the end of this path and examine the flower patch just above
+you for a Spell Potion. Give it to the Hero to gain some more MP. Now go to
+the right and you will see a man standing next to a set of stairs going
+down. Do not walk past him and down the path as you'll just have to repeat
+the last few steps to get here. Instead go down the stairs next to the man.
+This is the room where you will get tasks assigned to you in the Old Cave.
+Talk the old man at the lower right part of the room. He appears to know
+something about Artea, but wants you to retrieve the Fairy Kiss item on the
+second level of the Old Cave before telling you more. Talk to the man behind
+the counter to get a task assigned to you. More than likely it will be the
+2nd level task of finding the Secret Map for 500G. Choose to accept this
+task. Now exit this place and exit Grenbole and head to the left on the
+world map to the large cave that you will see.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                          OLD CAVE (2nd Level Task)
+============================================================================
+ENEMIES IN THIS AREA: Mini Demon, Giant Bat, Rat, Bore Worm, Kobold,
+ Roozard, Giant Newt
+----------------------------------------------------------------------------
+Speak to the man here on the first level. He tells you to enter the elevator
+above and flip the switch there to get to the second level. Do as he says
+and you will end up at the second level. Many of the treasure chests here
+are empty. It will be too confusing if I tell you exactly which treasure
+chest contains what because there are just so many of them, so instead open
+all of the treasure chests on the way and check against the list that I have
+at the end of this part of all the items that are found in the treasure
+chests on this level so you know if you have them all. They will roughly be
+in the same order that you will probably find them in. Anyway, back to the
+guide. You will have a choice of two paths: one to the right or one going
+down. Go along the right path first. You will have another choice of
+choosing a path going up or a path going down. Go along the path going up
+first. Now you will see a sign just to the left of an open door. Read the
+sign which says that only women can enter this room. Attempt to go into this
+door and Lufia says she will get the item alone. Now go through the open
+door. I suggest restoring Lufia's HP because she will be on her own for a
+little while. Follow this path and you see a room with heaps of treasure
+chests in it. Open them all and one of them contains the Fairy Kiss. And one
+of them contains Heeled Shoes (+5 ATP, +2 DFP). Equip these to Lufia. Once
+you have done this exit this room and walk towards your party to rejoin
+them. Now follow the path all the way down. You will see two treasure chests
+here. Get the Hero to cast Float and open the two treasure chests here for
+more important items. Next, go back up the path and then to the left. Now go
+along the path heading down. There are two pools of muck here. Next to the
+bottom pool, get the Hero to cast Float again. Examine around in this pool
+and you will find an Ex Potion around the middle of this pool. Very handy.
+Keep going along this path and enter the open door that you come to. In this
+room open the two chests for a Power Ring and the Secret Map. Equip the
+Power Ring (+10 ATP) to the Hero. The items found in treasure chests here
+are a Hi Magic, a Potion, an Antidote, a Float, Cloth Shoes, a Dress, a Hair
+Band, Heeled Shoes, an Earring, a Fairy Kiss, a Tan Shield, a Dragon Egg, a
+Potion, a Sleep Arrow, a Power Ring and a Secret Map. You now have all the
+items that you need here so head back to the elevator and exit the Old Cave.
+Wasn't that fun? Now head back to Grenoble.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                 GRENOBLE
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+You probably should rest at the Inn and save your game at the Church. Now
+go back to the man who wants you to pay him 50G to get past and pay him to
+get past again. Follow the path and head back to room where they assign you
+tasks. Speak to the old man. He will take the Fairy Kiss and tell you that
+Artea's apprentice can be found in a northwest tower from Grenoble. But
+first, talk to the woman behind the counter here and she will take the 
+secret map and give you 500G. You can also talk to the man behind the
+counter who will assign to you the 3rd Level Task. You should not accept
+this task yet, because the enemies on the 3rd Level are still a bit too
+difficult for the level of your party yet. But we will go there a little bit
+later on. Now leave this place and exit Grenoble. Once on the world map,
+head to left a fair distance, and then head up. Keep going up until you see
+a large tower near the coastline. Enter it.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                            THE NORTHWEST TOWER
+============================================================================
+ENEMIES IN THIS AREA: Zombie, Mini Crab, Mini Demon, Fight, Goblin, Rat,
+ Huge Bunny, Roozard, Giant Newt, Red Magi, BOSS-Apprentice
+----------------------------------------------------------------------------
+I won't beat around the bush here. This tower is pretty damn hard. But if
+you keep your HP up throughout the tower you should be able to do it
+without too many troubles. In comparison, the 3rd Level of the Old Cave is
+a little bit more difficult than this tower. I suggest powering up your
+characters in this tower to start with. Follow the path to the right and
+enter the door that you come to. In this room follow the right path and
+enter the door that you come to. You will be in a room now with 2 treasure
+chests. Open them to receive a Hi Potion and a Hi Magic. Now exit this room
+and go up the stairs to the left. Once there, go down a bit and open the
+treasure chest for a Smoke Ball. Now go to the lower left part of this room
+and go up the stairs that you come to. In this room you will see two
+lowered bits in this bottom wall just to your right. They are actually doors
+that you go through. Go through the door closest to you. In here there are
+two treasure chests containing a Power Gourd and a Mind Gourd. Exit this
+room and enter the door just to the right. This room contains a treasure
+chest containing a Hi Potion. Exit this room and go to the right and up
+through the open door. There is a treasure chest in this room containing a
+Revive. Finding the tower difficult yet? If not, then you're doing well.
+Exit this room and go to the left and up the stairs that you came down
+before. Now go straight up the path and through the open door. In here, just
+go through the door at the bottom right (duh!). In this room, you will see
+an open door to the far right and a set of stairs going down. Go through the
+open door at the far right. In this room go right and down the path to the
+very bottom. To the right of you is two open doors. Go through the left open
+door for a treasure chest containing a Mind Potion. Give it to Aguro. Now
+exit this room and go through the right open door for a treasure chest
+containing a Great Potion. Give it to Lufia. Now exit this room go left and
+then up the path and you will soon see an open door to the right. Enter it
+and go up the stairs that you come to. In this room, follow the left wall
+all the way down the room and to the right. Remember that this is the room
+that has 4 pillars in it. You will see an open door and enter it. Go
+straight through this room and through the open door at the end of it. This
+room has a sign and two chests in it. Read the sign that says "Overcome your
+fear!" Open the left chest to get a Power Potion. Give it to Lufia. Open the
+right chest for a Spell Potion. Give it to the Hero. Now exit this room. Go
+back to the room where you followed the left wall to get here (the one that
+has 4 pillars in it). In the lower left part of this room is a set of stairs
+going up. Go up these stairs. In this room if you go up a bit you will see
+another room in the middle of this room. Go up and around this middle room
+and you will see two treasure chests at the top. Open them to receive 2 Mid
+Arrows. Go back down and enter the middle room. There is a man and two beds
+in here. Before you speak to the man restores the Hero's HP and MP to full.
+This guy is Artea's apprentice, who you were looking for. He refuses to tell
+you where Artea lives until you challenge him to a one-on-one duel!
+----------------------------------------------------------------------------
+
+
+============================================================================
+                             BOSS - Apprentice
+============================================================================
+WEAK AGAINST: Mid Arrows
+----------------------------------------------------------------------------
+Good luck! This guy is an absolute bastard! Seeing as though you don't have
+any attacking magic you are stuck with physical attacks and Items. Mostly I
+have found that this attacks you twice for each attack you give him. He can
+do a Jolt move that can do up to 40 damage to you, so keep your HP RIGHT UP!
+Don't feel upset if he beats you first try because he is very difficult. I
+still have trouble beating him after fighting him many times. If you have
+many Mid Arrows in your items use them as much as possible against him
+because they will probably do twice the damage that physical attacks will
+do. Otherwise just keep physically attacking him and healing yourself as
+much as possible. You should be able to do it with the Hero at least at
+Level 13.
+----------------------------------------------------------------------------
+Once you have beaten him, he will tell you that Artea lives if Elfrea which
+is a long way away. He will also give you a Speed Potion which you should
+give to the Hero. Now make your way out of the tower. You can do this
+quickly by falling off one of the open sides that the tower has where a wall
+should be. Once you get back to the world map, you should realise that there
+is still one more item that you should get in the tower before doing
+anything else. I suggested going to the world map first, because instead of
+going all through the tower to get it again, this item is near the start, so
+it is quicker if you re-enter the tower to get it. So, from the entrance of
+the tower, follow the left path and go up a bit. You will see an open door
+to the right of you. Go through this door. In the next room, follow the path
+down and enter the open door that you come to. In this room, there is a
+single treasure chest containing a Sonic Ring (+1 DFP, +5 AGL). Equip it to
+Aguro. Now exit the tower again and head for Grenoble.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                GRENOBLE
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+Once you get back to Grenoble, rest at the Inn and save your game at the
+Church. Now go back to the house where the guy who wants 50G to let you pass
+him. Pay him and head to the room where they assign you Old Cave tasks.
+Speak to the man behind the counter and accept the 3rd Level Task. You will
+have to get the Silver Wick from the 3rd Level to get 1000G. Now exit
+Grenoble and head back to the Old Cave.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                          OLD CAVE (3rd Level Task)
+============================================================================
+ENEMIES IN THIS AREA: Red Magi, Dracu Rose, Spike Newt, Zombie, Fight, Frog
+----------------------------------------------------------------------------
+Get on the elevator and hit the switch to go down to the 3rd Level. Once
+again there are many chests in here so I will again list them all at the end
+of this section in the most probable order that you will find them in. Make
+sure you still open all the treasure chests that you found. Follow the path
+down and go through the open door at the end of it. Go straight up and
+through the open door at the top of the room. This room contains two
+treasure chests, so open them. Exit this room and go right and through the
+open door at the right part of the room. Follow the path down a bit. You
+notice two muck pools. One to the left side of the path and one to the right
+side of the path. Get the Hero to cast Float and walk through the right muck
+pool and examine around the middle of the pool for a Miracle. Now keep going
+down the path and down the ladder. Follow the path to the right and up and
+go through the door at the end of it. One of the treasure chests in the next
+room contains a Brone Breast (+10 DFP). Equip it to Lufia. Another chest in
+this room contains a Brone Helm (+11 DFP). Equip it to the Hero. Another
+chest in this room contains a Broad Sword (+81 ATP, cursed). Don't equip
+this sword because it is cursed. Go through the open door at the end of this
+room. One of the chests in the next room contains Spike Shoes (+5 ATP, +4
+DFP). Equip these to the Hero. Another chest in this room contains a Water
+Ring. Equip it to Lufia. The last chest in this room contains the Silver
+Wick. Now you have everything, make your way out of the Old Cave. The
+chests in the 3rd Level contain a Hi Potion, a Bomb, a Sour Cider, a Magic
+Guard, an Escape, a Revive, a Smoke Ball, a Miracle, a Sweet Water, Hi
+Arrows, Float, a Hi Potion, a Brone Breast, an Apron, a Brone Helm, a
+Revive, a Broad Sword, Spike Shoes, a Water Ring and the Silver Wick. Once
+you think you have everything on this list, head back to Grenoble.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                 GRENOBLE
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+Rest at the Inn and save the game at the Church. You should sell your Broad
+Sword now to make some more cash. Now make your way back to the room where
+they assign you tasks and speak to the woman behind the counter to receive
+1000G. Now leave Grenoble and head back to the world map.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                           ON THE WAY TO ELFREA
+============================================================================
+ENEMIES IN THIS AREA: Red Magi, Zombie, Dracu Rose, Frog, Spike Newt, Fight
+----------------------------------------------------------------------------
+When you arrive on the world map, head up to the Northwest Tower. You will
+notice that on the way there you will walking to the right of a very hilly
+area. You will also notice that at the top of the big mountain you can go
+around it and explore the land to the left of the mountain. Do this and head
+down the path and left across the bridge. Now head up and you will see a
+temple ahead. Enter it. Make your way through the rooms, and speak to the
+guy that you will come to (you will have to walk to the left at the last
+room to see him). He will restore your party's HP and MP. Now leave this
+area and back to the world map. Head down the map, across the bridge at the
+bottom, and keep going down. Soon you will be at a crossroads where you can
+go either left or right of a big mountain. Head right and you will very soon
+see a small village. Enter it.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                 KIROF
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+When you get here rest at the Inn. While you are here, go into the back area
+of the Inn where all the beds are. You will see five shelves along the back
+wall. Examine the left three for a Bomb, a Hi Potion and a Mid Arrow. Now
+head to the item shop in the upper right part of town. Enter through the
+right door and examine the two shelves in front of you for a Sweet Water and
+a Hi Potion. Now head towards the back room of the item shop. You will see a
+short scene between a young boy and a girl lying in bed. The girl, Reyna, is
+sick and tells us that no medicine can cure her. The boy, Mark, tells her
+that he will try and borrow the Hope Ruby from the town of Medan which makes
+hopes come true. He then leaves for Medan, telling Reyna that he will come
+back with the Hope Ruby. Now speak to Reyna in bed and she tells you that
+Medan is east of Kirof, you also find out that Mark is Reyna's boyfriend.
+Go around both sides of the table in here examining in the direction of the
+two shelves and you will receive a Stuffed Dog and a Stuffed Pig. Leave this
+house and enter the house to the left of the item shop, with the old lady in
+it. Examine the shelf in here for a Plum Cider. Now exit this town and head
+east on the world map and enter the large town called Medan.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                 MEDAN
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+Rest at the Inn and save your game at the Church. If you are having trouble
+finding the Inn (don't worry, I did for a little while), it's the room just
+to the right of the entrance. Go to the weapons shop and buy two Spears
+(780G x 2, +53 ATP) and a Mace (600G, +45 ATP). Equip the Spears to the Hero
+and to Aguro. Equip the Mace to Lufia. Now go to the armour shop and buy two
+Chain Mails (960G x 2, +20 DFP), a Chain Cloth (1100G, +18 DFP), two Wood
+Shields (360G x 2, +7 DFP) and a Wood Helm (540G, +8 DFP). Equip the Chain
+Mails and the Wood Shields to the Hero and to Aguro. Equip the Chain Cloth
+to Lufia. Equip the Wood Helm to Aguro. Go to the item shop. I suggest
+buying some Mystery Pins, some Magic Guards, some Power Gourds and some Mind
+Gourds if you have the money. And, of course, make sure you have enough
+Potions and Antidotes. Now go into the house to the right of the Inn.
+Examine the two shelves for a Swing Wing and an Escape. Head towards the
+castle. Try to enter it and you will see Mark running out. Lufia stops him
+and asks him what's wrong. He says that the King wouldn't even see him so he
+couldn't even ask him to borrow the Hope Ruby to bring to Reyna. He then
+runs off. Proceed into Medan Castle. Before entering the castle, head left
+before the entrace, and you will notice that there are three small flower
+patches. Examine the left-most flower patch for an Ex Potion. Now head to
+the right of the castle entrance. You will see three more flower patches.
+Examine the right-most flower patch for an Ex Magic. Finally enter the
+castle. Head straight up through the open doors until you get to the room
+with the Hope Ruby in it. After speaking to everyone here walk up to the
+Ruby and Lufia will make a wish. She throws in a coin into the water and
+asks the hero to ask her what she wished for. After he asks her, she refuses
+to tell him. Now leave this room, and take the right path. Follow it and go
+down the stairs that you come to. Follow the path and you will see a quick
+scene. You will find out that the Hope Ruby is really a fake! It's actually
+made of glass. If you try to talk to the princess and the man you will be
+kicked out. So head back to the entrance that leads to the Hope Ruby room.
+Once at the entrance, head down through the door to go to the previous room.
+Now follow the path to the left, which will lead up, and will end with a set
+of stairs going up. Go up these stairs. Once you get upstairs, just go down
+through the open door at the bottom of the room. In the next room, enter the
+main room that is around the middle of the floor. This room is the king's
+throne. Speak to the King and you find out that there is rumour that the
+Sinistral Amon has been revived! Well, now exit the castle and start walking
+towards the exit of Medan. You will see Mark running off past you followed
+by some guards. You find out that Mark has stolen off with the Hope Ruby and
+has gone to Kirof. So leave Medan and head back west for Kirof.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                                KIROF
+============================================================================
+ENEMIES IN THIS AREA: None
+----------------------------------------------------------------------------
+Talk to everybody here and you will find out that Reyna has headed to the
+Ghost Cave (which is to the north of Kirof). You should rest at the Inn
+while you are here. Now leave Kirof and head up the world map. You will see
+a man standing near a cave entrance. Talk to him and he tells you that Reyna
+has entered looking zombie-like.
+----------------------------------------------------------------------------
+
+
+============================================================================
+                              GHOST CAVE
+============================================================================
+ENEMIES IN THIS AREA: Swordspook, Crazy Pot, Ghost Mail, Willowisp,
+ Flamespook
+----------------------------------------------------------------------------
+Once you've entered Ghost Cave, follow the path down and you will see a
+treasure chest. Open it to receive a Hi Potion. Go to the right and you will
+notice an open door along the top wall. Enter this room and follow the path
+to receive an Escape inside a chest. Leave this room and head right and up
+along the path and go down the stairs that you come to. Go through this room
+and down the stairs at the end of it. In this next room, go to the left part
+of the room for a Speed Potion. Give it to the Hero. Now go up the stairs in
+this room. Keep going up sets of stairs in the next rooms until you are in a
+room with a treasure chest and three sets of stairs going down. Open the
+chest for a Hi Magic. After opening the chest go down the stairs at the top
+right of the room. Go through the next room and up the stairs. Open the
+chest for a Dragon Egg. Now go back to the room with the three sets of
+stairs going down. 
+----------------------------------------------------------------------------
+
+
+=================
+LIST OF MONSTERS
+=================
+This is a list of every monster that I encountered in the game, and a bit
+about what they look like, what special skills they have, and I will
+place the monsters in order of appearance during the course of the game.
+Also I will tell you where the monsters are found, how much gold they
+give you, how many HP they have, how much experience they give you, and
+what level your character should be at to beat them. Lastly I will
+include actual dropped items from them during a battle. This took a heck
+of a lot of work, and many late nights, but I finally have the list ready
+and hopefully all correct. If you see any errors or you have a monster, or
+attribute that I haven't got, please don't hesitate to e-mail me. My e-mail
+address is comleyd@arcom.com.au. I also found that finding out a monster's
+HP will very difficult because there is no item that tells you this
+information. So I just wrote down on a piece of paper exactly how many HP of
+damage I caused and wrote down the result.
+
+----------------------------------------------------------------------------
+NAME: Hydra                         Found: Doom Island
+GOLD:   322                         HP:    400
+EXP:   1850                         Abilities: Blizzard, Bang
+ITEMS DROPPED: None                 Level You Should Be At: ???
+DESCRIPTION: They look like dinosaurs with five heads.
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Mega Frog
+
+TYPE: Animal
+
+DESCRIPTION: These guys look like huge frogs. They are also very easy to
+defeat.
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Doom Island
+HP: 400
+SPECIAL ABILITIES: Champion
+EXP: 1200
+GOLD: 525
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Mad Wolf
+
+TYPE: Animal
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Doom Island
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Rock Golem
+
+TYPE: Rock creature
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Doom Island
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Mad Knight                    Found: Doom Island
+GOLD: ???                           HP: ???
+EXP: ???                            Abilities: ???
+ITEMS DROPPED: None                 Level You Should Be At: 76
+DESCRIPTION: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Efreet
+
+TYPE: Animal
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Doom Island
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Madshroom
+
+TYPE: Plant
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Around Alekia and Chatam
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+
+AME: Big Newt
+
+TYPE: Animal
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Around Alekia, Chatam and Treck
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Jellyfish
+
+TYPE: Animal
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Around Alekia and Chatam
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Spider
+
+TYPE: Animal
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Caves near Chatam, around Treck and caves near Treck
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Anemone
+
+TYPE: Plant
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Around Treck
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Earwig
+
+TYPE: Animal
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Around Treck
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Nettles
+
+TYPE: Plant
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Around Treck and caves near Treck
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Baby Crab
+
+TYPE: Animal
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Around Treck and caves near Treck
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Green Orb
+
+TYPE: Plant??
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Around Treck and caves near Treck
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Giant Bat
+
+TYPE: Animal
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Caves near Treck
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Kobold
+
+TYPE: Animal
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Caves near Treck
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Bore Worm
+
+TYPE: Animal
+
+DESCRIPTION: ???
+
+ITEMS DROPPED: None
+
+STATISTICS
+-----------
+AREAS FOUND: Caves near Treck
+HP: ???
+SPECIAL ABILITIES: ???
+EXP: ???
+GOLD: ???
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Zombie                        Found: Around Medan
+GOLD:     53                        HP:    50
+EXP:      18                        Abilities: None
+ITEMS DROPPED: None                 Level You Should Be At: 13
+DESCRIPTION: These enemies are blue zombies.
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Dracu Rose                    Found: Around Medan
+GOLD:         ??                    HP:    36
+EXP:          ??                    Abilities: None
+ITEMS DROPPED: None                 Level You Should Be At: 13
+DESCRIPTION: These are huge roses with red flowers that attack you.
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Frog                          Found: Around Medan
+GOLD:   ??                          HP:    ??
+EXP:    ??                          Abilities: None
+ITEMS DROPPED: None                 Level You Should Be At: 13
+DESCRIPTION: These animals look like simple green frogs, but they attack.
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Swordspook                    Found: Inside Ghost Cave
+GOLD:   ??                          HP:    ??
+EXP:    ??                          Abilities: None
+ITEMS DROPPED: None                 Level You Should Be At: 13
+DESCRIPTION: They look like three sword surrounded with wind.
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Crazy Pot                     Found: Inside Ghost Cave
+GOLD:   ??                          HP:    ??
+EXP:    ??                          Abilities: Frost
+ITEMS DROPPED: None                 Level You Should Be At: 13
+DESCRIPTION: They look like psychotic little purple pots with faces.
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Ghost Mail                    Found: Inside Ghost Cave
+GOLD:   ??                          HP:    48
+EXP:    ??                          Abilities: None
+ITEMS DROPPED: None                 Level You Should Be At: 13
+DESCRIPTION: A big being of armour.
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Willowisp                     Found: Inside Ghost Cave
+GOLD:   ??                          HP:    ??
+EXP:    ??                          Abilities: Plasma
+ITEMS DROPPED: None                 Level You Should Be At: 14
+DESCRIPTION: A bright yellow light.
+----------------------------------------------------------------------------
+
+----------------------------------------------------------------------------
+NAME: Flamespook                    Found: Inside Ghost Cave
+GOLD:   ??                          HP:    ??
+EXP:    ??                          Abilities: Spark
+ITEMS DROPPED: None                 Level You Should Be At: 13
+DESCRIPTION: Looks like a large red flame.
+----------------------------------------------------------------------------
+
+
+===============
+LIST OF BOSSES
+===============
+This is a list of every boss in the game, with their statistics. With
+that are their weaknesses and what type of enemy they are.
+
+---------------------------------------
+GADES
+
+ENEMY TYPE: Being
+
+HP   :   3000
+EXP  :  30000
+GOLD :      0
+WEAK : Thunder
+---------------------------------------
+
+---------------------------------------
+AMON
+
+ENEMY TYPE: Being
+
+HP   :   2700
+EXP  :  30000
+GOLD :      0
+WEAK : Thunder
+---------------------------------------
+
+---------------------------------------
+ERIM
+
+ENEMY TYPE: Being
+
+HP   :   2800
+EXP  :  30000
+GOLD :      0
+WEAK : None
+---------------------------------------
+
+---------------------------------------
+DAOS
+
+ENEMY TYPE: Being
+
+HP   :   3200
+EXP  :  30000
+GOLD :      0
+WEAK : Thunder
+---------------------------------------
+
+---------------------------------------
+GADES (Second Fight - One on one with the Hero)
+
+ENEMY TYPE: Being
+
+HP   :   3000
+EXP  :   (Doesn't matter, you can't beat him here)
+GOLD :    N/A
+WEAK : None
+---------------------------------------
+
+---------------------------------------
+DEMON LORDS
+
+ENEMY TYPE: Animals
+
+HP   :   50 x 4
+EXP  :   200
+GOLD :   468
+WEAK : None
+---------------------------------------
+
+---------------------------------------
+GOBLINS
+---------------------------------------
+
+ENEMY TYPE: Animals
+
+HP   :   130 x 3
+EXP  :   300
+GOLD :   542
+WEAK : Arrows
+---------------------------------------
+
+---------------------------------------
+APPRENTICE
+---------------------------------------
+
+ENEMY TYPE: Person
+
+HP   :   570
+EXP  :   200
+GOLD :   215
+WEAK : Mid Arrows
+---------------------------------------
+
+
+=========
+FEEDBACK
+=========
+I would really like to know what you think of my guide, as well as what you
+think of the game, and games nowadays in general. If you would like to give
+me suggestions, comments, praise, etc. you can do it these ways:
+
+E-mail me at comleyd@arcom.com.au and I will get back to you as soon as
+possible.
+
+Contact me through ICQ: my UIN is 6822104.
+
+Well, I look forward to hearing from you!
+
+
+============
+MY THOUGHTS
+============
+I never that writing a guide would be so addictive! I also didn't realise how
+hard it would be either! But it has all been a fun process so far. Although
+this last version (0.4) has caused some headaches because it's been very
+tough. I had many late nights and many problems but I got it done! I would
+like to thank CaSPeR for introducing me to the world of RPG'ing a few years
+back. RPG's have given me much fun over the last few years. To anyone who I
+should thank and haven't yet, maybe I'll remember next version :) Once again,
+if anybody has any comments, suggestions, questions, etc. don't hesitate to
+e-mail me at comleyd@arcom.com.au and I'll get back to you real soon. I am
+proud to say that so far in this guide, I have not used any external sources
+in gathering up information for this guide. I am sure that will change over
+the next couple of version or so, because this is getting hard! If I get any
+good feedback from this guide, I will most probably end up writing some more
+guides either for the Super Nintendo, Nintendo 64 or the PlayStation. A
+couple of games I am closely considering next are Bomberman 64 on the N64, or
+maybe Bomberman Hero. Or perhaps I will make a guide to the sequel of Lufia,
+Lufia 2. But all of this is looking way down the track, because I've got a
+tonne of more work to go on this one, which I'm looking forward to! Don't
+forget, keep checking back at Gamefaqs (www.gamefaqs.com) for new versions of
+this guide. And one more thing before I go: comleyd@arcom.com.au is my e-mail
+address if you want to get in contact with me. I'll get back to you as soon as
+possible.
+
+
+=======
+THANKS
+=======
+Casper: He was the guy who introduced me to RPG's in the first place. Many
+ thanks goes to him.
+BlackData: Another friend who seems to only like the Ultima RPG series. He says
+ he is an RPG fan, yet he hates the Final Fantasy series and thinks Lufia is
+ too cutesy! Hopefully he'll see there's more to life than Ultima :)
+Mark: An old friend who I've known for ten years, who only seems to like car
+ racing games for some reason.
+Microchick: My first girlfriend that I met on the net, and the relationship
+ actually worked out for 7 months! We had some good times!
+Square: The Final Fantasy series has given me much enjoyment over the past few
+ years, I am eagerly awaiting the arrival of Final Fantasy 8 over here.
+ICQ: It is really a great program that lets everybody stay in contact with
+ each other online. Too many idiots on there now :)
+Konami: Metal Gear Solid is really a great game that I really enjoy. The bad
+ thing is the week after I got it, the CD got a little too scratched, so I
+ need to get another copy.
+Namco: The developers of the Tekken fighting game series. This is definitely
+ my favourite fighting game series, and I hope there are many more Tekken
+ games to come...
+
+
+======
+LINKS
+======
+The list below shows some links that I really enjoy visiting, and perhaps you
+will too if you visit them. But please don't e-mail me about have crap links,
+because these are the links that "I" like. I will try to keep this link list
+as up to date as possible, although some of the pages might go down in the near
+future, it's not my choice. Also, please don't ask me for more links about
+certain things, because if you want to find out more about something, why don't
+you go and look for them yourself?
+
+http://www.audiofind.com/index.html
+       (This site is a great MP3 search engine.)
+
+http://www.linkhouse.net/roms/
+       (This is the greatest emulation site that I have ever seen.)
+
+http://www.csoft.net/~zsnes/
+       (This is the ZSnes homepage, a great SNES emulator.)
+
+http://www.geocities.com/Tokyo/Temple/9211/frame.html
+       (This is my favourite Neon Genesis Evangelion site.)
+
+http://www.ultrahle.com/
+       (A great site for Nintendo 64 emulation.)
+
+http://www.squaresoft.com/
+       (The homepage of my favourite games developer.)
+
+http://www.gaming-age.com/news/index.htm
+       (The best games news site around!)
+
+http://www.geocities.com/TimesSquare/Arena/8243/index2.html
+       (A site about the new exciting game Final Fantasy 8)
+
+
+===========
+DISCLAIMER
+===========
+I have written this guide for your personal use only. You can copy and
+
+istribute it online to your friends if you keep it AS IS. Do not use
+this guide for profitable reasons (e.g. games magazine, a book or any
+other publication) without my prior knowledge and consent.
+
+This is the work of me and nobody else, so please don't steal ideas from
+this guide, think of your own. If you see this guide on somebody else's
+page please e-mail me the URL of that site, so I can create of list of
+the availability of this guide.
+
+(c) Daniel Comley 1999
+
+          
