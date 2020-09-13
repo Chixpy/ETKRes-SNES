@@ -1,0 +1,15 @@
+Super Bomberman: Panic Bomber World is a puzzle game based on the popular  Bomberman series, which plays much like a cross between Bomberman and Puyo Puyo. Groups of blocks will fall from the top of the screen. Match three identical blocks and bombs will drop from the top of the screen. Occasionally, a lit bomb will fall and explode, setting off any bombs it hits and causing a chain reaction. The game is over when blocks fill the screen.
+
+It is essentially a variant of the console release of  Bomberman: Panic Bomber, though without the time challenge mode and with several additions. Most of the stages play the same way as in the earlier version, but they now have real-world names (such as 
+Jamaica")
+and
+dialogue
+between
+Bomberman
+and
+his
+opponents
+was
+added."
+
+The game features a single-player story mode and a battle mode for up to four players.

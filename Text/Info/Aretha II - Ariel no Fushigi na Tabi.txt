@@ -1,0 +1,16 @@
+The game continues the story of the young princess Ariel. After she rightfully regained her throne, people enjoyed a peaceful life under her benevolent reign. But this peaceful existence did not last long... Two adventurers who were wandering through mountains met a mysterious evil being, who threatened to ruin Ariel's kingdom. After that, the two men disappeared without a trace. Ariel's servants reported to her about the matter. After consulting her wise grandmother, Ariel decided to go out herself, to meet up with her old trusty companions and to find out the origin of the new threat.
+
+The game is a console-style RPG - you fight random enemies in turn-based combat viewed from first-person perspective. Enemies may attack you from the sides, and you should pay attention which enemy you face. A unique feature the game uses is the ability to get special items called 
+souls"
+after
+battles
+and
+then
+to
+use
+them
+to
+forge
+your
+own
+armor."

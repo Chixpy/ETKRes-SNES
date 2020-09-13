@@ -1,0 +1,30 @@
+In the far future Solid City is overrun by mecha-related crime, and few dare face the underworld mafias and street gangs that threaten the city. However everything changes when private eye Shuu's girl is murdered in a mob-related hit and he decides to get to the bottom of the crime wave and avenge his girl's death.
+
+Solid Runner is a top-down sci fi RPG in which you control Shuu as he explores the futuristic landscape of Solid City, taking missions and following leads that involve fighting the many gangs and mafias that run the city with the aid of your combat mecha and a few allies. Exploring the city and chatting with NPCs is handled via a top-down engine, as you move from hotspot to hotspot in the city via a 
+world
+map'
+interface.
+Combat
+in
+handled
+in
+a
+3rd
+person
+perspective
+from
+which
+you
+select
+commands
+in
+turns
+and
+attempt
+to
+defeat
+your
+opposing
+mechas."
+
+While the game does feature a continuous plot, the emphasis is placed on completing individual missions, from which you get rewards that can be used to upgrade your mecha by replacing limbs, adding weapons, etc. in any of the game's shops.
