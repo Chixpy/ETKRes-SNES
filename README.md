@@ -9,7 +9,7 @@ Use GIT to clone the repository or download it in zip:
 
 https://github.com/Chixpy/ETKRes-SNES/archive/master.zip
 
-## About Images
+## About Images, texts and another media.
 
 You can read more about media files in [Emuteca's Web Page](https://chixpy.github.io/Emuteca/pages/Media-Files.html) (but it's in spanish...)
 
@@ -23,8 +23,8 @@ All images in .png format at original resolution: *256×224*, *512×448* (NTSC),
 
 Generally:
 
-  * Scanned .jpg images 
-  * Maximum of 2048px in its largest side, if its smaller don't scale it up.
+  * Scanned or photo .jpg images 
+  * Maximum of 2048px in its largest side, if it is smaller don't scale it up.
   * If it's larger than 2048px, it's best to crop (see below) before scaling it down to 2048. Keeping aspect ratio.
   * Trying not to resave it many times. There are some transformations that can be done without lossing quality...
 
@@ -46,9 +46,9 @@ For Maps (or magazine game guides):
 
 Rule #1: Only 1 image for group or game. No folders with multiple images.
 
-Icons are mainly extracted from game screenshots at original resolution. Usually they are protagonist frames, lives icons or recognizable icon.
+Icons are mainly extracted from game screenshots at original resolution. Usually they are protagonist frames, lives icons or recognizable icon. But it's better to use the actual sprites.
 
-Logos are usually extracted from Title or Main Menu screens.
+Logos are usually extracted from Title or Main Menu screens, not front covers. 
 
 All images are .png format. Width and Height are variable, using it's original size without resizing to a fixed size or adding more border to make it square. Emuteca handle they automatically.
 
